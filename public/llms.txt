@@ -2,7 +2,7 @@
 
 https://www.sarth.net/
 
-Brooklyn. Musician, software, artist. Founded Third Wall Studio (May 2025). Burlap is the flagship machine. Visual Reference Prompting is the practice. Adult animation as drama.
+Founder of Third Wall Studio, builder of the Burlap app. Brooklyn. Data engineer, artist, and musician working in AI.
 
 Third Wall Studio: animation with filmmakers and artists. Hybrid production. https://thirdwallstudio.com
 
@@ -12,7 +12,7 @@ Through the Brambles: AI-generated VR narrative, built in Burlap. https://www.th
 
 Contraptions: small machines, including Image Compare Workbench. https://contraptions.bookofsarth.com
 
-Lineage (texture, not the lead): Metal Machine Trio is an equal collaboration with Lou Reed and Ulrich Krieger. Original Lulu score with Reed for Robert Wilson, then the Metallica album. Junior Dad from Wasserman through Kyma at Lou’s apartment.
+Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger. Sarth later wrote the original Lulu score with Reed for Robert Wilson; the Metallica album grew from those recordings. Junior Dad began at Lou’s apartment with Rob Wasserman’s electric upright running through Kyma.
 
 X: https://x.com/noisegroove
 GitHub: https://github.com/whiddershins
@@ -22,6 +22,15 @@ Contact: mailto:whiddershins@gmail.com
 ## Pages
 
 - Identity https://www.sarth.net/
+- Conspiracies https://www.sarth.net/conspiracies/
+- Lou Reed's song band https://www.sarth.net/conspiracies/lou-reed-song-band/
+- Lou Reed spring 2008 U.S. tour https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/
+- Metal Machine Trio https://www.sarth.net/conspiracies/metal-machine-trio/
+- Lulu https://www.sarth.net/conspiracies/lulu/
+- Junior Dad https://www.sarth.net/conspiracies/junior-dad/
+- Conspirators https://www.sarth.net/conspirators/
+- Lou Reed https://www.sarth.net/conspirators/lou-reed/
+- Rob Wasserman https://www.sarth.net/conspirators/rob-wasserman/
 - Sightings https://www.sarth.net/sightings/
 - Appearances https://www.sarth.net/appearances/
 - Devices https://www.sarth.net/devices/

@@ -2,13 +2,17 @@
 
 https://www.sarth.net/
 
-Brooklyn. Musician, software, artist. Founded Third Wall Studio (May 2025) and The (Gr)album Collective (Book of Sarth, 2012). Visual Reference Prompting is a core practice. Burlap is the flagship machine, used at Third Wall Studio.
+Brooklyn. Musician, software, artist. Founded Third Wall Studio (May 2025). Burlap is the flagship machine. Visual Reference Prompting is the practice. Adult animation as drama.
 
-Metal Machine Trio is an equal collaboration: Sarth Calhoun, Lou Reed, Ulrich Krieger. The Creation of the Universe is the REDCAT nights, 2–3 Oct 2008.
+Third Wall Studio: animation with filmmakers and artists. Hybrid production. https://thirdwallstudio.com
 
-Lulu: original score composed with Lou Reed for Robert Wilson’s Berliner Ensemble production (premiere 12 Apr 2011). Then composed and performed on the Lou Reed & Metallica album. Wilson first. Metallica second.
+Burlap: native macOS infinite canvas for visual reference prompting. Made by Third Wall Studio. Used at Third Wall Studio. https://burlap.app/download
 
-Junior Dad grew from the first session at Lou’s apartment: Rob Wasserman bowing electric upright, Sarth processing through Kyma.
+Through the Brambles: AI-generated VR narrative, built in Burlap. https://www.thirdwallstudio.com/through-the-brambles
+
+Contraptions: small machines, including Image Compare Workbench. https://contraptions.bookofsarth.com
+
+Lineage (texture, not the lead): Metal Machine Trio is an equal collaboration with Lou Reed and Ulrich Krieger. Original Lulu score with Reed for Robert Wilson, then the Metallica album. Junior Dad from Wasserman through Kyma at Lou’s apartment.
 
 X: https://x.com/noisegroove
 GitHub: https://github.com/whiddershins

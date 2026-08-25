@@ -17,7 +17,7 @@ Canonical host: `https://www.sarth.net`.
 
 Citable identity for Sarth Calhoun. Vanilla HTML/CSS on a Cloudflare Worker. Identity, Sightings, Appearances, Devices, the Visual Reference Prompting essay, contact.
 
-Machine · Dream · Message, and the lineage. Photos from the old `/sarth` index. No Squarespace. No Svelte.
+The homepage leads with Third Wall Studio and Burlap. Lineage is texture after current work. No Squarespace. No Svelte.
 
 ## Why
 

@@ -134,23 +134,58 @@ home_body = r'''
     <section>
       <p class="kicker">Machine · Dream · Message</p>
       <h1>Sarth Calhoun</h1>
-      <p class="lede">Brooklyn. Musician, software, artist. Founded <a href="https://thirdwallstudio.com">Third Wall Studio</a> (May 2025) and The (Gr)album Collective (<a href="https://bookofsarth.com">Book of Sarth</a>, 2012). <a href="/transmissions/visual-reference-prompting/">Visual Reference Prompting</a> is a core practice. <a href="https://burlap.app">Burlap</a> is the flagship machine. Used at Third Wall Studio.</p>
+      <p class="lede">Brooklyn. Musician, software, artist. Founded <a href="https://thirdwallstudio.com">Third Wall Studio</a> in May 2025. <a href="https://burlap.app">Burlap</a> is the flagship machine. <a href="/transmissions/visual-reference-prompting/">Visual Reference Prompting</a> is the practice. Adult animation as drama.</p>
       <p class="links">
+        <a href="https://thirdwallstudio.com">Third Wall Studio</a>
         <a href="https://burlap.app/download">Download Burlap</a>
-        <a href="https://contraptions.bookofsarth.com">Contraptions</a>
-        <a href="https://contraptions.bookofsarth.com/image-compare-workbench">Image Compare Workbench</a>
         <a href="https://x.com/noisegroove">@noisegroove</a>
-        <a href="https://github.com/whiddershins">GitHub</a>
-        <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata Q7424654</a>
       </p>
     </section>
 
-    <section>
+    <section class="now">
       <p class="kicker">Now</p>
       <h2>Current work</h2>
-      <p><a href="https://burlap.app">Burlap</a> is a native macOS infinite canvas for visual reference prompting: original images used to push generation into new probability spaces. A year of life and serious money. The main machine, used at <a href="https://thirdwallstudio.com">Third Wall Studio</a>. Adult animation as drama. <a href="https://burlap.app/download">Download</a>.</p>
-      <p><a href="https://contraptions.bookofsarth.com">Contraptions</a> is the shelf of things built. <a href="https://contraptions.bookofsarth.com/image-compare-workbench">Image Compare Workbench</a> lives there.</p>
-      <p>Current transmission: <a href="/transmissions/visual-reference-prompting/">Visual Reference Prompting</a>. Short explanation: <a href="https://www.youtube.com/watch?v=wroKqbXfx5g">Frogs and Goblins</a>.</p>
+
+      <article id="third-wall">
+        <h3><a href="https://thirdwallstudio.com">Third Wall Studio</a></h3>
+        <p>Animation studio. Founded May 2025. We make animations with filmmakers and artists. We build new tech for ancient magic. Live action, animation, and generative AI in one production, not as a gimmick around the edges.</p>
+        <p>The studio works with writers, animators, directors, and visual artists. Projects are co-produced. Credit is shared. The work stays with the artist. Hybrid production was already the method; the name came later. The canvas for fieldwork is Burlap.</p>
+        <p>Public work includes Savas, <em>Kubler-Ross Model</em>; Doron Lev, <em>Watching Shadows</em>, <em>Pigeon Problems</em>, <em>Truck Stop Love</em>; Jacob McCoy, <em>Meatsuitz</em>; Jonathan Arons, <em>The Trinary Matrix</em>. Residencies: Doron Lev, Tetiana Khodakivska, Jonathan Arons. The films, the people, and the invite live at the studio.</p>
+        <p class="meta"><a href="https://thirdwallstudio.com">thirdwallstudio.com</a> · <a href="mailto:studio@thirdwallstudio.com">studio@thirdwallstudio.com</a></p>
+      </article>
+
+      <article id="burlap">
+        <h3><a href="https://burlap.app">Burlap</a></h3>
+        <p>The main machine. Native macOS. Infinite canvas for visual reference prompting. Made by Third Wall Studio. Used at Third Wall Studio. A year of building.</p>
+        <p>Roam the field. Sketch, import, capture something already on the board, and steer generation with that picture. Subject reference and style reference. Runway, OpenAI (including Sora), and other providers in the same project. Multiple prompts at once. Keep working while the models run. Asset management and the model connections sit under the canvas, so the pictures and the workflow are one place.</p>
+        <p>Burlap takes the process out of little GenAI cubicles. It is a production tool and a context-engineering tool: animators, storyboards, illustration, design. Also the studio’s own pipeline.</p>
+        <figure class="shot">
+          <a href="https://burlap.app/download"><img src="/images/burlap.jpg" width="1400" height="1050" alt="Burlap, infinite canvas for visual reference prompting."></a>
+          <figcaption>Burlap. Download at burlap.app.</figcaption>
+        </figure>
+        <p class="links">
+          <a href="https://burlap.app/download">Download for Mac</a>
+          <a href="https://burlap.app">burlap.app</a>
+          <a href="/transmissions/visual-reference-prompting/">Visual Reference Prompting</a>
+        </p>
+      </article>
+
+      <article id="through-the-brambles">
+        <h3><a href="https://www.thirdwallstudio.com/through-the-brambles">Through the Brambles</a></h3>
+        <p>A fully AI-generated VR narrative for headset playback. Every frame and environment prompted as 360° equirectangular imagery, assembled into one journey. Built inside Burlap. Gemini stills, Veo for motion, ElevenLabs for narration, Resolve for the edit and ambisonics mix. Film festival submission.</p>
+        <p class="meta"><a href="https://www.thirdwallstudio.com/through-the-brambles">thirdwallstudio.com/through-the-brambles</a></p>
+      </article>
+
+      <article id="contraptions">
+        <h3><a href="https://contraptions.bookofsarth.com">Contraptions</a></h3>
+        <p>Small machines. <a href="https://contraptions.bookofsarth.com/image-compare-workbench">Image Compare Workbench</a>: one folder of gens, two click-rails, lock A and walk B. Soundscape One: a 2D field of sound; position is the instrument. Used at Third Wall Studio. The shelf is the index. Burlap is the main machine; these are the others.</p>
+        <p class="meta"><a href="https://contraptions.bookofsarth.com">contraptions.bookofsarth.com</a></p>
+      </article>
+
+      <article id="transmission">
+        <h3><a href="/transmissions/visual-reference-prompting/">Visual Reference Prompting</a></h3>
+        <p>The named practice. Use an image for where it sends you, not only for what it depicts. Subject reference. Style reference. Original pictures as the input to more pictures. Short film: <a href="https://www.youtube.com/watch?v=wroKqbXfx5g">Frogs and Goblins</a>.</p>
+      </article>
     </section>
 
     <div class="photos">
@@ -167,60 +202,15 @@ home_body = r'''
 
     <section>
       <p class="kicker">Lineage</p>
-      <h2>Who</h2>
-      <p>Sarth Calhoun began playing music and writing lyrics at age six. In his teens he stopped buying comic books to save up for his first bass. He played in rock bands around New York while getting acquainted with the cyber world in a time he calls the grey era, when web pages were not yet marked up with color.</p>
-      <p>He met cellist and songwriter <a href="https://www.leahcoloff.com">Leah Coloff</a>, who convinced him to combine computers with music. Number19 — Calhoun, Coloff, Tony Diodore, Marcus Righter — funded its first record from mp3.com in 2001. <a href="https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5">Suspension</a> followed. In 2005 he founded Lucibel Crater with Coloff and drummer Paul Chuffo: keys, bass, loops, Kyma, Continuum. Urban Magazine: “Something like Bjork and maybe like White Stripes; But the truth is that their sound is unique and not easy to label, to the extent that even Lou Reed has fallen in love with it.” <a href="https://open.spotify.com/album/5GWIntdZRNl8zc9rAsIrKD">The Family Album</a> (2008) includes Threadbare Funeral, guitar by Lou Reed.</p>
-      <p>He is a beta tester for <a href="https://kyma.symbolicsound.com/">Symbolic Sound Kyma</a> and an Ableton Live endorser. SeqOSC, a relative of AM synthesis, was built in Kyma. The instrument on the table is the <a href="https://www.hakenaudio.com/">Haken Continuum Fingerboard</a>. After watching Lollapalooza video of the Continuum in front of fifty thousand people, Lippold Haken said: “I Lost sleep. I even dreamt about it last night. It was one of those thousands-of-people-watching nightmares.”</p>
-      <p>He met Lou Reed through Tai Chi. Meditation music came first — later <a href="https://loureed.com/power/">Power and Serenity</a>. Then the rock band, processing instruments onstage. Then the trio.</p>
-    </section>
-
-    <section>
-      <h2>Metal Machine Trio</h2>
-      <figure>
-        <img src="/images/mm3-nyc.jpg" width="1000" height="411" alt="Metal Machine Trio onstage in New York: Sarth Calhoun, Lou Reed, Ulrich Krieger.">
-        <figcaption>Metal Machine Trio, New York. Equal collaboration: Sarth Calhoun, Lou Reed, Ulrich Krieger.</figcaption>
-      </figure>
-      <p>Metal Machine Trio is an equal collaboration. Sarth Calhoun, Lou Reed, Ulrich Krieger. Continuum, live Kyma processing, guitar, tenor sax. Deep noise.</p>
-      <blockquote class="pull">In 2008 Lou called me up and told me he was doing a free improvised noise gig at The REDCAT in LA with saxophonist and composer Ulrich Krieger. Ulrich had made a real impression on Lou by arranging Metal Machine Music for orchestral ensemble … a rare and some might say unnatural feat that should be impossible. I had done a tour with Lou’s rock band, processing and sampling the various instruments on stage, and we had talked talked about doing some duet shows performing the meditation music we’d been working on. That stuff was drones and melodies combined with pure noise, so this seemed only natural. Ulrich had billed us as “Unclassified” because obviously the group had no name yet.</blockquote>
-      <p>The REDCAT nights sold out. They added a second set. Recorded with a matched pair of Schoeps and a stereo Royer, no direct lines, released as the double live album <a href="https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe"><em>The Creation of the Universe</em></a> — those two nights, 2–3 Oct 2008. Then Europe, Brazil, Sydney Opera House. <a href="/appearances/">Appearances</a>.</p>
-    </section>
-
-    <section>
-      <h2>Lulu</h2>
-      <p>Sarth composed the original <em>Lulu</em> score with Lou Reed for Robert Wilson’s Berliner Ensemble production of Frank Wedekind. Premiere 12 April 2011, Theater am Schiffbauerdamm, Berlin. Kyma processing, Continuum/Kyma playing, dual Continuum improvisations with a live string section. He directed rehearsals of that score in Berlin. Symbolic Sound, April 2011: “Composer/performer Sarth Calhoun is directing rehearsals of Lou Reed’s music.”</p>
-      <blockquote class="pull">I got a call from Lou one day to go over to his house and make some “interstitial” music for a theater production. Robert Wilson was staging “Lulu” with the Berliner Ensemble. This turned into co-writing 8 more songs with Lou Reed. Hells yeah. After I got back from Berlin, we took the project to San Francisco and recorded it with Metallica. What a blast. They completely reinterpreted all the stuff, of course. They were awesome. Of course.</blockquote>
-      <p>The <a href="https://open.spotify.com/album/3FgLMfp5o2h2rAny7S6h57">Lou Reed &amp; Metallica album</a> grew from those tapes. He composed and performed on it. Wilson first. Metallica second. All songs on the record are based on songs originally written for the play.</p>
-      <p>Junior Dad, the 19-minute outro, grew from the first session at Lou’s apartment: Rob Wasserman bowing electric upright, Sarth processing through Kyma. They recorded it. That recording is the basis of the piece. Source: Sarth’s letter, 30 June 2016, the day after Wasserman died. <a href="https://www.youtube.com/watch?v=iJ_VBkdsS0U">Junior Dad</a>.</p>
-    </section>
-
-    <section>
-      <h2>Yellow Pony, Lucibel, Book of Sarth</h2>
-      <p>In 2009, two short tours with Lou Reed and Laurie Anderson, billed <em>The Yellow Pony and Other Songs and Stories</em>. Continuum and live resampling of their voices, center stage.</p>
-      <p>Lucibel Crater is the rock/electronic trio: Leah Coloff, Paul Chuffo, Sarth Calhoun. Live looping, cubist grooves, noise that falls into a song.</p>
-      <p>The Book of Sarth is the first gralbum: an 8-song album inside an 80-page animated graphic novel, with a 30-minute DirectedView. Andrew Beck, Elik Smith, Leah Coloff, Jacob McCoy. The art object lives at <a href="https://bookofsarth.com">bookofsarth.com</a>. He is the continuum fingerboarding champion of the world.</p>
-      <figure>
-        <a href="https://bookofsarth.com"><img src="/images/bos-cover.jpg" width="1000" height="523" alt="Book of Sarth cover, illuminated S on weathered ornament."></a>
-        <figcaption>Book of Sarth. The object is at bookofsarth.com.</figcaption>
-      </figure>
-    </section>
-
-    <section>
-      <h2>People</h2>
-      <p><strong>Leah Coloff</strong> is a Brooklyn cellist, singer, songwriter. First album <em>Dark Sweet Heart</em>. Solo cello and voice. Cello on records for Ziggy Marley, Rufus Wainwright, Dr. John, Nancy Sinatra, Joel Thome, David Bowie. In Lucibel she is beat poet, upright-bass cello, Hendrix cello, soul singing, feedback.</p>
-      <p><strong>Paul Chuffo</strong> is the original drummer for Gutbucket. In Lucibel he is the feet.</p>
-      <p><strong>Tony Diodore</strong> formed Number19 with Sarth, Leah Coloff, and Marcus Righter in 1999. After <em>Suspension</em>, Puracane, BM Linx, then Lou Reed’s band again with Sarth.</p>
-      <p>Ulrich Krieger’s page is the Metal Machine Trio essay above. Rob Wasserman: Solo, Duo, Trio; Ned Steinberger electric upright; first session at Lou’s apartment; Junior Dad.</p>
-    </section>
-
-    <section>
-      <h2>Catalog</h2>
-      <p>One current transmission on this page. The rest of the music:</p>
-      <ul>
-        <li>Sarth — <a href="https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9">Spotify</a></li>
-        <li>Lucibel Crater, <em>The Family Album</em> — <a href="https://open.spotify.com/artist/1uzV1v4GhWST5v9xLbGJFV">Spotify</a></li>
-        <li>Number 19, <em>Suspension</em> — <a href="https://open.spotify.com/artist/3gcviraWowfAK8g1jMIvoO">Spotify</a></li>
-        <li><em>Lulu</em>, Lou Reed &amp; Metallica — <a href="https://open.spotify.com/album/3FgLMfp5o2h2rAny7S6h57">Spotify</a>. He composed and performed. Spotify does not list him as album artist.</li>
-      </ul>
+      <h2>Also</h2>
+      <p>Number19 with Leah Coloff, Tony Diodore, Marcus Righter. Lucibel Crater with Coloff and Paul Chuffo — keys, bass, loops, Kyma, Continuum. <a href="https://bookofsarth.com">Book of Sarth</a>, the first gralbum, 2012, The (Gr)album Collective. Metal Machine Trio is an equal collaboration with Lou Reed and Ulrich Krieger; <em>The Creation of the Universe</em> is the REDCAT nights, 2–3 Oct 2008. The original <em>Lulu</em> score was composed with Reed for Robert Wilson’s Berliner Ensemble (premiere 12 Apr 2011); the Metallica album grew from those tapes. Junior Dad began with Rob Wasserman’s electric upright through Kyma, first session at Lou’s apartment. Kyma and the Haken Continuum are still on the table.</p>
+      <p class="links">
+        <a href="/appearances/">Appearances</a>
+        <a href="/sightings/">Sightings</a>
+        <a href="/devices/">Devices</a>
+        <a href="https://bookofsarth.com">Book of Sarth</a>
+        <a href="https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9">Spotify</a>
+      </p>
     </section>
   </main>
 '''
@@ -229,13 +219,11 @@ home_graph = """    <dl>
       <dt>partOf</dt>
       <dd>sarth.net — citable identity for Sarth Calhoun</dd>
       <dt>relatedTo</dt>
-      <dd><a href="https://burlap.app">Burlap</a> · <a href="https://thirdwallstudio.com">Third Wall Studio</a> · <a href="https://contraptions.bookofsarth.com">Contraptions</a> · <a href="https://bookofsarth.com">Book of Sarth</a></dd>
+      <dd><a href="https://thirdwallstudio.com">Third Wall Studio</a> · <a href="https://burlap.app">Burlap</a> · <a href="https://www.thirdwallstudio.com/through-the-brambles">Through the Brambles</a> · <a href="https://contraptions.bookofsarth.com">Contraptions</a> · <a href="https://bookofsarth.com">Book of Sarth</a></dd>
       <dt>collaborator</dt>
-      <dd>Lou Reed · Ulrich Krieger · Leah Coloff · Paul Chuffo · Tony Diodore · Rob Wasserman · Laurie Anderson · Robert Wilson · Andrew Beck · Elik Smith · Jacob McCoy</dd>
+      <dd>Third Wall Studio: Savas · Jacob McCoy · Doron Lev · Tetiana Khodakivska · Jonathan Arons. Lineage: Lou Reed · Ulrich Krieger · Leah Coloff · Paul Chuffo · Rob Wasserman · Robert Wilson</dd>
       <dt>builtWith</dt>
-      <dd><a href="/devices/">Kyma</a> · <a href="/devices/">Haken Continuum</a> · Ableton Live · Burlap</dd>
-      <dt>priorArt</dt>
-      <dd>Metal Machine Trio, REDCAT 2–3 Oct 2008 · Wilson <em>Lulu</em>, Berliner Ensemble, 12 Apr 2011 · Junior Dad from Wasserman/Kyma at Lou’s apartment</dd>
+      <dd>Burlap · <a href="/devices/">Kyma</a> · <a href="/devices/">Haken Continuum</a></dd>
       <dt>source</dt>
       <dd><a href="https://github.com/whiddershins">github.com/whiddershins</a></dd>
     </dl>"""
@@ -243,7 +231,7 @@ home_graph = """    <dl>
 page(
     path="index.html",
     title="Sarth Calhoun",
-    description="Sarth Calhoun. Brooklyn. Musician, software, artist. Third Wall Studio, Burlap, Visual Reference Prompting. Metal Machine Trio with Lou Reed and Ulrich Krieger. Original Lulu score with Reed for Robert Wilson.",
+    description="Sarth Calhoun. Brooklyn. Musician, software, artist. Founded Third Wall Studio. Burlap is the flagship machine for visual reference prompting.",
     canonical=f"{HOST}/",
     current="home",
     body=home_body,
@@ -256,7 +244,7 @@ page(
                 "@id": f"{HOST}/#website",
                 "name": "Sarth Calhoun",
                 "url": f"{HOST}/",
-                "description": "Citable identity for Sarth Calhoun. Machine · Dream · Message, and the lineage.",
+                "description": "Citable identity for Sarth Calhoun. Third Wall Studio, Burlap, Visual Reference Prompting.",
                 "author": {"@id": f"{HOST}/#person"},
                 "publisher": {"@id": f"{HOST}/#person"},
             },

@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-22",
-  "citation_count": 323,
+  "citation_count": 369,
   "pages": [
     {
       "path": "/",
@@ -108,16 +108,20 @@
           "text": "Variety"
         },
         {
+          "url": "https://loureed.com/news/lou-reed-at-lollapalooza/",
+          "text": "Announcement"
+        },
+        {
+          "url": "https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/",
+          "text": "DVD credits"
+        },
+        {
           "url": "https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable",
           "text": "Ulrich Krieger, The Wire"
         },
         {
           "url": "https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/",
           "text": "Chicago Tribune"
-        },
-        {
-          "url": "https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/",
-          "text": "Rolling Stone"
         },
         {
           "url": "https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/",
@@ -138,6 +142,14 @@
         {
           "url": "https://www.stereophile.com/content/gralbum-re-thinking-concept-album",
           "text": "Stereophile"
+        },
+        {
+          "url": "https://music.apple.com/us/album/the-creation-of-the-universe/315196713",
+          "text": "Apple Music"
+        },
+        {
+          "url": "https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe",
+          "text": "Discogs"
         }
       ]
     },
@@ -198,6 +210,38 @@
           "text": "Book of Sarth"
         },
         {
+          "url": "https://en.wikipedia.org/wiki/Ulrich_Krieger",
+          "text": "Ulrich Krieger"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Wilson_(director)",
+          "text": "Robert Wilson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Berliner_Ensemble",
+          "text": "Berliner Ensemble"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Metallica",
+          "text": "Metallica"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Zorn",
+          "text": "John Zorn"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Laurie_Anderson",
+          "text": "Laurie Anderson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+          "text": "Sydney Opera House"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cranbrook_Art_Museum",
+          "text": "Cranbrook Art Museum"
+        },
+        {
           "url": "https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger",
           "text": "REDCAT archive"
         },
@@ -218,12 +262,28 @@
           "text": "Variety"
         },
         {
+          "url": "https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable",
+          "text": "Ulrich Krieger, The Wire"
+        },
+        {
+          "url": "https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/",
+          "text": "Chicago Tribune"
+        },
+        {
+          "url": "https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/",
+          "text": "Rolling Stone"
+        },
+        {
           "url": "https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/",
           "text": "Cranbrook"
         },
         {
           "url": "https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review",
           "text": "The Guardian"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Hearn",
+          "text": "Kevin Hearn"
         },
         {
           "url": "https://www.stereophile.com/content/gralbum-re-thinking-concept-album",
@@ -246,20 +306,8 @@
           "text": "Alternate version"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Metallica",
-          "text": "Metallica"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Robert_Wilson_(director)",
-          "text": "Robert Wilson"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Frank_Wedekind",
           "text": "Frank Wedekind"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Berliner_Ensemble",
-          "text": "Berliner Ensemble"
         },
         {
           "url": "https://music.apple.com/us/album/junior-dad/467890760?i=467890784",
@@ -364,10 +412,6 @@
         {
           "url": "https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597",
           "text": "Gizmodo"
-        },
-        {
-          "url": "https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable",
-          "text": "The Wire"
         },
         {
           "url": "https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/",
@@ -568,6 +612,146 @@
         {
           "url": "https://www.youtube.com/watch?v=UOh4tKteFOs",
           "text": "Berlin live"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aram_Bajakian",
+          "text": "Aram Bajakian"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/PJ_Harvey",
+          "text": "PJ Harvey"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Chemical_Brothers",
+          "text": "Chemical Brothers"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Hunter",
+          "text": "Steve Hunter"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dr._John",
+          "text": "Dr. John"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ziggy_Marley",
+          "text": "Ziggy Marley"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joel_Thome",
+          "text": "Joel Thome"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Bowie",
+          "text": "David Bowie"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bryce_Goggin",
+          "text": "Bryce Goggin"
+        },
+        {
+          "url": "https://open.spotify.com/album/5GWIntdZRNl8zc9rAsIrKD",
+          "text": "on Spotify"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bj%C3%B6rk",
+          "text": "Björk"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_White_Stripes",
+          "text": "White Stripes"
+        },
+        {
+          "url": "http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html",
+          "text": "Ross Christopher at awaken music"
+        },
+        {
+          "url": "http://lostinsound.org/lucibel-crater-not-your-dads-jazz/",
+          "text": "Lost in Sound"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Fricke",
+          "text": "David Fricke"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Machine_Music",
+          "text": "Metal Machine Music"
+        },
+        {
+          "url": "https://music.apple.com/us/album/the-creation-of-the-universe/315196713",
+          "text": "Apple Music"
+        },
+        {
+          "url": "https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe",
+          "text": "Discogs"
+        },
+        {
+          "url": "https://www.leahcoloff.com/",
+          "text": "Leah Coloff"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Number19",
+          "text": "Number19"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Gordon_(composer)",
+          "text": "Michael Gordon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rufus_Wainwright",
+          "text": "Rufus Wainwright"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nancy_Sinatra",
+          "text": "Nancy Sinatra"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Velvet_Underground",
+          "text": "Velvet Underground"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Cale",
+          "text": "John Cale"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gutbucket_(band)",
+          "text": "Gutbucket"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Modern_Drummer",
+          "text": "Modern Drummer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bob_Weir",
+          "text": "Bob Weir"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rickie_Lee_Jones",
+          "text": "Rickie Lee Jones"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Van_Morrison",
+          "text": "Van Morrison"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Elvis_Costello",
+          "text": "Elvis Costello"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Puracane",
+          "text": "Puracane"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/BM_Linx",
+          "text": "BM LINX"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ableton_Live",
+          "text": "Ableton Live"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ben_Ratliff",
+          "text": "Ben Ratliff"
         }
       ]
     },

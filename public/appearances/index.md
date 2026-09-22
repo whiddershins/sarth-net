@@ -55,9 +55,11 @@ Billing unless noted: Lou Reed (guitar, electronics, Continuum), Ulrich Krieger 
 [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
 
 - 
-**2009-08-09** — Lollapalooza, Grant Park, Chicago. Day three. A ten minute Metal Machine Trio noise interlude between songs inside Lou Reed’s set. confirmed
+**2009-08-09** — Lollapalooza, Grant Park, Chicago. Day three, to a capacity crowd of 40,000. A Metal Machine Trio section inside Lou Reed’s set. confirmed
 
-[Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) · [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/) · [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
+Reed’s own site called it “a particular highlight”: his ‘Metal Machine Trio’ section featuring Ulrich Krieger and Sarth Calhoun.
+
+[Announcement](https://loureed.com/news/lou-reed-at-lollapalooza/) · [DVD credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/) · [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) · [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
 
 - 
 **2010-04-17** — The Junction, Cambridge, UK. Start of nine-date Europe tour. confirmed
@@ -169,3 +171,15 @@ Studio: electronics on *Lulu* (2011). Continuum drones on Reed’s pre-Metallica
 
 - 
 **2023-03-02** — Brookfield Place Winter Garden. Lou Reed’s 81st birthday. Guest performance with Kevin Hearn, Shahzad Ismaily, Laurie Anderson, against Lou Reed’s Musical Drones (Stewart Hurwood). confirmed
+
+## On record
+
+- 
+***Lou Reed Live at Lollapalooza 2009***, released 19 July 2011. The credits read “Sarth Calhoun – electronics & continuum,” alongside Mike Rathke, Steve Hunter, Kevin Hearn, Rob Wasserman, Tony “Thunder” Smith and Ulrich Krieger. confirmed
+
+[Credits on loureed.com](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
+
+- 
+***The Creation of the Universe***, Lou Reed’s Metal Machine Trio, 2009. The two REDCAT nights, nearly whole. confirmed
+
+[Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713) · [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)

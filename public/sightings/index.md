@@ -8,7 +8,7 @@ Press
 
 # Sightings
 
-Press tends to file Sarth Calhoun under “electronics,” but the work is composition. He made Metal Machine Trio with Lou Reed and Ulrich Krieger, and later wrote the original *Lulu* score with Reed for Robert Wilson. The Metallica album grew from those recordings. All quotes below appear exactly as published.
+Press tends to file Sarth Calhoun under “electronics,” but the work is composition. He made Metal Machine Trio with [Lou Reed](/conspirators/lou-reed/) and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger), and later wrote the original *Lulu* score with Reed for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director)). The [Metallica](https://en.wikipedia.org/wiki/Metallica) album grew from those recordings. All quotes below appear exactly as published.
 
 ## Spine
 
@@ -24,13 +24,13 @@ Press tends to file Sarth Calhoun under “electronics,” but the work is compo
 
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album) — Ariel Bitran — 23 Apr 2014 — Gralbum launch
 
-- [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html) — Ben Ratliff — 25 Apr 2009 — Metal Machine Trio
+- [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html) — [Ben Ratliff](https://en.wikipedia.org/wiki/Ben_Ratliff) — 25 Apr 2009 — Metal Machine Trio
 
 - [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) — Jeffrey Overwood — 8 Oct 2008 — REDCAT
 
 - [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/) — David Sprague — 27 Apr 2009 — Gramercy
 
-- [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/) — David Fricke — 30 Sep 2011 — Lulu / Continuum
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/) — [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) — 30 Sep 2011 — Lulu / Continuum
 
 - [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) — Ulrich Krieger — 2013 — “Unclassifiable”
 
@@ -165,4 +165,4 @@ David Fricke, [Rolling Stone](https://www.rollingstone.com/music/music-news/when
 Sarth is in Anthony DeCurtis, *Lou Reed: A Life* (2017, Little, Brown / Dey Street).
 
 - 
-Interviewed for Lou Reed, *The Art of the Straight Line: My Tai Chi* (14 Mar 2023, HarperOne). Named as an interviewee by [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/). Brookfield Place Winter Garden, Lou Reed’s 81st birthday, 2 Mar 2023: guest performance with Kevin Hearn, Shahzad Ismaily, Laurie Anderson, against Lou Reed’s Musical Drones (Stewart Hurwood).
+Interviewed for Lou Reed, *The Art of the Straight Line: My Tai Chi* (14 Mar 2023, HarperOne). Named as an interviewee by [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/). Brookfield Place Winter Garden, Lou Reed’s 81st birthday, 2 Mar 2023: guest performance with [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Shahzad Ismaily, [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson), against Lou Reed’s Musical Drones (Stewart Hurwood).

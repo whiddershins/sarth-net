@@ -14,7 +14,7 @@ We started with Tai Chi and meditation music. From there came rock tours, deep n
 
 ## Who Lou Reed was
 
-Lou Reed (1942 to 2013) was an American songwriter, guitarist and singer. He co-founded the Velvet Underground in 1964 and wrote most of their songs, then made solo records for forty years, among them *Transformer*, *Berlin*, *Metal Machine Music*, *The Blue Mask*, *New York*, *Songs for Drella* with John Cale, and *Magic and Loss*. He was inducted into the Rock and Roll Hall of Fame with the Velvet Underground in 1996 and as a solo artist in 2015. His last decade included *Hudson River Wind Meditations*, the Metal Machine Trio, the *Lulu* score for Robert Wilson, and the *Lulu* album with Metallica.
+Lou Reed (1942 to 2013) was an American songwriter, guitarist and singer. He co-founded the [Velvet Underground](https://en.wikipedia.org/wiki/The_Velvet_Underground) in 1964 and wrote most of their songs, then made solo records for forty years, among them *Transformer*, *Berlin*, *Metal Machine Music*, *The Blue Mask*, *New York*, *Songs for Drella* with [John Cale](https://en.wikipedia.org/wiki/John_Cale), and *Magic and Loss*. He was inducted into the Rock and Roll Hall of Fame with the Velvet Underground in 1996 and as a solo artist in 2015. His last decade included *Hudson River Wind Meditations*, the Metal Machine Trio, the *Lulu* score for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director)), and the *Lulu* album with [Metallica](https://en.wikipedia.org/wiki/Metallica).
 
 ## Before the noise
 
@@ -30,6 +30,6 @@ Tony Diodore later called me “Lou’s imagination.” That feels accurate. Lou
 
 ## Follow the work
 
-In 2008 Lou called about an improvised noise concert at REDCAT with Ulrich Krieger. Those nights became Metal Machine Trio. Later he called me to his house to make interstitial music for Robert Wilson’s *Lulu*. That became a score, songs, rehearsals in Berlin, and then a record with Metallica.
+In 2008 Lou called about an improvised noise concert at REDCAT with [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger). Those nights became Metal Machine Trio. Later he called me to his house to make interstitial music for Robert Wilson’s *Lulu*. That became a score, songs, rehearsals in Berlin, and then a record with Metallica.
 
 The scale kept changing, but the invitation was consistent: come over, listen closely, and make the sound the project needs.

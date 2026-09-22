@@ -14,7 +14,7 @@ We arrived at REDCAT as three people playing an improvised noise gig under the n
 
 ## The phone call
 
-In 2008 Lou called and said he was doing a free-improvised noise show at REDCAT in Los Angeles with the saxophonist and composer Ulrich Krieger. Ulrich had done the improbable thing of arranging *Metal Machine Music* for an ensemble. I had already toured in Lou’s song band, processing and sampling the instruments onstage, and Lou and I had been making meditation music out of drones, melody, and noise. Joining them felt less like a detour than the next obvious step.
+In 2008 Lou called and said he was doing a free-improvised noise show at REDCAT in Los Angeles with the saxophonist and composer [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger). Ulrich had done the improbable thing of arranging *Metal Machine Music* for an ensemble. I had already toured in Lou’s song band, processing and sampling the instruments onstage, and Lou and I had been making meditation music out of drones, melody, and noise. Joining them felt less like a detour than the next obvious step.
 
 Ulrich billed the concerts as *Unclassified* because there was no group name yet. That was honest. We did not know what the thing was until we played it.
 
@@ -28,4 +28,4 @@ The shows sold out quickly and REDCAT added a late set. We recorded the room wit
 
 Those Los Angeles nights became the double live album *The Creation of the Universe*. Afterward the trio played New York, Europe, Australia, and Brazil. “No songs. No vocals.” was useful poster copy, but it was not the meaning of the music. The meaning was three people building and wrecking a structure fast enough to remain inside it.
 
-Metal Machine Trio began at [REDCAT](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger) on 2–3 October 2008. The album documents those nights. A later [installation](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/) with the same title uses the second Gramercy performance from 24 April 2009, with John Zorn, not the REDCAT album tape.
+Metal Machine Trio began at [REDCAT](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger) on 2–3 October 2008. The album documents those nights. A later [installation](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/) with the same title uses the second Gramercy performance from 24 April 2009, with [John Zorn](https://en.wikipedia.org/wiki/John_Zorn), not the REDCAT album tape.

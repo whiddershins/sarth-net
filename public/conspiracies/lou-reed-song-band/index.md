@@ -26,6 +26,6 @@ The songs gave the experiments weight. You could leave the expected sound becaus
 
 ## The first version
 
-The first documented rehearsals were at SIR in New York in April 2008. The band around Lou included Rob Wasserman, Kevin Hearn, Mike Rathke, Steve Hunter, and Tony “Thunder” Smith. We started in the Northeast, went south by bus, played Beale Street in Memphis, and came back to New York.
+The first documented rehearsals were at SIR in New York in April 2008. The band around Lou included [Rob Wasserman](/conspirators/rob-wasserman/), [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Mike Rathke, [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter), and Tony “Thunder” Smith. We started in the Northeast, went south by bus, played Beale Street in Memphis, and came back to New York.
 
 Later versions of Lou’s touring band changed personnel and grew more electronically elaborate. The assignment stayed the same: listen to the band that exists, then open a door in it.

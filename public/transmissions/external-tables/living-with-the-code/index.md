@@ -14,7 +14,7 @@ Append-only pipelines · Part 5 of 5
 
 Code built this way is oriented towards strongly typed (TypeScript) functional code. This has an emphasis on safety, testing, reliability, and composability. It also follows the philosophy of self documenting code. Each function is a conceptual boundary, and the function and variable names should reflect exactly what they are. If you are comfortable in that world, you probably don't need to read this part. If anything feels complicated, here are some tips.
 
-Make sure your IDE toolchain is set up right, with all the linting and [Prettier](https://prettier.io/) for formatting. Get set up with a TS REPL and the [Jest](https://jestjs.io/) (or these days [Vitest](https://vitest.dev/)) runtime thing, and use the [TypeScript playground](https://www.typescriptlang.org/play) or the REPL to validate your understanding of how stuff works. One thing that might be off putting if you aren't used to it is how VERTICAL the code is. For example, when a function has numerous parameters, Prettier will put them each on their own line like:
+Make sure your IDE toolchain is set up right, with all the linting and [Prettier](https://prettier.io/) for formatting. Get set up with a TS REPL and the [JEST](https://jestjs.io/) runtime thing, and use the [TypeScript playground](https://www.typescriptlang.org/play) or the REPL to validate your understanding of how stuff works. One thing that might be off putting if you aren't used to it is how VERTICAL the code is. For example, when a function has numerous parameters, Prettier will put them each on their own line like:
 
 ```
 const sendAlertAndRecordResult = async (

@@ -12,9 +12,9 @@ Physical objects on the table. Kyma, Continuum, the performance DAW, the motion 
 
 ## Symbolic Sound Kyma (Paca / Pacarana)
 
-A graphical sound-design environment. The Paca is dedicated DSP hardware — a small orange box, rack-mountable, not a plugin inside a laptop. Maker: Symbolic Sound Corporation (Carla Scaletti and Kurt Hebel), Champaign, Illinois. [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
+A graphical sound-design environment. The Paca is dedicated DSP hardware, a small orange box, rack-mountable, not a plugin inside a laptop. Maker: Symbolic Sound Corporation (Carla Scaletti and Kurt Hebel), Champaign, Illinois. [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
 
-Beta-tested Kyma (credited on the Kyma X startup screen). Lucibel Crater looping and processing. Metal Machine Trio: live Kyma processing of the band. 2011 Lou Reed European tour: multiple rack-mounted Pacas. *Lulu* at the Berliner Ensemble: Kyma processing and Continuum/Kyma playing. The Book of Sarth score is Kyma-drenched. SeqOSC was built in it. Junior Dad: Wasserman’s electric upright through Kyma, first session at Lou’s apartment.
+Beta-tested Kyma (credited on the Kyma X startup screen). Lucibel Crater looping and processing. Metal Machine Trio: live Kyma processing of the band. 2011 [Lou Reed](/conspirators/lou-reed/) European tour: multiple rack-mounted Pacas. *Lulu* at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble): Kyma processing and Continuum/Kyma playing. The Book of Sarth score is Kyma-drenched. SeqOSC was built in it. Junior Dad: Wasserman’s electric upright through Kyma, first session at Lou’s apartment.
 
 The orange box does the math so the fingers can lie.
 
@@ -34,7 +34,7 @@ A surface, not a keyboard. Lou had one too.
 
 A DAW that treats clips, warping, and devices as a performance instrument. Maker: Ableton AG, Berlin. [ableton.com](https://www.ableton.com/en/live/)
 
-Public bios call him an Ableton Live endorser: the 2008 REDCAT program and the 2014 Asia Society *Sunken Cathedral* notes. Book of Sarth track “Awakening (To Blacklist)” was built in Live — 60-cycle hum run through plugins until a frequency shifter became the melody.
+Public bios call him an [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live) endorser: the 2008 REDCAT program and the 2014 Asia Society *Sunken Cathedral* notes. Book of Sarth track “Awakening (To Blacklist)” was built in Live: 60-cycle hum run through plugins until a frequency shifter became the melody.
 
 Endorsed it. Then I made a melody out of wall hum.
 

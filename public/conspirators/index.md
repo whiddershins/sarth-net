@@ -10,6 +10,6 @@ People
 
 People I have made things with.
 
-- [**Lou Reed**Tai Chi, meditation music, rock shows, deep noise, and the search for a sound that did not exist yet.](/conspirators/lou-reed/)
+- [**Lou Reed**](/conspirators/lou-reed/). Tai Chi, meditation music, rock shows, deep noise, and the search for a sound that did not exist yet.
 
-- [**Rob Wasserman**A hero who treated the new guy as though he already belonged.](/conspirators/rob-wasserman/)
+- [**Rob Wasserman**](/conspirators/rob-wasserman/). A hero who treated the new guy as though he already belonged.

@@ -12,19 +12,19 @@ A record of shows and installations. *The Creation of the Universe* comes from t
 
 ## Spine
 
-- **Metal Machine Trio (Unclassified) at REDCAT, Los Angeles — 2–3 Oct 2008.** World premiere billed as *Unclassified: Lou Reed and Ulrich Krieger*. Three performances: Thu 2 Oct 8:30pm, added late show Thu 2 Oct 10:30pm, Fri 3 Oct 8:30pm. Sarth on Continuum / live processing. Official live album *The Creation of the Universe* is the unedited recording of those two nights. confirmed
+- **Metal Machine Trio (Unclassified) at REDCAT, Los Angeles — 2–3 Oct 2008.** World premiere billed as *Unclassified: [Lou Reed](/conspirators/lou-reed/) and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)*. Three performances: Thu 2 Oct 8:30pm, added late show Thu 2 Oct 10:30pm, Fri 3 Oct 8:30pm. Sarth on Continuum / live processing. Official live album *The Creation of the Universe* is the unedited recording of those two nights. confirmed
 
-- **Metal Machine Trio, Blender Theater at Gramercy, New York — 23–24 Apr 2009.** First NYC stand. John Zorn sat in on the 24th. This night’s recording later became the CSULB / Cranbrook ambisonic installation. confirmed
+- **Metal Machine Trio, Blender Theater at Gramercy, New York — 23–24 Apr 2009.** First NYC stand. [John Zorn](https://en.wikipedia.org/wiki/John_Zorn) sat in on the 24th. This night’s recording later became the CSULB / Cranbrook ambisonic installation. confirmed
 
-- **Yellow Pony with Lou Reed and Laurie Anderson — Europe, Jul and Aug–Sep 2009.** Eight-city tour billed *The Yellow Pony and Other Songs and Stories*. Sarth on Continuum and live voice re-sampling, center stage. Two short tours. confirmed
+- **Yellow Pony with Lou Reed and [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson) — Europe, Jul and Aug–Sep 2009.** Eight-city tour billed *The Yellow Pony and Other Songs and Stories*. Sarth on Continuum and live voice re-sampling, center stage. Two short tours. confirmed
 
 - **Metal Machine Trio Europe — “A Night of Deep Noise,” 17–30 Apr 2010.** Nine announced dates, UK through Palma de Mallorca. Mallorca is MM3, not Yellow Pony. confirmed
 
-- **Metal Machine Trio, Sydney Opera House (Opera Theatre) — 30 May 2010.** Vivid LIVE. Sarth on the bill. Anderson’s *Transitory Life* was a separate Drama Theatre program, 1–2 Jun. confirmed
+- **Metal Machine Trio, [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House) (Opera Theatre) — 30 May 2010.** Vivid LIVE. Sarth on the bill. Anderson’s *Transitory Life* was a separate Drama Theatre program, 1–2 Jun. confirmed
 
 - **Metal Machine Trio, Sesc Pinheiros, São Paulo — 20–21 Nov 2010.** Two nights. confirmed
 
-- **Ambisonic installation *The Creation of the Universe*** — CSULB University Art Museum, Long Beach, 27 Jan–15 Apr 2012; restaged Cranbrook Art Museum, Bloomfield Hills, 21 Nov 2015–26 Mar 2016. Playback of the Gramercy 2009 recording, not a live Sarth performance. confirmed
+- **Ambisonic installation *The Creation of the Universe*** — CSULB University Art Museum, Long Beach, 27 Jan–15 Apr 2012; restaged [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum), Bloomfield Hills, 21 Nov 2015–26 Mar 2016. Playback of the Gramercy 2009 recording, not a live Sarth performance. confirmed
 
 The public record shows no Metal Machine Trio concerts after São Paulo. Wikipedia’s 2008–2013 span follows the life of the project through Reed’s death; it does not point to additional shows.
 
@@ -139,13 +139,13 @@ Sarth — keys, bass, loops, Kyma, Continuum. Leah Coloff, Paul Chuffo.
 
 ## Lou Reed song band, 2011
 
-Not MM3. Symbolic Sound: Sarth Calhoun on Continuum, multiple Kyma/Paca systems, Europe, July 2011. Announced lineup also: Kevin Hearn, Ulrich Krieger, Tony Smith, Rob Wasserman. Individual nights are announced; this page does not treat a conflicted Pescara row as fact.
+Not MM3. Symbolic Sound: Sarth Calhoun on Continuum, multiple Kyma/Paca systems, Europe, July 2011. Announced lineup also: [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Ulrich Krieger, Tony Smith, [Rob Wasserman](/conspirators/rob-wasserman/). Individual nights are announced; this page does not treat a conflicted Pescara row as fact.
 
 - 2011-07-02 Hop Farm, Paddock Wood · 07-04 Hammersmith Apollo, London · 07-05 Le Grand Rex, Paris · 07-08 Arena Civica, Milan (on some lists) · 07-10 Piazza Duomo, Pistoia · 07-16 Italia Wave, Lecce · 07-17 Les Vieilles Charrues, Carhaix · 07-18 Greek Theatre, Taormina · 07-22 Nuovo Festival Del Vittoriale, Gardone Riviera · 07-23 Piazza Matteotti, Sogliano al Rubicone · 07-25 Parco della Musica Cavea, Rome · 07-26 Les Nuits de Fourvière, Lyon. Sarth on the tour: confirmed. Nights: mentioned
 
 ## Lulu
 
-Studio: electronics on *Lulu* (2011). Continuum drones on Reed’s pre-Metallica tapes (Fricke). No public live date with Calhoun was found. Reed+Metallica played television without a Calhoun credit. Wilson’s Berlin *Lulu* used the score; Sarth directed rehearsals in Berlin. Junior Dad began at Lou’s apartment with Rob Wasserman and Kyma.
+Studio: electronics on *Lulu* (2011). Continuum drones on Reed’s pre-Metallica tapes (Fricke). No public live date with Calhoun was found. Reed+[Metallica](https://en.wikipedia.org/wiki/Metallica) played television without a Calhoun credit. Wilson’s Berlin *Lulu* used the score; Sarth directed rehearsals in Berlin. Junior Dad began at Lou’s apartment with Rob Wasserman and Kyma.
 
 ## Later
 

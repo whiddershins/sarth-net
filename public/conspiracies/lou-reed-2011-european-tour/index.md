@@ -16,7 +16,7 @@ An eight-piece band across European festivals in the summer of 2011. I posted tw
 
 ## The band
 
-By 2011 Lou was touring with eight people onstage. Alongside him: Rob Wasserman on bass, Kevin Hearn on keys, Aram Bajakian and Tony Diodore on guitars, Tony Smith on drums, and me on [Continuum and Kyma](/devices/), usually running several racked Pacas. This was a bigger and louder configuration than the song band I had joined in 2008.
+By 2011 Lou was touring with eight people onstage. Alongside him: [Rob Wasserman](/conspirators/rob-wasserman/) on bass, [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) on keys, [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) and Tony Diodore on guitars, Tony Smith on drums, and me on [Continuum and Kyma](/devices/), usually running several racked Pacas. This was a bigger and louder configuration than the song band I had joined in 2008.
 
 The itinerary ran through the European summer festival circuit. Two stops are documented here because I wrote about them at the time, from the road.
 
@@ -30,6 +30,6 @@ Typos mine, kept as I wrote them. The thing worth noticing is that I said the ba
 
 > Yeah, you can see me in the back there for a second, ends with a great shot of the crowd in Carhaix. PJ Harvey and the Chemical Brothers followed us. 
 
-Vieilles Charrues, in Brittany. I was at the back of a very large stage, briefly visible, and then PJ Harvey and the Chemical Brothers played.
+Vieilles Charrues, in Brittany. I was at the back of a very large stage, briefly visible, and then [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey) and the [Chemical Brothers](https://en.wikipedia.org/wiki/The_Chemical_Brothers) played.
 
 Both posts are Sarth’s, written from the road in July 2011 and recovered from Common Crawl on 22 September 2026.

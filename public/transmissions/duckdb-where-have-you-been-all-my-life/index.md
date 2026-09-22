@@ -15,6 +15,8 @@ At some point I wanted to know stuff like how much a particular artist spent on 
 
 I didn't do any of that. I just ask Claude, and Claude uses [DuckDB](https://duckdb.org/) on the JSON files (from outside the app, for now).
 
+I had always heard about DuckDB but never had the pleasure of using it until one of the LLMs turned me on to it. It's just so badass. Such a great combination.
+
 Here's a simplified version of what the records look like:
 
 ```
@@ -48,7 +50,7 @@ And tomorrow when I want spend by model, or by day, or whatever I get curious ab
 
 ## It also runs my whole pipeline pattern
 
-In [the external tables tutorial](#) I wrote about an append-only pipeline where partners send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested `SPLIT_PART` to get the date out of the file path, and a refresh every time a file landed.
+In [the external tables tutorial](/transmissions/external-tables/) I wrote about an append-only pipeline where partners send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested `SPLIT_PART` to get the date out of the file path, and a refresh every time a file landed.
 
 In DuckDB it's this:
 

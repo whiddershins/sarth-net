@@ -21,7 +21,7 @@ It began with rehearsals at SIR in New York on 14 April. The surviving route run
 
 ## The people on the bus
 
-Lou was singing and playing guitar. Rob Wasserman played bass; Kevin Hearn keyboards; Mike Rathke and Steve Hunter guitars; Tony “Thunder” Smith drums. I handled electronics and live processing. It was a large band full of people with unmistakable sounds, which made changing those sounds both delicate and exciting.
+Lou was singing and playing guitar. [Rob Wasserman](/conspirators/rob-wasserman/) played bass; [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) keyboards; Mike Rathke and [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter) guitars; Tony “Thunder” Smith drums. I handled electronics and live processing. It was a large band full of people with unmistakable sounds, which made changing those sounds both delicate and exciting.
 
 Rob was one of my heroes before he was my bandmate. On this tour he treated me, the younger person arriving with strange instruments, as though I already belonged. That changed the experience of becoming the new guy.
 

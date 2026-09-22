@@ -14,7 +14,7 @@ I met one of my bass heroes backstage. Not long afterward, he made sure the new 
 
 ## Who Rob Wasserman was
 
-Rob Wasserman (1952 to 2016) was an American bassist known for the electric upright bass that Ned Steinberger built with him. His *Solo*, *Duets* and *Trios* records put the instrument in front rather than under everything else; *Duets* won a Grammy in 1989. He played for decades with Bob Weir as RatDog, and recorded with Lou Reed, Rickie Lee Jones, Van Morrison, Elvis Costello and many others.
+Rob Wasserman (1952 to 2016) was an American bassist known for the electric upright bass that [Ned Steinberger](https://en.wikipedia.org/wiki/Ned_Steinberger) built with him. His *Solo*, *Duets* and *Trios* records put the instrument in front rather than under everything else; *Duets* won a Grammy in 1989. He played for decades with [Bob Weir](https://en.wikipedia.org/wiki/Bob_Weir) as RatDog, and recorded with [Lou Reed](/conspirators/lou-reed/), [Rickie Lee Jones](https://en.wikipedia.org/wiki/Rickie_Lee_Jones), [Van Morrison](https://en.wikipedia.org/wiki/Van_Morrison), [Elvis Costello](https://en.wikipedia.org/wiki/Elvis_Costello) and many others.
 
 ## “A huge fan”
 

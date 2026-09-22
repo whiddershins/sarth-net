@@ -18,7 +18,7 @@ A Metal Machine Trio recording turned into a room you walk into. I have never he
 
 An ambisonic installation is a room with speakers arranged around and above you, playing a recording that was captured with enough microphones to reconstruct where every sound was in space. Instead of a stereo image in front of you, the performance is placed around you, and you stand inside it. The 10.1 refers to the speaker arrangement.
 
-The source was a [Metal Machine Trio](/conspiracies/metal-machine-trio/) recording from the Blender Theater at Gramercy. It was staged at the University Art Museum at California State University Long Beach, and later restaged at the Cranbrook Art Museum. The spatial work used technology from Arup’s SoundLab.
+The source was a [Metal Machine Trio](/conspiracies/metal-machine-trio/) recording from the Blender Theater at Gramercy. It was staged at the University Art Museum at California State University Long Beach, and later restaged at the [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum). The spatial work used technology from Arup’s SoundLab.
 
 ## What I said at the time
 

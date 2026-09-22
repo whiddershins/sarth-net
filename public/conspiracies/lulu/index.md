@@ -32,6 +32,8 @@ The production was not simply playing finished [Lou Reed](/conspirators/lou-reed
 
 After Berlin, we took the material to San Francisco. Metallica did not decorate the score; they completely reinterpreted it. The scale, weight, and attack changed. The connective tissue remained the earlier tapes and songs, the quieter, otherworldly object underneath the album.
 
-That is the version of *Lulu* I want remembered: not one album credit, but a work that crossed Lou’s apartment, a Berlin rehearsal room, Robert Wilson’s stage, and Metallica’s studio without staying the same in any two places.
+Here is how I put it on my own site at the time:
+
+> I got a call from Lou one day to go over to his house and make some “interstitial” music for a theater production. Robert Wilson was staging Lulu with the Berliner Ensemble. This turned into co-writing 8 more songs with Lou Reed. Hells yeah. After I got back from Berlin, we took the project to San Francisco and recorded it with Metallica. What a blast. They completely reinterpreted all the stuff, of course. They were awesome. Of course. 
 
 [Robert Wilson’s production](https://robertwilson.com/lulu) premiered 12 April 2011. The [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu) documents the live ensemble; [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) documented the earlier Continuum-and-cello tapes in [*Rolling Stone*](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/).

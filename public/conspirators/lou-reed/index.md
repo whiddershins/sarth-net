@@ -20,7 +20,7 @@ Lou Reed (1942 to 2013) was an American songwriter, guitarist and singer. He co-
 
 Lou and I met through a shared love of Tai Chi. The first sustained music we made together was meditation music, drones and melody, improvised, revised, edited, remixed, and transformed over several years. That quiet work is the root of everything that followed.
 
-It meant that when the projects became loud, the listening underneath them was already there. The touring band, Metal Machine Trio, and *Lulu* look like separate chapters from the outside. To me, the line between them is much less tidy.
+It meant that when the projects became loud, the listening underneath them was already there. The touring band, Metal Machine Trio, and *Lulu* look like separate chapters from the outside.
 
 ## Lou’s imagination
 

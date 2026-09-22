@@ -33,7 +33,7 @@ He also records what the trio became at scale. At Lollapalooza in 2009 they play
 
 ## Three different kinds of danger
 
-Lou had guitar, electronics, and a small Continuum. Ulrich had tenor saxophone and live electronics. I played Continuum and processed the entire field through Kyma. Nobody was accompanying anybody else. Each of us could destabilize the music, and each had to leave enough room for the other two to do it.
+Lou had guitar, electronics, and a small Continuum. Ulrich had tenor saxophone and live electronics. I played Continuum and processed the entire field through Kyma. Nobody was accompanying anybody else.
 
 The shows sold out quickly and REDCAT added a late set. We recorded the room with a matched pair of Schoeps microphones and a stereo Royer, ambient microphones, no direct lines, and released the performances essentially as they happened.
 

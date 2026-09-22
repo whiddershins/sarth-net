@@ -29,6 +29,6 @@ Rob was one of my heroes before he was my bandmate. On this tour he treated me, 
 
 ## Beale Street
 
-We reached the Beale Street Music Festival in Memphis on 3 May. Festivals flatten every band into a line on a poster, but for me that date is a pin in the map: proof that the half-remembered bus ride and the southern run were this tour.
+We reached the Beale Street Music Festival in Memphis on 3 May.
 
 Dates include Northampton on 20 April, Beale Street on 3 May, and New York on 5 May 2008.

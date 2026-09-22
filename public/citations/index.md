@@ -169,6 +169,8 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
+- [loureed.com, 25 Jun 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
@@ -402,6 +404,32 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
 
 - [Ben Ratliff](https://en.wikipedia.org/wiki/Ben_Ratliff)
+
+- [gralbumcollective.com](https://gralbumcollective.com/)
+
+- [Bora Yoon](https://www.borayoon.com/)
+
+- [Tom Hart](https://en.wikipedia.org/wiki/Tom_Hart_(cartoonist))
+
+- [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
+
+- [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
+
+- [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
+
+- [Medeski Martin &amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
+
+- [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
+
+- [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
+
+- [Apple Music](https://music.apple.com/us/album/suspension/274828088)
+
+- [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
+
+- [mp3.com](https://en.wikipedia.org/wiki/Mp3.com)
+
+- [YouTube](https://www.youtube.com/@burlap_app)
 
 ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
 
@@ -695,6 +723,26 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
 
+## [Ulrich Krieger](/conspirators/ulrich-krieger/)
+
+`/conspirators/ulrich-krieger/`
+
+- [Ulrich Krieger](http://www.ulrich-krieger.com/)
+
+- [Freiburg](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau)
+
+- [John Cage](https://en.wikipedia.org/wiki/John_Cage)
+
+- [California Institute of the Arts](https://en.wikipedia.org/wiki/California_Institute_of_the_Arts)
+
+- [Metal Machine Music](https://en.wikipedia.org/wiki/Metal_Machine_Music)
+
+- [&ldquo;Unclassifiable&rdquo;, The Wire, November 2013](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+
+- [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian)
+
 ## [Contact](/contact/)
 
 `/contact/`
@@ -728,36 +776,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
 
 - [runwayml.com](https://runwayml.com/)
-
-## [Releases](/releases/)
-
-`/releases/`
-
-- [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
-
-- [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)
-
-- [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
-
-- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
-
-- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
-
-- [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
-
-- [Third Wall](https://thirdwallstudio.com)
-
-- [YouTube](https://www.youtube.com/@burlap_app)
-
-- [burlap.app](https://burlap.app)
-
-- [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
-
-- [Credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
-
-- [bookofsarth.com](https://bookofsarth.com)
-
-- [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 
 ## [Sightings](/sightings/)
 
@@ -816,6 +834,32 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 
 - [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+
+## [Transmissions](/transmissions/)
+
+`/transmissions/`
+
+- [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
+
+- [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
+
+- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
+
+- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
+
+- [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
+
+- [Third Wall](https://thirdwallstudio.com)
+
+- [YouTube](https://www.youtube.com/@burlap_app)
+
+- [burlap.app](https://burlap.app)
+
+- [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
+
+- [bookofsarth.com](https://bookofsarth.com)
+
+- [Credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
 
 ## [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 

@@ -19,3 +19,7 @@ People I have made things with.
 - [**Paul Chuffo**](/conspirators/paul-chuffo/). Drummer, originally with the punk and jazz band Gutbucket. He played in Lucibel Crater.
 
 - [**Tony Diodore**](/conspirators/tony-diodore/). Guitarist and violinist. He and Sarth formed Number19 in 1999 and played together again in Lou Reed’s band from 2011.
+
+- [**Ulrich Krieger**](/conspirators/ulrich-krieger/). German composer and saxophonist. He arranged Lou Reed’s *Metal Machine Music* for ensemble, and was a third of Metal Machine Trio with Reed and Sarth.
+
+- [**Laurie Anderson**](/conspirators/laurie-anderson/). American artist, composer and musician. Sarth played between her and Lou Reed on the Yellow Pony tours in 2009, resampling their voices live.

@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-22",
-  "citation_count": 421,
+  "citation_count": 433,
   "pages": [
     {
       "path": "/",
@@ -795,7 +795,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood",
-          "text": "Medeski Martin &amp;amp; Wood"
+          "text": "Medeski Martin &amp;amp;amp; Wood"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
@@ -820,6 +820,22 @@
         {
           "url": "https://www.youtube.com/@burlap_app",
           "text": "YouTube"
+        },
+        {
+          "url": "http://www.ulrich-krieger.com/",
+          "text": "Ulrich Krieger"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Freiburg_im_Breisgau",
+          "text": "Freiburg"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Cage",
+          "text": "John Cage"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/California_Institute_of_the_Arts",
+          "text": "California Institute of the Arts"
         }
       ]
     },
@@ -1238,6 +1254,44 @@
         {
           "url": "https://en.wikipedia.org/wiki/Laurie_Anderson",
           "text": "Laurie Anderson"
+        }
+      ]
+    },
+    {
+      "path": "/conspirators/laurie-anderson/",
+      "title": "Laurie Anderson",
+      "citations": [
+        {
+          "url": "https://laurieanderson.com/",
+          "text": "Laurie Anderson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/O_Superman",
+          "text": "“O Superman”"
+        },
+        {
+          "url": "https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review",
+          "text": "The Guardian"
+        },
+        {
+          "url": "https://www.sydneyoperahouse.com/vivid-live/past-festival-lineups",
+          "text": "Sydney Opera House"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Zorn",
+          "text": "John Zorn"
+        },
+        {
+          "url": "https://www.brooklynvegan.com/lou-reed-tai-chi-day-is-aug-3-laurie-anderson-john-zorn-celebrating-in-brooklyn/",
+          "text": "Brooklyn Vegan"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Hearn",
+          "text": "Kevin Hearn"
+        },
+        {
+          "url": "https://kitchensisters.org/podcast/lou-reeds-tai-chi/",
+          "text": "The Kitchen Sisters"
         }
       ]
     },

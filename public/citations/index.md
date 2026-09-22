@@ -73,11 +73,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
 
+- [Announcement](https://loureed.com/news/lou-reed-at-lollapalooza/)
+
+- [DVD credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
+
 - [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
 
 - [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
-
-- [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
 
 - [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
 
@@ -88,6 +90,10 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+
+- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
+
+- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 
 ## [Citations](/citations/)
 
@@ -119,6 +125,22 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Book of Sarth](https://bookofsarth.com)
 
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+
+- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
+
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+
+- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
+
+- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+
+- [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House)
+
+- [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
+
 - [REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
 
 - [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
@@ -129,9 +151,17 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
 
+- [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+
+- [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
+
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
+
 - [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
 
 - [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
@@ -143,13 +173,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Alternate version](https://www.youtube.com/watch?v=4oPZjuz1vwQ)
 
-- [Metallica](https://en.wikipedia.org/wiki/Metallica)
-
-- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
-
 - [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)
-
-- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
 
 - [Apple Music](https://music.apple.com/us/album/junior-dad/467890760?i=467890784)
 
@@ -202,8 +226,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali)
 
 - [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)
-
-- [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
 
 - [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/)
 
@@ -304,6 +326,76 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs)
 
 - [Berlin live](https://www.youtube.com/watch?v=UOh4tKteFOs)
+
+- [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian)
+
+- [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey)
+
+- [Chemical Brothers](https://en.wikipedia.org/wiki/The_Chemical_Brothers)
+
+- [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter)
+
+- [Dr. John](https://en.wikipedia.org/wiki/Dr._John)
+
+- [Ziggy Marley](https://en.wikipedia.org/wiki/Ziggy_Marley)
+
+- [Joel Thome](https://en.wikipedia.org/wiki/Joel_Thome)
+
+- [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)
+
+- [Bryce Goggin](https://en.wikipedia.org/wiki/Bryce_Goggin)
+
+- [on Spotify](https://open.spotify.com/album/5GWIntdZRNl8zc9rAsIrKD)
+
+- [Björk](https://en.wikipedia.org/wiki/Bj%C3%B6rk)
+
+- [White Stripes](https://en.wikipedia.org/wiki/The_White_Stripes)
+
+- [Ross Christopher at awaken music](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html)
+
+- [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/)
+
+- [David Fricke](https://en.wikipedia.org/wiki/David_Fricke)
+
+- [Metal Machine Music](https://en.wikipedia.org/wiki/Metal_Machine_Music)
+
+- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
+
+- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
+
+- [Leah Coloff](https://www.leahcoloff.com/)
+
+- [Number19](https://en.wikipedia.org/wiki/Number19)
+
+- [Michael Gordon](https://en.wikipedia.org/wiki/Michael_Gordon_(composer))
+
+- [Rufus Wainwright](https://en.wikipedia.org/wiki/Rufus_Wainwright)
+
+- [Nancy Sinatra](https://en.wikipedia.org/wiki/Nancy_Sinatra)
+
+- [Velvet Underground](https://en.wikipedia.org/wiki/The_Velvet_Underground)
+
+- [John Cale](https://en.wikipedia.org/wiki/John_Cale)
+
+- [Gutbucket](https://en.wikipedia.org/wiki/Gutbucket_(band))
+
+- [Modern Drummer](https://en.wikipedia.org/wiki/Modern_Drummer)
+
+- [Bob Weir](https://en.wikipedia.org/wiki/Bob_Weir)
+
+- [Rickie Lee Jones](https://en.wikipedia.org/wiki/Rickie_Lee_Jones)
+
+- [Van Morrison](https://en.wikipedia.org/wiki/Van_Morrison)
+
+- [Elvis Costello](https://en.wikipedia.org/wiki/Elvis_Costello)
+
+- [Puracane](https://en.wikipedia.org/wiki/Puracane)
+
+- [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
+
+- [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
+
+- [Ben Ratliff](https://en.wikipedia.org/wiki/Ben_Ratliff)
 
 ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
 

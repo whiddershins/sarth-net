@@ -172,6 +172,15 @@ Studio: electronics on *Lulu* (2011). Continuum drones on Reed’s pre-Metallica
 - 
 **2023-03-02** — Brookfield Place Winter Garden. Lou Reed’s 81st birthday. Guest performance with Kevin Hearn, Shahzad Ismaily, Laurie Anderson, against Lou Reed’s Musical Drones (Stewart Hurwood). confirmed
 
+## One-offs
+
+- 
+**2009-06-23** — Whitney Museum of American Art, New York. Opening of the Persol “Incognito Design Exhibition.” A trio: Lou Reed, Mike Rathke on guitar, Sarth on electronic processing. confirmed
+
+Reed’s own site: Reed performed an amazing set including ‘Dirty Blvd.’ and ‘Who Am I’ with Mike Rathke on guitar and Sarth Calhoun on electronic processing.
+
+[loureed.com, 25 Jun 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+
 ## On record
 
 - 

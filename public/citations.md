@@ -39,7 +39,7 @@ every page.
 - Third Wall Studio https://thirdwallstudio.com
 - Burlap https://burlap.app
 
-## Citations by page (369 total)
+## Citations by page (401 total)
 
 ### Sarth Calhoun
 `/`
@@ -80,6 +80,7 @@ every page.
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [loureed.com, 25 Jun 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 
@@ -112,13 +113,17 @@ every page.
 - [NYT Ratliff](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
 - [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
 - [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
+- [Announcement](https://loureed.com/news/lou-reed-at-lollapalooza/)
+- [DVD credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
 - [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
 - [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
-- [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
 - [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
 - [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
+- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
 - [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
 - [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)
 - [Flanagan Smith acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
@@ -216,8 +221,6 @@ every page.
 - [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/)
 - [David Fricke](https://en.wikipedia.org/wiki/David_Fricke)
 - [Metal Machine Music](https://en.wikipedia.org/wiki/Metal_Machine_Music)
-- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
-- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 - [Leah Coloff](https://www.leahcoloff.com/)
 - [Number19](https://en.wikipedia.org/wiki/Number19)
 - [Michael Gordon](https://en.wikipedia.org/wiki/Michael_Gordon_(composer))
@@ -258,6 +261,19 @@ every page.
 `/conspiracies/creation-of-the-universe-ambisonic/`
 
 - [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
+
+### The Gralbum Collective
+`/conspiracies/gralbum-collective/`
+
+- [gralbumcollective.com](https://gralbumcollective.com/)
+- [Bora Yoon](https://www.borayoon.com/)
+- [Tom Hart](https://en.wikipedia.org/wiki/Tom_Hart_(cartoonist))
+- [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
+- [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
+- [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
+- [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
+- [Medeski Martin &amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
+- [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 
 ### I Just Believe in Christmas
 `/conspiracies/i-just-believe-in-christmas/`
@@ -343,6 +359,17 @@ every page.
 - [installation](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
 - [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
 
+### Number19
+`/conspiracies/number19/`
+
+- [Number19](https://en.wikipedia.org/wiki/Number19)
+- [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
+- [Apple Music](https://music.apple.com/us/album/suspension/274828088)
+- [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
+- [mp3.com](https://en.wikipedia.org/wiki/Mp3.com)
+- [Puracane](https://en.wikipedia.org/wiki/Puracane)
+- [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
+
 ### Reflections, Vol. 1
 `/conspiracies/reflections-vol-1/`
 
@@ -418,6 +445,23 @@ every page.
 - [ableton.com](https://www.ableton.com/en/live/)
 - [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
 - [runwayml.com](https://runwayml.com/)
+
+### Releases
+`/releases/`
+
+- [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
+- [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)
+- [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
+- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
+- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
+- [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
+- [Third Wall](https://thirdwallstudio.com)
+- [YouTube](https://www.youtube.com/@burlap_app)
+- [burlap.app](https://burlap.app)
+- [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
+- [Credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
+- [bookofsarth.com](https://bookofsarth.com)
+- [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 
 ### Sightings
 `/sightings/`

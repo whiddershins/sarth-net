@@ -1,0 +1,164 @@
+---
+title: Appearances
+description: Verified live appearances: Metal Machine Trio REDCAT 2008, Gramercy 2009, Europe and Sydney 2010, Yellow Pony with Lou Reed and Laurie Anderson, Lucibel Crater, Lulu studio, Lou Reed Drones.
+url: https://www.sarth.net/appearances/
+author: Sarth Calhoun
+---
+Live
+
+# Appearances
+
+A record of shows and installations. *The Creation of the Universe* comes from two nights at REDCAT, October 2–3, 2008. The later ambisonic installation uses a different recording, made at the Gramercy show on April 24, 2009.
+
+## Spine
+
+- **Metal Machine Trio (Unclassified) at REDCAT, Los Angeles — 2–3 Oct 2008.** World premiere billed as *Unclassified: Lou Reed and Ulrich Krieger*. Three performances: Thu 2 Oct 8:30pm, added late show Thu 2 Oct 10:30pm, Fri 3 Oct 8:30pm. Sarth on Continuum / live processing. Official live album *The Creation of the Universe* is the unedited recording of those two nights. confirmed
+
+- **Metal Machine Trio, Blender Theater at Gramercy, New York — 23–24 Apr 2009.** First NYC stand. John Zorn sat in on the 24th. This night’s recording later became the CSULB / Cranbrook ambisonic installation. confirmed
+
+- **Yellow Pony with Lou Reed and Laurie Anderson — Europe, Jul and Aug–Sep 2009.** Eight-city tour billed *The Yellow Pony and Other Songs and Stories*. Sarth on Continuum and live voice re-sampling, center stage. Two short tours. confirmed
+
+- **Metal Machine Trio Europe — “A Night of Deep Noise,” 17–30 Apr 2010.** Nine announced dates, UK through Palma de Mallorca. Mallorca is MM3, not Yellow Pony. confirmed
+
+- **Metal Machine Trio, Sydney Opera House (Opera Theatre) — 30 May 2010.** Vivid LIVE. Sarth on the bill. Anderson’s *Transitory Life* was a separate Drama Theatre program, 1–2 Jun. confirmed
+
+- **Metal Machine Trio, Sesc Pinheiros, São Paulo — 20–21 Nov 2010.** Two nights. confirmed
+
+- **Ambisonic installation *The Creation of the Universe*** — CSULB University Art Museum, Long Beach, 27 Jan–15 Apr 2012; restaged Cranbrook Art Museum, Bloomfield Hills, 21 Nov 2015–26 Mar 2016. Playback of the Gramercy 2009 recording, not a live Sarth performance. confirmed
+
+The public record shows no Metal Machine Trio concerts after São Paulo. Wikipedia’s 2008–2013 span follows the life of the project through Reed’s death; it does not point to additional shows.
+
+## Metal Machine Trio
+
+Billing unless noted: Lou Reed (guitar, electronics, Continuum), Ulrich Krieger (tenor sax, live electronics), Sarth Calhoun (Continuum, live processing / Kyma). Flyers: “No songs. No vocals.” / “A Night of Deep Noise.”
+
+- 
+**2008-10-02** — REDCAT / CalArts Theater, Walt Disney Concert Hall complex, Los Angeles. Unclassified: Lou Reed and Ulrich Krieger. World premiere. 8:30pm and added late show 10:30pm. confirmed
+
+[REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger) · recording: album Night 1
+
+- 
+**2008-10-03** — REDCAT, Los Angeles. 8:30pm. confirmed
+
+[Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) · recording: album Night 2
+
+- 
+**2009-04-23** — Blender Theater at Gramercy, New York. A Night of Deep Noise. 8:30pm. confirmed
+
+[NYT Ratliff](https://www.nytimes.com/2009/04/25/arts/music/25reed.html) · [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
+
+- 
+**2009-04-24** — Blender Theater at Gramercy, New York. Special guest John Zorn. Source tape for the CSULB/Cranbrook installation. Not commercially issued. confirmed
+
+[Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
+
+- 
+**2010-04-17** — The Junction, Cambridge, UK. Start of nine-date Europe tour. confirmed
+
+- 
+**2010-04-18** — O2 Academy, Oxford, UK. confirmed
+
+- 
+**2010-04-19** — Royal Festival Hall, London, UK (Ether Festival). confirmed
+
+- 
+**2010-04-21** — La Cigale, Paris, France. Announced widely. mentioned
+
+- 
+**2010-04-22** — Ancienne Belgique, Brussels, Belgium (Domino Festival). mentioned
+
+- 
+**2010-04-24** — DR Koncerthuset, Copenhagen, Denmark. mentioned
+
+- 
+**2010-04-26** — Oslo, Norway. The date happened. Announced as Sentrum Scene; eyewitness blogs say Rockefeller. Sister rooms in the same complex. Venue name not settled. confirmed as a night; venue unresolved
+
+- 
+**2010-04-27** — Ole Bull Scene, Bergen, Norway (Bergenfest). Calhoun at the laptop table. confirmed
+
+- 
+**2010-04-30** — Teatre Principal, Palma de Mallorca, Spain (Festival Alternatilla). MM3, not Yellow Pony. Start time 21:00 vs 22:00 unresolved. confirmed
+
+- 
+**2010-05-30** — Opera Theatre, Sydney Opera House. Vivid LIVE. confirmed
+
+- 
+**2010-11-20** and **2010-11-21** — Teatro Paulo Autran, Sesc Pinheiros, São Paulo. confirmed
+
+## Installations — not concerts
+
+- 
+**2012-01-27 – 2012-04-15** — University Art Museum, CSULB, Long Beach. Ambisonic playback of Gramercy 2009 night 2 (Zorn). Visitors stand in Lou’s, Ulrich’s, or Sarth’s onstage position. Recorded performer. Not documented as appearing live at the museum. confirmed
+
+- 
+**2015-11-21 – 2016-03-26** — Cranbrook Art Museum, Bloomfield Hills, Michigan. Restaging. 12 loudspeakers. After Reed’s death; playback only. confirmed
+
+[Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
+
+## Yellow Pony — Lou Reed and Laurie Anderson
+
+Continuum fingerboard and live resampling of their voices. Center of the stage, like a drummer.
+
+- 
+**2009-07-10** — Festival de la Porta Ferrada, Sant Feliu de Guíxols, Spain. Present at the press conference. confirmed
+
+- 
+**2009-07-12** — Plaza del Obradoiro, Santiago de Compostela, Spain. mentioned
+
+- 
+**2009-07-14** — Los Veranos de la Villa, Madrid, Spain. mentioned
+
+- 
+**2009-07-16** — DR Koncerthuset, Copenhagen, Denmark. Named onstage. confirmed
+
+- 
+**2009-07-18** — Palace Theatre, Manchester, UK. “electronic sound manipulator… between them” ([The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)). confirmed
+
+- 
+**2009-08-30** — Huvilateltta, Helsinki, Finland. mentioned
+
+- 
+**2009-09-02** — Jahrhunderthalle, Frankfurt, Germany. Electronics, named in program and reviews. confirmed
+
+- 
+**2009-09-04** — Salle Pleyel, Paris. Billed “claviers et électronique.” confirmed
+
+## Lucibel Crater
+
+Sarth — keys, bass, loops, Kyma, Continuum. Leah Coloff, Paul Chuffo.
+
+- **2007-02-27** — Knitting Factory main space, NYC, with Subtle. confirmed
+
+- **2007-03-08** — FatBaby, 112 Rivington St, NYC. confirmed
+
+- **2007-04-03** — The Delancey, NYC (WARPER). confirmed
+
+- **2008-11-23** — RAW-Tempel, Berlin. Lucibel Crater N.Y. Video *Holy, Then, Now — Berlin Live* shot here. confirmed
+
+- **2009-03-04** — The Delancey, NYC (WARPER). Downstairs 8:20, Sarth solo slot on the printed bill. confirmed as Sarth
+
+## Lou Reed song band, 2011
+
+Not MM3. Symbolic Sound: Sarth Calhoun on Continuum, multiple Kyma/Paca systems, Europe, July 2011. Announced lineup also: Kevin Hearn, Ulrich Krieger, Tony Smith, Rob Wasserman. Individual nights are announced; this page does not treat a conflicted Pescara row as fact.
+
+- 2011-07-02 Hop Farm, Paddock Wood · 07-04 Hammersmith Apollo, London · 07-05 Le Grand Rex, Paris · 07-08 Arena Civica, Milan (on some lists) · 07-10 Piazza Duomo, Pistoia · 07-16 Italia Wave, Lecce · 07-17 Les Vieilles Charrues, Carhaix · 07-18 Greek Theatre, Taormina · 07-22 Nuovo Festival Del Vittoriale, Gardone Riviera · 07-23 Piazza Matteotti, Sogliano al Rubicone · 07-25 Parco della Musica Cavea, Rome · 07-26 Les Nuits de Fourvière, Lyon. Sarth on the tour: confirmed. Nights: mentioned
+
+## Lulu
+
+Studio: electronics on *Lulu* (2011). Continuum drones on Reed’s pre-Metallica tapes (Fricke). No public live date with Calhoun was found. Reed+Metallica played television without a Calhoun credit. Wilson’s Berlin *Lulu* used the score; Sarth directed rehearsals in Berlin. Junior Dad began at Lou’s apartment with Rob Wasserman and Kyma.
+
+## Later
+
+- 
+**2014-04-09** — SOHO Gallery for Digital Arts, New York. Gralbum / Book of Sarth app launch. Exhibition, not a concert. confirmed
+
+[Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+
+- 
+**2019-03-13** — Cathedral of St. John the Divine, New York. Lou Reed Drones for Reed’s 77th birthday. Continuum / electronics, with Laurie Anderson, John Zorn, Stewart Hurwood, Stan Harrison, Shahzad Ismaily. confirmed
+
+- 
+**2019-08-03** — Prospect Park Bandshell, Brooklyn. International Lou Reed Tai Chi Day / BRIC Celebrate Brooklyn! Laurie Anderson, John Zorn, Sarth Calhoun, Stewart Hurwood. confirmed as billed
+
+- 
+**2023-03-02** — Brookfield Place Winter Garden. Lou Reed’s 81st birthday. Guest performance with Kevin Hearn, Shahzad Ismaily, Laurie Anderson, against Lou Reed’s Musical Drones (Stewart Hurwood). confirmed

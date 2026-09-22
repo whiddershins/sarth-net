@@ -32,18 +32,83 @@
       "@id": "https://www.sarth.net/#person",
       "name": "Sarth Calhoun",
       "url": "https://www.sarth.net/",
-      "jobTitle": "Founder of Third Wall Studio",
+      "description": "Founder of Third Wall Studio and creator of the Burlap app. Data engineer, artist and musician working in AI, based in Brooklyn. Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger, and the Lulu score written with Reed for Robert Wilson.",
+      "jobTitle": [
+        "Founder, Third Wall Studio",
+        "Data engineer",
+        "Composer"
+      ],
+      "image": "https://www.sarth.net/images/og.jpg",
       "homeLocation": {
         "@type": "Place",
-        "name": "Brooklyn"
+        "name": "Brooklyn, New York"
       },
+      "worksFor": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "knowsAbout": [
+        "Data engineering",
+        "Generative AI",
+        "Animation",
+        "Sound design",
+        "Append-only data pipelines",
+        "Snowflake external tables",
+        "SQL window functions",
+        "TypeScript",
+        "Node.js",
+        "DuckDB",
+        "Symbolic Sound Kyma",
+        "Haken Continuum Fingerboard",
+        "Live electronic processing",
+        "Visual reference prompting"
+      ],
       "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarth_Calhoun",
         "https://www.wikidata.org/wiki/Q7424654",
-        "https://x.com/noisegroove",
+        "https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f",
+        "https://www.discogs.com/artist/2310400-Sarth-Calhoun",
+        "https://www.allmusic.com/artist/sarth-calhoun-mn0002722328",
+        "https://rateyourmusic.com/artist/sarth_calhoun",
+        "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
+        "https://sarth.bandcamp.com",
+        "https://www.youtube.com/@whiddershins",
         "https://github.com/whiddershins",
+        "https://x.com/noisegroove",
+        "https://www.linkedin.com/in/sarth-calhoun/",
         "https://thirdwallstudio.com",
-        "https://burlap.app"
+        "https://burlap.app",
+        "https://bookofsarth.com"
       ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.sarth.net/#thirdwall",
+      "name": "Third Wall Studio",
+      "url": "https://thirdwallstudio.com",
+      "foundingDate": "2025-05",
+      "founder": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "description": "Animation studio making work with filmmakers and artists, mixing live action, animation and generative AI.",
+      "sameAs": [
+        "https://www.instagram.com/3rdwallstudio/",
+        "https://www.youtube.com/@burlap_app"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.sarth.net/#burlap",
+      "name": "Burlap",
+      "url": "https://burlap.app",
+      "applicationCategory": "DesignApplication",
+      "operatingSystem": "macOS",
+      "creator": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "description": "Native macOS infinite canvas for visual reference prompting."
     },
     {
       "@type": "CollectionPage",
@@ -71,6 +136,7 @@
       <a href="/conspiracies/">Conspiracies</a>
       <a href="/conspirators/">Conspirators</a>
       <a href="/sightings/">Sightings</a>
+      <a href="/work/">Work</a>
       <a href="/work/" aria-current="page">Work</a>
       <a href="/appearances/">Appearances</a>
       <a href="/devices/">Devices</a>
@@ -82,93 +148,93 @@
   <main class="page">
     <p class="kicker">Updated 22 Sep 2026</p>
     <h1>Work</h1>
-    <p>Newest first. Anything tagged <span class="tag">first-party</span> is my own statement with no public link behind it yet. Anything tagged <span class="tag">year?</span> still needs a date from me.</p>
+    <p>Newest first.</p>
 
     <section>
       <h2>Now</h2>
       <ul class="dates">
-        <li><p><strong>Third Wall Studio.</strong> I founded it in May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic. <span class="tag">confirmed</span></p>
+        <li><p><strong>Third Wall Studio.</strong> I founded it in May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic.</p>
           <p class="meta"><a href="https://thirdwallstudio.com">thirdwallstudio.com</a> · <a href="https://www.instagram.com/3rdwallstudio/">Instagram</a></p></li>
-        <li><p><strong>Burlap.</strong> A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. <span class="tag">confirmed</span></p>
+        <li><p><strong>Burlap.</strong> A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam.</p>
           <p class="meta"><a href="https://burlap.app">burlap.app</a> · <a href="https://www.youtube.com/watch?v=CP8939UdzSo">Introducing Burlap</a> · <a href="https://www.youtube.com/watch?v=UYN5ijezg3k">The AI canvas</a></p></li>
-        <li><p><strong>Ostinato.</strong> A new product. <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
-        <li><p><strong>High Shoulder.</strong> A new company. <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
-        <li><p><strong>Claude driving DuckDB over Burlap's JSON records</strong> of every genAI call, for spend by artist, project, and time frame. <span class="tag">confirmed</span></p>
+        <li><p><strong>Ostinato.</strong> A new product.</p></li>
+        <li><p><strong>High Shoulder.</strong> A new company.</p></li>
+        <li><p><strong>Claude driving DuckDB over Burlap's JSON records</strong> of every genAI call, for spend by artist, project, and time frame.</p>
           <p class="meta"><a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB, where have you been all my life</a></p></li>
       </ul>
     </section>
     <section>
       <h2>Animation, 2026</h2>
       <ul class="dates">
-        <li><p><strong>Dark Arts</strong>, teaser. August 2026. <span class="tag">confirmed</span></p>
+        <li><p><strong>Dark Arts</strong>, teaser. August 2026.</p>
           <p class="meta"><a href="https://www.youtube.com/shorts/v5ttYqHIbI8">Teaser</a></p></li>
-        <li><p><strong>Kubler-Ross Model</strong>, with Savas. Excerpt, August 2026. <span class="tag">confirmed</span></p>
+        <li><p><strong>Kubler-Ross Model</strong>, with Savas. Excerpt, August 2026.</p>
           <p class="meta"><a href="https://www.youtube.com/shorts/yxCoeTg-qR8">Excerpt</a> · <a href="https://thirdwallstudio.com">Third Wall</a></p></li>
-        <li><p><strong>Through the Brambles.</strong> May 2026. <span class="tag">confirmed</span></p>
+        <li><p><strong>Through the Brambles.</strong> May 2026.</p>
           <p class="meta"><a href="https://www.youtube.com/watch?v=ttWqwhzE-yA">Watch</a></p></li>
-        <li><p><strong>Watching Shadows</strong>, with Doron Lev. April 2026. <span class="tag">confirmed</span></p>
+        <li><p><strong>Watching Shadows</strong>, with Doron Lev. April 2026.</p>
           <p class="meta"><a href="https://www.youtube.com/watch?v=fghXNj-HdBg">Watch</a></p></li>
-        <li><p><strong>Pigeon Problems</strong>, with Doron Lev. February 2026. <span class="tag">confirmed</span></p>
+        <li><p><strong>Pigeon Problems</strong>, with Doron Lev. February 2026.</p>
           <p class="meta"><a href="https://www.youtube.com/watch?v=vs6KM7hFzxs">Watch</a></p></li>
-        <li><p><strong>Truck Stop Love</strong>, with Doron Lev. February 2026. <span class="tag">confirmed</span></p>
+        <li><p><strong>Truck Stop Love</strong>, with Doron Lev. February 2026.</p>
           <p class="meta"><a href="https://www.youtube.com/watch?v=gx9jIWSoEDQ">Watch</a></p></li>
-        <li><p><strong>Meatsuitz Family Vacay</strong>, with Jacob McCoy. January 2026. <span class="tag">confirmed</span></p>
+        <li><p><strong>Meatsuitz Family Vacay</strong>, with Jacob McCoy. January 2026.</p>
           <p class="meta"><a href="https://www.youtube.com/watch?v=nZ2LpA9P-LY">Watch</a></p></li>
-        <li><p><strong>The Trinary Matrix</strong>, with Jonathan Arons. <span class="tag">confirmed</span> <span class="tag">year?</span></p>
+        <li><p><strong>The Trinary Matrix</strong>, with Jonathan Arons.</p>
           <p class="meta"><a href="https://thirdwallstudio.com">Third Wall</a></p></li>
       </ul>
     </section>
     <section>
       <h2>Writing</h2>
       <ul class="dates">
-        <li><p><strong>An append-only pipeline on external tables</strong>, in five parts, plus pages on window functions and SQL. <span class="tag">confirmed</span></p>
+        <li><p><strong>An append-only pipeline on external tables</strong>, in five parts, plus pages on window functions and SQL.</p>
           <p class="meta"><a href="/transmissions/external-tables/">Series</a> · <a href="/transmissions/window-functions/">Window functions</a> · <a href="/transmissions/sql-as-the-data-language/">SQL</a></p></li>
-        <li><p><strong>Four essays on data work.</strong> Pandas and SQL, why Python is the default, modern Postgres, and Node against Rails. <span class="tag">confirmed</span></p>
+        <li><p><strong>Four essays on data work.</strong> Pandas and SQL, why Python is the default, modern Postgres, and Node against Rails.</p>
           <p class="meta"><a href="/transmissions/you-might-not-need-pandas/">You might not need Pandas</a> · <a href="/transmissions/why-python-is-the-default-for-data-work/">Why Python</a> · <a href="/transmissions/modern-postgres/">Postgres</a> · <a href="/transmissions/node-vs-rails/">Node vs Rails</a></p></li>
-        <li><p><strong>Visual Reference Prompting.</strong> July 2026. Using original images to push AI generation into new probability spaces. <span class="tag">confirmed</span></p>
+        <li><p><strong>Visual Reference Prompting.</strong> July 2026. Using original images to push AI generation into new probability spaces.</p>
           <p class="meta"><a href="/transmissions/visual-reference-prompting/">Essay</a> · <a href="https://www.youtube.com/watch?v=wroKqbXfx5g">Video</a></p></li>
       </ul>
     </section>
     <section>
       <h2>Data engineering</h2>
       <ul class="dates">
-        <li><p><strong>Cannabis cultivation automation.</strong> A large, bespoke grow house system, one of its kind, for a client in Pittsburg. <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
-        <li><p><strong>Data QA at a major media company.</strong> Ingesting from many friendly but not always consistent sources, and stopping bad information before it reached anyone's spreadsheet. <span class="tag">first-party</span> <span class="tag">year?</span></p>
+        <li><p><strong>Cannabis cultivation automation.</strong> A large, bespoke grow house system, one of its kind, for a client in Pittsburg.</p></li>
+        <li><p><strong>Data QA at a major media company.</strong> Ingesting from many friendly but not always consistent sources, and stopping bad information before it reached anyone's spreadsheet.</p>
           <p class="meta"><a href="/transmissions/you-might-not-need-pandas/">You might not need Pandas</a></p></li>
-        <li><p><strong>Satellite communications company.</strong> Engineering work. <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
-        <li><p><strong>blacktonature.org.</strong> I built the website. The domain no longer resolves. <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
+        <li><p><strong>Satellite communications company.</strong> Engineering work.</p></li>
+        <li><p><strong>blacktonature.org.</strong> I built the website. The domain no longer resolves.</p></li>
       </ul>
     </section>
     <section>
       <h2>Instruments and synthesis</h2>
       <ul class="dates">
-        <li><p><strong>About five kinds of synthesis,</strong> invented. <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
-        <li><p><strong>Devices.</strong> The Kyma, the Haken Continuum Fingerboard, and what they were used on. <span class="tag">confirmed</span></p>
+        <li><p><strong>About five kinds of synthesis,</strong> invented.</p></li>
+        <li><p><strong>Devices.</strong> The Kyma, the Haken Continuum Fingerboard, and what they were used on.</p>
           <p class="meta"><a href="/devices/">Devices</a></p></li>
-        <li><p><strong>Continuum against the Linnstrument</strong>, round one. March 2015. <span class="tag">confirmed</span></p>
+        <li><p><strong>Continuum against the Linnstrument</strong>, round one. March 2015.</p>
           <p class="meta"><a href="https://www.youtube.com/watch?v=8MqhRQI84Os">Watch</a></p></li>
       </ul>
     </section>
     <section>
       <h2>Music</h2>
       <ul class="dates">
-        <li><p><strong>Drone and noise shows,</strong> many of them, including the Cathedral of St. John the Divine. <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
-        <li><p><strong>A score for a film directed by Joe Kelly.</strong> <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
-        <li><p><strong>Burned House Horizon.</strong> <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
-        <li><p><strong>A video with Moldover.</strong> <span class="tag">first-party</span> <span class="tag">year?</span></p></li>
-        <li><p><strong>I Just Believe in Christmas.</strong> December 2015. It started as an argument with my neighbors about squirrels in the attic. Sung by Michael Patrick Flanagan Smith, words with Jesse Schoen, Virginia Piazza, and Doron Lev. <span class="tag">confirmed</span></p>
+        <li><p><strong>Drone and noise shows,</strong> many of them, including the Cathedral of St. John the Divine.</p></li>
+        <li><p><strong>A score for a film directed by Joe Kelly.</strong></p></li>
+        <li><p><strong>Burned House Horizon.</strong></p></li>
+        <li><p><strong>A video with Moldover.</strong></p></li>
+        <li><p><strong>I Just Believe in Christmas.</strong> December 2015. It started as an argument with my neighbors about squirrels in the attic. Sung by Michael Patrick Flanagan Smith, words with Jesse Schoen, Virginia Piazza, and Doron Lev.</p>
           <p class="meta"><a href="https://sarth.bandcamp.com/track/i-just-believe-in-christmas">Bandcamp</a> · <a href="https://www.youtube.com/watch?v=dXqYHjmmev0">Lyric video</a> · <a href="https://www.youtube.com/watch?v=v-u7Zmd6GSw">Acoustic demo</a></p></li>
-        <li><p><strong>Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat).</strong> November 2015. Improvised duets. The name came from Scott Hampton, who took it from a review of a Metal Machine Trio show. <span class="tag">confirmed</span></p>
+        <li><p><strong>Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat).</strong> November 2015. Improvised duets. The name came from Scott Hampton, who took it from a review of a Metal Machine Trio show.</p>
           <p class="meta"><a href="https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160">Apple Music</a> · <a href="https://www.youtube.com/watch?v=-Sq3OSve1Ls">Video</a></p></li>
-        <li><p><strong>Two duets with Sxip Shirey.</strong> 2015. Continuum against shruti box, and prepared guitar against Continuum. <span class="tag">confirmed</span></p>
+        <li><p><strong>Two duets with Sxip Shirey.</strong> 2015. Continuum against shruti box, and prepared guitar against Continuum.</p>
           <p class="meta"><a href="https://www.youtube.com/watch?v=V_ZinrLAl4I">Shruti box</a> · <a href="https://www.youtube.com/watch?v=_8jgV_4Xqmc">Prepared guitar</a></p></li>
-        <li><p><strong>The Book of Sarth.</strong> 2012 to 2013. A graphic novel and concept album as one iPad app, two and a half years in the making, and my first full-length solo release. <span class="tag">confirmed</span></p>
+        <li><p><strong>The Book of Sarth.</strong> 2012 to 2013. A graphic novel and concept album as one iPad app, two and a half years in the making, and my first full-length solo release.</p>
           <p class="meta"><a href="https://bookofsarth.com">bookofsarth.com</a> · <a href="https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album">The Verge</a> · <a href="https://gralbumcollective.com/titles.html">(gr)album</a></p></li>
-        <li><p><strong>Lulu.</strong> Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011, then the Lou Reed and Metallica album. <span class="tag">confirmed</span></p>
+        <li><p><strong>Lulu.</strong> Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011, then the Lou Reed and Metallica album.</p>
           <p class="meta"><a href="/conspiracies/lulu/">Lulu</a> · <a href="/conspiracies/junior-dad/">Junior Dad</a></p></li>
-        <li><p><strong>Metal Machine Trio</strong>, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through S&atilde;o Paulo in 2010, on Continuum and live processing. <span class="tag">confirmed</span></p>
+        <li><p><strong>Metal Machine Trio</strong>, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through S&atilde;o Paulo in 2010, on Continuum and live processing.</p>
           <p class="meta"><a href="/conspiracies/metal-machine-trio/">Metal Machine Trio</a> · <a href="/appearances/">Appearances</a></p></li>
-        <li><p><strong>Lucibel Crater.</strong> My band. <em>The Family Album</em>, 2008. <span class="tag">confirmed</span></p>
+        <li><p><strong>Lucibel Crater.</strong> My band. <em>The Family Album</em>, 2008.</p>
           <p class="meta"><a href="https://www.youtube.com/watch?v=nwfygEI3Mzs">Masticate</a> · <a href="https://www.youtube.com/watch?v=UOh4tKteFOs">Berlin live</a> · <a href="/sightings/">Sightings</a></p></li>
       </ul>
     </section>

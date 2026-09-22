@@ -32,17 +32,83 @@
       "@id": "https://www.sarth.net/#person",
       "name": "Sarth Calhoun",
       "url": "https://www.sarth.net/",
-      "jobTitle": "Founder of Third Wall Studio",
+      "description": "Founder of Third Wall Studio and creator of the Burlap app. Data engineer, artist and musician working in AI, based in Brooklyn. Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger, and the Lulu score written with Reed for Robert Wilson.",
+      "jobTitle": [
+        "Founder, Third Wall Studio",
+        "Data engineer",
+        "Composer"
+      ],
+      "image": "https://www.sarth.net/images/og.jpg",
       "homeLocation": {
         "@type": "Place",
-        "name": "Brooklyn"
+        "name": "Brooklyn, New York"
       },
+      "worksFor": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "knowsAbout": [
+        "Data engineering",
+        "Generative AI",
+        "Animation",
+        "Sound design",
+        "Append-only data pipelines",
+        "Snowflake external tables",
+        "SQL window functions",
+        "TypeScript",
+        "Node.js",
+        "DuckDB",
+        "Symbolic Sound Kyma",
+        "Haken Continuum Fingerboard",
+        "Live electronic processing",
+        "Visual reference prompting"
+      ],
       "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarth_Calhoun",
         "https://www.wikidata.org/wiki/Q7424654",
-        "https://x.com/noisegroove",
+        "https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f",
+        "https://www.discogs.com/artist/2310400-Sarth-Calhoun",
+        "https://www.allmusic.com/artist/sarth-calhoun-mn0002722328",
+        "https://rateyourmusic.com/artist/sarth_calhoun",
+        "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
+        "https://sarth.bandcamp.com",
+        "https://www.youtube.com/@whiddershins",
         "https://github.com/whiddershins",
-        "https://sarth.net"
+        "https://x.com/noisegroove",
+        "https://www.linkedin.com/in/sarth-calhoun/",
+        "https://thirdwallstudio.com",
+        "https://burlap.app",
+        "https://bookofsarth.com"
       ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.sarth.net/#thirdwall",
+      "name": "Third Wall Studio",
+      "url": "https://thirdwallstudio.com",
+      "foundingDate": "2025-05",
+      "founder": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "description": "Animation studio making work with filmmakers and artists, mixing live action, animation and generative AI.",
+      "sameAs": [
+        "https://www.instagram.com/3rdwallstudio/",
+        "https://www.youtube.com/@burlap_app"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.sarth.net/#burlap",
+      "name": "Burlap",
+      "url": "https://burlap.app",
+      "applicationCategory": "DesignApplication",
+      "operatingSystem": "macOS",
+      "creator": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "description": "Native macOS infinite canvas for visual reference prompting."
     },
     {
       "@type": "MusicGroup",
@@ -72,6 +138,7 @@
   ]
 }
   </script>
+  <link rel="alternate" type="text/markdown" href="/conspiracies/metal-machine-trio/index.md" title="Markdown">
   <link rel="stylesheet" href="/site.css">
 </head>
 <body>
@@ -104,12 +171,12 @@
     <section>
       <h2>Three different kinds of danger</h2>
       <p>Lou had guitar, electronics, and a small Continuum. Ulrich had tenor saxophone and live electronics. I played Continuum and processed the entire field through Kyma. Nobody was accompanying anybody else. Each of us could destabilize the music, and each had to leave enough room for the other two to do it.</p>
-      <p>The shows sold out quickly and REDCAT added a late set. We recorded the room with a matched pair of Schoeps microphones and a stereo Royer—ambient microphones, no direct lines—and released the performances essentially as they happened.</p>
+      <p>The shows sold out quickly and REDCAT added a late set. We recorded the room with a matched pair of Schoeps microphones and a stereo Royer, ambient microphones, no direct lines, and released the performances essentially as they happened.</p>
     </section>
     <section>
       <h2>The Creation of the Universe</h2>
       <p>Those Los Angeles nights became the double live album <em>The Creation of the Universe</em>. Afterward the trio played New York, Europe, Australia, and Brazil. “No songs. No vocals.” was useful poster copy, but it was not the meaning of the music. The meaning was three people building and wrecking a structure fast enough to remain inside it.</p>
-      <p class="source-note">Metal Machine Trio began at <a href="https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger">REDCAT</a> on 2–3 October 2008. The album documents those nights. A later <a href="https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/">installation</a> with the same title uses the second Gramercy performance from 24 April 2009, with John Zorn—not the REDCAT album tape.</p>
+      <p class="source-note">Metal Machine Trio began at <a href="https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger">REDCAT</a> on 2–3 October 2008. The album documents those nights. A later <a href="https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/">installation</a> with the same title uses the second Gramercy performance from 24 April 2009, with John Zorn, not the REDCAT album tape.</p>
     </section>
   </main>
 

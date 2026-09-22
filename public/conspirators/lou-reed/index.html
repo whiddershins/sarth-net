@@ -32,17 +32,83 @@
       "@id": "https://www.sarth.net/#person",
       "name": "Sarth Calhoun",
       "url": "https://www.sarth.net/",
-      "jobTitle": "Founder of Third Wall Studio",
+      "description": "Founder of Third Wall Studio and creator of the Burlap app. Data engineer, artist and musician working in AI, based in Brooklyn. Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger, and the Lulu score written with Reed for Robert Wilson.",
+      "jobTitle": [
+        "Founder, Third Wall Studio",
+        "Data engineer",
+        "Composer"
+      ],
+      "image": "https://www.sarth.net/images/og.jpg",
       "homeLocation": {
         "@type": "Place",
-        "name": "Brooklyn"
+        "name": "Brooklyn, New York"
       },
+      "worksFor": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "knowsAbout": [
+        "Data engineering",
+        "Generative AI",
+        "Animation",
+        "Sound design",
+        "Append-only data pipelines",
+        "Snowflake external tables",
+        "SQL window functions",
+        "TypeScript",
+        "Node.js",
+        "DuckDB",
+        "Symbolic Sound Kyma",
+        "Haken Continuum Fingerboard",
+        "Live electronic processing",
+        "Visual reference prompting"
+      ],
       "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarth_Calhoun",
         "https://www.wikidata.org/wiki/Q7424654",
-        "https://x.com/noisegroove",
+        "https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f",
+        "https://www.discogs.com/artist/2310400-Sarth-Calhoun",
+        "https://www.allmusic.com/artist/sarth-calhoun-mn0002722328",
+        "https://rateyourmusic.com/artist/sarth_calhoun",
+        "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
+        "https://sarth.bandcamp.com",
+        "https://www.youtube.com/@whiddershins",
         "https://github.com/whiddershins",
-        "https://sarth.net"
+        "https://x.com/noisegroove",
+        "https://www.linkedin.com/in/sarth-calhoun/",
+        "https://thirdwallstudio.com",
+        "https://burlap.app",
+        "https://bookofsarth.com"
       ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.sarth.net/#thirdwall",
+      "name": "Third Wall Studio",
+      "url": "https://thirdwallstudio.com",
+      "foundingDate": "2025-05",
+      "founder": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "description": "Animation studio making work with filmmakers and artists, mixing live action, animation and generative AI.",
+      "sameAs": [
+        "https://www.instagram.com/3rdwallstudio/",
+        "https://www.youtube.com/@burlap_app"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.sarth.net/#burlap",
+      "name": "Burlap",
+      "url": "https://burlap.app",
+      "applicationCategory": "DesignApplication",
+      "operatingSystem": "macOS",
+      "creator": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "description": "Native macOS infinite canvas for visual reference prompting."
     },
     {
       "@type": "Person",
@@ -72,6 +138,7 @@
   ]
 }
   </script>
+  <link rel="alternate" type="text/markdown" href="/conspirators/lou-reed/index.md" title="Markdown">
   <link rel="stylesheet" href="/site.css">
 </head>
 <body>
@@ -96,14 +163,19 @@
     <h1>Lou Reed</h1>
     <p class="lede">We started with Tai Chi and meditation music. From there came rock tours, deep noise, theater, and years of Lou asking for sounds that did not have names yet.</p>
 
+
+    <section>
+      <h2>Who Lou Reed was</h2>
+      <p>Lou Reed (1942 to 2013) was an American songwriter, guitarist and singer. He co-founded the Velvet Underground in 1964 and wrote most of their songs, then made solo records for forty years, among them <em>Transformer</em>, <em>Berlin</em>, <em>Metal Machine Music</em>, <em>The Blue Mask</em>, <em>New York</em>, <em>Songs for Drella</em> with John Cale, and <em>Magic and Loss</em>. He was inducted into the Rock and Roll Hall of Fame with the Velvet Underground in 1996 and as a solo artist in 2015. His last decade included <em>Hudson River Wind Meditations</em>, the Metal Machine Trio, the <em>Lulu</em> score for Robert Wilson, and the <em>Lulu</em> album with Metallica.</p>
+    </section>
     <section>
       <h2>Before the noise</h2>
-      <p>Lou and I met through a shared love of Tai Chi. The first sustained music we made together was meditation music—drones and melody, improvised, revised, edited, remixed, and transformed over several years. That quiet work is the root of everything that followed.</p>
+      <p>Lou and I met through a shared love of Tai Chi. The first sustained music we made together was meditation music, drones and melody, improvised, revised, edited, remixed, and transformed over several years. That quiet work is the root of everything that followed.</p>
       <p>It meant that when the projects became loud, the listening underneath them was already there. The touring band, Metal Machine Trio, and <em>Lulu</em> look like separate chapters from the outside. To me, the line between them is much less tidy.</p>
     </section>
     <section>
       <h2>Lou’s imagination</h2>
-      <p>Lou made the decisions about his bands. He invited me because he wanted fresh sounds and wanted the music to feel modern. My job was not a normal instrumental chair. When he wanted something wild—or just something outside the vocabulary the band already had—I was there to find it.</p>
+      <p>Lou made the decisions about his bands. He invited me because he wanted fresh sounds and wanted the music to feel modern. My job was not a normal instrumental chair. When he wanted something wild, or just something outside the vocabulary the band already had, I was there to find it.</p>
       <p>Tony Diodore later called me “Lou’s imagination.” That feels accurate. Lou could ask for a result before either of us knew what machine, gesture, or accident would produce it.</p>
     </section>
     <section>

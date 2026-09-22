@@ -32,17 +32,83 @@
       "@id": "https://www.sarth.net/#person",
       "name": "Sarth Calhoun",
       "url": "https://www.sarth.net/",
-      "jobTitle": "Founder of Third Wall Studio",
+      "description": "Founder of Third Wall Studio and creator of the Burlap app. Data engineer, artist and musician working in AI, based in Brooklyn. Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger, and the Lulu score written with Reed for Robert Wilson.",
+      "jobTitle": [
+        "Founder, Third Wall Studio",
+        "Data engineer",
+        "Composer"
+      ],
+      "image": "https://www.sarth.net/images/og.jpg",
       "homeLocation": {
         "@type": "Place",
-        "name": "Brooklyn"
+        "name": "Brooklyn, New York"
       },
+      "worksFor": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "knowsAbout": [
+        "Data engineering",
+        "Generative AI",
+        "Animation",
+        "Sound design",
+        "Append-only data pipelines",
+        "Snowflake external tables",
+        "SQL window functions",
+        "TypeScript",
+        "Node.js",
+        "DuckDB",
+        "Symbolic Sound Kyma",
+        "Haken Continuum Fingerboard",
+        "Live electronic processing",
+        "Visual reference prompting"
+      ],
       "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarth_Calhoun",
         "https://www.wikidata.org/wiki/Q7424654",
-        "https://x.com/noisegroove",
+        "https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f",
+        "https://www.discogs.com/artist/2310400-Sarth-Calhoun",
+        "https://www.allmusic.com/artist/sarth-calhoun-mn0002722328",
+        "https://rateyourmusic.com/artist/sarth_calhoun",
+        "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
+        "https://sarth.bandcamp.com",
+        "https://www.youtube.com/@whiddershins",
         "https://github.com/whiddershins",
-        "https://sarth.net"
+        "https://x.com/noisegroove",
+        "https://www.linkedin.com/in/sarth-calhoun/",
+        "https://thirdwallstudio.com",
+        "https://burlap.app",
+        "https://bookofsarth.com"
       ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.sarth.net/#thirdwall",
+      "name": "Third Wall Studio",
+      "url": "https://thirdwallstudio.com",
+      "foundingDate": "2025-05",
+      "founder": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "description": "Animation studio making work with filmmakers and artists, mixing live action, animation and generative AI.",
+      "sameAs": [
+        "https://www.instagram.com/3rdwallstudio/",
+        "https://www.youtube.com/@burlap_app"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.sarth.net/#burlap",
+      "name": "Burlap",
+      "url": "https://burlap.app",
+      "applicationCategory": "DesignApplication",
+      "operatingSystem": "macOS",
+      "creator": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "description": "Native macOS infinite canvas for visual reference prompting."
     },
     {
       "@type": "MusicRecording",
@@ -72,6 +138,7 @@
   ]
 }
   </script>
+  <link rel="alternate" type="text/markdown" href="/conspiracies/junior-dad/index.md" title="Markdown">
   <link rel="stylesheet" href="/site.css">
 </head>
 <body>
@@ -94,24 +161,45 @@
     <p class="breadcrumbs"><a href="/conspiracies/">Conspiracies</a> / Junior Dad</p>
     <p class="kicker">Conspiracy</p>
     <h1>“Junior Dad”</h1>
-    <p class="lede">The nineteen-minute end of <em>Lulu</em> began as a practical demonstration: Rob Wasserman bowing electric upright while I processed him through Kyma in Lou’s apartment.</p>
 
+    <section class="opener">
+      <p>“Junior Dad” is the closing track of <em><a href="/conspiracies/lulu/">Lulu</a></em>, the album <a href="/conspirators/lou-reed/">Lou Reed</a> and <a href="https://en.wikipedia.org/wiki/Metallica">Metallica</a> released on 31 October 2011. It runs about nineteen and a half minutes, the longest piece on the record, and the last six or seven minutes are an instrumental drift of sustained strings after the singing has stopped. Reed wrote the words; the music grew out of a recording made at his apartment before the album existed.</p>
+      <p><em>Lulu</em> came out of the score Reed wrote for <a href="https://en.wikipedia.org/wiki/Robert_Wilson_(director)">Robert Wilson</a>’s staging of <a href="https://en.wikipedia.org/wiki/Frank_Wedekind">Frank Wedekind</a>’s Lulu plays at the <a href="https://en.wikipedia.org/wiki/Berliner_Ensemble">Berliner Ensemble</a>, which premiered in April 2011. The album was widely panned on release. “Junior Dad” is the track that even hostile reviewers tended to exempt.</p>
+    </section>
+    <section>
+      <div class="row3">
+        <div class="w2">
+          <div class="embed audio">
+            <iframe src="https://open.spotify.com/embed/track/2zg2zQsXs0o6hCH9MTkZzw" title="Junior Dad on Spotify" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+          </div>
+        </div>
+        <div class="w1">
+          <p class="excerpt"><span class="label">Listen</span>Nineteen and a half minutes. Signed in to Spotify you get the whole thing; otherwise a thirty second preview. Also on <a href="https://music.apple.com/us/album/junior-dad/467890760?i=467890784">Apple Music</a>.</p>
+        </div>
+      </div>
+    </section>
     <section>
       <h2>A stage test</h2>
-      <p>Lou invited me over to show him what live processing might be like onstage. Rob Wasserman was there with his electric upright. He bowed; I listened through Kyma and began changing the sound around him.</p>
-      <p>It was the first time Rob and I played together. I had known his records since I was a young bassist, so the source material was not abstract to me. I was processing the sound of one of the people who had taught me what a bass could be.</p>
+      <p>Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be <a href="/conspirators/rob-wasserman/">Rob Wasserman</a> bowing the electric upright, which I processed through <a href="/devices/">Kyma</a>. We recorded that first session, and it ended up being the basis for “Junior Dad.” Rob’s bass part is what the track was built on.</p>
+      <p>It was the first time I played with Rob. My first instrument was the bass, and Rob was always one of my heroes. I became aware of him when his records, <em>Solo</em>, <em>Duo</em>, and <em>Trio</em>, redefined upright bass for me. I knew he was one of the people <a href="https://en.wikipedia.org/wiki/Ned_Steinberger">Ned Steinberger</a> worked with in creating those amazing electric uprights, which was Rob’s signature instrument.</p>
     </section>
     <section>
-      <h2>Keep the machine listening</h2>
-      <p>Live processing is a conversation with consequences. If Rob changed pressure, pitch, or bow speed, the system gave me different material; what I did changed what he heard and therefore what he played next. The useful unit was not bass plus electronics. It was the loop between us.</p>
-      <p>We recorded that first session. The recording became the basis for “Junior Dad,” the long closing track on <em>Lulu</em>. Later sessions and Metallica transformed the piece, but the seed was already there: Rob’s bowed string stretched into an environment.</p>
+      <h2>The guitar part</h2>
+      <div class="row3">
+        <div class="w2">
+          <p>When they dropped that guitar part just right on top of the piece, everything worked. It was like the first edit, just drop the guitar part right in. It was that Metallica guitar part. Pretty much everybody was crying in that room.</p>
+        </div>
+        <blockquote class="pull w1">
+          <p>You should have seen grown men cry out in the studio when we were recording it. I&rsquo;ve been with <a href="https://en.wikipedia.org/wiki/James_Hetfield">James Hetfield</a> and <a href="https://en.wikipedia.org/wiki/Kirk_Hammett">Kirk Hammett</a> for close to 20 years and I&rsquo;ve never seen them cry before.</p>
+          <cite><a href="https://en.wikipedia.org/wiki/Lars_Ulrich">Lars Ulrich</a> of Metallica, on <a href="https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/">The Howard Stern Show, 10 Apr 2012</a></cite>
+        </blockquote>
+      </div>
     </section>
     <section>
-      <h2>Nineteen minutes later</h2>
-      <p>On the album, “Junior Dad” arrives after everything else has spent itself. It is not an appendix. It changes the emotional scale of the record—less an ending than a landscape left behind when the characters are gone.</p>
-      <p>Then Metallica dropped that guitar part right on top of the piece, and everything worked. It was basically the first edit: put the guitar there, and suddenly the whole thing was present. Pretty much everybody in the room was crying.</p>
-      <p>For me it also preserves a first meeting in sound. Before the tours, before the finished record, there was Rob in Lou’s apartment, being generous enough to play into an unfamiliar process and hear where it went.</p>
-      <p class="source-note">Sarth described this session in his 2016 remembrance of Rob. Surviving 2011 correspondence also discusses whether Rob’s original “Junior Dad” bass part remained in the evolving album track.</p>
+      <h2>What happened next</h2>
+      <p>The broadcaster <a href="https://en.wikipedia.org/wiki/Howard_Stern">Howard Stern</a> had dismissed <em>Lulu</em> when it came out, then changed his mind because of this track. On air in January 2012: <q>I listened to it at least ten times over. It is fantastic. The whole thing is just very moving, [I was moved] to tears. And the music is as good as any symphony. I think if you sit and listen to it for 19 minutes it will just wash over you. I’m telling you this is a great song.</q> He came back to it in April: <q>I started crying. It got me. I loved it, no bullshit!</q></p>
+      <p class="meta"><a href="https://ultimateclassicrock.com/howard-stern-junior-dad-defense/">Ultimate Classic Rock, 1 Feb 2012</a> · <a href="https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/">howardstern.com, 10 Apr 2012</a></p>
+      <p class="source-note">Sarth’s account of the apartment session is verbatim from a letter he wrote on 30 June 2016, the day after Rob Wasserman died.</p>
     </section>
   </main>
 

@@ -32,17 +32,83 @@
       "@id": "https://www.sarth.net/#person",
       "name": "Sarth Calhoun",
       "url": "https://www.sarth.net/",
-      "jobTitle": "Founder of Third Wall Studio",
+      "description": "Founder of Third Wall Studio and creator of the Burlap app. Data engineer, artist and musician working in AI, based in Brooklyn. Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger, and the Lulu score written with Reed for Robert Wilson.",
+      "jobTitle": [
+        "Founder, Third Wall Studio",
+        "Data engineer",
+        "Composer"
+      ],
+      "image": "https://www.sarth.net/images/og.jpg",
       "homeLocation": {
         "@type": "Place",
-        "name": "Brooklyn"
+        "name": "Brooklyn, New York"
       },
+      "worksFor": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "knowsAbout": [
+        "Data engineering",
+        "Generative AI",
+        "Animation",
+        "Sound design",
+        "Append-only data pipelines",
+        "Snowflake external tables",
+        "SQL window functions",
+        "TypeScript",
+        "Node.js",
+        "DuckDB",
+        "Symbolic Sound Kyma",
+        "Haken Continuum Fingerboard",
+        "Live electronic processing",
+        "Visual reference prompting"
+      ],
       "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarth_Calhoun",
         "https://www.wikidata.org/wiki/Q7424654",
-        "https://x.com/noisegroove",
+        "https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f",
+        "https://www.discogs.com/artist/2310400-Sarth-Calhoun",
+        "https://www.allmusic.com/artist/sarth-calhoun-mn0002722328",
+        "https://rateyourmusic.com/artist/sarth_calhoun",
+        "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
+        "https://sarth.bandcamp.com",
+        "https://www.youtube.com/@whiddershins",
         "https://github.com/whiddershins",
-        "https://sarth.net"
+        "https://x.com/noisegroove",
+        "https://www.linkedin.com/in/sarth-calhoun/",
+        "https://thirdwallstudio.com",
+        "https://burlap.app",
+        "https://bookofsarth.com"
       ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.sarth.net/#thirdwall",
+      "name": "Third Wall Studio",
+      "url": "https://thirdwallstudio.com",
+      "foundingDate": "2025-05",
+      "founder": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "description": "Animation studio making work with filmmakers and artists, mixing live action, animation and generative AI.",
+      "sameAs": [
+        "https://www.instagram.com/3rdwallstudio/",
+        "https://www.youtube.com/@burlap_app"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.sarth.net/#burlap",
+      "name": "Burlap",
+      "url": "https://burlap.app",
+      "applicationCategory": "DesignApplication",
+      "operatingSystem": "macOS",
+      "creator": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "description": "Native macOS infinite canvas for visual reference prompting."
     },
     {
       "@type": "CollectionPage",
@@ -55,6 +121,7 @@
   ]
 }
   </script>
+  <link rel="alternate" type="text/markdown" href="/conspiracies/index.md" title="Markdown">
   <link rel="stylesheet" href="/site.css">
 </head>
 <body>
@@ -76,13 +143,18 @@
   <main class="page directory">
     <p class="kicker">Projects</p>
     <h1>Conspiracies</h1>
-    <p class="lede">Bands, tours, records, theater pieces, films, and machines. The point is not a list of credits. Each page is about how the thing came together and what happened once it did.</p>
+    <p class="lede">Bands, tours, records, theater pieces, films, and machines.</p>
     <ol class="story-list">
       <li><a href="/conspiracies/lou-reed-song-band/"><strong>Lou Reed’s song band</strong><span>Lou wanted fresh sounds. Sarth became the place he went for them.</span></a></li>
       <li><a href="/conspiracies/lou-reed-spring-2008-tour/"><strong>Lou Reed spring 2008 U.S. tour</strong><span>Northampton, a bus south, Beale Street, and the beginning of the band.</span></a></li>
       <li><a href="/conspiracies/metal-machine-trio/"><strong>Metal Machine Trio</strong><span>Three people walked into REDCAT without a band name and came out with one.</span></a></li>
       <li><a href="/conspiracies/lulu/"><strong><em>Lulu</em></strong><span>Interstitial music at Lou’s house became a theater score, then something else again with Metallica.</span></a></li>
-      <li><a href="/conspiracies/junior-dad/"><strong>“Junior Dad”</strong><span>A bowed electric upright, Kyma, and a first session that refused to stay small.</span></a></li>
+      <li><a href="/conspiracies/lou-reed-2011-european-tour/"><strong>Lou Reed’s 2011 European tour</strong><span>Eight people onstage across the festival summer. Two posts from the road are most of what survives.</span></a></li>
+      <li><a href="/conspiracies/creation-of-the-universe-ambisonic/"><strong><em>The Creation of the Universe</em>, ambisonic installation</strong><span>A trio recording turned into a room you walk into. He has never heard it.</span></a></li>
+      <li><a href="/conspiracies/reflections-vol-1/"><strong><em>Reflections, Vol. 1</em></strong><span>Improvised duets, named from a line in a review of a Metal Machine Trio show.</span></a></li>
+      <li><a href="/conspiracies/i-just-believe-in-christmas/"><strong>“I Just Believe in Christmas”</strong><span>An argument with the neighbors about squirrels in the attic became a song.</span></a></li>
+      <li><a href="/conspiracies/awakening-to-blacklist/"><strong>“Awakening (To Blacklist)”</strong><span>Sixty-cycle hum off a badly plugged-in cable, turned into a melody.</span></a></li>
+      <li><a href="/conspiracies/junior-dad/"><strong>“Junior Dad”</strong><span>The nineteen-minute closing track of Lou Reed and Metallica’s <em>Lulu</em>, 2011. Built from a recording made at Reed’s apartment before the album existed.</span></a></li>
     </ol>
   </main>
 

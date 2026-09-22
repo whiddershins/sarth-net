@@ -99,6 +99,7 @@
 <p>I've been building Burlap, a local-first macOS app for visual AI work, and it keeps JSON records of every genAI call it makes.</p>
 <p>At some point I wanted to know stuff like how much a particular artist spent on a particular project, in a particular time frame. Normally that means loading everything into a database and setting up tables, and probably a view built for that exact question.</p>
 <p>I didn't do any of that. I just ask Claude, and Claude uses <a href="https://duckdb.org/">DuckDB</a> on the JSON files (from outside the app, for now).</p>
+<p>I had always heard about DuckDB but never had the pleasure of using it until one of the LLMs turned me on to it. It's just so badass. Such a great combination.</p>
 <p>Here's a simplified version of what the records look like:</p>
 <pre><code class="language-json">{&quot;created_at&quot;:&quot;2026-09-01T14:02:11Z&quot;,&quot;artist&quot;:&quot;maya&quot;,&quot;project&quot;:&quot;album-cover&quot;,&quot;model&quot;:&quot;image-model-a&quot;,&quot;cost_usd&quot;:0.04}
 {&quot;created_at&quot;:&quot;2026-09-01T16:30:00Z&quot;,&quot;artist&quot;:&quot;dev&quot;,&quot;project&quot;:&quot;music-video&quot;,&quot;model&quot;:&quot;video-model-b&quot;,&quot;cost_usd&quot;:1.20}
@@ -121,7 +122,7 @@ ORDER BY spent DESC;
 <p>So to be clear, I never created a table, never imported anything, never even wrote the SQL, and nobody (meaning me) ever sat down and thought "someday I'm going to want spend per artist per project per month, better make a view for that." DuckDB looked at the JSON, figured out on its own that <code>created_at</code> is a timestamp and <code>cost_usd</code> is a number, and just... answered. Which is what a database does, except there isn't one here. It's a folder of files.</p>
 <p>And tomorrow when I want spend by model, or by day, or whatever I get curious about next, that's just a different question.</p>
 <h2>It also runs my whole pipeline pattern</h2>
-<p>In <a href="#">the external tables tutorial</a> I wrote about an append-only pipeline where partners send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested <code>SPLIT_PART</code> to get the date out of the file path, and a refresh every time a file landed.</p>
+<p>In <a href="/transmissions/external-tables/">the external tables tutorial</a> I wrote about an append-only pipeline where partners send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested <code>SPLIT_PART</code> to get the date out of the file path, and a refresh every time a file landed.</p>
 <p>In DuckDB it's this:</p>
 <pre><code class="language-sql">CREATE VIEW acme_delivery AS
 SELECT * FROM read_csv(

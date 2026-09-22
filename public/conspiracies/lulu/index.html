@@ -32,17 +32,83 @@
       "@id": "https://www.sarth.net/#person",
       "name": "Sarth Calhoun",
       "url": "https://www.sarth.net/",
-      "jobTitle": "Founder of Third Wall Studio",
+      "description": "Founder of Third Wall Studio and creator of the Burlap app. Data engineer, artist and musician working in AI, based in Brooklyn. Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger, and the Lulu score written with Reed for Robert Wilson.",
+      "jobTitle": [
+        "Founder, Third Wall Studio",
+        "Data engineer",
+        "Composer"
+      ],
+      "image": "https://www.sarth.net/images/og.jpg",
       "homeLocation": {
         "@type": "Place",
-        "name": "Brooklyn"
+        "name": "Brooklyn, New York"
       },
+      "worksFor": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "knowsAbout": [
+        "Data engineering",
+        "Generative AI",
+        "Animation",
+        "Sound design",
+        "Append-only data pipelines",
+        "Snowflake external tables",
+        "SQL window functions",
+        "TypeScript",
+        "Node.js",
+        "DuckDB",
+        "Symbolic Sound Kyma",
+        "Haken Continuum Fingerboard",
+        "Live electronic processing",
+        "Visual reference prompting"
+      ],
       "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarth_Calhoun",
         "https://www.wikidata.org/wiki/Q7424654",
-        "https://x.com/noisegroove",
+        "https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f",
+        "https://www.discogs.com/artist/2310400-Sarth-Calhoun",
+        "https://www.allmusic.com/artist/sarth-calhoun-mn0002722328",
+        "https://rateyourmusic.com/artist/sarth_calhoun",
+        "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
+        "https://sarth.bandcamp.com",
+        "https://www.youtube.com/@whiddershins",
         "https://github.com/whiddershins",
-        "https://sarth.net"
+        "https://x.com/noisegroove",
+        "https://www.linkedin.com/in/sarth-calhoun/",
+        "https://thirdwallstudio.com",
+        "https://burlap.app",
+        "https://bookofsarth.com"
       ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.sarth.net/#thirdwall",
+      "name": "Third Wall Studio",
+      "url": "https://thirdwallstudio.com",
+      "foundingDate": "2025-05",
+      "founder": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "description": "Animation studio making work with filmmakers and artists, mixing live action, animation and generative AI.",
+      "sameAs": [
+        "https://www.instagram.com/3rdwallstudio/",
+        "https://www.youtube.com/@burlap_app"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.sarth.net/#burlap",
+      "name": "Burlap",
+      "url": "https://burlap.app",
+      "applicationCategory": "DesignApplication",
+      "operatingSystem": "macOS",
+      "creator": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#thirdwall"
+      },
+      "description": "Native macOS infinite canvas for visual reference prompting."
     },
     {
       "@type": "CreativeWork",
@@ -72,6 +138,7 @@
   ]
 }
   </script>
+  <link rel="alternate" type="text/markdown" href="/conspiracies/lulu/index.md" title="Markdown">
   <link rel="stylesheet" href="/site.css">
 </head>
 <body>
@@ -99,7 +166,7 @@
     <section>
       <h2>Go over to Lou’s house</h2>
       <p>The assignment sounded small: make some “interstitial” music for Robert Wilson’s production of Frank Wedekind’s <em>Lulu</em> at the Berliner Ensemble. I went to Lou’s house. The interstitial music kept opening into larger pieces; in my account, it turned into co-writing eight more songs with Lou.</p>
-      <p>The original tapes were spare and strange: Lou’s guitar, long cello drones, and Continuum. This was before Metallica. That was the material we made before Berlin—not the instrumentation of the band that later played the production.</p>
+      <p>The original tapes were spare and strange: Lou’s guitar, long cello drones, and Continuum. This was before Metallica. That was the material we made before Berlin, not the instrumentation of the band that later played the production.</p>
     </section>
     <section>
       <h2>Berlin without Lou</h2>
@@ -109,7 +176,7 @@
     </section>
     <section>
       <h2>Then Metallica heard it</h2>
-      <p>After Berlin, we took the material to San Francisco. Metallica did not decorate the score; they completely reinterpreted it. The scale, weight, and attack changed. The connective tissue remained the earlier tapes and songs—the quieter, otherworldly object underneath the album.</p>
+      <p>After Berlin, we took the material to San Francisco. Metallica did not decorate the score; they completely reinterpreted it. The scale, weight, and attack changed. The connective tissue remained the earlier tapes and songs, the quieter, otherworldly object underneath the album.</p>
       <p>That is the version of <em>Lulu</em> I want remembered: not one album credit, but a work that crossed Lou’s apartment, a Berlin rehearsal room, Robert Wilson’s stage, and Metallica’s studio without staying the same in any two places.</p>
       <p class="source-note"><a href="https://robertwilson.com/lulu">Robert Wilson’s production</a> premiered 12 April 2011. The <a href="https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu">Festival d’Automne program</a> documents the live ensemble; David Fricke documented the earlier Continuum-and-cello tapes in <a href="https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/"><em>Rolling Stone</em></a>.</p>
     </section>

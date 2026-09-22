@@ -10,7 +10,9 @@ Conspiracy
 
 # Lou Reed’s song band
 
-Lou did not hire me to reproduce a keyboard part. He invited me because he wanted the familiar songs to have somewhere unfamiliar to go.
+Lou Reed’s song band was the touring group [Lou Reed](/conspirators/lou-reed/) used for his song repertoire, as opposed to instrumental projects such as [Metal Machine Trio](/conspiracies/metal-machine-trio/).
+
+Sarth Calhoun joined in 2008, playing the [Continuum Fingerboard](/devices/) and processing the other musicians live. He was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
 
 ## The invitation
 

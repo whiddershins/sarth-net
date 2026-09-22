@@ -111,7 +111,7 @@ Lineage
 
 ## Also
 
-Before the studio and Burlap: Number19 with Leah Coloff, Tony Diodore, and Marcus Righter; Lucibel Crater with Coloff and Paul Chuffo; and [Book of Sarth](https://bookofsarth.com), the first gralbum. With Lou Reed and Ulrich Krieger, I made [Metal Machine Trio](/conspiracies/metal-machine-trio/) and recorded *The Creation of the Universe* over two nights at REDCAT. Lou and I later wrote the original [*Lulu* score](/conspiracies/lulu/) for Robert Wilson’s Berliner Ensemble production; the Metallica album grew from those recordings. [Junior Dad](/conspiracies/junior-dad/) began in Lou’s apartment, with [Rob Wasserman](/conspirators/rob-wasserman/)’s electric upright running through Kyma. I still use Kyma and the Haken Continuum.
+Before the studio and Burlap: Number19 with Leah Coloff, Tony Diodore, and Marcus Righter; Lucibel Crater with Coloff and Paul Chuffo; and [Book of Sarth](https://bookofsarth.com), the first gralbum. With [Lou Reed](/conspirators/lou-reed/) and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger), I made [Metal Machine Trio](/conspiracies/metal-machine-trio/) and recorded *The Creation of the Universe* over two nights at REDCAT. Lou and I later wrote the original [*Lulu* score](/conspiracies/lulu/) for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))’s [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble) production; the [Metallica](https://en.wikipedia.org/wiki/Metallica) album grew from those recordings. [Junior Dad](/conspiracies/junior-dad/) began in Lou’s apartment, with [Rob Wasserman](/conspirators/rob-wasserman/)’s electric upright running through Kyma. I still use Kyma and the Haken Continuum.
 
 [Appearances](/appearances/)
 [Sightings](/sightings/)
@@ -125,133 +125,143 @@ Before the studio and Burlap: Number19 with Leah Coloff, Tony Diodore, and Marcu
 
 https://www.sarth.net/work/ · Updated 22 Sep 2026 · Published 22 Sep 2026 · Sarth Calhoun
 
-Newest first. Anything tagged first-party is my own account, with no public link behind it yet.
+Newest first.
 
 ## Now
 
-- **Third Wall Studio.** I founded it in May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic. confirmed
+- **Third Wall Studio.** I founded it in May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic.
 
 [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/)
 
-- **Burlap.** A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. confirmed
+- **Burlap.** A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam.
 
 [burlap.app](https://burlap.app) · [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo) · [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 
-- **Ostinato.** A new product. first-party year?
+- **Ostinato.** A new product.
 
-- **High Shoulder.** A new company. first-party year?
+- **High Shoulder.** A new company.
 
-- **Claude driving DuckDB over Burlap's JSON records** of every genAI call, for spend by artist, project, and time frame. confirmed
+- **Claude driving DuckDB over Burlap's JSON records** of every genAI call, for spend by artist, project, and time frame.
 
 [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 
 ## Animation, 2026
 
-- **Dark Arts**, teaser. August 2026. confirmed
+- [Watching Shadows
+
+with Doron Lev · April 2026
+
+](https://www.youtube.com/watch?v=fghXNj-HdBg)
+
+- [Through the Brambles
+
+May 2026
+
+](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+
+- [Pigeon Problems
+
+with Doron Lev · February 2026
+
+](https://www.youtube.com/watch?v=vs6KM7hFzxs)
+
+- [Truck Stop Love
+
+with Doron Lev · February 2026
+
+](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
+
+- [Meatsuitz Family Vacay
+
+with Jacob McCoy · January 2026
+
+](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+
+- **Dark Arts**, teaser. August 2026.
 
 [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
 
-- **Kubler-Ross Model**, with Savas. Excerpt, August 2026. confirmed
+- **Kubler-Ross Model**, with Savas. Excerpt, August 2026.
 
 [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8) · [Third Wall](https://thirdwallstudio.com)
 
-- **Through the Brambles.** May 2026. confirmed
-
-[Watch](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-
-- **Watching Shadows**, with Doron Lev. April 2026. confirmed
-
-[Watch](https://www.youtube.com/watch?v=fghXNj-HdBg)
-
-- **Pigeon Problems**, with Doron Lev. February 2026. confirmed
-
-[Watch](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-
-- **Truck Stop Love**, with Doron Lev. February 2026. confirmed
-
-[Watch](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-
-- **Meatsuitz Family Vacay**, with Jacob McCoy. January 2026. confirmed
-
-[Watch](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
-
-- **The Trinary Matrix**, with Jonathan Arons. confirmed year?
+- **The Trinary Matrix**, with Jonathan Arons.
 
 [Third Wall](https://thirdwallstudio.com)
 
 ## Writing
 
-- **An append-only pipeline on external tables**, in five parts, plus pages on window functions and SQL. confirmed
+- **An append-only pipeline on external tables**, in five parts, plus pages on window functions and SQL.
 
 [Series](/transmissions/external-tables/) · [Window functions](/transmissions/window-functions/) · [SQL](/transmissions/sql-as-the-data-language/)
 
-- **Four essays on data work.** Pandas and SQL, why Python is the default, modern Postgres, and Node against Rails. confirmed
+- **Four essays on data work.** Pandas and SQL, why Python is the default, modern Postgres, and Node against Rails.
 
 [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python](/transmissions/why-python-is-the-default-for-data-work/) · [Postgres](/transmissions/modern-postgres/) · [Node vs Rails](/transmissions/node-vs-rails/)
 
-- **Visual Reference Prompting.** July 2026. Using original images to push AI generation into new probability spaces. confirmed
+- **Visual Reference Prompting.** July 2026. Using original images to push AI generation into new probability spaces.
 
 [Essay](/transmissions/visual-reference-prompting/) · [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
 
 ## Data engineering
 
-- **Cannabis cultivation automation.** A large, bespoke grow house system, one of its kind, for a client in Pittsburg. first-party year?
+- **Cannabis cultivation automation.** A large, bespoke grow house system, one of its kind, for a client in Pittsburg.
 
-- **Data QA at a major media company.** Ingesting from many friendly but not always consistent sources, and stopping bad information before it reached anyone's spreadsheet. first-party year?
+- **Data QA at a major media company.** Ingesting from many friendly but not always consistent sources, and stopping bad information before it reached anyone's spreadsheet.
 
 [You might not need Pandas](/transmissions/you-might-not-need-pandas/)
 
-- **Satellite communications company.** Engineering work. first-party year?
+- **Satellite communications company.** Engineering work.
 
-- **blacktonature.org.** I built the website. The domain no longer resolves. first-party year?
+- **blacktonature.org.** I built the website. The domain no longer resolves.
 
 ## Instruments and synthesis
 
-- **About five kinds of synthesis,** invented. first-party year?
+- **About five kinds of synthesis,** invented.
 
-- **Devices.** The Kyma, the Haken Continuum Fingerboard, and what they were used on. confirmed
+- **Devices.** The Kyma, the Haken Continuum Fingerboard, and what they were used on.
 
 [Devices](/devices/)
 
-- **Continuum against the Linnstrument**, round one. March 2015. confirmed
+- **Continuum against the Linnstrument**, round one. March 2015.
 
 [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 
 ## Music
 
-- **Drone and noise shows,** many of them, including the Cathedral of St. John the Divine. first-party year?
+- **Drone and noise shows,** many of them, including the Cathedral of St. John the Divine.
 
-- **A score for a film directed by Joe Kelly.** first-party year?
+- **A score for a film directed by Joe Kelly.**
 
-- **Burned House Horizon.** first-party year?
+- **Burned House Horizon.**
 
-- **A video with Moldover.** first-party year?
+- **A video with Moldover.**
 
-- **I Just Believe in Christmas.** December 2015. It started as an argument with my neighbors about squirrels in the attic. Sung by Michael Patrick Flanagan Smith, words with Jesse Schoen, Virginia Piazza, and Doron Lev. confirmed
+- **I Just Believe in Christmas.** December 2015. It started as an argument with my neighbors about squirrels in the attic. Sung by Michael Patrick Flanagan Smith, words with Jesse Schoen, Virginia Piazza, and Doron Lev.
 
 [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas) · [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0) · [Acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
 
-- **Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat).** November 2015. Improvised duets. The name came from Scott Hampton, who took it from a review of a Metal Machine Trio show. confirmed
+- **Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat).** November 2015. Improvised duets. The name came from Scott Hampton, who took it from a review of a Metal Machine Trio show.
 
 [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160) · [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
 
-- **Two duets with Sxip Shirey.** 2015. Continuum against shruti box, and prepared guitar against Continuum. confirmed
+- **Two duets with Sxip Shirey.** 2015. Continuum against shruti box, and prepared guitar against Continuum.
 
 [Shruti box](https://www.youtube.com/watch?v=V_ZinrLAl4I) · [Prepared guitar](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
 
-- **The Book of Sarth.** 2012 to 2013. A graphic novel and concept album as one iPad app, two and a half years in the making, and my first full-length solo release. confirmed
+- **The Book of Sarth.** 2012 to 2013. A graphic novel and concept album as one iPad app, two and a half years in the making, and my first full-length solo release.
 
 [bookofsarth.com](https://bookofsarth.com) · [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) · [(gr)album](https://gralbumcollective.com/titles.html)
 
-- **Lulu.** Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011, then the Lou Reed and Metallica album. confirmed
+- **Lulu.** Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011, then the Lou Reed and Metallica album.
 
 [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/)
 
-- **Metal Machine Trio**, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing. confirmed
+- **Metal Machine Trio**, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing.
 
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [Appearances](/appearances/)
 
-- **Lucibel Crater.** My band. *The Family Album*, 2008. confirmed
+- **Lucibel Crater.** My band. *The Family Album*, 2008.
 
 [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs) · [Berlin live](https://www.youtube.com/watch?v=UOh4tKteFOs) · [Sightings](/sightings/)
 
@@ -347,6 +357,8 @@ At some point I wanted to know stuff like how much a particular artist spent on 
 
 I didn't do any of that. I just ask Claude, and Claude uses [DuckDB](https://duckdb.org/) on the JSON files (from outside the app, for now).
 
+I had always heard about DuckDB but never had the pleasure of using it until one of the LLMs turned me on to it. It's just so badass. Such a great combination.
+
 Here's a simplified version of what the records look like:
 
 ```
@@ -380,7 +392,7 @@ And tomorrow when I want spend by model, or by day, or whatever I get curious ab
 
 ## It also runs my whole pipeline pattern
 
-In [the external tables tutorial](#) I wrote about an append-only pipeline where partners send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested `SPLIT_PART` to get the date out of the file path, and a refresh every time a file landed.
+In [the external tables tutorial](/transmissions/external-tables/) I wrote about an append-only pipeline where partners send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested `SPLIT_PART` to get the date out of the file path, and a refresh every time a file landed.
 
 In DuckDB it's this:
 
@@ -422,11 +434,11 @@ And all of this runs on a laptop, with nothing to install except DuckDB itself.
 
 # External Tables, Partitions, CTEs, Window Functions, and Partitions
 
-https://www.sarth.net/transmissions/external-tables/ · Tutorial series · Published 22 Sep 2026 · Originally written 13 Jul 2024 · Sarth Calhoun
+https://www.sarth.net/transmissions/external-tables/ · Five parts · Published 22 Sep 2026 · Originally written 13 Jul 2024 · Sarth Calhoun
 
 *Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.*
 
-*This is a tutorial for building an append-only data pipeline on Snowflake external tables. It's based on a pipeline for ad delivery reports from a bunch of partners, each with their own file formats and delivery schedules. Nothing here is specific to that domain, though. If third parties send you files, and newer files contain updated versions of stuff that was in older files, and you need to serve whatever is current, this is for you.*
+*What I think about after building a pipeline. It's based on a pipeline for ad delivery reports from a bunch of partners, each with their own file formats and delivery schedules. Nothing here is specific to that domain, though. If third parties send you files, and newer files contain updated versions of stuff that was in older files, and you need to serve whatever is current, this is for you.*
 
 This pipeline uses [external tables](https://docs.snowflake.com/en/user-guide/tables-external-intro) for the primary data store instead of a typical time series (CRUD style) database. That decision affects everything else, including the fact that the word PARTITION ends up meaning two different things in the same query.
 
@@ -485,6 +497,28 @@ Everything above the dashed line happens at load time and doesn't care about ord
 [](#)
 
 In a CRUD system, the state of the database depends on the order the updates were applied, so if you ever need to rebuild it, you have to replay all your inputs from the beginning, in order. Here, the ordering doesn't happen at load time at all. It happens at query time. So you can load all your files in parallel, in any order, retry whichever ones failed, and you still get the same result.
+
+## ETL, ELT, and where the transforms happen
+
+The usual way to explain this is the letter order. ETL means you shape the data before it lands. ELT means you land it raw and shape it inside the warehouse. This pipeline does both.
+
+io-ts parses the partner file and encodes the types before anything gets written. That is the T in ETL, and it happens once. Then the views do the rest. All the logic about what data is current and what is valid lives on the query side. Window functions surface the most recent version of a record, joins handle exceptions and replace bad identifiers, and when faster access is required the view gets materialized or copied into a delivery table. Some of them run well over a hundred lines of SQL. That is the T in ELT, and it happens on every query. [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) is about the first one. [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) is about the second.
+
+## Schema on read
+
+External tables are read only and schema on read. You define the table columns after the fact, and you can always alter the column definitions in the future without concern about altering data. Some of that comes free with [external tables](/transmissions/external-tables/building-on-external-tables/).
+
+You can change your mind. Partners change their formats, and you get things wrong, and you can redefine a column later without reloading anything.
+
+And the raw file is still sitting there, untouched. That is what makes the whole thing rebuildable, and it is the same property as loading in any order.
+
+io-ts is not there to make up for schema on read. It is there because third parties will send you broken files no matter what your store does.
+
+[DuckDB](/transmissions/duckdb-where-have-you-been-all-my-life/) will do it over a folder of files, figure out on its own that one field is a timestamp and another is a number, and answer the question.
+
+Which means there is a version of this where you skip the io-ts step entirely. Burlap writes a generation manifest every time it makes something, and that format has changed a lot over the year and a half I have been building it. I pointed DuckDB at all of them at once, every version of the format, with no parsing step in between, and materialized the whole thing.
+
+At scale, though, you probably don't want that.
 
 ## The series
 
@@ -739,7 +773,7 @@ https://www.sarth.net/transmissions/external-tables/defending-the-boundary/ · A
 
 *Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.*
 
-[io-ts](https://gcanti.github.io/io-ts/) is a TypeScript library by Giulio Canti built around the idea of a codec. A codec is one definition that does three jobs at once: it validates unknown data at runtime, it tells the compiler what the type is, and it encodes the value back out again. The thing it is for is the boundary, the place where data arrives from outside your program and you have no guarantee it is what you were promised. TypeScript's own types are gone by the time the program runs, so at that boundary they protect you from nothing. Newer libraries do the same job, Zod and Effect Schema being the ones people reach for now.
+[io-ts](https://gcanti.github.io/io-ts/) is a TypeScript library by Giulio Canti built around the idea of a codec. A codec is one definition that does three jobs at once: it validates unknown data at runtime, it tells the compiler what the type is, and it encodes the value back out again. The thing it is for is the boundary, the place where data arrives from outside your program and you have no guarantee it is what you were promised. TypeScript's own types are gone by the time the program runs, so at that boundary they protect you from nothing.
 
 The pipeline uses [io-ts](https://gcanti.github.io/io-ts/) to do runtime type checking; most notably the transform step of the pipeline relies on it. For example, an .xls parser is used with [Node streams](https://nodejs.org/api/stream.html) (pipelines) and io-ts to go through each row of an Excel file provided by the partner and verify the cells provide data which can be encoded to the expected type. If it encounters a cell that doesn't meet expectations, you can either skip the row, fail the file, or fail the entire job, depending on the configuration.
 
@@ -783,7 +817,7 @@ https://www.sarth.net/transmissions/external-tables/living-with-the-code/ · App
 
 Code built this way is oriented towards strongly typed (TypeScript) functional code. This has an emphasis on safety, testing, reliability, and composability. It also follows the philosophy of self documenting code. Each function is a conceptual boundary, and the function and variable names should reflect exactly what they are. If you are comfortable in that world, you probably don't need to read this part. If anything feels complicated, here are some tips.
 
-Make sure your IDE toolchain is set up right, with all the linting and [Prettier](https://prettier.io/) for formatting. Get set up with a TS REPL and the [Jest](https://jestjs.io/) (or these days [Vitest](https://vitest.dev/)) runtime thing, and use the [TypeScript playground](https://www.typescriptlang.org/play) or the REPL to validate your understanding of how stuff works. One thing that might be off putting if you aren't used to it is how VERTICAL the code is. For example, when a function has numerous parameters, Prettier will put them each on their own line like:
+Make sure your IDE toolchain is set up right, with all the linting and [Prettier](https://prettier.io/) for formatting. Get set up with a TS REPL and the [JEST](https://jestjs.io/) runtime thing, and use the [TypeScript playground](https://www.typescriptlang.org/play) or the REPL to validate your understanding of how stuff works. One thing that might be off putting if you aren't used to it is how VERTICAL the code is. For example, when a function has numerous parameters, Prettier will put them each on their own line like:
 
 ```
 const sendAlertAndRecordResult = async (
@@ -839,7 +873,7 @@ https://www.sarth.net/transmissions/sql-as-the-data-language/ · SQL · Publishe
 
 **Everything is a table.** With that in mind, you might be tempted to think there is something special about views, that you can query them just like they are a table. This is the opposite of true. Just like everything is an object in Smalltalk, or everything is a function in Haskell, or code is data in LISP, a handy way to think about SQL is "everything is a table." It's also not true. The accurate statement is "most queries in SQL return a result set, which itself can be queried." But the point is that SQL is super composable in this way, so there is nothing special about views being queryable, they just happen to be stored. Query results can be queried, and those results can be queried, and it's turtles all the way down. [Buffalo buffalo Buffalo buffalo buffalo.](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
 
-**CTEs.** Knowing this, [Common Table Expressions](https://www.postgresql.org/docs/current/queries-with.html) aren't at all mysterious. They are variables within a given SQL statement that hold the results of a query, which you can then reference by name later to do more stuff with it. You just create a "table" and give it a name and have access to that for the duration of the statement execution. They take the form `WITH some_descriptive_name AS (SELECT ... etc ... just a query here)`. Mostly CTEs are used to improve readability, and you can accomplish a similar thing by nesting subqueries. But it is easier to reason about CTEs, much the same way async/await is easier to reason about than a tangle of promise chains in JavaScript. There used to be some hubbub about CTEs being inefficient when compared to subqueries, but this is less true nowadays, depending on the engine and version, and anyway if you are having that conversation you aren't reading this tutorial for tips.
+**CTEs.** Knowing this, [Common Table Expressions](https://www.postgresql.org/docs/current/queries-with.html) aren't at all mysterious. They are variables within a given SQL statement that hold the results of a query, which you can then reference by name later to do more stuff with it. You just create a "table" and give it a name and have access to that for the duration of the statement execution. They take the form `WITH some_descriptive_name AS (SELECT ... etc ... just a query here)`. Mostly CTEs are used to improve readability, and you can accomplish a similar thing by nesting subqueries. But it is easier to reason about CTEs, much the same way it is easier to use promises than to descend into callback hell in JavaScript. There used to be some hubbub about CTEs being inefficient when compared to subqueries, but this is less true nowadays, depending on Postgres version and implementations, and anyway if you are having that conversation you aren't reading this document for tips.
 
 **Joins, unions, and such.** There's no need for me to write anything about joins and unions and intersections and so forth here. Every beginner SQL tutorial (like Stanford's [Databases: Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)) will start by explaining joins, and the internet is full of examples, cheat sheets, and Venn diagrams. You use joins not only to create unified data sets, but also to cleverly replace bad identifiers and stuff.
 
@@ -973,25 +1007,31 @@ https://www.sarth.net/conspiracies/ · Projects · Sarth Calhoun
 
 Bands, tours, records, theater pieces, films, and machines.
 
-- [**Lou Reed’s song band**Lou wanted fresh sounds. Sarth became the place he went for them.](/conspiracies/lou-reed-song-band/)
+- [**Lou Reed’s song band**](/conspiracies/lou-reed-song-band/). The touring group Lou Reed used for his song repertoire. Sarth joined in 2008, playing Continuum Fingerboard and processing the other musicians live.
 
-- [**Lou Reed spring 2008 U.S. tour**Northampton, a bus south, Beale Street, and the beginning of the band.](/conspiracies/lou-reed-spring-2008-tour/)
+- [**Lou Reed spring 2008 U.S. tour**](/conspiracies/lou-reed-spring-2008-tour/). Lou Reed’s United States tour of April and May 2008, running through the Northeast and then south by bus as far as Memphis. It was Sarth’s first tour with Reed.
 
-- [**Metal Machine Trio**Three people walked into REDCAT without a band name and came out with one.](/conspiracies/metal-machine-trio/)
+- [**Metal Machine Trio**](/conspiracies/metal-machine-trio/). The improvising trio of Lou Reed, Ulrich Krieger and Sarth Calhoun, formed at REDCAT in Los Angeles in October 2008. Its live album *The Creation of the Universe* came out in 2009.
 
-- [***Lulu***Interstitial music at Lou’s house became a theater score, then something else again with Metallica.](/conspiracies/lulu/)
+- [***Lulu***](/conspiracies/lulu/). The 2011 album by Lou Reed and Metallica. Its songs began as the score Reed wrote for Robert Wilson’s staging of Frank Wedekind’s Lulu plays at the Berliner Ensemble.
 
-- [**Lou Reed’s 2011 European tour**Eight people onstage across the festival summer. Two posts from the road are most of what survives.](/conspiracies/lou-reed-2011-european-tour/)
+- [**Lou Reed’s 2011 European tour**](/conspiracies/lou-reed-2011-european-tour/). Lou Reed’s run through the European festival circuit in the summer of 2011, with an eight-piece band. Two posts Sarth wrote from the road are most of what survives of it.
 
-- [***The Creation of the Universe*, ambisonic installation**A trio recording turned into a room you walk into. He has never heard it.](/conspiracies/creation-of-the-universe-ambisonic/)
+- [***The Creation of the Universe*, ambisonic installation**](/conspiracies/creation-of-the-universe-ambisonic/). A Metal Machine Trio recording from the Blender Theater staged as a 10.1 ambisonic installation, at California State University Long Beach in 2012 and the Cranbrook Art Museum in 2015. Sarth played on the recording and has never heard the installation.
 
-- [***Reflections, Vol. 1***Improvised duets, named from a line in a review of a Metal Machine Trio show.](/conspiracies/reflections-vol-1/)
+- [***Reflections, Vol. 1***](/conspiracies/reflections-vol-1/). Sarth’s first release of improvised duets, November 2015. Its full title comes from a review of a Metal Machine Trio performance.
 
-- [**“I Just Believe in Christmas”**An argument with the neighbors about squirrels in the attic became a song.](/conspiracies/i-just-believe-in-christmas/)
+- [**“I Just Believe in Christmas”**](/conspiracies/i-just-believe-in-christmas/). A song that came out of a Christmas Eve 2014 email exchange with the neighbors about squirrels in the attic. Released in December 2015, sung by Michael Patrick Flanagan Smith.
 
-- [**“Awakening (To Blacklist)”**Sixty-cycle hum off a badly plugged-in cable, turned into a melody.](/conspiracies/awakening-to-blacklist/)
+- [**“Awakening (To Blacklist)”**](/conspiracies/awakening-to-blacklist/). A track from *The Book of Sarth*, his graphic novel and concept album built as one iPad app. Its melody is made out of a recording of 60 cycle hum.
 
-- [**“Junior Dad”**The nineteen-minute closing track of Lou Reed and Metallica’s *Lulu*, 2011. Built from a recording made at Reed’s apartment before the album existed.](/conspiracies/junior-dad/)
+- [**Yellow Pony**](/conspiracies/yellow-pony/). Two short European tours in 2009 with Lou Reed and Laurie Anderson, billed *The Yellow Pony and Other Songs and Stories*. Sarth played Continuum Fingerboard and resampled their voices live.
+
+- [**Lucibel Crater**](/conspiracies/lucibel-crater/). The rock and electronic trio of Leah Coloff, Paul Chuffo and Sarth Calhoun. Its album *The Family Album* came out in 2008.
+
+- [**Book of Sarth**](/conspiracies/book-of-sarth/). Sarth’s first full-length solo release, 2012, built as an iPad app combining a graphic novel and a concept album.
+
+- [**“Junior Dad”**](/conspiracies/junior-dad/). The nineteen-minute closing track of Lou Reed and Metallica’s *Lulu*, 2011. Built from a recording made at Reed’s apartment before the album existed.
 
 ---
 
@@ -999,7 +1039,9 @@ Bands, tours, records, theater pieces, films, and machines.
 
 https://www.sarth.net/conspiracies/lou-reed-song-band/ · Conspiracy · Sarth Calhoun
 
-Lou did not hire me to reproduce a keyboard part. He invited me because he wanted the familiar songs to have somewhere unfamiliar to go.
+Lou Reed’s song band was the touring group [Lou Reed](/conspirators/lou-reed/) used for his song repertoire, as opposed to instrumental projects such as [Metal Machine Trio](/conspiracies/metal-machine-trio/).
+
+Sarth Calhoun joined in 2008, playing the [Continuum Fingerboard](/devices/) and processing the other musicians live. He was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
 
 ## The invitation
 
@@ -1015,7 +1057,7 @@ The songs gave the experiments weight. You could leave the expected sound becaus
 
 ## The first version
 
-The first documented rehearsals were at SIR in New York in April 2008. The band around Lou included Rob Wasserman, Kevin Hearn, Mike Rathke, Steve Hunter, and Tony “Thunder” Smith. We started in the Northeast, went south by bus, played Beale Street in Memphis, and came back to New York.
+The first documented rehearsals were at SIR in New York in April 2008. The band around Lou included [Rob Wasserman](/conspirators/rob-wasserman/), [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Mike Rathke, [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter), and Tony “Thunder” Smith. We started in the Northeast, went south by bus, played Beale Street in Memphis, and came back to New York.
 
 Later versions of Lou’s touring band changed personnel and grew more electronically elaborate. The assignment stayed the same: listen to the band that exists, then open a door in it.
 
@@ -1027,7 +1069,9 @@ https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/ · Conspiracy · S
 
 spring 2008 U.S. tour
 
-Massachusetts first, then a bus south. This was not a *Berlin* tour and it was not tied to a new album. It was the run where the band became real to me.
+[Lou Reed](/conspirators/lou-reed/) toured the United States in April and May 2008 with his [song band](/conspiracies/lou-reed-song-band/), playing the Northeast first and then working south by bus as far as Memphis. The tour was not tied to a new album.
+
+It was Sarth Calhoun’s first tour with Reed. He played electronics and processed the other musicians live. The documented dates are listed on [Appearances](/appearances/).
 
 ## The route I remembered
 
@@ -1037,7 +1081,7 @@ It began with rehearsals at SIR in New York on 14 April. The surviving route run
 
 ## The people on the bus
 
-Lou was singing and playing guitar. Rob Wasserman played bass; Kevin Hearn keyboards; Mike Rathke and Steve Hunter guitars; Tony “Thunder” Smith drums. I handled electronics and live processing. It was a large band full of people with unmistakable sounds, which made changing those sounds both delicate and exciting.
+Lou was singing and playing guitar. [Rob Wasserman](/conspirators/rob-wasserman/) played bass; [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) keyboards; Mike Rathke and [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter) guitars; Tony “Thunder” Smith drums. I handled electronics and live processing. It was a large band full of people with unmistakable sounds, which made changing those sounds both delicate and exciting.
 
 Rob was one of my heroes before he was my bandmate. On this tour he treated me, the younger person arriving with strange instruments, as though I already belonged. That changed the experience of becoming the new guy.
 
@@ -1053,13 +1097,26 @@ Dates include Northampton on 20 April, Beale Street on 3 May, and New York on 5 
 
 https://www.sarth.net/conspiracies/metal-machine-trio/ · Conspiracy · Sarth Calhoun
 
-We arrived at REDCAT as three people playing an improvised noise gig under the name *Unclassified*. The shows sold out. The music gave the group its real name.
+Metal Machine Trio was an improvising group of [Lou Reed](/conspirators/lou-reed/), the saxophonist [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger) and Sarth Calhoun. It formed around two nights at [REDCAT](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger) in Los Angeles on 2 and 3 October 2008, billed as “Unclassified: Lou Reed and Ulrich Krieger”. The group name refers to *[Metal Machine Music](https://en.wikipedia.org/wiki/Metal_Machine_Music)*, Reed’s 1975 album.
+
+The recordings of those two nights were released in 2009 as the double live album *The Creation of the Universe*.
 
 ## The phone call
 
-In 2008 Lou called and said he was doing a free-improvised noise show at REDCAT in Los Angeles with the saxophonist and composer Ulrich Krieger. Ulrich had done the improbable thing of arranging *Metal Machine Music* for an ensemble. I had already toured in Lou’s song band, processing and sampling the instruments onstage, and Lou and I had been making meditation music out of drones, melody, and noise. Joining them felt less like a detour than the next obvious step.
+In 2008 Lou called and said he was doing a free-improvised noise show at REDCAT in Los Angeles with the saxophonist and composer [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger). Ulrich had done the improbable thing of arranging *Metal Machine Music* for an ensemble. I had already toured in Lou’s song band, processing and sampling the instruments onstage, and Lou and I had been making meditation music out of drones, melody, and noise. Joining them felt less like a detour than the next obvious step.
 
 Ulrich billed the concerts as *Unclassified* because there was no group name yet. That was honest. We did not know what the thing was until we played it.
+
+## How Ulrich remembers it
+
+> Lou decided to bring Sarth along at the last minute; he met him at tai chi practice, played with him at home and wanted his electronic sounds for this concert. 
+> Ulrich Krieger , “Unclassifiable”, The Wire, 2013 
+
+Krieger wrote his account after Lou died in 2013. He puts the trio’s formation in the same place: two nights at REDCAT announced under a name that was not a band name, with three days of rehearsal, both shows sold out inside a day and late shows added.
+
+The photograph running with that essay is captioned “MM3, Redcat, Los Angeles, October 2008. Left to right: Sarth Calhoun, Stewart Hurwood (guitar tech), Lou Reed, Ulrich Krieger.”
+
+He also records what the trio became at scale. At Lollapalooza in 2009 they played a ten minute noise interlude between well known Reed songs, and on later tours Lou would play MM3 recordings before and after shows.
 
 ## Three different kinds of danger
 
@@ -1069,9 +1126,11 @@ The shows sold out quickly and REDCAT added a late set. We recorded the room wit
 
 ## The Creation of the Universe
 
+The recordReleased 2009. Two tracks, the two REDCAT nights nearly whole. On [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713) and [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe).
+
 Those Los Angeles nights became the double live album *The Creation of the Universe*. Afterward the trio played New York, Europe, Australia, and Brazil. “No songs. No vocals.” was useful poster copy, but it was not the meaning of the music. The meaning was three people building and wrecking a structure fast enough to remain inside it.
 
-Metal Machine Trio began at [REDCAT](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger) on 2–3 October 2008. The album documents those nights. A later [installation](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/) with the same title uses the second Gramercy performance from 24 April 2009, with John Zorn, not the REDCAT album tape.
+Metal Machine Trio began at [REDCAT](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger) on 2–3 October 2008. The album documents those nights. A later [installation](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/) with the same title uses the second Gramercy performance from 24 April 2009, with [John Zorn](https://en.wikipedia.org/wiki/John_Zorn), not the REDCAT album tape.
 
 ---
 
@@ -1079,7 +1138,7 @@ Metal Machine Trio began at [REDCAT](https://web.archive.org/web/20110927041818/
 
 https://www.sarth.net/conspiracies/yellow-pony/ · Published 22 Sep 2026 · Sarth Calhoun
 
-Yellow Pony was a performance project built around Lou Reed and Laurie Anderson, billed as *The Yellow Pony and Other Songs and Stories*. It ran as two short European tours in 2009, one in July and one across August and September, eight cities in all: Sant Feliu de Guíxols, Santiago de Compostela, Madrid, Copenhagen, Manchester, Helsinki, Frankfurt and Paris.
+Yellow Pony was a performance project built around [Lou Reed](/conspirators/lou-reed/) and [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson), billed as *The Yellow Pony and Other Songs and Stories*. It ran as two short European tours in 2009, one in July and one across August and September, eight cities in all: Sant Feliu de Guíxols, Santiago de Compostela, Madrid, Copenhagen, Manchester, Helsinki, Frankfurt and Paris.
 
 ## What I did there
 
@@ -1101,7 +1160,7 @@ An eight-piece band across European festivals in the summer of 2011. I posted tw
 
 ## The band
 
-By 2011 Lou was touring with eight people onstage. Alongside him: Rob Wasserman on bass, Kevin Hearn on keys, Aram Bajakian and Tony Diodore on guitars, Tony Smith on drums, and me on [Continuum and Kyma](/devices/), usually running several racked Pacas. This was a bigger and louder configuration than the song band I had joined in 2008.
+By 2011 Lou was touring with eight people onstage. Alongside him: [Rob Wasserman](/conspirators/rob-wasserman/) on bass, [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) on keys, [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) and Tony Diodore on guitars, Tony Smith on drums, and me on [Continuum and Kyma](/devices/), usually running several racked Pacas. This was a bigger and louder configuration than the song band I had joined in 2008.
 
 The itinerary ran through the European summer festival circuit. Two stops are documented here because I wrote about them at the time, from the road.
 
@@ -1115,7 +1174,7 @@ Typos mine, kept as I wrote them. The thing worth noticing is that I said the ba
 
 > Yeah, you can see me in the back there for a second, ends with a great shot of the crowd in Carhaix. PJ Harvey and the Chemical Brothers followed us. 
 
-Vieilles Charrues, in Brittany. I was at the back of a very large stage, briefly visible, and then PJ Harvey and the Chemical Brothers played.
+Vieilles Charrues, in Brittany. I was at the back of a very large stage, briefly visible, and then [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey) and the [Chemical Brothers](https://en.wikipedia.org/wiki/The_Chemical_Brothers) played.
 
 Both posts are Sarth’s, written from the road in July 2011 and recovered from Common Crawl on 22 September 2026.
 
@@ -1125,13 +1184,15 @@ Both posts are Sarth’s, written from the road in July 2011 and recovered from 
 
 https://www.sarth.net/conspiracies/lulu/ · Conspiracy · Sarth Calhoun
 
-Lou called me over to make interstitial music for a Robert Wilson production. It became songs, a score, rehearsals in Berlin, and then a record none of us could have predicted.
+*Lulu* is an album by [Lou Reed](/conspirators/lou-reed/) and [Metallica](https://en.wikipedia.org/wiki/Metallica), released on 31 October 2011. Its songs began as the score Reed wrote for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))’s staging of [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)’s Lulu plays, which premiered at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble) on 12 April 2011.
+
+Sarth Calhoun co-wrote and performed on the theater score, and played on the album.
 
 ## Go over to Lou’s house
 
-The assignment sounded small: make some “interstitial” music for Robert Wilson’s production of Frank Wedekind’s *Lulu* at the Berliner Ensemble. I went to Lou’s house. The interstitial music kept opening into larger pieces; in my account, it turned into co-writing eight more songs with Lou.
+The assignment sounded small: make some “interstitial” music for Robert Wilson’s production of [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)’s *Lulu* at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble). I went to Lou’s house. The interstitial music kept opening into larger pieces; in my account, it turned into co-writing eight more songs with Lou.
 
-The original tapes were spare and strange: Lou’s guitar, long cello drones, and Continuum. This was before Metallica. That was the material we made before Berlin, not the instrumentation of the band that later played the production.
+The original tapes were spare and strange: Lou’s guitar, long cello drones, and Continuum. This was before [Metallica](https://en.wikipedia.org/wiki/Metallica). That was the material we made before Berlin, not the instrumentation of the band that later played the production.
 
 ## Berlin without Lou
 
@@ -1139,7 +1200,7 @@ Lou was not in Berlin for rehearsals. I was. I helped turn the music we had sent
 
 The band was Stefan Rager on drums and musical direction; Ulrich Maiß on keyboards and cello; Dominic Bouffard on guitar; Friedrich Paravicini on bugle, cello, and harmonica; Andreas Walter on bass; and Joe Bauer on sound effects. Touring programs sometimes list Ulf Borgwardt and Ofer Wetzler in the keyboard/cello and bass chairs. No Continuum or Kyma performer appears in the surviving production programs, and I do not remember bringing the Continuum to Berlin.
 
-The production was not simply playing finished Lou Reed songs under a play. The music had to become theater in the room: timed, embodied, and playable by the company night after night. *Lulu* premiered at the Berliner Ensemble on 12 April 2011 and remained in its repertoire through 2014, with guest runs in Paris, Spoleto, and São Paulo.
+The production was not simply playing finished [Lou Reed](/conspirators/lou-reed/) songs under a play. The music had to become theater in the room: timed, embodied, and playable by the company night after night. *Lulu* premiered at the Berliner Ensemble on 12 April 2011 and remained in its repertoire through 2014, with guest runs in Paris, Spoleto, and São Paulo.
 
 ## Then Metallica heard it
 
@@ -1147,7 +1208,7 @@ After Berlin, we took the material to San Francisco. Metallica did not decorate 
 
 That is the version of *Lulu* I want remembered: not one album credit, but a work that crossed Lou’s apartment, a Berlin rehearsal room, Robert Wilson’s stage, and Metallica’s studio without staying the same in any two places.
 
-[Robert Wilson’s production](https://robertwilson.com/lulu) premiered 12 April 2011. The [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu) documents the live ensemble; David Fricke documented the earlier Continuum-and-cello tapes in [*Rolling Stone*](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/).
+[Robert Wilson’s production](https://robertwilson.com/lulu) premiered 12 April 2011. The [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu) documents the live ensemble; [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) documented the earlier Continuum-and-cello tapes in [*Rolling Stone*](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/).
 
 ---
 
@@ -1194,7 +1255,7 @@ A Metal Machine Trio recording turned into a room you walk into. I have never he
 
 An ambisonic installation is a room with speakers arranged around and above you, playing a recording that was captured with enough microphones to reconstruct where every sound was in space. Instead of a stereo image in front of you, the performance is placed around you, and you stand inside it. The 10.1 refers to the speaker arrangement.
 
-The source was a [Metal Machine Trio](/conspiracies/metal-machine-trio/) recording from the Blender Theater at Gramercy. It was staged at the University Art Museum at California State University Long Beach, and later restaged at the Cranbrook Art Museum. The spatial work used technology from Arup’s SoundLab.
+The source was a [Metal Machine Trio](/conspiracies/metal-machine-trio/) recording from the Blender Theater at Gramercy. It was staged at the University Art Museum at California State University Long Beach, and later restaged at the [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum). The spatial work used technology from Arup’s SoundLab.
 
 ## What I said at the time
 
@@ -1356,9 +1417,15 @@ https://www.sarth.net/conspirators/ · People · Sarth Calhoun
 
 People I have made things with.
 
-- [**Lou Reed**Tai Chi, meditation music, rock shows, deep noise, and the search for a sound that did not exist yet.](/conspirators/lou-reed/)
+- [**Lou Reed**](/conspirators/lou-reed/). American songwriter, guitarist and singer, 1942 to 2013, who co-founded the Velvet Underground and then made solo records for forty years. Sarth played in his touring band and in Metal Machine Trio, and worked on both the theater score and the album of *Lulu*.
 
-- [**Rob Wasserman**A hero who treated the new guy as though he already belonged.](/conspirators/rob-wasserman/)
+- [**Rob Wasserman**](/conspirators/rob-wasserman/). American bassist, 1952 to 2016, known for the electric upright bass he developed with Ned Steinberger and for the *Solo*, *Duets* and *Trios* records. He and Sarth first played together at Lou Reed’s apartment, in the session that became “Junior Dad”.
+
+- [**Leah Coloff**](/conspirators/leah-coloff/). Brooklyn cellist, singer and songwriter. She fronted Lucibel Crater and played in Number19 with Sarth.
+
+- [**Paul Chuffo**](/conspirators/paul-chuffo/). Drummer, originally with the punk and jazz band Gutbucket. He played in Lucibel Crater.
+
+- [**Tony Diodore**](/conspirators/tony-diodore/). Guitarist and violinist. He and Sarth formed Number19 in 1999 and played together again in Lou Reed’s band from 2011.
 
 ---
 
@@ -1370,7 +1437,7 @@ We started with Tai Chi and meditation music. From there came rock tours, deep n
 
 ## Who Lou Reed was
 
-Lou Reed (1942 to 2013) was an American songwriter, guitarist and singer. He co-founded the Velvet Underground in 1964 and wrote most of their songs, then made solo records for forty years, among them *Transformer*, *Berlin*, *Metal Machine Music*, *The Blue Mask*, *New York*, *Songs for Drella* with John Cale, and *Magic and Loss*. He was inducted into the Rock and Roll Hall of Fame with the Velvet Underground in 1996 and as a solo artist in 2015. His last decade included *Hudson River Wind Meditations*, the Metal Machine Trio, the *Lulu* score for Robert Wilson, and the *Lulu* album with Metallica.
+Lou Reed (1942 to 2013) was an American songwriter, guitarist and singer. He co-founded the [Velvet Underground](https://en.wikipedia.org/wiki/The_Velvet_Underground) in 1964 and wrote most of their songs, then made solo records for forty years, among them *Transformer*, *Berlin*, *Metal Machine Music*, *The Blue Mask*, *New York*, *Songs for Drella* with [John Cale](https://en.wikipedia.org/wiki/John_Cale), and *Magic and Loss*. He was inducted into the Rock and Roll Hall of Fame with the Velvet Underground in 1996 and as a solo artist in 2015. His last decade included *Hudson River Wind Meditations*, the Metal Machine Trio, the *Lulu* score for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director)), and the *Lulu* album with [Metallica](https://en.wikipedia.org/wiki/Metallica).
 
 ## Before the noise
 
@@ -1386,7 +1453,7 @@ Tony Diodore later called me “Lou’s imagination.” That feels accurate. Lou
 
 ## Follow the work
 
-In 2008 Lou called about an improvised noise concert at REDCAT with Ulrich Krieger. Those nights became Metal Machine Trio. Later he called me to his house to make interstitial music for Robert Wilson’s *Lulu*. That became a score, songs, rehearsals in Berlin, and then a record with Metallica.
+In 2008 Lou called about an improvised noise concert at REDCAT with [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger). Those nights became Metal Machine Trio. Later he called me to his house to make interstitial music for Robert Wilson’s *Lulu*. That became a score, songs, rehearsals in Berlin, and then a record with Metallica.
 
 The scale kept changing, but the invitation was consistent: come over, listen closely, and make the sound the project needs.
 
@@ -1400,7 +1467,7 @@ I met one of my bass heroes backstage. Not long afterward, he made sure the new 
 
 ## Who Rob Wasserman was
 
-Rob Wasserman (1952 to 2016) was an American bassist known for the electric upright bass that Ned Steinberger built with him. His *Solo*, *Duets* and *Trios* records put the instrument in front rather than under everything else; *Duets* won a Grammy in 1989. He played for decades with Bob Weir as RatDog, and recorded with Lou Reed, Rickie Lee Jones, Van Morrison, Elvis Costello and many others.
+Rob Wasserman (1952 to 2016) was an American bassist known for the electric upright bass that [Ned Steinberger](https://en.wikipedia.org/wiki/Ned_Steinberger) built with him. His *Solo*, *Duets* and *Trios* records put the instrument in front rather than under everything else; *Duets* won a Grammy in 1989. He played for decades with [Bob Weir](https://en.wikipedia.org/wiki/Bob_Weir) as RatDog, and recorded with [Lou Reed](/conspirators/lou-reed/), [Rickie Lee Jones](https://en.wikipedia.org/wiki/Rickie_Lee_Jones), [Van Morrison](https://en.wikipedia.org/wiki/Van_Morrison), [Elvis Costello](https://en.wikipedia.org/wiki/Elvis_Costello) and many others.
 
 ## “A huge fan”
 
@@ -1432,19 +1499,21 @@ A record of shows and installations. *The Creation of the Universe* comes from t
 
 ## Spine
 
-- **Metal Machine Trio (Unclassified) at REDCAT, Los Angeles — 2–3 Oct 2008.** World premiere billed as *Unclassified: Lou Reed and Ulrich Krieger*. Three performances: Thu 2 Oct 8:30pm, added late show Thu 2 Oct 10:30pm, Fri 3 Oct 8:30pm. Sarth on Continuum / live processing. Official live album *The Creation of the Universe* is the unedited recording of those two nights. confirmed
+- **Metal Machine Trio (Unclassified) at REDCAT, Los Angeles — 2–3 Oct 2008.** World premiere billed as *Unclassified: [Lou Reed](/conspirators/lou-reed/) and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)*. Three performances: Thu 2 Oct 8:30pm, added late show Thu 2 Oct 10:30pm, Fri 3 Oct 8:30pm. Sarth on Continuum / live processing. Official live album *The Creation of the Universe* is the unedited recording of those two nights. confirmed
 
-- **Metal Machine Trio, Blender Theater at Gramercy, New York — 23–24 Apr 2009.** First NYC stand. John Zorn sat in on the 24th. This night’s recording later became the CSULB / Cranbrook ambisonic installation. confirmed
+- **Metal Machine Trio, Blender Theater at Gramercy, New York — 23–24 Apr 2009.** First NYC stand. [John Zorn](https://en.wikipedia.org/wiki/John_Zorn) sat in on the 24th. This night’s recording later became the CSULB / Cranbrook ambisonic installation. confirmed
 
-- **Yellow Pony with Lou Reed and Laurie Anderson — Europe, Jul and Aug–Sep 2009.** Eight-city tour billed *The Yellow Pony and Other Songs and Stories*. Sarth on Continuum and live voice re-sampling, center stage. Two short tours. confirmed
+- **Yellow Pony with Lou Reed and [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson) — Europe, Jul and Aug–Sep 2009.** Eight-city tour billed *The Yellow Pony and Other Songs and Stories*. Sarth on Continuum and live voice re-sampling, center stage. Two short tours. confirmed
+
+- **Lou Reed at Lollapalooza, Grant Park, Chicago — 9 Aug 2009.** Day three. Metal Machine Trio played a ten minute noise interlude inside Reed’s set. Sarth on Continuum and live processing. confirmed
 
 - **Metal Machine Trio Europe — “A Night of Deep Noise,” 17–30 Apr 2010.** Nine announced dates, UK through Palma de Mallorca. Mallorca is MM3, not Yellow Pony. confirmed
 
-- **Metal Machine Trio, Sydney Opera House (Opera Theatre) — 30 May 2010.** Vivid LIVE. Sarth on the bill. Anderson’s *Transitory Life* was a separate Drama Theatre program, 1–2 Jun. confirmed
+- **Metal Machine Trio, [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House) (Opera Theatre) — 30 May 2010.** Vivid LIVE. Sarth on the bill. Anderson’s *Transitory Life* was a separate Drama Theatre program, 1–2 Jun. confirmed
 
 - **Metal Machine Trio, Sesc Pinheiros, São Paulo — 20–21 Nov 2010.** Two nights. confirmed
 
-- **Ambisonic installation *The Creation of the Universe*** — CSULB University Art Museum, Long Beach, 27 Jan–15 Apr 2012; restaged Cranbrook Art Museum, Bloomfield Hills, 21 Nov 2015–26 Mar 2016. Playback of the Gramercy 2009 recording, not a live Sarth performance. confirmed
+- **Ambisonic installation *The Creation of the Universe*** — CSULB University Art Museum, Long Beach, 27 Jan–15 Apr 2012; restaged [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum), Bloomfield Hills, 21 Nov 2015–26 Mar 2016. Playback of the Gramercy 2009 recording, not a live Sarth performance. confirmed
 
 The public record shows no Metal Machine Trio concerts after São Paulo. Wikipedia’s 2008–2013 span follows the life of the project through Reed’s death; it does not point to additional shows.
 
@@ -1471,6 +1540,11 @@ Billing unless noted: Lou Reed (guitar, electronics, Continuum), Ulrich Krieger 
 **2009-04-24** — Blender Theater at Gramercy, New York. Special guest John Zorn. Source tape for the CSULB/Cranbrook installation. Not commercially issued. confirmed
 
 [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
+
+- 
+**2009-08-09** — Lollapalooza, Grant Park, Chicago. Day three. A ten minute Metal Machine Trio noise interlude between songs inside Lou Reed’s set. confirmed
+
+[Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) · [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/) · [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
 
 - 
 **2010-04-17** — The Junction, Cambridge, UK. Start of nine-date Europe tour. confirmed
@@ -1559,13 +1633,13 @@ Sarth — keys, bass, loops, Kyma, Continuum. Leah Coloff, Paul Chuffo.
 
 ## Lou Reed song band, 2011
 
-Not MM3. Symbolic Sound: Sarth Calhoun on Continuum, multiple Kyma/Paca systems, Europe, July 2011. Announced lineup also: Kevin Hearn, Ulrich Krieger, Tony Smith, Rob Wasserman. Individual nights are announced; this page does not treat a conflicted Pescara row as fact.
+Not MM3. Symbolic Sound: Sarth Calhoun on Continuum, multiple Kyma/Paca systems, Europe, July 2011. Announced lineup also: [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Ulrich Krieger, Tony Smith, [Rob Wasserman](/conspirators/rob-wasserman/). Individual nights are announced; this page does not treat a conflicted Pescara row as fact.
 
 - 2011-07-02 Hop Farm, Paddock Wood · 07-04 Hammersmith Apollo, London · 07-05 Le Grand Rex, Paris · 07-08 Arena Civica, Milan (on some lists) · 07-10 Piazza Duomo, Pistoia · 07-16 Italia Wave, Lecce · 07-17 Les Vieilles Charrues, Carhaix · 07-18 Greek Theatre, Taormina · 07-22 Nuovo Festival Del Vittoriale, Gardone Riviera · 07-23 Piazza Matteotti, Sogliano al Rubicone · 07-25 Parco della Musica Cavea, Rome · 07-26 Les Nuits de Fourvière, Lyon. Sarth on the tour: confirmed. Nights: mentioned
 
 ## Lulu
 
-Studio: electronics on *Lulu* (2011). Continuum drones on Reed’s pre-Metallica tapes (Fricke). No public live date with Calhoun was found. Reed+Metallica played television without a Calhoun credit. Wilson’s Berlin *Lulu* used the score; Sarth directed rehearsals in Berlin. Junior Dad began at Lou’s apartment with Rob Wasserman and Kyma.
+Studio: electronics on *Lulu* (2011). Continuum drones on Reed’s pre-Metallica tapes (Fricke). No public live date with Calhoun was found. Reed+[Metallica](https://en.wikipedia.org/wiki/Metallica) played television without a Calhoun credit. Wilson’s Berlin *Lulu* used the score; Sarth directed rehearsals in Berlin. Junior Dad began at Lou’s apartment with Rob Wasserman and Kyma.
 
 ## Later
 
@@ -1589,7 +1663,7 @@ Studio: electronics on *Lulu* (2011). Continuum drones on Reed’s pre-Metallica
 
 https://www.sarth.net/sightings/ · Press · Sarth Calhoun
 
-Press tends to file Sarth Calhoun under “electronics,” but the work is composition. He made Metal Machine Trio with Lou Reed and Ulrich Krieger, and later wrote the original *Lulu* score with Reed for Robert Wilson. The Metallica album grew from those recordings. All quotes below appear exactly as published.
+Press tends to file Sarth Calhoun under “electronics,” but the work is composition. He made Metal Machine Trio with [Lou Reed](/conspirators/lou-reed/) and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger), and later wrote the original *Lulu* score with Reed for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director)). The [Metallica](https://en.wikipedia.org/wiki/Metallica) album grew from those recordings. All quotes below appear exactly as published.
 
 ## Spine
 
@@ -1605,13 +1679,13 @@ Press tends to file Sarth Calhoun under “electronics,” but the work is compo
 
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album) — Ariel Bitran — 23 Apr 2014 — Gralbum launch
 
-- [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html) — Ben Ratliff — 25 Apr 2009 — Metal Machine Trio
+- [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html) — [Ben Ratliff](https://en.wikipedia.org/wiki/Ben_Ratliff) — 25 Apr 2009 — Metal Machine Trio
 
 - [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) — Jeffrey Overwood — 8 Oct 2008 — REDCAT
 
 - [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/) — David Sprague — 27 Apr 2009 — Gramercy
 
-- [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/) — David Fricke — 30 Sep 2011 — Lulu / Continuum
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/) — [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) — 30 Sep 2011 — Lulu / Continuum
 
 - [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) — Ulrich Krieger — 2013 — “Unclassifiable”
 
@@ -1746,7 +1820,7 @@ David Fricke, [Rolling Stone](https://www.rollingstone.com/music/music-news/when
 Sarth is in Anthony DeCurtis, *Lou Reed: A Life* (2017, Little, Brown / Dey Street).
 
 - 
-Interviewed for Lou Reed, *The Art of the Straight Line: My Tai Chi* (14 Mar 2023, HarperOne). Named as an interviewee by [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/). Brookfield Place Winter Garden, Lou Reed’s 81st birthday, 2 Mar 2023: guest performance with Kevin Hearn, Shahzad Ismaily, Laurie Anderson, against Lou Reed’s Musical Drones (Stewart Hurwood).
+Interviewed for Lou Reed, *The Art of the Straight Line: My Tai Chi* (14 Mar 2023, HarperOne). Named as an interviewee by [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/). Brookfield Place Winter Garden, Lou Reed’s 81st birthday, 2 Mar 2023: guest performance with [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Shahzad Ismaily, [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson), against Lou Reed’s Musical Drones (Stewart Hurwood).
 
 ---
 
@@ -1758,9 +1832,9 @@ Physical objects on the table. Kyma, Continuum, the performance DAW, the motion 
 
 ## Symbolic Sound Kyma (Paca / Pacarana)
 
-A graphical sound-design environment. The Paca is dedicated DSP hardware — a small orange box, rack-mountable, not a plugin inside a laptop. Maker: Symbolic Sound Corporation (Carla Scaletti and Kurt Hebel), Champaign, Illinois. [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
+A graphical sound-design environment. The Paca is dedicated DSP hardware, a small orange box, rack-mountable, not a plugin inside a laptop. Maker: Symbolic Sound Corporation (Carla Scaletti and Kurt Hebel), Champaign, Illinois. [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
 
-Beta-tested Kyma (credited on the Kyma X startup screen). Lucibel Crater looping and processing. Metal Machine Trio: live Kyma processing of the band. 2011 Lou Reed European tour: multiple rack-mounted Pacas. *Lulu* at the Berliner Ensemble: Kyma processing and Continuum/Kyma playing. The Book of Sarth score is Kyma-drenched. SeqOSC was built in it. Junior Dad: Wasserman’s electric upright through Kyma, first session at Lou’s apartment.
+Beta-tested Kyma (credited on the Kyma X startup screen). Lucibel Crater looping and processing. Metal Machine Trio: live Kyma processing of the band. 2011 [Lou Reed](/conspirators/lou-reed/) European tour: multiple rack-mounted Pacas. *Lulu* at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble): Kyma processing and Continuum/Kyma playing. The Book of Sarth score is Kyma-drenched. SeqOSC was built in it. Junior Dad: Wasserman’s electric upright through Kyma, first session at Lou’s apartment.
 
 The orange box does the math so the fingers can lie.
 
@@ -1780,7 +1854,7 @@ A surface, not a keyboard. Lou had one too.
 
 A DAW that treats clips, warping, and devices as a performance instrument. Maker: Ableton AG, Berlin. [ableton.com](https://www.ableton.com/en/live/)
 
-Public bios call him an Ableton Live endorser: the 2008 REDCAT program and the 2014 Asia Society *Sunken Cathedral* notes. Book of Sarth track “Awakening (To Blacklist)” was built in Live — 60-cycle hum run through plugins until a frequency shifter became the melody.
+Public bios call him an [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live) endorser: the 2008 REDCAT program and the 2014 Asia Society *Sunken Cathedral* notes. Book of Sarth track “Awakening (To Blacklist)” was built in Live: 60-cycle hum run through plugins until a frequency shifter became the melody.
 
 Endorsed it. Then I made a melody out of wall hum.
 
@@ -1848,7 +1922,7 @@ every page.
 - Third Wall Studio https://thirdwallstudio.com
 - Burlap https://burlap.app
 
-## Citations by page (129 total)
+## Citations by page (323 total)
 
 ### Sarth Calhoun
 `/`
@@ -1861,11 +1935,50 @@ every page.
 - [Contraptions](https://contraptions.bookofsarth.com)
 - [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
 - [Book of Sarth](https://bookofsarth.com)
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
 
 ### Appearances
 `/appearances/`
 
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
+- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+- [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House)
+- [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
+- [REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
+- [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
+- [NYT Ratliff](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
+- [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
+- [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
+- [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+- [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
+- [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
+- [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+- [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+
+### Citations
+`/citations/`
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
+- [Wikidata](https://www.wikidata.org/wiki/Q7424654)
+- [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
+- [Discogs](https://www.discogs.com/artist/2310400-Sarth-Calhoun)
+- [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+- [Third Wall Studio](https://thirdwallstudio.com)
+- [Burlap](https://burlap.app)
+- [Download Burlap](https://burlap.app/download)
+- [@noisegroove](https://x.com/noisegroove)
+- [Through the Brambles](https://www.thirdwallstudio.com/through-the-brambles)
+- [Contraptions](https://contraptions.bookofsarth.com)
+- [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
+- [Book of Sarth](https://bookofsarth.com)
 - [REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
 - [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
 - [NYT Ratliff](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
@@ -1874,12 +1987,114 @@ every page.
 - [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
 - [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
+- [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)
+- [Flanagan Smith acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
+- [Alternate version](https://www.youtube.com/watch?v=4oPZjuz1vwQ)
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+- [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)
+- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
+- [Apple Music](https://music.apple.com/us/album/junior-dad/467890760?i=467890784)
+- [Ned Steinberger](https://en.wikipedia.org/wiki/Ned_Steinberger)
+- [James Hetfield](https://en.wikipedia.org/wiki/James_Hetfield)
+- [Kirk Hammett](https://en.wikipedia.org/wiki/Kirk_Hammett)
+- [Lars Ulrich](https://en.wikipedia.org/wiki/Lars_Ulrich)
+- [The Howard Stern Show, 10 Apr 2012](https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/)
+- [Howard Stern](https://en.wikipedia.org/wiki/Howard_Stern)
+- [Ultimate Classic Rock, 1 Feb 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
+- [Robert Wilson’s production](https://robertwilson.com/lulu)
+- [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu)
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/)
+- [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
+- [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
+- [github.com/whiddershins](https://github.com/whiddershins)
+- [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
+- [Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
+- [Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
+- [hakenaudio.com](https://www.hakenaudio.com/)
+- [Continuum Fingerboard](https://en.wikipedia.org/wiki/Continuum_Fingerboard)
+- [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
+- [ableton.com](https://www.ableton.com/en/live/)
+- [runwayml.com](https://runwayml.com/)
+- [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+- [Tumblr Storyboard](https://web.archive.org/web/20140812122953/http://storyboard.tumblr.com/post/41358319321/the-book-of-sarth-an-interactive-cyberpunk-tale)
+- [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali)
+- [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)
+- [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+- [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/)
+- [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
+- [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
+- [The New York Times](https://www.nytimes.com/2009/04/17/arts/music/17pop.html)
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-brings-controversial-metal-machine-music-to-life-114478/)
+- [OC Weekly](https://www.ocweekly.com/metal-machine-trios-ulrich-krieger-the-trio-is-an-update-of-lou-reeds-metal-machine-music-in-philosophical-and-aesthetic-sense-6581450/)
+- [SPIN](https://www.spinmagazine.com/2009/04/lou-reed-unleashes-metal-machine-music-nyc/)
+- [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
+- [DuckDB](https://duckdb.org/)
+- [set up credentials](https://duckdb.org/docs/current/core_extensions/httpfs/s3api)
+- [external tables](https://docs.snowflake.com/en/user-guide/tables-external-intro)
+- [command](https://docs.snowflake.com/en/sql-reference/sql/create-external-table)
+- [Apache Iceberg tables](https://docs.snowflake.com/en/user-guide/tables-iceberg)
+- [QUALIFY](https://docs.snowflake.com/en/sql-reference/constructs/qualify)
+- [ROW_NUMBER()](https://docs.snowflake.com/en/sql-reference/functions/row_number)
+- [io-ts](https://gcanti.github.io/io-ts/)
+- [Node streams](https://nodejs.org/api/stream.html)
+- [fp-ts](https://gcanti.github.io/fp-ts/)
+- [Either](https://gcanti.github.io/fp-ts/modules/Either.ts.html)
+- [Effect Schema](https://effect.website/docs/v3/schema/introduction)
+- [Zod](https://zod.dev/)
+- [bidirectional codecs](https://zod.dev/codecs)
+- [Prettier](https://prettier.io/)
+- [JEST](https://jestjs.io/)
+- [TypeScript playground](https://www.typescriptlang.org/play)
+- [TypeScript handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Buffalo buffalo Buffalo buffalo buffalo.](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
+- [Common Table Expressions](https://www.postgresql.org/docs/current/queries-with.html)
+- [Databases: Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/)
+- [January of 2008](https://mitadmissions.org/blogs/entry/the_end_of_an_era_1/)
+- [official Postgres docs for window functions](https://www.postgresql.org/docs/current/tutorial-window.html)
+- [Snowflake documentation](https://docs.snowflake.com/en/user-guide/functions-window-using)
+- [Instagram](https://www.instagram.com/3rdwallstudio/)
+- [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
+- [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
+- [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
+- [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
+- [Watch](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+- [Watch](https://www.youtube.com/watch?v=fghXNj-HdBg)
+- [Watch](https://www.youtube.com/watch?v=vs6KM7hFzxs)
+- [Watch](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
+- [Watch](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+- [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
+- [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
+- [Shruti box](https://www.youtube.com/watch?v=V_ZinrLAl4I)
+- [Prepared guitar](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
+- [(gr)album](https://gralbumcollective.com/titles.html)
+- [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs)
+- [Berlin live](https://www.youtube.com/watch?v=UOh4tKteFOs)
 
 ### Awakening (To Blacklist)
 `/conspiracies/awakening-to-blacklist/`
 
 - [The Book of Sarth](https://bookofsarth.com)
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+
+### Book of Sarth
+`/conspiracies/book-of-sarth/`
+
+- [bookofsarth.com](https://bookofsarth.com)
+- [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
+- [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [Symbolic Sound](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
+- [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)
+- [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+- [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali)
+- [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
+
+### The Creation of the Universe, ambisonic installation
+`/conspiracies/creation-of-the-universe-ambisonic/`
+
+- [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
 
 ### I Just Believe in Christmas
 `/conspiracies/i-just-believe-in-christmas/`
@@ -1905,24 +2120,120 @@ every page.
 - [Howard Stern](https://en.wikipedia.org/wiki/Howard_Stern)
 - [Ultimate Classic Rock, 1 Feb 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
 
+### Lou Reed’s 2011 European tour
+`/conspiracies/lou-reed-2011-european-tour/`
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+- [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian)
+- [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey)
+- [Chemical Brothers](https://en.wikipedia.org/wiki/The_Chemical_Brothers)
+
+### Lou Reed’s song band
+`/conspiracies/lou-reed-song-band/`
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+- [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter)
+
+### Lou Reed spring 2008 U.S. tour
+`/conspiracies/lou-reed-spring-2008-tour/`
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+- [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter)
+
+### Lucibel Crater
+`/conspiracies/lucibel-crater/`
+
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+- [Dr. John](https://en.wikipedia.org/wiki/Dr._John)
+- [Ziggy Marley](https://en.wikipedia.org/wiki/Ziggy_Marley)
+- [Joel Thome](https://en.wikipedia.org/wiki/Joel_Thome)
+- [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)
+- [Bryce Goggin](https://en.wikipedia.org/wiki/Bryce_Goggin)
+- [on Spotify](https://open.spotify.com/album/5GWIntdZRNl8zc9rAsIrKD)
+- [Björk](https://en.wikipedia.org/wiki/Bj%C3%B6rk)
+- [White Stripes](https://en.wikipedia.org/wiki/The_White_Stripes)
+- [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/)
+- [Ross Christopher at awaken music](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html)
+- [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/)
+
 ### Lulu
 `/conspiracies/lulu/`
 
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+- [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)
+- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
 - [Robert Wilson’s production](https://robertwilson.com/lulu)
 - [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu)
+- [David Fricke](https://en.wikipedia.org/wiki/David_Fricke)
 - [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/)
 
 ### Metal Machine Trio
 `/conspiracies/metal-machine-trio/`
 
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
 - [REDCAT](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
+- [Metal Machine Music](https://en.wikipedia.org/wiki/Metal_Machine_Music)
+- [&ldquo;Unclassifiable&rdquo;, The Wire, 2013](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
+- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 - [installation](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
+- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
 
 ### Reflections, Vol. 1
 `/conspiracies/reflections-vol-1/`
 
 - [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
 - [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
+
+### Yellow Pony
+`/conspiracies/yellow-pony/`
+
+- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+
+### Leah Coloff
+`/conspirators/leah-coloff/`
+
+- [Leah Coloff](https://www.leahcoloff.com/)
+- [Number19](https://en.wikipedia.org/wiki/Number19)
+- [Michael Gordon](https://en.wikipedia.org/wiki/Michael_Gordon_(composer))
+- [Ziggy Marley](https://en.wikipedia.org/wiki/Ziggy_Marley)
+- [Rufus Wainwright](https://en.wikipedia.org/wiki/Rufus_Wainwright)
+- [Dr. John](https://en.wikipedia.org/wiki/Dr._John)
+- [Nancy Sinatra](https://en.wikipedia.org/wiki/Nancy_Sinatra)
+- [Joel Thome](https://en.wikipedia.org/wiki/Joel_Thome)
+- [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)
+
+### Lou Reed
+`/conspirators/lou-reed/`
+
+- [Velvet Underground](https://en.wikipedia.org/wiki/The_Velvet_Underground)
+- [John Cale](https://en.wikipedia.org/wiki/John_Cale)
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+
+### Paul Chuffo
+`/conspirators/paul-chuffo/`
+
+- [Gutbucket](https://en.wikipedia.org/wiki/Gutbucket_(band))
+- [Modern Drummer](https://en.wikipedia.org/wiki/Modern_Drummer)
+
+### Rob Wasserman
+`/conspirators/rob-wasserman/`
+
+- [Ned Steinberger](https://en.wikipedia.org/wiki/Ned_Steinberger)
+- [Bob Weir](https://en.wikipedia.org/wiki/Bob_Weir)
+- [Rickie Lee Jones](https://en.wikipedia.org/wiki/Rickie_Lee_Jones)
+- [Van Morrison](https://en.wikipedia.org/wiki/Van_Morrison)
+- [Elvis Costello](https://en.wikipedia.org/wiki/Elvis_Costello)
+
+### Tony Diodore
+`/conspirators/tony-diodore/`
+
+- [Number19](https://en.wikipedia.org/wiki/Number19)
+- [Puracane](https://en.wikipedia.org/wiki/Puracane)
+- [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
 
 ### Contact
 `/contact/`
@@ -1935,17 +2246,22 @@ every page.
 
 - [Contraptions](https://contraptions.bookofsarth.com)
 - [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
+- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
 - [Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
 - [Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
 - [hakenaudio.com](https://www.hakenaudio.com/)
 - [Continuum Fingerboard](https://en.wikipedia.org/wiki/Continuum_Fingerboard)
 - [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
 - [ableton.com](https://www.ableton.com/en/live/)
+- [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
 - [runwayml.com](https://runwayml.com/)
 
 ### Sightings
 `/sightings/`
 
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 - [Tumblr Storyboard](https://web.archive.org/web/20140812122953/http://storyboard.tumblr.com/post/41358319321/the-book-of-sarth-an-interactive-cyberpunk-tale)
 - [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali)
@@ -1953,9 +2269,11 @@ every page.
 - [The Eighth Nerve](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 - [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
+- [Ben Ratliff](https://en.wikipedia.org/wiki/Ben_Ratliff)
 - [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
 - [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
 - [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/)
+- [David Fricke](https://en.wikipedia.org/wiki/David_Fricke)
 - [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
 - [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/)
 - [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
@@ -1966,6 +2284,8 @@ every page.
 - [SPIN](https://www.spinmagazine.com/2009/04/lou-reed-unleashes-metal-machine-music-nyc/)
 - [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
 - [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
 
 ### DuckDB, where have you been all my life
 `/transmissions/duckdb-where-have-you-been-all-my-life/`
@@ -2049,13 +2369,13 @@ every page.
 - [burlap.app](https://burlap.app)
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
+- [Watching Shadowswith Doron Lev · April 2026](https://www.youtube.com/watch?v=fghXNj-HdBg)
+- [Through the BramblesMay 2026](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+- [Pigeon Problemswith Doron Lev · February 2026](https://www.youtube.com/watch?v=vs6KM7hFzxs)
+- [Truck Stop Lovewith Doron Lev · February 2026](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
+- [Meatsuitz Family Vacaywith Jacob McCoy · January 2026](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
 - [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
 - [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
-- [Watch](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-- [Watch](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Watch](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-- [Watch](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-- [Watch](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
 - [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 - [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)

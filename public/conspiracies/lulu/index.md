@@ -10,7 +10,9 @@ Conspiracy
 
 # *Lulu*
 
-Lou called me over to make interstitial music for a [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director)) production. It became songs, a score, rehearsals in Berlin, and then a record none of us could have predicted.
+*Lulu* is an album by [Lou Reed](/conspirators/lou-reed/) and [Metallica](https://en.wikipedia.org/wiki/Metallica), released on 31 October 2011. Its songs began as the score Reed wrote for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))’s staging of [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)’s Lulu plays, which premiered at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble) on 12 April 2011.
+
+Sarth Calhoun co-wrote and performed on the theater score, and played on the album.
 
 ## Go over to Lou’s house
 

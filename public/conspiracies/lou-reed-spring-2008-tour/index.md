@@ -11,7 +11,9 @@ Conspiracy
 # Lou Reed
 spring 2008 U.S. tour
 
-Massachusetts first, then a bus south. This was not a *Berlin* tour and it was not tied to a new album. It was the run where the band became real to me.
+[Lou Reed](/conspirators/lou-reed/) toured the United States in April and May 2008 with his [song band](/conspiracies/lou-reed-song-band/), playing the Northeast first and then working south by bus as far as Memphis. The tour was not tied to a new album.
+
+It was Sarth Calhoun’s first tour with Reed. He played electronics and processed the other musicians live. The documented dates are listed on [Appearances](/appearances/).
 
 ## The route I remembered
 

@@ -10,7 +10,9 @@ Conspiracy
 
 # Metal Machine Trio
 
-We arrived at REDCAT as three people playing an improvised noise gig under the name *Unclassified*. The shows sold out. The music gave the group its real name.
+Metal Machine Trio was an improvising group of [Lou Reed](/conspirators/lou-reed/), the saxophonist [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger) and Sarth Calhoun. It formed around two nights at [REDCAT](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger) in Los Angeles on 2 and 3 October 2008, billed as “Unclassified: Lou Reed and Ulrich Krieger”. The group name refers to *[Metal Machine Music](https://en.wikipedia.org/wiki/Metal_Machine_Music)*, Reed’s 1975 album.
+
+The recordings of those two nights were released in 2009 as the double live album *The Creation of the Universe*.
 
 ## The phone call
 

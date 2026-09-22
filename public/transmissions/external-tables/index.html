@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>External Tables, Partitions, CTEs, Window Functions, and Partitions — Sarth Calhoun</title>
+  <meta name="description" content="A five-part tutorial on building an append-only data pipeline on external tables: why append-only, external tables, window functions for the current truth, runtime type checking at the boundary, and living with the code.">
+  <link rel="canonical" href="https://www.sarth.net/transmissions/external-tables/">
+  <link rel="author" href="https://www.sarth.net/">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Sarth Calhoun">
+  <meta property="og:title" content="External Tables, Partitions, CTEs, Window Functions, and Partitions — Sarth Calhoun">
+  <meta property="og:description" content="A five-part tutorial on building an append-only data pipeline on external tables: why append-only, external tables, window functions for the current truth, runtime type checking at the boundary, and living with the code.">
+  <meta property="og:url" content="https://www.sarth.net/transmissions/external-tables/">
+  <meta property="og:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@noisegroove">
+  <meta name="twitter:title" content="External Tables, Partitions, CTEs, Window Functions, and Partitions — Sarth Calhoun">
+  <meta name="twitter:description" content="A five-part tutorial on building an append-only data pipeline on external tables: why append-only, external tables, window functions for the current truth, runtime type checking at the boundary, and living with the code.">
+  <meta name="twitter:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="article:published_time" content="2026-09-22">
+  <meta property="article:author" content="Sarth Calhoun">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.sarth.net/#person",
+      "name": "Sarth Calhoun",
+      "url": "https://www.sarth.net/",
+      "jobTitle": "Founder of Third Wall Studio",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Brooklyn"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q7424654",
+        "https://x.com/noisegroove",
+        "https://github.com/whiddershins",
+        "https://sarth.net"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "External Tables, Partitions, CTEs, Window Functions, and Partitions",
+      "name": "External Tables, Partitions, CTEs, Window Functions, and Partitions",
+      "url": "https://www.sarth.net/transmissions/external-tables/",
+      "datePublished": "2026-09-22",
+      "dateCreated": "2024-07-13",
+      "author": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "image": "https://www.sarth.net/images/og.jpg",
+      "isPartOf": {
+        "@id": "https://www.sarth.net/#website"
+      },
+      "about": [
+        {
+          "@id": "https://www.sarth.net/#person"
+        },
+        "Snowflake external tables",
+        "Window functions",
+        "Append-only data pipelines",
+        "io-ts"
+      ],
+      "description": "A five-part tutorial on building an append-only data pipeline on external tables: why append-only, external tables, window functions for the current truth, runtime type checking at the boundary, and living with the code."
+    }
+  ]
+}
+  </script>
+  <link rel="stylesheet" href="/site.css">
+</head>
+<body>
+  <header class="top">
+    <a class="mark" href="/">Sarth</a>
+    <nav>
+      <a href="/">Sarth</a>
+      <a href="/conspiracies/">Conspiracies</a>
+      <a href="/conspirators/">Conspirators</a>
+      <a href="/sightings/">Sightings</a>
+      <a href="/work/">Work</a>
+      <a href="/appearances/">Appearances</a>
+      <a href="/devices/">Devices</a>
+      <a href="/transmissions/" aria-current="page">Transmissions</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </header>
+
+  <main class="page essay">
+    <p class="kicker">Tutorial series</p>
+    <h1>External Tables, Partitions, CTEs, Window Functions, and Partitions</h1>
+    <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
+<p><em>This is a tutorial for building an append-only data pipeline on Snowflake external tables. It's based on a pipeline for ad delivery reports from a bunch of partners, each with their own file formats and delivery schedules. Nothing here is specific to that domain, though. If third parties send you files, and newer files contain updated versions of stuff that was in older files, and you need to serve whatever is current, this is for you.</em></p>
+<p>This pipeline uses <a href="https://docs.snowflake.com/en/user-guide/tables-external-intro">external tables</a> for the primary data store instead of a typical time series (CRUD style) database. That decision affects everything else, including the fact that the word PARTITION ends up meaning two different things in the same query.</p>
+<h2>The architecture</h2>
+<p>The pipeline consists of:</p>
+<figure class="arch">
+<svg viewBox="0 0 400 700" role="img" aria-label="Pipeline architecture. Partner files are copied, decoded, and written to file_date partitions at load time with no ordering. At query time an external table reads the partitions, a view keeps the latest version of each record by file_date, and aggregates feed the API.">
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="currentColor"/>
+    </marker>
+  </defs>
+
+  <g class="node" data-k="partners" tabindex="0" role="button" aria-label="Partner buckets">
+    <rect class="box" x="20" y="20" width="74" height="40" rx="3"/>
+    <rect class="box" x="103" y="20" width="74" height="40" rx="3"/>
+    <rect class="box" x="186" y="20" width="74" height="40" rx="3"/>
+    <text x="57" y="44" text-anchor="middle">Partner A</text>
+    <text x="140" y="44" text-anchor="middle">Partner B</text>
+    <text x="223" y="44" text-anchor="middle">Partner C</text>
+  </g>
+  <line class="edge" x1="140" y1="60" x2="140" y2="98" marker-end="url(#ah)"/>
+  <text class="lab" x="148" y="84">copy, any order</text>
+
+  <g class="node" data-k="raw" tabindex="0" role="button" aria-label="Your S3 bucket">
+    <rect class="box" x="20" y="100" width="240" height="40" rx="3"/>
+    <text x="140" y="124" text-anchor="middle">Your S3 bucket (raw)</text>
+  </g>
+  <line class="edge" x1="140" y1="140" x2="140" y2="178" marker-end="url(#ah)"/>
+  <text class="lab" x="148" y="164">decode</text>
+
+  <g class="node" data-k="transform" tabindex="0" role="button" aria-label="Transform and validate">
+    <rect class="box" x="20" y="180" width="240" height="40" rx="3"/>
+    <text x="140" y="204" text-anchor="middle">Transform + validate (io-ts)</text>
+  </g>
+  <line class="edge dash" x1="260" y1="200" x2="283" y2="200" marker-end="url(#ah)"/>
+  <text class="lab" x="271" y="192" text-anchor="middle">Left</text>
+  <g class="node" data-k="qa" tabindex="0" role="button" aria-label="QA report">
+    <rect class="box" x="285" y="180" width="100" height="40" rx="3"/>
+    <text x="335" y="204" text-anchor="middle">QA report</text>
+  </g>
+  <line class="edge" x1="140" y1="220" x2="140" y2="258" marker-end="url(#ah)"/>
+  <text class="lab" x="148" y="244">write CSV</text>
+
+  <g class="node" data-k="files" tabindex="0" role="button" aria-label="Transformed files, partitioned by file date">
+    <rect class="box" x="20" y="260" width="240" height="84" rx="3"/>
+    <text x="140" y="278" text-anchor="middle">transformed/acme_delivery/</text>
+    <rect class="inner" x="32" y="286" width="216" height="22" rx="2"/>
+    <text class="sub" x="140" y="301" text-anchor="middle">file_date=2023-04-01/report.csv</text>
+    <rect class="inner" x="32" y="313" width="216" height="22" rx="2"/>
+    <text class="sub" x="140" y="328" text-anchor="middle">file_date=2023-04-02/report.csv</text>
+  </g>
+
+  <line class="divider" x1="10" y1="370" x2="390" y2="370"/>
+  <text class="band" x="385" y="352" text-anchor="end">LOAD TIME</text>
+  <text class="lab" x="385" y="364" text-anchor="end">no ordering, idempotent</text>
+  <text class="band" x="385" y="386" text-anchor="end">QUERY TIME</text>
+  <text class="lab" x="385" y="398" text-anchor="end">ordered by file_date</text>
+
+  <line class="edge" x1="140" y1="344" x2="140" y2="408" marker-end="url(#ah)"/>
+  <text class="lab" x="148" y="396">read</text>
+
+  <g class="node" data-k="ext" tabindex="0" role="button" aria-label="External table">
+    <rect class="box" x="20" y="410" width="240" height="44" rx="3"/>
+    <text x="140" y="428" text-anchor="middle">External table</text>
+    <text class="sub" x="140" y="445" text-anchor="middle">PARTITION BY (file_date)</text>
+  </g>
+  <line class="edge" x1="140" y1="454" x2="140" y2="492" marker-end="url(#ah)"/>
+  <text class="lab" x="148" y="478">latest per unique key</text>
+
+  <g class="node accent" data-k="current" tabindex="0" role="button" aria-label="Current view">
+    <rect class="box" x="20" y="494" width="240" height="44" rx="3"/>
+    <text x="140" y="512" text-anchor="middle">acme_delivery_current</text>
+    <text class="sub" x="140" y="529" text-anchor="middle">ROW_NUMBER() … = 1</text>
+  </g>
+  <line class="edge" x1="140" y1="538" x2="140" y2="576" marker-end="url(#ah)"/>
+  <text class="lab" x="148" y="562">views on views</text>
+
+  <g class="node" data-k="agg" tabindex="0" role="button" aria-label="Aggregates and materialized tables">
+    <rect class="box" x="20" y="578" width="240" height="40" rx="3"/>
+    <text x="140" y="602" text-anchor="middle">Aggregates / materialized</text>
+  </g>
+  <line class="edge" x1="140" y1="618" x2="140" y2="646" marker-end="url(#ah)"/>
+
+  <g class="node" data-k="api" tabindex="0" role="button" aria-label="API">
+    <rect class="box" x="20" y="648" width="240" height="36" rx="3"/>
+    <text x="140" y="670" text-anchor="middle">API</text>
+  </g>
+</svg>
+<figcaption>Everything above the dashed line happens at load time and doesn't care about order. The ordering happens at query time. Click a stage for what it does and which part covers it.</figcaption>
+</figure>
+<div class="arch-detail" aria-live="polite">
+  <p class="kicker" id="arch-k"></p>
+  <p id="arch-t"></p>
+  <p class="meta"><a id="arch-a" href="#"></a></p>
+</div>
+<script>
+(() => {
+  const B = '/transmissions/external-tables/';
+  const P = {
+    1: [B + 'why-append-only/', 'Part 1: Why append-only'],
+    2: [B + 'building-on-external-tables/', 'Part 2: Building on external tables'],
+    3: [B + 'current-truth-with-window-functions/', 'Part 3: Current truth with window functions'],
+    4: [B + 'defending-the-boundary/', 'Part 4: Defending the boundary'],
+  };
+  const D = {
+    partners: ['Partner buckets', 'Partners send files on some cadence, but each file covers a time window larger than the cadence, so the same record shows up in many files.', 1],
+    raw: ['Your S3 bucket', 'Extract is just a copy from the partner bucket to yours. Loads are idempotent, so you can load files in parallel, in any order, and retry whichever ones failed.', 1],
+    transform: ['Transform + validate', 'Each row is decoded with an io-ts codec. A cell that doesn’t conform comes back as a Left, a value, not an exception, so it doesn’t have to crash the import.', 4],
+    qa: ['QA report', 'Decode errors carry the path to the value that failed, so QA can point at the exact row and column. Skip the row, fail the file, or fail the job, depending on the configuration.', 4],
+    files: ['Transformed files', 'Each root directory is a table, and each file_date= path is a partition. Nothing is ever updated in place.', 2],
+    ext: ['External table', 'Schema on read over the CSV directories. file_date isn’t in the CSV at all, it’s parsed out of the file path.', 2],
+    current: ['Current view', 'ROW_NUMBER() OVER (PARTITION BY <unique key> ORDER BY file_date DESC) = 1 returns the most recent version of each record. You order the contents of the PARTITION by PARTITION.', 3],
+    agg: ['Aggregates / materialized', 'Aggregate views for the questions people actually ask. When faster access is required, materialize the view or copy the data into a table.', 3],
+    api: ['API', 'Downstream code consumes the views, never the raw files.', 3],
+  };
+  const nodes = document.querySelectorAll('.arch .node');
+  const k = document.getElementById('arch-k'), t = document.getElementById('arch-t'), a = document.getElementById('arch-a');
+  const pick = key => {
+    nodes.forEach(n => n.classList.toggle('sel', n.dataset.k === key));
+    const [title, text, part] = D[key];
+    k.textContent = title; t.textContent = text; a.href = P[part][0]; a.textContent = P[part][1] + ' →';
+  };
+  nodes.forEach(n => {
+    n.addEventListener('click', () => pick(n.dataset.k));
+    n.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); pick(n.dataset.k); } });
+  });
+  pick('current');
+})();
+</script>
+
+
+<p>In a CRUD system, the state of the database depends on the order the updates were applied, so if you ever need to rebuild it, you have to replay all your inputs from the beginning, in order. Here, the ordering doesn't happen at load time at all. It happens at query time. So you can load all your files in parallel, in any order, retry whichever ones failed, and you still get the same result.</p>
+<h2>The series</h2>
+<ol>
+<li><a href="/transmissions/external-tables/why-append-only/">Why append-only</a></li>
+<li><a href="/transmissions/external-tables/building-on-external-tables/">Building on external tables</a></li>
+<li><a href="/transmissions/external-tables/current-truth-with-window-functions/">Current truth with window functions</a></li>
+<li><a href="/transmissions/external-tables/defending-the-boundary/">Defending the boundary</a></li>
+<li><a href="/transmissions/external-tables/living-with-the-code/">Living with the code</a></li>
+</ol>
+<p>Also: <a href="/transmissions/sql-as-the-data-language/">SQL as the data language</a> · <a href="/transmissions/window-functions/">Window functions, the mental model</a> · <a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB, where have you been all my life</a></p>
+
+  </main>
+
+  <aside class="graph" aria-label="Context">
+    <h2>Context</h2>
+    <dl>
+      <dt>Series</dt>
+      <dd><a href="/transmissions/external-tables/">External Tables, Partitions, CTEs, Window Functions, and Partitions</a></dd>
+      <dt>Also</dt>
+      <dd><a href="/transmissions/sql-as-the-data-language/">SQL as the data language</a> · <a href="/transmissions/window-functions/">Window functions, the mental model</a> · <a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB</a></dd>
+      <dt>On this site</dt>
+      <dd><a href="/transmissions/">Transmissions</a> · <a href="/">Sarth Calhoun</a></dd>
+    </dl>
+  </aside>
+  <footer>
+    <p>
+      <a href="https://x.com/noisegroove">@noisegroove</a>
+      · <a href="https://github.com/whiddershins">GitHub</a>
+      · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
+      · <a href="mailto:whiddershins@gmail.com">email</a>
+    </p>
+    <p>
+      <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      · <a href="https://burlap.app">Burlap</a>
+      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+    </p>
+    <p class="host">All rights reserved</p>
+  </footer>
+</body>
+</html>

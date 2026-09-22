@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Current truth with window functions — Sarth Calhoun</title>
+  <meta name="description" content="Unique keys, ROW_NUMBER() OVER (PARTITION BY ... ORDER BY file_date DESC) = 1, and views: surfacing the current version of every record from an append-only store.">
+  <link rel="canonical" href="https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/">
+  <link rel="author" href="https://www.sarth.net/">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Sarth Calhoun">
+  <meta property="og:title" content="Current truth with window functions — Sarth Calhoun">
+  <meta property="og:description" content="Unique keys, ROW_NUMBER() OVER (PARTITION BY ... ORDER BY file_date DESC) = 1, and views: surfacing the current version of every record from an append-only store.">
+  <meta property="og:url" content="https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/">
+  <meta property="og:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@noisegroove">
+  <meta name="twitter:title" content="Current truth with window functions — Sarth Calhoun">
+  <meta name="twitter:description" content="Unique keys, ROW_NUMBER() OVER (PARTITION BY ... ORDER BY file_date DESC) = 1, and views: surfacing the current version of every record from an append-only store.">
+  <meta name="twitter:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="article:published_time" content="2026-09-22">
+  <meta property="article:author" content="Sarth Calhoun">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.sarth.net/#person",
+      "name": "Sarth Calhoun",
+      "url": "https://www.sarth.net/",
+      "jobTitle": "Founder of Third Wall Studio",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Brooklyn"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q7424654",
+        "https://x.com/noisegroove",
+        "https://github.com/whiddershins",
+        "https://sarth.net"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "Current truth with window functions",
+      "name": "Current truth with window functions",
+      "url": "https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/",
+      "datePublished": "2026-09-22",
+      "dateCreated": "2024-07-13",
+      "author": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "image": "https://www.sarth.net/images/og.jpg",
+      "isPartOf": {
+        "@id": "https://www.sarth.net/#website"
+      },
+      "about": [
+        {
+          "@id": "https://www.sarth.net/#person"
+        },
+        "Append-only data pipelines",
+        "External tables",
+        "Window functions",
+        "io-ts"
+      ],
+      "description": "Unique keys, ROW_NUMBER() OVER (PARTITION BY ... ORDER BY file_date DESC) = 1, and views: surfacing the current version of every record from an append-only store."
+    }
+  ]
+}
+  </script>
+  <link rel="stylesheet" href="/site.css">
+</head>
+<body>
+  <header class="top">
+    <a class="mark" href="/">Sarth</a>
+    <nav>
+      <a href="/">Sarth</a>
+      <a href="/conspiracies/">Conspiracies</a>
+      <a href="/conspirators/">Conspirators</a>
+      <a href="/sightings/">Sightings</a>
+      <a href="/work/">Work</a>
+      <a href="/appearances/">Appearances</a>
+      <a href="/devices/">Devices</a>
+      <a href="/transmissions/" aria-current="page">Transmissions</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </header>
+
+  <main class="page essay">
+    <p class="kicker">Append-only pipelines · Part 3 of 5</p>
+    <h1>Current truth with window functions</h1>
+    <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
+<h2>The unique key</h2>
+<p>Because this is an append-only system, all logic about what data is current and valid is performed on the query side. Which raises the question: how do you know data is an update rather than a new row?</p>
+<p>For this, each file format has a unique key, which is a combination of columns, for example <code>audience_segment_name</code>, <code>date</code>, and <code>time</code>. If an entry matches existing data on those columns, it should replace the old data.</p>
+<p>Consider the following example. Let's say all you have in a certain table is this:</p>
+<table>
+<thead>
+<tr>
+<th>audience_segment_name</th>
+<th>date</th>
+<th>time</th>
+<th>impressions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Movie Lovers</td>
+<td>2022-01-01</td>
+<td>19:00</td>
+<td>2000</td>
+</tr>
+<tr>
+<td>Sports Fans</td>
+<td>2022-01-03</td>
+<td>12:00</td>
+<td>1000</td>
+</tr>
+</tbody>
+</table>
+<p>Suppose you receive an updated file with the following data:</p>
+<table>
+<thead>
+<tr>
+<th>audience_segment_name</th>
+<th>date</th>
+<th>time</th>
+<th>impressions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sports Fans</td>
+<td>2022-01-03</td>
+<td>12:00</td>
+<td>1100</td>
+</tr>
+<tr>
+<td>Cat Fanatics</td>
+<td>2022-01-05</td>
+<td>12:00</td>
+<td>1900</td>
+</tr>
+</tbody>
+</table>
+<p>Since the Sports Fans entry in the new file matches on the unique key <code>(audience_segment_name, date, time)</code>, the new file should be considered the source of truth, and your current data is:</p>
+<table>
+<thead>
+<tr>
+<th>audience_segment_name</th>
+<th>date</th>
+<th>time</th>
+<th>impressions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Movie Lovers</td>
+<td>2022-01-01</td>
+<td>19:00</td>
+<td>2000</td>
+</tr>
+<tr>
+<td>Sports Fans</td>
+<td>2022-01-03</td>
+<td>12:00</td>
+<td>1100</td>
+</tr>
+<tr>
+<td>Cat Fanatics</td>
+<td>2022-01-05</td>
+<td>12:00</td>
+<td>1900</td>
+</tr>
+</tbody>
+</table>
+<p>If you aren't using a CRUD model that replaces that entry with updated data, but instead keep every version of everything in the database, how do you surface only the most current information?</p>
+<h2>Window functions</h2>
+<p>For this you use window functions. (If window functions are new to you, <a href="/transmissions/window-functions/">this page</a> has the mental model.) They take the form of:</p>
+<pre><code class="language-sql">ROW_NUMBER() OVER (PARTITION BY &lt;...unique keys...&gt; ORDER BY file_date DESC) = 1
+</code></pre>
+<p>Here is an example of that for the external table from <a href="/transmissions/external-tables/building-on-external-tables/">part 2</a>:</p>
+<pre><code class="language-sql">SELECT * FROM analytics.ext_acme_delivery
+QUALIFY ROW_NUMBER() OVER (
+  PARTITION BY
+    campaign_name,
+    audience_segment_name,
+    report_date,
+    report_time
+  ORDER BY file_date DESC
+) = 1
+</code></pre>
+<p><a href="https://docs.snowflake.com/en/sql-reference/constructs/qualify"><code>QUALIFY</code></a> filters on the result of a window function, the way WHERE filters on columns.</p>
+<p><code>PARTITION BY</code> creates a subset of rows the window function acts upon. Each PARTITION in this context is treated as its own thing.</p>
+<p><a href="https://docs.snowflake.com/en/sql-reference/functions/row_number"><code>ROW_NUMBER()</code></a> will assign a unique number starting from 1 to each row in the PARTITION.</p>
+<p>The rows are numbered by <code>file_date DESC</code>, in other words, the row with the highest value for <code>file_date</code> gets a row number of 1, the next 2, and so forth.</p>
+<p>And then <code>= 1</code> means only return the entry with a row number of 1.</p>
+<p>This only works if the column you order by can't tie within a partition. If two rows can have the same <code>file_date</code>, <code>ROW_NUMBER()</code> will pick one of them arbitrarily, so either make sure the value is unique or add more columns to the ORDER BY to break the tie.</p>
+<p>In other words, take all the data and create subsets based on the unique key, then return the most recent from each subset.</p>
+<p>One thing worth noting here is the overloading of the term PARTITION in this pipeline. When using window functions, PARTITION is the subset of data that will be compared (because in this case, these share a unique key and are different versions of the same entry). For these purposes you return one, most recent, result from each PARTITION.</p>
+<p>When setting up external tables, PARTITION is a subset of the data that Snowflake uses for optimization, and corresponds to a file path, which in this case is generated based on the file date.</p>
+<p>So in the above query, you select all the data in the external table for a certain partner's data, you PARTITION it by the unique key, and then you ORDER BY <code>file_date</code>... which just so happens to be the external table PARTITION.</p>
+<p>You order the contents of the PARTITION by PARTITION.</p>
+<h2>Views</h2>
+<p>The window function logic, plus any other cleanup, goes in views, such as <code>acme_delivery_current</code> or <code>weekly_by_partner</code>. In the view definitions you use joins to handle exceptions, such as overriding bad identifiers, and window functions to surface the most recent version of data. Downstream code consumes the views.</p>
+<p>When faster access is required, the view can be materialized or the data copied into regular tables.</p>
+<p>It helps to pick a naming convention and stick to it. For example:</p>
+<ul>
+<li><strong>External table</strong>: <code>ext_&lt;feed&gt;</code>, partitioned by file date, containing all the files loaded to date.</li>
+<li><strong>Current view</strong>: <code>&lt;feed&gt;_current</code>, presenting the most current data and filtering out problematic stuff.</li>
+<li><strong>Aggregate views and tables</strong>: named for what they aggregate, like <code>weekly_by_partner</code>.</li>
+</ul>
+    <p class="meta links"><a href="/transmissions/external-tables/building-on-external-tables/">← Part 2: Building on external tables</a> <a href="/transmissions/external-tables/defending-the-boundary/">Part 4: Defending the boundary →</a></p>
+  </main>
+
+  <aside class="graph" aria-label="Context">
+    <h2>Context</h2>
+    <dl>
+      <dt>Series</dt>
+      <dd><a href="/transmissions/external-tables/">External Tables, Partitions, CTEs, Window Functions, and Partitions</a></dd>
+      <dt>Also</dt>
+      <dd><a href="/transmissions/sql-as-the-data-language/">SQL as the data language</a> · <a href="/transmissions/window-functions/">Window functions, the mental model</a> · <a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB</a></dd>
+      <dt>On this site</dt>
+      <dd><a href="/transmissions/">Transmissions</a> · <a href="/">Sarth Calhoun</a></dd>
+    </dl>
+  </aside>
+  <footer>
+    <p>
+      <a href="https://x.com/noisegroove">@noisegroove</a>
+      · <a href="https://github.com/whiddershins">GitHub</a>
+      · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
+      · <a href="mailto:whiddershins@gmail.com">email</a>
+    </p>
+    <p>
+      <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      · <a href="https://burlap.app">Burlap</a>
+      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+    </p>
+    <p class="host">All rights reserved</p>
+  </footer>
+</body>
+</html>

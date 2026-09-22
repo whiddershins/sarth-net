@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Window functions, the mental model — Sarth Calhoun</title>
+  <meta name="description" content="The mental model for SQL window functions: compare them to aggregates, PARTITION BY vs GROUP BY, ROW_NUMBER vs RANK, and why the window grows.">
+  <link rel="canonical" href="https://www.sarth.net/transmissions/window-functions/">
+  <link rel="author" href="https://www.sarth.net/">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Sarth Calhoun">
+  <meta property="og:title" content="Window functions, the mental model — Sarth Calhoun">
+  <meta property="og:description" content="The mental model for SQL window functions: compare them to aggregates, PARTITION BY vs GROUP BY, ROW_NUMBER vs RANK, and why the window grows.">
+  <meta property="og:url" content="https://www.sarth.net/transmissions/window-functions/">
+  <meta property="og:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@noisegroove">
+  <meta name="twitter:title" content="Window functions, the mental model — Sarth Calhoun">
+  <meta name="twitter:description" content="The mental model for SQL window functions: compare them to aggregates, PARTITION BY vs GROUP BY, ROW_NUMBER vs RANK, and why the window grows.">
+  <meta name="twitter:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="article:published_time" content="2026-09-22">
+  <meta property="article:author" content="Sarth Calhoun">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.sarth.net/#person",
+      "name": "Sarth Calhoun",
+      "url": "https://www.sarth.net/",
+      "jobTitle": "Founder of Third Wall Studio",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Brooklyn"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q7424654",
+        "https://x.com/noisegroove",
+        "https://github.com/whiddershins",
+        "https://sarth.net"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "Window functions, the mental model",
+      "name": "Window functions, the mental model",
+      "url": "https://www.sarth.net/transmissions/window-functions/",
+      "datePublished": "2026-09-22",
+      "dateCreated": "2024-07-13",
+      "author": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "image": "https://www.sarth.net/images/og.jpg",
+      "isPartOf": {
+        "@id": "https://www.sarth.net/#website"
+      },
+      "about": [
+        {
+          "@id": "https://www.sarth.net/#person"
+        },
+        "Window functions",
+        "SQL",
+        "ROW_NUMBER"
+      ],
+      "description": "The mental model for SQL window functions: compare them to aggregates, PARTITION BY vs GROUP BY, ROW_NUMBER vs RANK, and why the window grows."
+    }
+  ]
+}
+  </script>
+  <link rel="stylesheet" href="/site.css">
+</head>
+<body>
+  <header class="top">
+    <a class="mark" href="/">Sarth</a>
+    <nav>
+      <a href="/">Sarth</a>
+      <a href="/conspiracies/">Conspiracies</a>
+      <a href="/conspirators/">Conspirators</a>
+      <a href="/sightings/">Sightings</a>
+      <a href="/work/">Work</a>
+      <a href="/appearances/">Appearances</a>
+      <a href="/devices/">Devices</a>
+      <a href="/transmissions/" aria-current="page">Transmissions</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </header>
+
+  <main class="page essay">
+    <p class="kicker">SQL</p>
+    <h1>Window functions, the mental model</h1>
+    <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
+<p>In addition to the <a href="https://www.postgresql.org/docs/current/tutorial-window.html">official Postgres docs for window functions</a>, there are some examples in the <a href="https://docs.snowflake.com/en/user-guide/functions-window-using">Snowflake documentation</a> that might help you have an "aha!" moment. I find that the easiest way to grok window functions is to first compare them to aggregate functions such as <code>SUM()</code> or <code>COUNT()</code>. Where SUM or COUNT will return a single row, or a row for each GROUP BY, the window function will return all the rows, but they can contain a column with a value that is the result of calculations performed across some or all of the rows (within a partition, which again, is just a subset of rows). Here are a couple of things worth clearing up:</p>
+<ul>
+<li>GROUP BY in an aggregate function is analogous to PARTITION BY in a window function. Each group in the aggregate function would return one row that has the result of the aggregate; each partition of the window function is treated separately when having the function applied across it, but then returns the same number of rows as in the original (partitioned) data set.</li>
+<li>This is further obscured by the fact that this pipeline uses <code>RANK()</code> or <code>ROW_NUMBER() &lt;...stuff...&gt;</code> followed by <code>= 1</code> in many of the views, which means that the window function, as used here, usually only returns 1 row. Because that <code>= 1</code> just means return the first of the result rows.</li>
+<li>Speaking of which: <code>ROW_NUMBER() = 1</code> will always return only 1 result, but <code>RANK() = 1</code> can return more than one result if two rows have the same value.</li>
+<li>The word window can be confusing at first, because in computer science usually a window is a fixed size number of values (like audio samples). However, the default behavior for some window functions is to have a window of varying size. For example, if you are summing it might do a running total where the first row has one row of value, the next row has that value plus the previous row, and so forth. So the window grows during this evaluation. This is actually just default behavior and great for doing a running total. But if you dive into the Snowflake documentation you will find you can specify the window be of a fixed size (x rows before, x rows after) or other ways to customize the window.</li>
+<li>There's other handy stuff in window functions, like <code>LAG()</code>, which always references the previous row. Fun times.</li>
+</ul>
+
+  </main>
+
+  <aside class="graph" aria-label="Context">
+    <h2>Context</h2>
+    <dl>
+      <dt>Series</dt>
+      <dd><a href="/transmissions/external-tables/">External Tables, Partitions, CTEs, Window Functions, and Partitions</a></dd>
+      <dt>Also</dt>
+      <dd><a href="/transmissions/sql-as-the-data-language/">SQL as the data language</a> · <a href="/transmissions/window-functions/">Window functions, the mental model</a> · <a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB</a></dd>
+      <dt>On this site</dt>
+      <dd><a href="/transmissions/">Transmissions</a> · <a href="/">Sarth Calhoun</a></dd>
+    </dl>
+  </aside>
+  <footer>
+    <p>
+      <a href="https://x.com/noisegroove">@noisegroove</a>
+      · <a href="https://github.com/whiddershins">GitHub</a>
+      · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
+      · <a href="mailto:whiddershins@gmail.com">email</a>
+    </p>
+    <p>
+      <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      · <a href="https://burlap.app">Burlap</a>
+      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+    </p>
+    <p class="host">All rights reserved</p>
+  </footer>
+</body>
+</html>

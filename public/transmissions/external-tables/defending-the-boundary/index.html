@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Defending the boundary — Sarth Calhoun</title>
+  <meta name="description" content="Runtime type checking with io-ts codecs in Node streams: errors as values, async pipelines, and why validating at the boundary saves time, money, and heartache.">
+  <link rel="canonical" href="https://www.sarth.net/transmissions/external-tables/defending-the-boundary/">
+  <link rel="author" href="https://www.sarth.net/">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Sarth Calhoun">
+  <meta property="og:title" content="Defending the boundary — Sarth Calhoun">
+  <meta property="og:description" content="Runtime type checking with io-ts codecs in Node streams: errors as values, async pipelines, and why validating at the boundary saves time, money, and heartache.">
+  <meta property="og:url" content="https://www.sarth.net/transmissions/external-tables/defending-the-boundary/">
+  <meta property="og:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@noisegroove">
+  <meta name="twitter:title" content="Defending the boundary — Sarth Calhoun">
+  <meta name="twitter:description" content="Runtime type checking with io-ts codecs in Node streams: errors as values, async pipelines, and why validating at the boundary saves time, money, and heartache.">
+  <meta name="twitter:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="article:published_time" content="2026-09-22">
+  <meta property="article:author" content="Sarth Calhoun">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.sarth.net/#person",
+      "name": "Sarth Calhoun",
+      "url": "https://www.sarth.net/",
+      "jobTitle": "Founder of Third Wall Studio",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Brooklyn"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q7424654",
+        "https://x.com/noisegroove",
+        "https://github.com/whiddershins",
+        "https://sarth.net"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "Defending the boundary",
+      "name": "Defending the boundary",
+      "url": "https://www.sarth.net/transmissions/external-tables/defending-the-boundary/",
+      "datePublished": "2026-09-22",
+      "dateCreated": "2024-07-13",
+      "author": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "image": "https://www.sarth.net/images/og.jpg",
+      "isPartOf": {
+        "@id": "https://www.sarth.net/#website"
+      },
+      "about": [
+        {
+          "@id": "https://www.sarth.net/#person"
+        },
+        "Append-only data pipelines",
+        "External tables",
+        "Window functions",
+        "io-ts"
+      ],
+      "description": "Runtime type checking with io-ts codecs in Node streams: errors as values, async pipelines, and why validating at the boundary saves time, money, and heartache."
+    }
+  ]
+}
+  </script>
+  <link rel="stylesheet" href="/site.css">
+</head>
+<body>
+  <header class="top">
+    <a class="mark" href="/">Sarth</a>
+    <nav>
+      <a href="/">Sarth</a>
+      <a href="/conspiracies/">Conspiracies</a>
+      <a href="/conspirators/">Conspirators</a>
+      <a href="/sightings/">Sightings</a>
+      <a href="/work/">Work</a>
+      <a href="/appearances/">Appearances</a>
+      <a href="/devices/">Devices</a>
+      <a href="/transmissions/" aria-current="page">Transmissions</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </header>
+
+  <main class="page essay">
+    <p class="kicker">Append-only pipelines · Part 4 of 5</p>
+    <h1>Defending the boundary</h1>
+    <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
+<p>The pipeline uses <a href="https://gcanti.github.io/io-ts/">io-ts</a> to do runtime type checking; most notably the transform step of the pipeline relies on it. For example, an .xls parser is used with <a href="https://nodejs.org/api/stream.html">Node streams</a> (pipelines) and io-ts to go through each row of an Excel file provided by the partner and verify the cells provide data which can be encoded to the expected type. If it encounters a cell that doesn't meet expectations, you can either skip the row, fail the file, or fail the entire job, depending on the configuration.</p>
+<p>This functional approach saved us tons of time, money, and heartache, and here's why.</p>
+<p>With io-ts, one codec definition decodes whatever the partner sent into typed values, encodes those values back out to the CSV, and gives TypeScript the static type. So the validation, the type, and the serialization come from the same place and can't get out of sync with each other.</p>
+<p>When a cell doesn't decode, io-ts doesn't throw an exception. It returns a Left, which is just a value, and it moves through the pipeline like any other value. That's why skipping the row, failing the file, or failing the job can be a configuration setting. And the decode errors include the path to the value that failed, so the QA reports can point at the exact row and column.</p>
+<p>And because the pipelines are streams and the errors don't throw, the whole thing is completely async. An error doesn't have to crash your whole import, and you can effectively parallelize a bunch of the transformation.</p>
+<p><strong>More explanation if the above doesn't make sense.</strong> If you are wondering what and why, remember that TypeScript is largely an illusion. Everything TypeScript provides is for the purposes of writing code that has type safety at compile time, and is great when integrated well with your IDE. TypeScript won't let you compile code with mismatched types, but it then disappears entirely at the compile step. The code you run is <em>just</em> JavaScript. So whenever you are dealing with potentially arbitrary data at run time, TypeScript can't help.</p>
+<p>This comes up anytime you read or write from the database, for example. You have to tell TypeScript "trust me, the data will conform to this type," but of course that's only true if you don't goof up your query results (or inserts) data structure and really match it with the TypeScript type. This is untenable in the scenario where you are getting data from a third party, especially a third party that has a history of changing the data format or sending bad data. It is one of the specified roles of this pipeline to handle the chaos of the data.</p>
+<p>The bad, verbose, ugly, and laborious but effective way to deal with this would be falling back to a lot of old-school JavaScript type checking... a bunch of <code>if (typeof foo !== 'undefined')</code> and all that fun stuff.</p>
+<p>The awesome, functional, and robust way to handle this is to use io-ts.</p>
+<p><strong>Breaking apart the bits that might make this feel intimidating.</strong> If this stuff looks intimidating, it might be because several different uncommon techniques are being used together, much the same as the <a href="/transmissions/external-tables/current-truth-with-window-functions/">SQL in part 3</a>. Each piece can be approachable taken one at a time.</p>
+<ul>
+<li>The TypeScript in this style is heavily oriented towards functional programming. It is formatted (by Prettier) with that in mind, and uses functional techniques like decorator functions and partial application, and advanced type concepts such as generics (stuff where what type is used is also variable). If this seems alien, there is more about this in <a href="/transmissions/external-tables/living-with-the-code/">part 5</a>.</li>
+<li>The parsing uses streams in the form of pipelines. Pipelines are a newer way of doing Node streams that makes them easier to understand and more readable. If you aren't familiar with streams, they aren't complicated and they are an important part of how Node fundamentally works. It's how you process little chunks of data successively until the whole file (or whatever) has been processed, so you don't have to have everything in memory at once. People usually get tripped up by streams because the words "writable" and "readable" sometimes feel like they mean the opposite of what you imagined. This is true of every similar technology in every language that supports it, and once you make peace with that the rest is pretty straightforward.</li>
+<li>io-ts is based on <a href="https://gcanti.github.io/fp-ts/">fp-ts</a>, which is a library that brings features common in functional programming languages into TypeScript. It's not necessary to learn everything about fp-ts to use io-ts, just look stuff up if you see something unfamiliar or incomprehensible.</li>
+<li>io-ts is for run-time type checking and conversion as indicated above. Its core type is <code>Type&lt;A, O, I&gt;</code>, where the <code>&lt;A, O, I&gt;</code> are type variables: the type you want to end up with, the type you want the output to be, and the type you expect the input to be, and so forth... if it can't do those operations because the data you are giving it doesn't conform, it will fail (actually go left instead of right, see <a href="https://gcanti.github.io/fp-ts/modules/Either.ts.html">Either</a>).</li>
+</ul>
+<p>io-ts is in maintenance mode now. If you're starting today, look at <a href="https://effect.website/docs/v3/schema/introduction">Effect Schema</a>, which is where the io-ts and fp-ts work continued and which keeps the functional pipeline style, or <a href="https://zod.dev/">Zod</a>, which is the most widely used and now also has <a href="https://zod.dev/codecs">bidirectional codecs</a>.</p>
+    <p class="meta links"><a href="/transmissions/external-tables/current-truth-with-window-functions/">← Part 3: Current truth with window functions</a> <a href="/transmissions/external-tables/living-with-the-code/">Part 5: Living with the code →</a></p>
+  </main>
+
+  <aside class="graph" aria-label="Context">
+    <h2>Context</h2>
+    <dl>
+      <dt>Series</dt>
+      <dd><a href="/transmissions/external-tables/">External Tables, Partitions, CTEs, Window Functions, and Partitions</a></dd>
+      <dt>Also</dt>
+      <dd><a href="/transmissions/sql-as-the-data-language/">SQL as the data language</a> · <a href="/transmissions/window-functions/">Window functions, the mental model</a> · <a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB</a></dd>
+      <dt>On this site</dt>
+      <dd><a href="/transmissions/">Transmissions</a> · <a href="/">Sarth Calhoun</a></dd>
+    </dl>
+  </aside>
+  <footer>
+    <p>
+      <a href="https://x.com/noisegroove">@noisegroove</a>
+      · <a href="https://github.com/whiddershins">GitHub</a>
+      · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
+      · <a href="mailto:whiddershins@gmail.com">email</a>
+    </p>
+    <p>
+      <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      · <a href="https://burlap.app">Burlap</a>
+      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+    </p>
+    <p class="host">All rights reserved</p>
+  </footer>
+</body>
+</html>

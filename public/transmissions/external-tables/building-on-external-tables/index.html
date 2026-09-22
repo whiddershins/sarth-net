@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Building on external tables — Sarth Calhoun</title>
+  <meta name="description" content="Laying out object storage so file paths are partitions, and defining external tables over directories of CSVs, with Snowflake as the worked example.">
+  <link rel="canonical" href="https://www.sarth.net/transmissions/external-tables/building-on-external-tables/">
+  <link rel="author" href="https://www.sarth.net/">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Sarth Calhoun">
+  <meta property="og:title" content="Building on external tables — Sarth Calhoun">
+  <meta property="og:description" content="Laying out object storage so file paths are partitions, and defining external tables over directories of CSVs, with Snowflake as the worked example.">
+  <meta property="og:url" content="https://www.sarth.net/transmissions/external-tables/building-on-external-tables/">
+  <meta property="og:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@noisegroove">
+  <meta name="twitter:title" content="Building on external tables — Sarth Calhoun">
+  <meta name="twitter:description" content="Laying out object storage so file paths are partitions, and defining external tables over directories of CSVs, with Snowflake as the worked example.">
+  <meta name="twitter:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="article:published_time" content="2026-09-22">
+  <meta property="article:author" content="Sarth Calhoun">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.sarth.net/#person",
+      "name": "Sarth Calhoun",
+      "url": "https://www.sarth.net/",
+      "jobTitle": "Founder of Third Wall Studio",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Brooklyn"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q7424654",
+        "https://x.com/noisegroove",
+        "https://github.com/whiddershins",
+        "https://sarth.net"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "Building on external tables",
+      "name": "Building on external tables",
+      "url": "https://www.sarth.net/transmissions/external-tables/building-on-external-tables/",
+      "datePublished": "2026-09-22",
+      "dateCreated": "2024-07-13",
+      "author": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "image": "https://www.sarth.net/images/og.jpg",
+      "isPartOf": {
+        "@id": "https://www.sarth.net/#website"
+      },
+      "about": [
+        {
+          "@id": "https://www.sarth.net/#person"
+        },
+        "Append-only data pipelines",
+        "External tables",
+        "Window functions",
+        "io-ts"
+      ],
+      "description": "Laying out object storage so file paths are partitions, and defining external tables over directories of CSVs, with Snowflake as the worked example."
+    }
+  ]
+}
+  </script>
+  <link rel="stylesheet" href="/site.css">
+</head>
+<body>
+  <header class="top">
+    <a class="mark" href="/">Sarth</a>
+    <nav>
+      <a href="/">Sarth</a>
+      <a href="/conspiracies/">Conspiracies</a>
+      <a href="/conspirators/">Conspirators</a>
+      <a href="/sightings/">Sightings</a>
+      <a href="/work/">Work</a>
+      <a href="/appearances/">Appearances</a>
+      <a href="/devices/">Devices</a>
+      <a href="/transmissions/" aria-current="page">Transmissions</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </header>
+
+  <main class="page essay">
+    <p class="kicker">Append-only pipelines · Part 2 of 5</p>
+    <h1>Building on external tables</h1>
+    <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
+<h2>Lay out S3 so the paths are the partitions</h2>
+<p>The CSVs inside directories are the external tables, where each root directory equals a table and the individual file paths represent partitions. The typical partitioning scheme relies on the path having the string <code>file_date=some-iso-date</code>, where <code>some-iso-date</code> is the partition:</p>
+<pre><code>.../transformed/acme_delivery/file_date=2023-04-01/report.csv
+.../transformed/acme_delivery/file_date=2023-04-02/report.csv
+</code></pre>
+<p>Snowflake supports creating a multidimensional structure by having multiple partition columns. For example, if a partner can send more than one file for the same date, you can add another partition column to the path to tell them apart. Overall this doesn't factor much into a typical daily feed.</p>
+<h2>Define the external tables</h2>
+<p>External tables are read only and schema on read: you define the table columns after the fact, and you can always alter the column definitions in the future without concern about altering data.</p>
+<p>Here is an example of the <a href="https://docs.snowflake.com/en/sql-reference/sql/create-external-table">command</a> used to define an external table in Snowflake:</p>
+<pre><code class="language-sql">create or replace external table analytics.ext_acme_delivery (
+  campaign_name         VARCHAR(256) NOT NULL     as (value:c1::VARCHAR),
+  audience_segment_name VARCHAR(256) NOT NULL     as (value:c2::VARCHAR),
+  report_date           DATE NOT NULL             as (value:c3::DATE),
+  report_time           TIME NOT NULL             as (value:c4::TIME),
+  impressions           INTEGER                   as (value:c5::INTEGER),
+  clicks                INTEGER                   as (value:c6::INTEGER),
+  spend                 NUMBER(12,2)              as (value:c7::NUMBER(12,2)),
+  file_name             VARCHAR(256) NOT NULL     as (value:c8::VARCHAR),
+  updated_at            TIMESTAMP_NTZ(9) NOT NULL as (value:c9::TIMESTAMP_NTZ),
+  file_date             DATE NOT NULL as (
+    SPLIT_PART(SPLIT_PART(metadata$filename, 'file_date=', -1), '/', 1)::date
+  )
+)
+PARTITION BY (file_date)
+WITH LOCATION = @analytics.lake_stage/acme_delivery
+FILE_FORMAT = (
+  TYPE='CSV', SKIP_HEADER=1, EMPTY_FIELD_AS_NULL=TRUE,
+  FIELD_OPTIONALLY_ENCLOSED_BY='&quot;'
+);
+</code></pre>
+<p>Note the <code>file_date</code> column isn't in the CSV. It's parsed out of <code>metadata$filename</code>, the file path. That's the column you <code>PARTITION BY</code>, so queries that filter or sort on <code>file_date</code> only touch the files they need.</p>
+<p>This is an append-only system. Every time you receive a valid file, it is added to the database and the table is refreshed to include it.</p>
+<p>These days Snowflake also supports <a href="https://docs.snowflake.com/en/user-guide/tables-iceberg">Apache Iceberg tables</a>, which store the data as columnar files that other engines can read too. The append-only approach, the unique keys, and the <a href="/transmissions/external-tables/current-truth-with-window-functions/">window functions in part 3</a> work the same way on Iceberg tables.</p>
+    <p class="meta links"><a href="/transmissions/external-tables/why-append-only/">← Part 1: Why append-only</a> <a href="/transmissions/external-tables/current-truth-with-window-functions/">Part 3: Current truth with window functions →</a></p>
+  </main>
+
+  <aside class="graph" aria-label="Context">
+    <h2>Context</h2>
+    <dl>
+      <dt>Series</dt>
+      <dd><a href="/transmissions/external-tables/">External Tables, Partitions, CTEs, Window Functions, and Partitions</a></dd>
+      <dt>Also</dt>
+      <dd><a href="/transmissions/sql-as-the-data-language/">SQL as the data language</a> · <a href="/transmissions/window-functions/">Window functions, the mental model</a> · <a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB</a></dd>
+      <dt>On this site</dt>
+      <dd><a href="/transmissions/">Transmissions</a> · <a href="/">Sarth Calhoun</a></dd>
+    </dl>
+  </aside>
+  <footer>
+    <p>
+      <a href="https://x.com/noisegroove">@noisegroove</a>
+      · <a href="https://github.com/whiddershins">GitHub</a>
+      · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
+      · <a href="mailto:whiddershins@gmail.com">email</a>
+    </p>
+    <p>
+      <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      · <a href="https://burlap.app">Burlap</a>
+      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+    </p>
+    <p class="host">All rights reserved</p>
+  </footer>
+</body>
+</html>

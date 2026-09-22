@@ -208,7 +208,71 @@ footer .host {
   text-transform: uppercase;
   font-size: 0.7rem;
 }
+.essay h2 { margin-top: 2.6rem; }
+.essay hr { border: 0; border-top: 1px solid var(--line); margin: 2.4rem 0; }
+.essay code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.86em;
+}
+.essay pre {
+  overflow-x: auto;
+  margin: 0 0 1.2rem;
+  padding: 0.9rem 1rem;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--line);
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
+.essay pre code { font-size: inherit; }
+.essay table {
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin: 0 0 1.2rem;
+  font-size: 0.85rem;
+}
+.essay th, .essay td {
+  padding: 0.35rem 1rem 0.35rem 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  white-space: nowrap;
+}
+.essay th { font-weight: 500; }
+.arch { max-width: 460px; margin: 1.6rem auto 0.6rem; }
+.arch svg { display: block; width: 100%; height: auto; color: var(--paper); overflow: visible; }
+.arch text { fill: currentColor; font-size: 12px; font-family: "Helvetica Neue", ui-sans-serif, sans-serif; }
+.arch .sub { font-size: 10px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; fill-opacity: 0.8; }
+.arch .lab { font-size: 10.5px; fill: var(--mute); }
+.arch .band { font-size: 10px; letter-spacing: 0.16em; fill: var(--mute); }
+.arch .edge { stroke: currentColor; stroke-opacity: 0.6; stroke-width: 1.2; }
+.arch .dash { stroke-dasharray: 3 3; }
+.arch .divider { stroke: var(--mute); stroke-dasharray: 6 5; stroke-width: 1; }
+.arch .box { fill: rgba(232, 224, 208, 0.04); stroke: currentColor; stroke-opacity: 0.45; stroke-width: 1.2; }
+.arch .inner { fill: none; stroke: currentColor; stroke-opacity: 0.3; }
+.arch .node { cursor: pointer; outline: none; }
+.arch .node:hover .box, .arch .node:focus-visible .box { stroke-opacity: 1; }
+.arch .node.sel .box { stroke: #d9a441; stroke-opacity: 1; fill: rgba(217, 164, 65, 0.14); }
+.arch figcaption { text-align: center; }
+.arch-detail {
+  max-width: 460px;
+  margin: 0 auto 2.4rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--line);
+  min-height: 9rem;
+}
+.arch-detail .kicker { color: #d9a441; }
+.arch-detail p { margin-bottom: 0.5rem; }
 @media (max-width: 719px) {
   body { font-size: 16px; }
   .top { flex-direction: column; gap: 0.6rem; }
 }
+
+.authors-note {
+  margin: -0.4rem 0 1.6rem;
+  padding: 0.6rem 0.9rem;
+  border-left: 2px solid rgba(128,128,128,0.35);
+  font-size: 0.92rem;
+  line-height: 1.5;
+  opacity: 0.85;
+}
+.authors-note em { font-style: italic; }

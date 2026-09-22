@@ -34,8 +34,22 @@ Contact: mailto:whiddershins@gmail.com
 - Sightings https://www.sarth.net/sightings/
 - Appearances https://www.sarth.net/appearances/
 - Devices https://www.sarth.net/devices/
+- Work (current and past work, newest first) https://www.sarth.net/work/
 - Transmissions https://www.sarth.net/transmissions/
 - Visual Reference Prompting https://www.sarth.net/transmissions/visual-reference-prompting/
+- DuckDB, where have you been all my life https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/
+- External Tables, Partitions, CTEs, Window Functions, and Partitions (five-part tutorial series) https://www.sarth.net/transmissions/external-tables/
+  - Why append-only (part 1) https://www.sarth.net/transmissions/external-tables/why-append-only/
+  - Building on external tables (part 2) https://www.sarth.net/transmissions/external-tables/building-on-external-tables/
+  - Current truth with window functions (part 3) https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/
+  - Defending the boundary (part 4) https://www.sarth.net/transmissions/external-tables/defending-the-boundary/
+  - Living with the code (part 5) https://www.sarth.net/transmissions/external-tables/living-with-the-code/
+  - SQL as the data language https://www.sarth.net/transmissions/sql-as-the-data-language/
+  - Window functions, the mental model https://www.sarth.net/transmissions/window-functions/
+- You might not need Pandas https://www.sarth.net/transmissions/you-might-not-need-pandas/
+- Why Python is the default for data work https://www.sarth.net/transmissions/why-python-is-the-default-for-data-work/
+- Modern Postgres is shockingly capable https://www.sarth.net/transmissions/modern-postgres/
+- Node vs Rails: agnostic vs batteries included https://www.sarth.net/transmissions/node-vs-rails/
 - Contact https://www.sarth.net/contact/
 
 ## Cite, do not duplicate

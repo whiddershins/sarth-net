@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SQL as the data language — Sarth Calhoun</title>
+  <meta name="description" content="Views, CTEs, joins, and why a handy way to think about SQL is that everything is a table (which is also not true).">
+  <link rel="canonical" href="https://www.sarth.net/transmissions/sql-as-the-data-language/">
+  <link rel="author" href="https://www.sarth.net/">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Sarth Calhoun">
+  <meta property="og:title" content="SQL as the data language — Sarth Calhoun">
+  <meta property="og:description" content="Views, CTEs, joins, and why a handy way to think about SQL is that everything is a table (which is also not true).">
+  <meta property="og:url" content="https://www.sarth.net/transmissions/sql-as-the-data-language/">
+  <meta property="og:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@noisegroove">
+  <meta name="twitter:title" content="SQL as the data language — Sarth Calhoun">
+  <meta name="twitter:description" content="Views, CTEs, joins, and why a handy way to think about SQL is that everything is a table (which is also not true).">
+  <meta name="twitter:image" content="https://www.sarth.net/images/og.jpg">
+  <meta property="article:published_time" content="2026-09-22">
+  <meta property="article:author" content="Sarth Calhoun">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.sarth.net/#person",
+      "name": "Sarth Calhoun",
+      "url": "https://www.sarth.net/",
+      "jobTitle": "Founder of Third Wall Studio",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Brooklyn"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q7424654",
+        "https://x.com/noisegroove",
+        "https://github.com/whiddershins",
+        "https://sarth.net"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "SQL as the data language",
+      "name": "SQL as the data language",
+      "url": "https://www.sarth.net/transmissions/sql-as-the-data-language/",
+      "datePublished": "2026-09-22",
+      "dateCreated": "2024-07-13",
+      "author": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "image": "https://www.sarth.net/images/og.jpg",
+      "isPartOf": {
+        "@id": "https://www.sarth.net/#website"
+      },
+      "about": [
+        {
+          "@id": "https://www.sarth.net/#person"
+        },
+        "SQL",
+        "Views",
+        "Common Table Expressions"
+      ],
+      "description": "Views, CTEs, joins, and why a handy way to think about SQL is that everything is a table (which is also not true)."
+    }
+  ]
+}
+  </script>
+  <link rel="stylesheet" href="/site.css">
+</head>
+<body>
+  <header class="top">
+    <a class="mark" href="/">Sarth</a>
+    <nav>
+      <a href="/">Sarth</a>
+      <a href="/conspiracies/">Conspiracies</a>
+      <a href="/conspirators/">Conspirators</a>
+      <a href="/sightings/">Sightings</a>
+      <a href="/work/">Work</a>
+      <a href="/appearances/">Appearances</a>
+      <a href="/devices/">Devices</a>
+      <a href="/transmissions/" aria-current="page">Transmissions</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+  </header>
+
+  <main class="page essay">
+    <p class="kicker">SQL</p>
+    <h1>SQL as the data language</h1>
+    <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
+<p><strong>Views.</strong> If you aren't a SQL-head, you might not know that a view is just a stored SQL query that can itself be queried as if it were a table. The reason you want to store that query and pretend it is a table is partly the same reason you might assign anything to a variable while coding, but mostly to separate concerns in the app. The view does a bunch of stuff to format the data, then the next thing consumes that view. If the view needs to be updated because something upstream changed or was wrong, the rest of the system doesn't need to care. The views in a pipeline like this can be really extensive. And complicated, like over 100 lines of SQL. They are key to the QA jobs as well.</p>
+<p><strong>Everything is a table.</strong> With that in mind, you might be tempted to think there is something special about views, that you can query them just like they are a table. This is the opposite of true. Just like everything is an object in Smalltalk, or everything is a function in Haskell, or code is data in LISP, a handy way to think about SQL is "everything is a table." It's also not true. The accurate statement is "most queries in SQL return a result set, which itself can be queried." But the point is that SQL is super composable in this way, so there is nothing special about views being queryable, they just happen to be stored. Query results can be queried, and those results can be queried, and it's turtles all the way down. <a href="https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo">Buffalo buffalo Buffalo buffalo buffalo.</a></p>
+<p><strong>CTEs.</strong> Knowing this, <a href="https://www.postgresql.org/docs/current/queries-with.html">Common Table Expressions</a> aren't at all mysterious. They are variables within a given SQL statement that hold the results of a query, which you can then reference by name later to do more stuff with it. You just create a "table" and give it a name and have access to that for the duration of the statement execution. They take the form <code>WITH some_descriptive_name AS (SELECT ... etc ... just a query here)</code>. Mostly CTEs are used to improve readability, and you can accomplish a similar thing by nesting subqueries. But it is easier to reason about CTEs, much the same way async/await is easier to reason about than a tangle of promise chains in JavaScript. There used to be some hubbub about CTEs being inefficient when compared to subqueries, but this is less true nowadays, depending on the engine and version, and anyway if you are having that conversation you aren't reading this tutorial for tips.</p>
+<p><strong>Joins, unions, and such.</strong> There's no need for me to write anything about joins and unions and intersections and so forth here. Every beginner SQL tutorial (like Stanford's <a href="https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql">Databases: Relational Databases and SQL</a>) will start by explaining joins, and the internet is full of examples, cheat sheets, and Venn diagrams. You use joins not only to create unified data sets, but also to cleverly replace bad identifiers and stuff.</p>
+
+  </main>
+
+  <aside class="graph" aria-label="Context">
+    <h2>Context</h2>
+    <dl>
+      <dt>Series</dt>
+      <dd><a href="/transmissions/external-tables/">External Tables, Partitions, CTEs, Window Functions, and Partitions</a></dd>
+      <dt>Also</dt>
+      <dd><a href="/transmissions/sql-as-the-data-language/">SQL as the data language</a> · <a href="/transmissions/window-functions/">Window functions, the mental model</a> · <a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB</a></dd>
+      <dt>On this site</dt>
+      <dd><a href="/transmissions/">Transmissions</a> · <a href="/">Sarth Calhoun</a></dd>
+    </dl>
+  </aside>
+  <footer>
+    <p>
+      <a href="https://x.com/noisegroove">@noisegroove</a>
+      · <a href="https://github.com/whiddershins">GitHub</a>
+      · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
+      · <a href="mailto:whiddershins@gmail.com">email</a>
+    </p>
+    <p>
+      <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      · <a href="https://burlap.app">Burlap</a>
+      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+    </p>
+    <p class="host">All rights reserved</p>
+  </footer>
+</body>
+</html>

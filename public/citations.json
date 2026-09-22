@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-22",
-  "citation_count": 401,
+  "citation_count": 421,
   "pages": [
     {
       "path": "/",
@@ -296,6 +296,10 @@
         {
           "url": "https://www.stereophile.com/content/gralbum-re-thinking-concept-album",
           "text": "Stereophile"
+        },
+        {
+          "url": "https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php",
+          "text": "loureed.com, 25 Jun 2009, archived news feed"
         },
         {
           "url": "https://music.apple.com/us/album/the-creation-of-the-universe/315196713",
@@ -764,6 +768,58 @@
         {
           "url": "https://en.wikipedia.org/wiki/Ben_Ratliff",
           "text": "Ben Ratliff"
+        },
+        {
+          "url": "https://gralbumcollective.com/",
+          "text": "gralbumcollective.com"
+        },
+        {
+          "url": "https://www.borayoon.com/",
+          "text": "Bora Yoon"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Hart_(cartoonist)",
+          "text": "Tom Hart"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Moon_Hooch",
+          "text": "Moon Hooch"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/U-Ram_Choe",
+          "text": "U-Ram Choe"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Billy_Martin_(percussionist)",
+          "text": "Billy Martin"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood",
+          "text": "Medeski Martin &amp;amp; Wood"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
+          "text": "Ernst Haeckel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Yamaha_EX5",
+          "text": "Yamaha EX5"
+        },
+        {
+          "url": "https://music.apple.com/us/album/suspension/274828088",
+          "text": "Apple Music"
+        },
+        {
+          "url": "https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5",
+          "text": "Spotify"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mp3.com",
+          "text": "mp3.com"
+        },
+        {
+          "url": "https://www.youtube.com/@burlap_app",
+          "text": "YouTube"
         }
       ]
     },
@@ -1312,6 +1368,44 @@
       ]
     },
     {
+      "path": "/conspirators/ulrich-krieger/",
+      "title": "Ulrich Krieger",
+      "citations": [
+        {
+          "url": "http://www.ulrich-krieger.com/",
+          "text": "Ulrich Krieger"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Freiburg_im_Breisgau",
+          "text": "Freiburg"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Cage",
+          "text": "John Cage"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/California_Institute_of_the_Arts",
+          "text": "California Institute of the Arts"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Machine_Music",
+          "text": "Metal Machine Music"
+        },
+        {
+          "url": "https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable",
+          "text": "&ldquo;Unclassifiable&rdquo;, The Wire, November 2013"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Hearn",
+          "text": "Kevin Hearn"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aram_Bajakian",
+          "text": "Aram Bajakian"
+        }
+      ]
+    },
+    {
       "path": "/contact/",
       "title": "Contact",
       "citations": [
@@ -1372,64 +1466,6 @@
         {
           "url": "https://runwayml.com/",
           "text": "runwayml.com"
-        }
-      ]
-    },
-    {
-      "path": "/releases/",
-      "title": "Releases",
-      "citations": [
-        {
-          "url": "https://sarth.bandcamp.com/track/i-just-believe-in-christmas",
-          "text": "Bandcamp"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=dXqYHjmmev0",
-          "text": "Lyric video"
-        },
-        {
-          "url": "https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160",
-          "text": "Apple Music"
-        },
-        {
-          "url": "https://music.apple.com/us/album/the-creation-of-the-universe/315196713",
-          "text": "Apple Music"
-        },
-        {
-          "url": "https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe",
-          "text": "Discogs"
-        },
-        {
-          "url": "https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5",
-          "text": "Spotify"
-        },
-        {
-          "url": "https://thirdwallstudio.com",
-          "text": "Third Wall"
-        },
-        {
-          "url": "https://www.youtube.com/@burlap_app",
-          "text": "YouTube"
-        },
-        {
-          "url": "https://burlap.app",
-          "text": "burlap.app"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=CP8939UdzSo",
-          "text": "Introducing Burlap"
-        },
-        {
-          "url": "https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/",
-          "text": "Credits"
-        },
-        {
-          "url": "https://bookofsarth.com",
-          "text": "bookofsarth.com"
-        },
-        {
-          "url": "https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album",
-          "text": "The Verge"
         }
       ]
     },
@@ -1544,6 +1580,56 @@
         {
           "url": "https://en.wikipedia.org/wiki/Laurie_Anderson",
           "text": "Laurie Anderson"
+        }
+      ]
+    },
+    {
+      "path": "/transmissions/",
+      "title": "Transmissions",
+      "citations": [
+        {
+          "url": "https://sarth.bandcamp.com/track/i-just-believe-in-christmas",
+          "text": "Bandcamp"
+        },
+        {
+          "url": "https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160",
+          "text": "Apple Music"
+        },
+        {
+          "url": "https://music.apple.com/us/album/the-creation-of-the-universe/315196713",
+          "text": "Apple Music"
+        },
+        {
+          "url": "https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe",
+          "text": "Discogs"
+        },
+        {
+          "url": "https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5",
+          "text": "Spotify"
+        },
+        {
+          "url": "https://thirdwallstudio.com",
+          "text": "Third Wall"
+        },
+        {
+          "url": "https://www.youtube.com/@burlap_app",
+          "text": "YouTube"
+        },
+        {
+          "url": "https://burlap.app",
+          "text": "burlap.app"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=CP8939UdzSo",
+          "text": "Introducing Burlap"
+        },
+        {
+          "url": "https://bookofsarth.com",
+          "text": "bookofsarth.com"
+        },
+        {
+          "url": "https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/",
+          "text": "Credits"
         }
       ]
     },

@@ -51,9 +51,8 @@ Contact: mailto:whiddershins@gmail.com
 - Tony Diodore https://www.sarth.net/conspirators/tony-diodore/
 - Lucibel Crater https://www.sarth.net/conspiracies/lucibel-crater/
 - Book of Sarth https://www.sarth.net/conspiracies/book-of-sarth/
-- Releases (records, films, apps and writing; aural, optical, lexical) https://www.sarth.net/releases/
 - Work (current and past work, newest first) https://www.sarth.net/work/
-- Transmissions https://www.sarth.net/transmissions/
+- Transmissions (everything he put out: aural, optical, lexical) https://www.sarth.net/transmissions/
 - Visual Reference Prompting https://www.sarth.net/transmissions/visual-reference-prompting/
 - DuckDB, where have you been all my life https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/
 - External Tables, Partitions, CTEs, Window Functions, and Partitions (five-part tutorial series) https://www.sarth.net/transmissions/external-tables/

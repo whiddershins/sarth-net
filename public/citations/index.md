@@ -417,7 +417,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
 
-- [Medeski Martin &amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
+- [Medeski Martin &amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 
@@ -438,6 +438,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [John Cage](https://en.wikipedia.org/wiki/John_Cage)
 
 - [California Institute of the Arts](https://en.wikipedia.org/wiki/California_Institute_of_the_Arts)
+
+- [Laurie Anderson](https://laurieanderson.com/)
+
+- [“O Superman”](https://en.wikipedia.org/wiki/O_Superman)
+
+- [Sydney Opera House](https://www.sydneyoperahouse.com/vivid-live/past-festival-lineups)
+
+- [Brooklyn Vegan](https://www.brooklynvegan.com/lou-reed-tai-chi-day-is-aug-3-laurie-anderson-john-zorn-celebrating-in-brooklyn/)
 
 ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
 
@@ -657,6 +665,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
 
+## [Vivid LIVE 2010](/conspiracies/vivid-live/)
+
+`/conspiracies/vivid-live/`
+
+- [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House)
+
+- [ABC News reported the curation](https://www.abc.net.au/news/2010-03-03/lou-reed-laurie-anderson-to-curate-vivid/349100)
+
 ## [Yellow Pony](/conspiracies/yellow-pony/)
 
 `/conspiracies/yellow-pony/`
@@ -675,11 +691,15 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Sydney Opera House](https://www.sydneyoperahouse.com/vivid-live/past-festival-lineups)
 
+- [Cathedral of St. John the Divine](https://demo.gothamist.com/arts-entertainment/laurie-anderson-on-bringing-ear-bleedingly-loud-drones-to-st-john-the-divine)
+
 - [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
 
 - [Brooklyn Vegan](https://www.brooklynvegan.com/lou-reed-tai-chi-day-is-aug-3-laurie-anderson-john-zorn-celebrating-in-brooklyn/)
 
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+
+- [Shahzad Ismaily](https://en.wikipedia.org/wiki/Shahzad_Ismaily)
 
 - [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
 

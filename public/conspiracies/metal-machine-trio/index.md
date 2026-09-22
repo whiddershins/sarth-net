@@ -25,7 +25,7 @@ Ulrich billed the concerts as *Unclassified* because there was no group name yet
 > Lou decided to bring Sarth along at the last minute; he met him at tai chi practice, played with him at home and wanted his electronic sounds for this concert. 
 > Ulrich Krieger , “Unclassifiable”, The Wire, 2013 
 
-Krieger wrote his account after Lou died in 2013. He puts the trio’s formation in the same place: two nights at REDCAT announced under a name that was not a band name, with three days of rehearsal, both shows sold out inside a day and late shows added.
+Krieger wrote his account after Lou died in 2013. He puts the trio’s formation in the same place: two nights at REDCAT announced under a name that was not a band name, with two days of rehearsal, both shows sold out inside a day and late shows added.
 
 The photograph running with that essay is captioned “MM3, Redcat, Los Angeles, October 2008. Left to right: Sarth Calhoun, Stewart Hurwood (guitar tech), Lou Reed, Ulrich Krieger.”
 

@@ -15,6 +15,8 @@ Book of Sarth is an iPad app that runs a graphic novel and a concept album as on
 
 The story is about an ear worm. Tapping an image opens the director’s view, where the artwork fills the screen and the reader stands where the characters are.
 
+From The Book of Sarth.
+
 ## In Sarth’s words
 
 2.5 years in the making. my first full-length solo release. plus a platform for releasing music and interactive art in a new way. Andrew Beck was amazing. Elik Smith is a genius. [Leah Coloff](/conspirators/leah-coloff/) is a force of nature. Jacob McCoy is unstoppable. Together we made this.

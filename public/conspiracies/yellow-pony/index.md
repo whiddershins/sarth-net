@@ -14,6 +14,8 @@ Conspiracy
 
 Yellow Pony was a performance project built around [Lou Reed](/conspirators/lou-reed/) and [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson), billed as *The Yellow Pony and Other Songs and Stories*. It ran as two short European tours in 2009, one in July and one across August and September, eight cities in all: Sant Feliu de Guíxols, Santiago de Compostela, Madrid, Copenhagen, Manchester, Helsinki, Frankfurt and Paris.
 
+Madrid, July 2009.
+
 ## What I did there
 
 In 2009 I had the unique opportunity to do two short tours with Lou Reed and Laurie Anderson. I played continuum fingerboard and did live resampling of their voices. Also, I got to stand in the center of the stage, like a drummer. It was a wonderful experience, and it is also when I fell in love with Spain.

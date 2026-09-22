@@ -39,11 +39,85 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Book of Sarth](https://bookofsarth.com)
 
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+
+- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
+
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
 
 ## [Appearances](/appearances/)
 
 `/appearances/`
+
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+
+- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
+
+- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+
+- [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House)
+
+- [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
+
+- [REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
+
+- [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
+
+- [NYT Ratliff](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
+
+- [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
+
+- [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
+
+- [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+
+- [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
+
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
+
+- [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
+
+- [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+
+- [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+
+## [Citations](/citations/)
+
+`/citations/`
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
+
+- [Wikidata](https://www.wikidata.org/wiki/Q7424654)
+
+- [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
+
+- [Discogs](https://www.discogs.com/artist/2310400-Sarth-Calhoun)
+
+- [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+
+- [Third Wall Studio](https://thirdwallstudio.com)
+
+- [Burlap](https://burlap.app)
+
+- [Download Burlap](https://burlap.app/download)
+
+- [@noisegroove](https://x.com/noisegroove)
+
+- [Through the Brambles](https://www.thirdwallstudio.com/through-the-brambles)
+
+- [Contraptions](https://contraptions.bookofsarth.com)
+
+- [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
+
+- [Book of Sarth](https://bookofsarth.com)
 
 - [REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
 
@@ -61,6 +135,176 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
+- [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
+
+- [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)
+
+- [Flanagan Smith acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
+
+- [Alternate version](https://www.youtube.com/watch?v=4oPZjuz1vwQ)
+
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+
+- [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)
+
+- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
+
+- [Apple Music](https://music.apple.com/us/album/junior-dad/467890760?i=467890784)
+
+- [Ned Steinberger](https://en.wikipedia.org/wiki/Ned_Steinberger)
+
+- [James Hetfield](https://en.wikipedia.org/wiki/James_Hetfield)
+
+- [Kirk Hammett](https://en.wikipedia.org/wiki/Kirk_Hammett)
+
+- [Lars Ulrich](https://en.wikipedia.org/wiki/Lars_Ulrich)
+
+- [The Howard Stern Show, 10 Apr 2012](https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/)
+
+- [Howard Stern](https://en.wikipedia.org/wiki/Howard_Stern)
+
+- [Ultimate Classic Rock, 1 Feb 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
+
+- [Robert Wilson’s production](https://robertwilson.com/lulu)
+
+- [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu)
+
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/)
+
+- [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
+
+- [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
+
+- [github.com/whiddershins](https://github.com/whiddershins)
+
+- [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
+
+- [Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
+
+- [Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
+
+- [hakenaudio.com](https://www.hakenaudio.com/)
+
+- [Continuum Fingerboard](https://en.wikipedia.org/wiki/Continuum_Fingerboard)
+
+- [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
+
+- [ableton.com](https://www.ableton.com/en/live/)
+
+- [runwayml.com](https://runwayml.com/)
+
+- [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+
+- [Tumblr Storyboard](https://web.archive.org/web/20140812122953/http://storyboard.tumblr.com/post/41358319321/the-book-of-sarth-an-interactive-cyberpunk-tale)
+
+- [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali)
+
+- [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)
+
+- [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+
+- [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/)
+
+- [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
+
+- [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
+
+- [The New York Times](https://www.nytimes.com/2009/04/17/arts/music/17pop.html)
+
+- [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-brings-controversial-metal-machine-music-to-life-114478/)
+
+- [OC Weekly](https://www.ocweekly.com/metal-machine-trios-ulrich-krieger-the-trio-is-an-update-of-lou-reeds-metal-machine-music-in-philosophical-and-aesthetic-sense-6581450/)
+
+- [SPIN](https://www.spinmagazine.com/2009/04/lou-reed-unleashes-metal-machine-music-nyc/)
+
+- [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
+
+- [DuckDB](https://duckdb.org/)
+
+- [set up credentials](https://duckdb.org/docs/current/core_extensions/httpfs/s3api)
+
+- [external tables](https://docs.snowflake.com/en/user-guide/tables-external-intro)
+
+- [command](https://docs.snowflake.com/en/sql-reference/sql/create-external-table)
+
+- [Apache Iceberg tables](https://docs.snowflake.com/en/user-guide/tables-iceberg)
+
+- [QUALIFY](https://docs.snowflake.com/en/sql-reference/constructs/qualify)
+
+- [ROW_NUMBER()](https://docs.snowflake.com/en/sql-reference/functions/row_number)
+
+- [io-ts](https://gcanti.github.io/io-ts/)
+
+- [Node streams](https://nodejs.org/api/stream.html)
+
+- [fp-ts](https://gcanti.github.io/fp-ts/)
+
+- [Either](https://gcanti.github.io/fp-ts/modules/Either.ts.html)
+
+- [Effect Schema](https://effect.website/docs/v3/schema/introduction)
+
+- [Zod](https://zod.dev/)
+
+- [bidirectional codecs](https://zod.dev/codecs)
+
+- [Prettier](https://prettier.io/)
+
+- [JEST](https://jestjs.io/)
+
+- [TypeScript playground](https://www.typescriptlang.org/play)
+
+- [TypeScript handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+
+- [Buffalo buffalo Buffalo buffalo buffalo.](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
+
+- [Common Table Expressions](https://www.postgresql.org/docs/current/queries-with.html)
+
+- [Databases: Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
+
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/)
+
+- [January of 2008](https://mitadmissions.org/blogs/entry/the_end_of_an_era_1/)
+
+- [official Postgres docs for window functions](https://www.postgresql.org/docs/current/tutorial-window.html)
+
+- [Snowflake documentation](https://docs.snowflake.com/en/user-guide/functions-window-using)
+
+- [Instagram](https://www.instagram.com/3rdwallstudio/)
+
+- [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
+
+- [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
+
+- [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
+
+- [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
+
+- [Watch](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+
+- [Watch](https://www.youtube.com/watch?v=fghXNj-HdBg)
+
+- [Watch](https://www.youtube.com/watch?v=vs6KM7hFzxs)
+
+- [Watch](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
+
+- [Watch](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+
+- [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
+
+- [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
+
+- [Shruti box](https://www.youtube.com/watch?v=V_ZinrLAl4I)
+
+- [Prepared guitar](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
+
+- [(gr)album](https://gralbumcollective.com/titles.html)
+
+- [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs)
+
+- [Berlin live](https://www.youtube.com/watch?v=UOh4tKteFOs)
+
 ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
 
 `/conspiracies/awakening-to-blacklist/`
@@ -68,6 +312,32 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [The Book of Sarth](https://bookofsarth.com)
 
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+
+## [Book of Sarth](/conspiracies/book-of-sarth/)
+
+`/conspiracies/book-of-sarth/`
+
+- [bookofsarth.com](https://bookofsarth.com)
+
+- [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
+
+- [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+
+- [Symbolic Sound](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
+
+- [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)
+
+- [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+
+- [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali)
+
+- [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
+
+## [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/)
+
+`/conspiracies/creation-of-the-universe-ambisonic/`
+
+- [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
 
 ## [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/)
 
@@ -109,13 +379,79 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Ultimate Classic Rock, 1 Feb 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
 
+## [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/)
+
+`/conspiracies/lou-reed-2011-european-tour/`
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+
+- [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian)
+
+- [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey)
+
+- [Chemical Brothers](https://en.wikipedia.org/wiki/The_Chemical_Brothers)
+
+## [Lou Reed’s song band](/conspiracies/lou-reed-song-band/)
+
+`/conspiracies/lou-reed-song-band/`
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+
+- [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter)
+
+## [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/)
+
+`/conspiracies/lou-reed-spring-2008-tour/`
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+
+- [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter)
+
+## [Lucibel Crater](/conspiracies/lucibel-crater/)
+
+`/conspiracies/lucibel-crater/`
+
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+
+- [Dr. John](https://en.wikipedia.org/wiki/Dr._John)
+
+- [Ziggy Marley](https://en.wikipedia.org/wiki/Ziggy_Marley)
+
+- [Joel Thome](https://en.wikipedia.org/wiki/Joel_Thome)
+
+- [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)
+
+- [Bryce Goggin](https://en.wikipedia.org/wiki/Bryce_Goggin)
+
+- [on Spotify](https://open.spotify.com/album/5GWIntdZRNl8zc9rAsIrKD)
+
+- [Björk](https://en.wikipedia.org/wiki/Bj%C3%B6rk)
+
+- [White Stripes](https://en.wikipedia.org/wiki/The_White_Stripes)
+
+- [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/)
+
+- [Ross Christopher at awaken music](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html)
+
+- [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/)
+
 ## [Lulu](/conspiracies/lulu/)
 
 `/conspiracies/lulu/`
 
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+
+- [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)
+
+- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
+
 - [Robert Wilson’s production](https://robertwilson.com/lulu)
 
 - [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu)
+
+- [David Fricke](https://en.wikipedia.org/wiki/David_Fricke)
 
 - [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/)
 
@@ -123,9 +459,21 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/conspiracies/metal-machine-trio/`
 
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+
 - [REDCAT](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
 
+- [Metal Machine Music](https://en.wikipedia.org/wiki/Metal_Machine_Music)
+
+- [&ldquo;Unclassifiable&rdquo;, The Wire, 2013](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+
+- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
+
+- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
+
 - [installation](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
+
+- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
 
 ## [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
 
@@ -134,6 +482,80 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
 
 - [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
+
+## [Yellow Pony](/conspiracies/yellow-pony/)
+
+`/conspiracies/yellow-pony/`
+
+- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+
+## [Leah Coloff](/conspirators/leah-coloff/)
+
+`/conspirators/leah-coloff/`
+
+- [Leah Coloff](https://www.leahcoloff.com/)
+
+- [Number19](https://en.wikipedia.org/wiki/Number19)
+
+- [Michael Gordon](https://en.wikipedia.org/wiki/Michael_Gordon_(composer))
+
+- [Ziggy Marley](https://en.wikipedia.org/wiki/Ziggy_Marley)
+
+- [Rufus Wainwright](https://en.wikipedia.org/wiki/Rufus_Wainwright)
+
+- [Dr. John](https://en.wikipedia.org/wiki/Dr._John)
+
+- [Nancy Sinatra](https://en.wikipedia.org/wiki/Nancy_Sinatra)
+
+- [Joel Thome](https://en.wikipedia.org/wiki/Joel_Thome)
+
+- [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)
+
+## [Lou Reed](/conspirators/lou-reed/)
+
+`/conspirators/lou-reed/`
+
+- [Velvet Underground](https://en.wikipedia.org/wiki/The_Velvet_Underground)
+
+- [John Cale](https://en.wikipedia.org/wiki/John_Cale)
+
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+
+## [Paul Chuffo](/conspirators/paul-chuffo/)
+
+`/conspirators/paul-chuffo/`
+
+- [Gutbucket](https://en.wikipedia.org/wiki/Gutbucket_(band))
+
+- [Modern Drummer](https://en.wikipedia.org/wiki/Modern_Drummer)
+
+## [Rob Wasserman](/conspirators/rob-wasserman/)
+
+`/conspirators/rob-wasserman/`
+
+- [Ned Steinberger](https://en.wikipedia.org/wiki/Ned_Steinberger)
+
+- [Bob Weir](https://en.wikipedia.org/wiki/Bob_Weir)
+
+- [Rickie Lee Jones](https://en.wikipedia.org/wiki/Rickie_Lee_Jones)
+
+- [Van Morrison](https://en.wikipedia.org/wiki/Van_Morrison)
+
+- [Elvis Costello](https://en.wikipedia.org/wiki/Elvis_Costello)
+
+## [Tony Diodore](/conspirators/tony-diodore/)
+
+`/conspirators/tony-diodore/`
+
+- [Number19](https://en.wikipedia.org/wiki/Number19)
+
+- [Puracane](https://en.wikipedia.org/wiki/Puracane)
+
+- [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
 
 ## [Contact](/contact/)
 
@@ -151,6 +573,8 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
 
+- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
+
 - [Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
 
 - [Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
@@ -163,11 +587,19 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [ableton.com](https://www.ableton.com/en/live/)
 
+- [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
+
 - [runwayml.com](https://runwayml.com/)
 
 ## [Sightings](/sightings/)
 
 `/sightings/`
+
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
 
 - [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 
@@ -183,11 +615,15 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
 
+- [Ben Ratliff](https://en.wikipedia.org/wiki/Ben_Ratliff)
+
 - [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
 
 - [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
 
 - [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/)
+
+- [David Fricke](https://en.wikipedia.org/wiki/David_Fricke)
 
 - [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
 
@@ -208,6 +644,10 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
 
 - [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+
+- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
 
 ## [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 
@@ -327,19 +767,19 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 
+- [Watching Shadowswith Doron Lev · April 2026](https://www.youtube.com/watch?v=fghXNj-HdBg)
+
+- [Through the BramblesMay 2026](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+
+- [Pigeon Problemswith Doron Lev · February 2026](https://www.youtube.com/watch?v=vs6KM7hFzxs)
+
+- [Truck Stop Lovewith Doron Lev · February 2026](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
+
+- [Meatsuitz Family Vacaywith Jacob McCoy · January 2026](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+
 - [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
 
 - [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
-
-- [Watch](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-
-- [Watch](https://www.youtube.com/watch?v=fghXNj-HdBg)
-
-- [Watch](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-
-- [Watch](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-
-- [Watch](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
 
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
 

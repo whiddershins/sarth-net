@@ -14,6 +14,8 @@ Lucibel Crater is a rock and electronic trio from Brooklyn. Sarth Calhoun founde
 
 [Lou Reed](/conspirators/lou-reed/) plays guitar on “Threadbare Funeral,” and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger) has sat in on saxophone at live shows.
 
+Inside gatefold, The Family Album.
+
 ## How Sarth described the band
 
 The rock/electronic group Sarth always dreamed he could have but never realized he would is called Lucibel Crater.

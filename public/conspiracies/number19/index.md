@@ -22,7 +22,7 @@ From the biography on Sarth’s own site: Along his musical journeys, he met cel
 
 The recordReleased 2001. Nine tracks. On [Apple Music](https://music.apple.com/us/album/suspension/274828088) and [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5), credited to Number 19.
 
-The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months.
+The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. *Suspension* came out on Searching Eye Records and was the band’s only album.
 
 ## Where everyone went next
 

@@ -29,7 +29,7 @@ The concerts had no group name. Ulrich had billed us as “Unclassified” becau
 > Lou decided to bring Sarth along at the last minute; he met him at tai chi practice, played with him at home and wanted his electronic sounds for this concert. 
 > “Unclassifiable”, The Wire, November 2013 
 
-Krieger wrote that essay for *The Wire* after Reed died in October 2013. It is the fullest account of the trio from inside it: two days of rehearsal at REDCAT, both shows sold out within twenty four hours, late shows added, and three musicians who had never played together agreeing only that there would be no songs.
+Krieger wrote that essay for *The Wire* after Reed died in October 2013. It records two days of rehearsal at REDCAT, both shows sold out within twenty four hours, late shows added, and three musicians who had never played together agreeing only that there would be no songs.
 
 He describes what the group became afterwards. At 2009’s Lollapalooza MM3 played a ten minute noise interlude between well known Reed songs to the frantic cheers of a large audience. On tour the trio set up four guitars and amplifiers as an opening sound installation, sometimes running for an hour before anyone walked on.
 

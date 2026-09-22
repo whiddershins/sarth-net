@@ -38,4 +38,6 @@ Bands, tours, records, theater pieces, films, and machines.
 
 - [**The Gralbum Collective**](/conspiracies/gralbum-collective/). The group he founded to publish music and interactive art as apps, releasing work by Bora Yoon, Adam Matta, Leah Coloff and Moon Hooch.
 
+- [**Vivid LIVE 2010**](/conspiracies/vivid-live/). The two week festival at the Sydney Opera House curated by Lou Reed and Laurie Anderson. Metal Machine Trio played it, along with a fifty person noise band at the opening and about a dozen unplanned jams.
+
 - [**“Junior Dad”**](/conspiracies/junior-dad/). The nineteen-minute closing track of Lou Reed and Metallica’s *Lulu*, 2011. Built from a recording made at Reed’s apartment before the album existed.

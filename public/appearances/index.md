@@ -89,7 +89,7 @@ Reed’s own site called it “a particular highlight”: his ‘Metal Machine T
 **2010-04-30** — Teatre Principal, Palma de Mallorca, Spain (Festival Alternatilla). MM3, not Yellow Pony. Start time 21:00 vs 22:00 unresolved. confirmed
 
 - 
-**2010-05-30** — Opera Theatre, Sydney Opera House. Vivid LIVE. confirmed
+**2010-05-30** — Opera Theatre, Sydney Opera House. [Vivid LIVE](/conspiracies/vivid-live/). confirmed
 
 - 
 **2010-11-20** and **2010-11-21** — Teatro Paulo Autran, Sesc Pinheiros, São Paulo. confirmed

@@ -417,7 +417,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
 
-- [Medeski Martin &amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
+- [Medeski Martin &amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 
@@ -430,6 +430,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [mp3.com](https://en.wikipedia.org/wiki/Mp3.com)
 
 - [YouTube](https://www.youtube.com/@burlap_app)
+
+- [Ulrich Krieger](http://www.ulrich-krieger.com/)
+
+- [Freiburg](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau)
+
+- [John Cage](https://en.wikipedia.org/wiki/John_Cage)
+
+- [California Institute of the Arts](https://en.wikipedia.org/wiki/California_Institute_of_the_Arts)
 
 ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
 
@@ -654,6 +662,26 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/conspiracies/yellow-pony/`
 
 - [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+
+## [Laurie Anderson](/conspirators/laurie-anderson/)
+
+`/conspirators/laurie-anderson/`
+
+- [Laurie Anderson](https://laurieanderson.com/)
+
+- [“O Superman”](https://en.wikipedia.org/wiki/O_Superman)
+
+- [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
+
+- [Sydney Opera House](https://www.sydneyoperahouse.com/vivid-live/past-festival-lineups)
+
+- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
+
+- [Brooklyn Vegan](https://www.brooklynvegan.com/lou-reed-tai-chi-day-is-aug-3-laurie-anderson-john-zorn-celebrating-in-brooklyn/)
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+
+- [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
 
 ## [Leah Coloff](/conspirators/leah-coloff/)
 

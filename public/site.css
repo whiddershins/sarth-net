@@ -361,3 +361,31 @@ footer .host {
   margin-bottom: 0.6rem;
 }
 .story section.opener p:first-child { margin-top: 0; }
+
+/* --- thumbnail grid ------------------------------------------------------ */
+.thumbs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(228px, 1fr));
+  gap: 1.2rem 1.1rem;
+  list-style: none;
+  margin: 0 0 2.4rem;
+  padding: 0;
+}
+.thumbs li { margin: 0; }
+.thumbs a { display: block; text-decoration: none; }
+.thumbs img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: #000;
+  border: 1px solid var(--line);
+}
+.thumbs .t-title { margin: 0.5rem 0 0.15rem; font-weight: 500; }
+.thumbs .t-meta { margin: 0; color: var(--mute); font-size: 0.82rem; }
+.thumbs.square img { aspect-ratio: 1 / 1; }
+
+@media (max-width: 719px) {
+  .thumbs { grid-template-columns: 1fr 1fr; gap: 0.9rem 0.8rem; }
+  .thumbs .t-title { font-size: 0.92rem; }
+  .thumbs .t-meta { font-size: 0.76rem; }
+}

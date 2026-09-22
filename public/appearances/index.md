@@ -18,6 +18,8 @@ A record of shows and installations. *The Creation of the Universe* comes from t
 
 - **Yellow Pony with Lou Reed and [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson) — Europe, Jul and Aug–Sep 2009.** Eight-city tour billed *The Yellow Pony and Other Songs and Stories*. Sarth on Continuum and live voice re-sampling, center stage. Two short tours. confirmed
 
+- **Lou Reed at Lollapalooza, Grant Park, Chicago — 9 Aug 2009.** Day three. Metal Machine Trio played a ten minute noise interlude inside Reed’s set. Sarth on Continuum and live processing. confirmed
+
 - **Metal Machine Trio Europe — “A Night of Deep Noise,” 17–30 Apr 2010.** Nine announced dates, UK through Palma de Mallorca. Mallorca is MM3, not Yellow Pony. confirmed
 
 - **Metal Machine Trio, [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House) (Opera Theatre) — 30 May 2010.** Vivid LIVE. Sarth on the bill. Anderson’s *Transitory Life* was a separate Drama Theatre program, 1–2 Jun. confirmed
@@ -51,6 +53,11 @@ Billing unless noted: Lou Reed (guitar, electronics, Continuum), Ulrich Krieger 
 **2009-04-24** — Blender Theater at Gramercy, New York. Special guest John Zorn. Source tape for the CSULB/Cranbrook installation. Not commercially issued. confirmed
 
 [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
+
+- 
+**2009-08-09** — Lollapalooza, Grant Park, Chicago. Day three. A ten minute Metal Machine Trio noise interlude between songs inside Lou Reed’s set. confirmed
+
+[Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) · [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/) · [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
 
 - 
 **2010-04-17** — The Junction, Cambridge, UK. Start of nine-date Europe tour. confirmed

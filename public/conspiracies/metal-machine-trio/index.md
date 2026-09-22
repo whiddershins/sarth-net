@@ -18,6 +18,17 @@ In 2008 Lou called and said he was doing a free-improvised noise show at REDCAT 
 
 Ulrich billed the concerts as *Unclassified* because there was no group name yet. That was honest. We did not know what the thing was until we played it.
 
+## How Ulrich remembers it
+
+> Lou decided to bring Sarth along at the last minute; he met him at tai chi practice, played with him at home and wanted his electronic sounds for this concert. 
+> Ulrich Krieger , “Unclassifiable”, The Wire, 2013 
+
+Krieger wrote his account after Lou died in 2013. He puts the trio’s formation in the same place: two nights at REDCAT announced under a name that was not a band name, with three days of rehearsal, both shows sold out inside a day and late shows added.
+
+The photograph running with that essay is captioned “MM3, Redcat, Los Angeles, October 2008. Left to right: Sarth Calhoun, Stewart Hurwood (guitar tech), Lou Reed, Ulrich Krieger.”
+
+He also records what the trio became at scale. At Lollapalooza in 2009 they played a ten minute noise interlude between well known Reed songs, and on later tours Lou would play MM3 recordings before and after shows.
+
 ## Three different kinds of danger
 
 Lou had guitar, electronics, and a small Continuum. Ulrich had tenor saxophone and live electronics. I played Continuum and processed the entire field through Kyma. Nobody was accompanying anybody else. Each of us could destabilize the music, and each had to leave enough room for the other two to do it.
@@ -25,6 +36,8 @@ Lou had guitar, electronics, and a small Continuum. Ulrich had tenor saxophone a
 The shows sold out quickly and REDCAT added a late set. We recorded the room with a matched pair of Schoeps microphones and a stereo Royer, ambient microphones, no direct lines, and released the performances essentially as they happened.
 
 ## The Creation of the Universe
+
+The recordReleased 2009. Two tracks, the two REDCAT nights nearly whole. On [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713) and [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe).
 
 Those Los Angeles nights became the double live album *The Creation of the Universe*. Afterward the trio played New York, Europe, Australia, and Brazil. “No songs. No vocals.” was useful poster copy, but it was not the meaning of the music. The meaning was three people building and wrecking a structure fast enough to remain inside it.
 

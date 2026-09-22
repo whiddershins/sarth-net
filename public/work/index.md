@@ -31,6 +31,36 @@ Newest first.
 
 ## Animation, 2026
 
+- [Watching Shadows
+
+with Doron Lev · April 2026
+
+](https://www.youtube.com/watch?v=fghXNj-HdBg)
+
+- [Through the Brambles
+
+May 2026
+
+](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+
+- [Pigeon Problems
+
+with Doron Lev · February 2026
+
+](https://www.youtube.com/watch?v=vs6KM7hFzxs)
+
+- [Truck Stop Love
+
+with Doron Lev · February 2026
+
+](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
+
+- [Meatsuitz Family Vacay
+
+with Jacob McCoy · January 2026
+
+](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+
 - **Dark Arts**, teaser. August 2026.
 
 [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
@@ -38,26 +68,6 @@ Newest first.
 - **Kubler-Ross Model**, with Savas. Excerpt, August 2026.
 
 [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8) · [Third Wall](https://thirdwallstudio.com)
-
-- **Through the Brambles.** May 2026.
-
-[Watch](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-
-- **Watching Shadows**, with Doron Lev. April 2026.
-
-[Watch](https://www.youtube.com/watch?v=fghXNj-HdBg)
-
-- **Pigeon Problems**, with Doron Lev. February 2026.
-
-[Watch](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-
-- **Truck Stop Love**, with Doron Lev. February 2026.
-
-[Watch](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-
-- **Meatsuitz Family Vacay**, with Jacob McCoy. January 2026.
-
-[Watch](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
 
 - **The Trinary Matrix**, with Jonathan Arons.
 
@@ -109,7 +119,7 @@ Newest first.
 
 - **Burned House Horizon.**
 
-- **A video with [Moldover](https://en.wikipedia.org/wiki/Moldover).**
+- **A video with Moldover.**
 
 - **I Just Believe in Christmas.** December 2015. It started as an argument with my neighbors about squirrels in the attic. Sung by Michael Patrick Flanagan Smith, words with Jesse Schoen, Virginia Piazza, and Doron Lev.
 
@@ -119,7 +129,7 @@ Newest first.
 
 [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160) · [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
 
-- **Two duets with [Sxip Shirey](https://en.wikipedia.org/wiki/Sxip_Shirey).** 2015. Continuum against shruti box, and prepared guitar against Continuum.
+- **Two duets with Sxip Shirey.** 2015. Continuum against shruti box, and prepared guitar against Continuum.
 
 [Shruti box](https://www.youtube.com/watch?v=V_ZinrLAl4I) · [Prepared guitar](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
 
@@ -127,11 +137,11 @@ Newest first.
 
 [bookofsarth.com](https://bookofsarth.com) · [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) · [(gr)album](https://gralbumcollective.com/titles.html)
 
-- **Lulu.** Score composed with [Lou Reed](/conspirators/lou-reed/) for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))'s [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble) production, premiered April 2011, then the Lou Reed and [Metallica](https://en.wikipedia.org/wiki/Metallica) album.
+- **Lulu.** Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011, then the Lou Reed and Metallica album.
 
 [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/)
 
-- **Metal Machine Trio**, with Lou Reed and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger). From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing.
+- **Metal Machine Trio**, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing.
 
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [Appearances](/appearances/)
 

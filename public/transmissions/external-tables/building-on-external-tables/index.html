@@ -99,6 +99,7 @@
     <p class="kicker">Append-only pipelines · Part 2 of 5</p>
     <h1>Building on external tables</h1>
     <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
+<p>An external table is a table definition over files that stay where they are. The files sit in object storage, S3 or GCS or a local directory, and the database reads them in place instead of ingesting them into its own storage. You get a name and a schema and you can write SQL against it, but there is no import step and no second copy of the data. Snowflake, BigQuery, Athena and Trino, Redshift Spectrum, and DuckDB all have a version of this. The examples here are Snowflake, and the <a href="https://docs.snowflake.com/en/user-guide/tables-external-intro">Snowflake docs on external tables</a> are the reference; what follows is how I laid one out so that the file paths did the partitioning for me.</p>
 <h2>Lay out S3 so the paths are the partitions</h2>
 <p>The CSVs inside directories are the external tables, where each root directory equals a table and the individual file paths represent partitions. The typical partitioning scheme relies on the path having the string <code>file_date=some-iso-date</code>, where <code>some-iso-date</code> is the partition:</p>
 <pre><code>.../transformed/acme_delivery/file_date=2023-04-01/report.csv

@@ -5,7 +5,7 @@ url: https://www.sarth.net/work/
 published: 2026-09-22
 author: Sarth Calhoun
 ---
-Updated Sep 22, 2026
+Updated 22 Sep 2026
 
 # Work
 
@@ -89,11 +89,19 @@ with Jacob McCoy · January 2026
 
 ## Data engineering
 
+- **Data engineer at [Reaktor](https://reaktor.com), embedded in Paramount’s Advanced Advertising data organization.** The team built and ran the advertising data pipeline: household ad delivery, attribution, and the warehouse behind Paramount’s convergent ad products.
+
+- **Redshift to Snowflake.** Moving the advertising pipeline off Redshift. My work included QA and reload, making sure the data that moved was the data that arrived. That re-architecture is the lineage of what the team later presented on the main stage at Snowflake Summit 2025.
+
+[The append-only pattern, written up](/transmissions/external-tables/)
+
+- **Mastercard Circle of Honor, 2025.** Paramount was recognized in the Honors for Innovation for its data-driven media measurement: cookie-less, cross-screen, measuring incremental transactions for retail and restaurant advertisers. Swathi Chandrasekaran, who leads product for Always-On Attribution, received the Award for Innovation. 13 billion impressions analyzed, $1 billion in incremental revenue measured, 3.5% average spend lift. I worked on the data side of that pipeline.
+
+[Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
+
+- **Snowflake Summit 2025**, Moscone Center, June 2–5. Swathi Chandrasekaran presented Paramount’s Always-On Attribution product; Ian Fosbery and Alexey Novikov presented the team’s data re-architecture.
+
 - **Cannabis cultivation automation.** A large, bespoke grow house system, one of its kind, for a client in Pittsburg.
-
-- **Data QA at a major media company.** Ingesting from many friendly but not always consistent sources, and stopping bad information before it reached anyone's spreadsheet.
-
-[You might not need Pandas](/transmissions/you-might-not-need-pandas/)
 
 - **Satellite communications company.** Engineering work.
 

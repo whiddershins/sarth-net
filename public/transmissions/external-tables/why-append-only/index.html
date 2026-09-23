@@ -102,13 +102,13 @@
     <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
 <p>This pipeline uses <a href="https://docs.snowflake.com/en/user-guide/tables-external-intro">external tables</a> for the primary data store instead of a typical time series (CRUD style) database. That decision affects everything else, including the fact that the word PARTITION ends up meaning two different things in the same query.</p>
 <h2>Why you'd build it this way</h2>
-<p>Partners send files on some cadence, but typically the files contain data across a time window that is larger than the cadence you receive them on. For example, you might receive a file three times a week that has data from a two week time period. This gets you numbers as soon as possible, and then you receive updated numbers that are more accurate in subsequent files. So the same record shows up in many files, and the most recent version is the one that counts.</p>
+<p>Suppliers send files on some cadence, but typically the files contain data across a time window that is larger than the cadence you receive them on. For example, you might receive a file three times a week that has data from a two week time period. This gets you numbers as soon as possible, and then you receive updated numbers that are more accurate in subsequent files. So the same record shows up in many files, and the most recent version is the one that counts.</p>
 <p>The CRUD way to handle this is to upsert: parse each file, match rows on a key, and update in place. If you don't do that, and instead keep every file and never change anything, you keep every version of everything, and all the logic about which version is current lives in queries. If that logic needs to change, you change the view, not the data.</p>
 <p>But the huge advantage is that loading becomes independent and parallelizable. In a CRUD system, the state of the database depends on the order the updates were applied, so if you ever need to rebuild it, you have to replay all your inputs from the beginning, in order. Here, the ordering doesn't happen at load time at all. It happens at query time, for example it might be by <code>received_at</code>. Loads are idempotent, so you can load all your files in parallel, in any order, retry whichever ones failed, and you still get the same result.</p>
 <p>The cost is that the queries do more work.</p>
 <h2>The pipeline</h2>
 <p>The pipeline consists of:</p>
-<pre><code>Partner S3 bucket
+<pre><code>Supplier S3 bucket
   → Extract (copy) →
 Your S3 bucket
   → Load / Transform (io-ts) →
@@ -117,8 +117,8 @@ Snowflake external tables (CSV in S3)
 Aggregate / materialized tables
   → API
 </code></pre>
-<p>The jobs are initiated by DAGs that run once per day. There are different jobs per partner, per file/report type, and for other things including QA.</p>
-<p>The extract / load / transform stages first copy the files from the partner S3 buckets to your S3 bucket. They then parse the files, use io-ts to check and encode the data types (<a href="/transmissions/external-tables/defending-the-boundary/">part 4</a>), and save the output CSVs into the transformed directories.</p>
+<p>The jobs are initiated by DAGs that run once per day. There are different jobs per supplier, per file/report type, and for other things including QA.</p>
+<p>The extract / load / transform stages first copy the files from the supplier S3 buckets to your S3 bucket. They then parse the files, use io-ts to check and encode the data types (<a href="/transmissions/external-tables/defending-the-boundary/">part 4</a>), and save the output CSVs into the transformed directories.</p>
     <p class="meta links"><a href="/transmissions/external-tables/">← Series overview</a> <a href="/transmissions/external-tables/building-on-external-tables/">Part 2: Building on external tables →</a></p>
   </main>
 

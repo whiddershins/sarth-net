@@ -5,7 +5,7 @@ url: https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/
 published: 2026-09-22
 author: Sarth Calhoun
 ---
-Sep 22, 2026
+22 Sep 2026
 
 # DuckDB, where have you been all my life
 
@@ -50,22 +50,22 @@ And tomorrow when I want spend by model, or by day, or whatever I get curious ab
 
 ## It also runs my whole pipeline pattern
 
-In [the external tables tutorial](/transmissions/external-tables/) I wrote about an append-only pipeline where partners send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested `SPLIT_PART` to get the date out of the file path, and a refresh every time a file landed.
+In [the external tables tutorial](/transmissions/external-tables/) I wrote about an append-only pipeline where suppliers send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested `SPLIT_PART` to get the date out of the file path, and a refresh every time a file landed.
 
 In DuckDB it's this:
 
 ```
-CREATE VIEW acme_delivery AS
+CREATE VIEW acme_readings AS
 SELECT * FROM read_csv(
-'lake/acme_delivery/*/*.csv',
+'lake/acme_readings/*/*.csv',
 hive_partitioning = true,
 filename = true
 );
 
-CREATE VIEW acme_delivery_current AS
-SELECT * FROM acme_delivery
+CREATE VIEW acme_readings_current AS
+SELECT * FROM acme_readings
 QUALIFY ROW_NUMBER() OVER (
-PARTITION BY audience_segment_name, date, time
+PARTITION BY station_id, date, time
 ORDER BY file_date DESC
 ) = 1;
 ```
@@ -74,11 +74,11 @@ With the two files from the tutorial example sitting in `file_date=2022-01-04/` 
 
 ```
 ┌───────────────────────┬────────────┬──────────┬─────────────┐
-│ audience_segment_name │ date │ time │ impressions │
+│ station_id │ date │ time │ readings │
 ├───────────────────────┼────────────┼──────────┼─────────────┤
-│ Movie Lovers │ 2022-01-01 │ 19:00:00 │ 2000 │
-│ Sports Fans │ 2022-01-03 │ 12:00:00 │ 1100 │
-│ Cat Fanatics │ 2022-01-05 │ 12:00:00 │ 1900 │
+│ North Bridge │ 2022-01-01 │ 19:00:00 │ 2000 │
+│ Harbour West │ 2022-01-03 │ 12:00:00 │ 1100 │
+│ Old Mill │ 2022-01-05 │ 12:00:00 │ 1900 │
 └───────────────────────┴────────────┴──────────┴─────────────┘
 ```
 

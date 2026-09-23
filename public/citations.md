@@ -39,7 +39,7 @@ every page.
 - Third Wall Studio https://thirdwallstudio.com
 - Burlap https://burlap.app
 
-## Citations by page (446 total)
+## Citations by page (449 total)
 
 ### Sarth Calhoun
 `/`
@@ -102,6 +102,12 @@ every page.
 - [Burlap](https://burlap.app)
 - [Download Burlap](https://burlap.app/download)
 - [@noisegroove](https://x.com/noisegroove)
+- [Kubler-Ross Model](https://www.youtube.com/shorts/yxCoeTg-qR8)
+- [Watching Shadows](https://www.youtube.com/watch?v=fghXNj-HdBg)
+- [Pigeon Problems](https://www.youtube.com/watch?v=vs6KM7hFzxs)
+- [Truck Stop Love](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
+- [Meatsuitz](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+- [meet the artists](https://thirdwallstudio.com/process)
 - [Through the Brambles](https://www.thirdwallstudio.com/through-the-brambles)
 - [Contraptions](https://contraptions.bookofsarth.com)
 - [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
@@ -199,12 +205,7 @@ every page.
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 - [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
-- [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
 - [Watch](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-- [Watch](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Watch](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-- [Watch](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-- [Watch](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
 - [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 - [Shruti box](https://www.youtube.com/watch?v=V_ZinrLAl4I)
@@ -251,7 +252,7 @@ every page.
 - [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
 - [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
-- [Medeski Martin &amp;amp;amp;amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
+- [Medeski Martin &amp;amp;amp;amp;amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 - [Apple Music](https://music.apple.com/us/album/suspension/274828088)
@@ -641,6 +642,8 @@ every page.
 - [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
 - [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
+- [Reaktor](https://reaktor.com)
+- [Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
 - [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 - [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
 - [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)

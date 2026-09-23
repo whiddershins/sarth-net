@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-22",
-  "citation_count": 446,
+  "citation_count": 449,
   "pages": [
     {
       "path": "/",
@@ -220,6 +220,30 @@
         {
           "url": "https://x.com/noisegroove",
           "text": "@noisegroove"
+        },
+        {
+          "url": "https://www.youtube.com/shorts/yxCoeTg-qR8",
+          "text": "Kubler-Ross Model"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fghXNj-HdBg",
+          "text": "Watching Shadows"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vs6KM7hFzxs",
+          "text": "Pigeon Problems"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=gx9jIWSoEDQ",
+          "text": "Truck Stop Love"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=nZ2LpA9P-LY",
+          "text": "Meatsuitz"
+        },
+        {
+          "url": "https://thirdwallstudio.com/process",
+          "text": "meet the artists"
         },
         {
           "url": "https://www.thirdwallstudio.com/through-the-brambles",
@@ -610,27 +634,7 @@
           "text": "Teaser"
         },
         {
-          "url": "https://www.youtube.com/shorts/yxCoeTg-qR8",
-          "text": "Excerpt"
-        },
-        {
           "url": "https://www.youtube.com/watch?v=ttWqwhzE-yA",
-          "text": "Watch"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=fghXNj-HdBg",
-          "text": "Watch"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=vs6KM7hFzxs",
-          "text": "Watch"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=gx9jIWSoEDQ",
-          "text": "Watch"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=nZ2LpA9P-LY",
           "text": "Watch"
         },
         {
@@ -819,7 +823,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood",
-          "text": "Medeski Martin &amp;amp;amp;amp;amp;amp;amp; Wood"
+          "text": "Medeski Martin &amp;amp;amp;amp;amp;amp;amp;amp; Wood"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
@@ -1986,6 +1990,14 @@
         {
           "url": "https://www.youtube.com/watch?v=wroKqbXfx5g",
           "text": "Video"
+        },
+        {
+          "url": "https://reaktor.com",
+          "text": "Reaktor"
+        },
+        {
+          "url": "https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html",
+          "text": "Mastercard"
         },
         {
           "url": "https://www.youtube.com/watch?v=8MqhRQI84Os",

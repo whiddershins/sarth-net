@@ -19,11 +19,11 @@ An external table is a table definition over files that stay where they are. The
 The CSVs inside directories are the external tables, where each root directory equals a table and the individual file paths represent partitions. The typical partitioning scheme relies on the path having the string `file_date=some-iso-date`, where `some-iso-date` is the partition:
 
 ```
-.../transformed/acme_delivery/file_date=2023-04-01/report.csv
-.../transformed/acme_delivery/file_date=2023-04-02/report.csv
+.../transformed/acme_readings/file_date=2023-04-01/report.csv
+.../transformed/acme_readings/file_date=2023-04-02/report.csv
 ```
 
-Snowflake supports creating a multidimensional structure by having multiple partition columns. For example, if a partner can send more than one file for the same date, you can add another partition column to the path to tell them apart. Overall this doesn't factor much into a typical daily feed.
+Snowflake supports creating a multidimensional structure by having multiple partition columns. For example, if a supplier can send more than one file for the same date, you can add another partition column to the path to tell them apart. Overall this doesn't factor much into a typical daily feed.
 
 ## Define the external tables
 
@@ -32,12 +32,12 @@ External tables are read only and schema on read: you define the table columns a
 Here is an example of the [command](https://docs.snowflake.com/en/sql-reference/sql/create-external-table) used to define an external table in Snowflake:
 
 ```
-create or replace external table analytics.ext_acme_delivery (
-campaign_name VARCHAR(256) NOT NULL as (value:c1::VARCHAR),
-audience_segment_name VARCHAR(256) NOT NULL as (value:c2::VARCHAR),
+create or replace external table analytics.ext_acme_readings (
+site_name VARCHAR(256) NOT NULL as (value:c1::VARCHAR),
+station_id VARCHAR(256) NOT NULL as (value:c2::VARCHAR),
 report_date DATE NOT NULL as (value:c3::DATE),
 report_time TIME NOT NULL as (value:c4::TIME),
-impressions INTEGER as (value:c5::INTEGER),
+readings INTEGER as (value:c5::INTEGER),
 clicks INTEGER as (value:c6::INTEGER),
 spend NUMBER(12,2) as (value:c7::NUMBER(12,2)),
 file_name VARCHAR(256) NOT NULL as (value:c8::VARCHAR),
@@ -47,7 +47,7 @@ SPLIT_PART(SPLIT_PART(metadata$filename, 'file_date=', -1), '/', 1)::date
 )
 )
 PARTITION BY (file_date)
-WITH LOCATION = @analytics.lake_stage/acme_delivery
+WITH LOCATION = @analytics.lake_stage/acme_readings
 FILE_FORMAT = (
 TYPE='CSV', SKIP_HEADER=1, EMPTY_FIELD_AS_NULL=TRUE,
 FIELD_OPTIONALLY_ENCLOSED_BY='"'

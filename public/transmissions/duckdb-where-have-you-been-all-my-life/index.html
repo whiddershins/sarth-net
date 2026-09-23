@@ -95,7 +95,7 @@
   </header>
 
   <main class="page essay">
-    <p class="kicker">Sep 22, 2026</p>
+    <p class="kicker">22 Sep 2026</p>
     <h1>DuckDB, where have you been all my life</h1>
 <p>I've been building Burlap, a local-first macOS app for visual AI work, and it keeps JSON records of every genAI call it makes.</p>
 <p>At some point I wanted to know stuff like how much a particular artist spent on a particular project, in a particular time frame. Normally that means loading everything into a database and setting up tables, and probably a view built for that exact question.</p>
@@ -123,29 +123,29 @@ ORDER BY spent DESC;
 <p>So to be clear, I never created a table, never imported anything, never even wrote the SQL, and nobody (meaning me) ever sat down and thought "someday I'm going to want spend per artist per project per month, better make a view for that." DuckDB looked at the JSON, figured out on its own that <code>created_at</code> is a timestamp and <code>cost_usd</code> is a number, and just... answered. Which is what a database does, except there isn't one here. It's a folder of files.</p>
 <p>And tomorrow when I want spend by model, or by day, or whatever I get curious about next, that's just a different question.</p>
 <h2>It also runs my whole pipeline pattern</h2>
-<p>In <a href="/transmissions/external-tables/">the external tables tutorial</a> I wrote about an append-only pipeline where partners send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested <code>SPLIT_PART</code> to get the date out of the file path, and a refresh every time a file landed.</p>
+<p>In <a href="/transmissions/external-tables/">the external tables tutorial</a> I wrote about an append-only pipeline where suppliers send files, newer files contain updated versions of older records, and a window function surfaces whatever is current. On Snowflake, that took a table definition with a column for every field, a nested <code>SPLIT_PART</code> to get the date out of the file path, and a refresh every time a file landed.</p>
 <p>In DuckDB it's this:</p>
-<pre><code class="language-sql">CREATE VIEW acme_delivery AS
+<pre><code class="language-sql">CREATE VIEW acme_readings AS
 SELECT * FROM read_csv(
-  'lake/acme_delivery/*/*.csv',
+  'lake/acme_readings/*/*.csv',
   hive_partitioning = true,
   filename = true
 );
 
-CREATE VIEW acme_delivery_current AS
-SELECT * FROM acme_delivery
+CREATE VIEW acme_readings_current AS
+SELECT * FROM acme_readings
 QUALIFY ROW_NUMBER() OVER (
-  PARTITION BY audience_segment_name, date, time
+  PARTITION BY station_id, date, time
   ORDER BY file_date DESC
 ) = 1;
 </code></pre>
 <p>With the two files from the tutorial example sitting in <code>file_date=2022-01-04/</code> and <code>file_date=2022-01-06/</code>, you get the same answer as the tutorial:</p>
 <pre><code>┌───────────────────────┬────────────┬──────────┬─────────────┐
-│ audience_segment_name │    date    │   time   │ impressions │
+│ station_id │    date    │   time   │ readings │
 ├───────────────────────┼────────────┼──────────┼─────────────┤
-│ Movie Lovers          │ 2022-01-01 │ 19:00:00 │        2000 │
-│ Sports Fans           │ 2022-01-03 │ 12:00:00 │        1100 │
-│ Cat Fanatics          │ 2022-01-05 │ 12:00:00 │        1900 │
+│ North Bridge          │ 2022-01-01 │ 19:00:00 │        2000 │
+│ Harbour West           │ 2022-01-03 │ 12:00:00 │        1100 │
+│ Old Mill          │ 2022-01-05 │ 12:00:00 │        1900 │
 └───────────────────────┴────────────┴──────────┴─────────────┘
 </code></pre>
 <p><code>hive_partitioning = true</code> reads <code>file_date=2022-01-04</code> out of the path and makes it a column (it even types it as a DATE, which, thank you). <code>filename = true</code> gives you the path itself. And the glob gets re-read every time you query, so a new file just shows up. So all that stuff about defining the table and remembering to refresh it... you just don't do it.</p>

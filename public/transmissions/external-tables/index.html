@@ -100,25 +100,25 @@
     <p class="kicker">Five parts</p>
     <h1>External Tables, Partitions, CTEs, Window Functions, and Partitions</h1>
     <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
-<p><em>What I think about after building a pipeline. It's based on a pipeline for ad delivery reports from a bunch of partners, each with their own file formats and delivery schedules. Nothing here is specific to that domain, though. If third parties send you files, and newer files contain updated versions of stuff that was in older files, and you need to serve whatever is current, this is for you.</em></p>
+<p><em>What I think about after building a pipeline. It's based on a pipeline for reports from a bunch of suppliers, each with their own file formats and delivery schedules. Nothing here is specific to that domain, though. If third parties send you files, and newer files contain updated versions of stuff that was in older files, and you need to serve whatever is current, this is for you.</em></p>
 <p>This pipeline uses <a href="https://docs.snowflake.com/en/user-guide/tables-external-intro">external tables</a> for the primary data store instead of a typical time series (CRUD style) database. That decision affects everything else, including the fact that the word PARTITION ends up meaning two different things in the same query.</p>
 <h2>The architecture</h2>
 <p>The pipeline consists of:</p>
 <figure class="arch">
-<svg viewBox="0 0 400 700" role="img" aria-label="Pipeline architecture. Partner files are copied, decoded, and written to file_date partitions at load time with no ordering. At query time an external table reads the partitions, a view keeps the latest version of each record by file_date, and aggregates feed the API.">
+<svg viewBox="0 0 400 700" role="img" aria-label="Pipeline architecture. Supplier files are copied, decoded, and written to file_date partitions at load time with no ordering. At query time an external table reads the partitions, a view keeps the latest version of each record by file_date, and aggregates feed the API.">
   <defs>
     <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="currentColor"/>
     </marker>
   </defs>
 
-  <g class="node" data-k="partners" tabindex="0" role="button" aria-label="Partner buckets">
+  <g class="node" data-k="suppliers" tabindex="0" role="button" aria-label="Supplier buckets">
     <rect class="box" x="20" y="20" width="74" height="40" rx="3"/>
     <rect class="box" x="103" y="20" width="74" height="40" rx="3"/>
     <rect class="box" x="186" y="20" width="74" height="40" rx="3"/>
-    <text x="57" y="44" text-anchor="middle">Partner A</text>
-    <text x="140" y="44" text-anchor="middle">Partner B</text>
-    <text x="223" y="44" text-anchor="middle">Partner C</text>
+    <text x="57" y="44" text-anchor="middle">Supplier A</text>
+    <text x="140" y="44" text-anchor="middle">Supplier B</text>
+    <text x="223" y="44" text-anchor="middle">Supplier C</text>
   </g>
   <line class="edge" x1="140" y1="60" x2="140" y2="98" marker-end="url(#ah)"/>
   <text class="lab" x="148" y="84">copy, any order</text>
@@ -145,11 +145,11 @@
 
   <g class="node" data-k="files" tabindex="0" role="button" aria-label="Transformed files, partitioned by file date">
     <rect class="box" x="20" y="260" width="240" height="84" rx="3"/>
-    <text x="140" y="278" text-anchor="middle">transformed/acme_delivery/</text>
+    <text x="140" y="278" text-anchor="middle">transformed/acme_readings/</text>
     <rect class="inner" x="32" y="286" width="216" height="22" rx="2"/>
-    <text class="sub" x="140" y="301" text-anchor="middle">file_date=April 1, 2023/report.csv</text>
+    <text class="sub" x="140" y="301" text-anchor="middle">file_date=2023-04-01/report.csv</text>
     <rect class="inner" x="32" y="313" width="216" height="22" rx="2"/>
-    <text class="sub" x="140" y="328" text-anchor="middle">file_date=April 2, 2023/report.csv</text>
+    <text class="sub" x="140" y="328" text-anchor="middle">file_date=2023-04-02/report.csv</text>
   </g>
 
   <line class="divider" x1="10" y1="370" x2="390" y2="370"/>
@@ -171,7 +171,7 @@
 
   <g class="node accent" data-k="current" tabindex="0" role="button" aria-label="Current view">
     <rect class="box" x="20" y="494" width="240" height="44" rx="3"/>
-    <text x="140" y="512" text-anchor="middle">acme_delivery_current</text>
+    <text x="140" y="512" text-anchor="middle">acme_readings_current</text>
     <text class="sub" x="140" y="529" text-anchor="middle">ROW_NUMBER() … = 1</text>
   </g>
   <line class="edge" x1="140" y1="538" x2="140" y2="576" marker-end="url(#ah)"/>
@@ -205,8 +205,8 @@
     4: [B + 'defending-the-boundary/', 'Part 4: Defending the boundary'],
   };
   const D = {
-    partners: ['Partner buckets', 'Partners send files on some cadence, but each file covers a time window larger than the cadence, so the same record shows up in many files.', 1],
-    raw: ['Your S3 bucket', 'Extract is just a copy from the partner bucket to yours. Loads are idempotent, so you can load files in parallel, in any order, and retry whichever ones failed.', 1],
+    suppliers: ['Supplier buckets', 'Suppliers send files on some cadence, but each file covers a time window larger than the cadence, so the same record shows up in many files.', 1],
+    raw: ['Your S3 bucket', 'Extract is just a copy from the supplier bucket to yours. Loads are idempotent, so you can load files in parallel, in any order, and retry whichever ones failed.', 1],
     transform: ['Transform + validate', 'Each row is decoded with an io-ts codec. A cell that doesn’t conform comes back as a Left, a value, not an exception, so it doesn’t have to crash the import.', 4],
     qa: ['QA report', 'Decode errors carry the path to the value that failed, so QA can point at the exact row and column. Skip the row, fail the file, or fail the job, depending on the configuration.', 4],
     files: ['Transformed files', 'Each root directory is a table, and each file_date= path is a partition. Nothing is ever updated in place.', 2],
@@ -234,10 +234,10 @@
 <p>In a CRUD system, the state of the database depends on the order the updates were applied, so if you ever need to rebuild it, you have to replay all your inputs from the beginning, in order. Here, the ordering doesn't happen at load time at all. It happens at query time. So you can load all your files in parallel, in any order, retry whichever ones failed, and you still get the same result.</p>
 <h2>ETL, ELT, and where the transforms happen</h2>
 <p>The usual way to explain this is the letter order. ETL means you shape the data before it lands. ELT means you land it raw and shape it inside the warehouse. This pipeline does both.</p>
-<p>io-ts parses the partner file and encodes the types before anything gets written. That is the T in ETL, and it happens once. Then the views do the rest. All the logic about what data is current and what is valid lives on the query side. Window functions surface the most recent version of a record, joins handle exceptions and replace bad identifiers, and when faster access is required the view gets materialized or copied into a delivery table. Some of them run well over a hundred lines of SQL. That is the T in ELT, and it happens on every query. <a href="/transmissions/external-tables/defending-the-boundary/">Defending the boundary</a> is about the first one. <a href="/transmissions/external-tables/current-truth-with-window-functions/">Current truth with window functions</a> is about the second.</p>
+<p>io-ts parses the supplier file and encodes the types before anything gets written. That is the T in ETL, and it happens once. Then the views do the rest. All the logic about what data is current and what is valid lives on the query side. Window functions surface the most recent version of a record, joins handle exceptions and replace bad identifiers, and when faster access is required the view gets materialized or copied into a delivery table. Some of them run well over a hundred lines of SQL. That is the T in ELT, and it happens on every query. <a href="/transmissions/external-tables/defending-the-boundary/">Defending the boundary</a> is about the first one. <a href="/transmissions/external-tables/current-truth-with-window-functions/">Current truth with window functions</a> is about the second.</p>
 <h2>Schema on read</h2>
 <p>External tables are read only and schema on read. You define the table columns after the fact, and you can always alter the column definitions in the future without concern about altering data. Some of that comes free with <a href="/transmissions/external-tables/building-on-external-tables/">external tables</a>.</p>
-<p>You can change your mind. Partners change their formats, and you get things wrong, and you can redefine a column later without reloading anything.</p>
+<p>You can change your mind. Suppliers change their formats, and you get things wrong, and you can redefine a column later without reloading anything.</p>
 <p>And the raw file is still sitting there, untouched. That is what makes the whole thing rebuildable, and it is the same property as loading in any order.</p>
 <p>io-ts is not there to make up for schema on read. It is there because third parties will send you broken files no matter what your store does.</p>
 <p><a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB</a> will do it over a folder of files, figure out on its own that one field is a timestamp and another is a number, and answer the question.</p>

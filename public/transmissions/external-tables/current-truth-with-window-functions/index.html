@@ -102,27 +102,27 @@
     <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
 <h2>The unique key</h2>
 <p>Because this is an append-only system, all logic about what data is current and valid is performed on the query side. Which raises the question: how do you know data is an update rather than a new row?</p>
-<p>For this, each file format has a unique key, which is a combination of columns, for example <code>audience_segment_name</code>, <code>date</code>, and <code>time</code>. If an entry matches existing data on those columns, it should replace the old data.</p>
+<p>For this, each file format has a unique key, which is a combination of columns, for example <code>station_id</code>, <code>date</code>, and <code>time</code>. If an entry matches existing data on those columns, it should replace the old data.</p>
 <p>Consider the following example. Let's say all you have in a certain table is this:</p>
 <table>
 <thead>
 <tr>
-<th>audience_segment_name</th>
+<th>station_id</th>
 <th>date</th>
 <th>time</th>
-<th>impressions</th>
+<th>readings</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Movie Lovers</td>
-<td>January 1, 2022</td>
+<td>North Bridge</td>
+<td>2022-01-01</td>
 <td>19:00</td>
 <td>2000</td>
 </tr>
 <tr>
-<td>Sports Fans</td>
-<td>January 3, 2022</td>
+<td>Harbour West</td>
+<td>2022-01-03</td>
 <td>12:00</td>
 <td>1000</td>
 </tr>
@@ -132,53 +132,53 @@
 <table>
 <thead>
 <tr>
-<th>audience_segment_name</th>
+<th>station_id</th>
 <th>date</th>
 <th>time</th>
-<th>impressions</th>
+<th>readings</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Sports Fans</td>
-<td>January 3, 2022</td>
+<td>Harbour West</td>
+<td>2022-01-03</td>
 <td>12:00</td>
 <td>1100</td>
 </tr>
 <tr>
-<td>Cat Fanatics</td>
-<td>January 5, 2022</td>
+<td>Old Mill</td>
+<td>2022-01-05</td>
 <td>12:00</td>
 <td>1900</td>
 </tr>
 </tbody>
 </table>
-<p>Since the Sports Fans entry in the new file matches on the unique key <code>(audience_segment_name, date, time)</code>, the new file should be considered the source of truth, and your current data is:</p>
+<p>Since the Harbour West entry in the new file matches on the unique key <code>(station_id, date, time)</code>, the new file should be considered the source of truth, and your current data is:</p>
 <table>
 <thead>
 <tr>
-<th>audience_segment_name</th>
+<th>station_id</th>
 <th>date</th>
 <th>time</th>
-<th>impressions</th>
+<th>readings</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Movie Lovers</td>
-<td>January 1, 2022</td>
+<td>North Bridge</td>
+<td>2022-01-01</td>
 <td>19:00</td>
 <td>2000</td>
 </tr>
 <tr>
-<td>Sports Fans</td>
-<td>January 3, 2022</td>
+<td>Harbour West</td>
+<td>2022-01-03</td>
 <td>12:00</td>
 <td>1100</td>
 </tr>
 <tr>
-<td>Cat Fanatics</td>
-<td>January 5, 2022</td>
+<td>Old Mill</td>
+<td>2022-01-05</td>
 <td>12:00</td>
 <td>1900</td>
 </tr>
@@ -190,11 +190,11 @@
 <pre><code class="language-sql">ROW_NUMBER() OVER (PARTITION BY &lt;...unique keys...&gt; ORDER BY file_date DESC) = 1
 </code></pre>
 <p>Here is an example of that for the external table from <a href="/transmissions/external-tables/building-on-external-tables/">part 2</a>:</p>
-<pre><code class="language-sql">SELECT * FROM analytics.ext_acme_delivery
+<pre><code class="language-sql">SELECT * FROM analytics.ext_acme_readings
 QUALIFY ROW_NUMBER() OVER (
   PARTITION BY
-    campaign_name,
-    audience_segment_name,
+    site_name,
+    station_id,
     report_date,
     report_time
   ORDER BY file_date DESC
@@ -209,16 +209,16 @@ QUALIFY ROW_NUMBER() OVER (
 <p>In other words, take all the data and create subsets based on the unique key, then return the most recent from each subset.</p>
 <p>One thing worth noting here is the overloading of the term PARTITION in this pipeline. When using window functions, PARTITION is the subset of data that will be compared (because in this case, these share a unique key and are different versions of the same entry). For these purposes you return one, most recent, result from each PARTITION.</p>
 <p>When setting up external tables, PARTITION is a subset of the data that Snowflake uses for optimization, and corresponds to a file path, which in this case is generated based on the file date.</p>
-<p>So in the above query, you select all the data in the external table for a certain partner's data, you PARTITION it by the unique key, and then you ORDER BY <code>file_date</code>... which just so happens to be the external table PARTITION.</p>
+<p>So in the above query, you select all the data in the external table for a certain supplier's data, you PARTITION it by the unique key, and then you ORDER BY <code>file_date</code>... which just so happens to be the external table PARTITION.</p>
 <p>You order the contents of the PARTITION by PARTITION.</p>
 <h2>Views</h2>
-<p>The window function logic, plus any other cleanup, goes in views, such as <code>acme_delivery_current</code> or <code>weekly_by_partner</code>. In the view definitions you use joins to handle exceptions, such as overriding bad identifiers, and window functions to surface the most recent version of data. Downstream code consumes the views.</p>
+<p>The window function logic, plus any other cleanup, goes in views, such as <code>acme_readings_current</code> or <code>weekly_by_supplier</code>. In the view definitions you use joins to handle exceptions, such as overriding bad identifiers, and window functions to surface the most recent version of data. Downstream code consumes the views.</p>
 <p>When faster access is required, the view can be materialized or the data copied into regular tables.</p>
 <p>It helps to pick a naming convention and stick to it. For example:</p>
 <ul>
 <li><strong>External table</strong>: <code>ext_&lt;feed&gt;</code>, partitioned by file date, containing all the files loaded to date.</li>
 <li><strong>Current view</strong>: <code>&lt;feed&gt;_current</code>, presenting the most current data and filtering out problematic stuff.</li>
-<li><strong>Aggregate views and tables</strong>: named for what they aggregate, like <code>weekly_by_partner</code>.</li>
+<li><strong>Aggregate views and tables</strong>: named for what they aggregate, like <code>weekly_by_supplier</code>.</li>
 </ul>
     <p class="meta links"><a href="/transmissions/external-tables/building-on-external-tables/">← Part 2: Building on external tables</a> <a href="/transmissions/external-tables/defending-the-boundary/">Part 4: Defending the boundary →</a></p>
   </main>

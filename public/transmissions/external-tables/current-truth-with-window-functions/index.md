@@ -16,61 +16,61 @@ Append-only pipelines · Part 3 of 5
 
 Because this is an append-only system, all logic about what data is current and valid is performed on the query side. Which raises the question: how do you know data is an update rather than a new row?
 
-For this, each file format has a unique key, which is a combination of columns, for example `audience_segment_name`, `date`, and `time`. If an entry matches existing data on those columns, it should replace the old data.
+For this, each file format has a unique key, which is a combination of columns, for example `station_id`, `date`, and `time`. If an entry matches existing data on those columns, it should replace the old data.
 
 Consider the following example. Let's say all you have in a certain table is this:
 
-audience_segment_name
+station_id
 date
 time
-impressions
+readings
 
-Movie Lovers
-January 1, 2022
+North Bridge
+2022-01-01
 19:00
 2000
 
-Sports Fans
-January 3, 2022
+Harbour West
+2022-01-03
 12:00
 1000
 
 Suppose you receive an updated file with the following data:
 
-audience_segment_name
+station_id
 date
 time
-impressions
+readings
 
-Sports Fans
-January 3, 2022
+Harbour West
+2022-01-03
 12:00
 1100
 
-Cat Fanatics
-January 5, 2022
+Old Mill
+2022-01-05
 12:00
 1900
 
-Since the Sports Fans entry in the new file matches on the unique key `(audience_segment_name, date, time)`, the new file should be considered the source of truth, and your current data is:
+Since the Harbour West entry in the new file matches on the unique key `(station_id, date, time)`, the new file should be considered the source of truth, and your current data is:
 
-audience_segment_name
+station_id
 date
 time
-impressions
+readings
 
-Movie Lovers
-January 1, 2022
+North Bridge
+2022-01-01
 19:00
 2000
 
-Sports Fans
-January 3, 2022
+Harbour West
+2022-01-03
 12:00
 1100
 
-Cat Fanatics
-January 5, 2022
+Old Mill
+2022-01-05
 12:00
 1900
 
@@ -87,11 +87,11 @@ ROW_NUMBER() OVER (PARTITION BY <...unique keys...> ORDER BY file_date DESC) = 1
 Here is an example of that for the external table from [part 2](/transmissions/external-tables/building-on-external-tables/):
 
 ```
-SELECT * FROM analytics.ext_acme_delivery
+SELECT * FROM analytics.ext_acme_readings
 QUALIFY ROW_NUMBER() OVER (
 PARTITION BY
-campaign_name,
-audience_segment_name,
+site_name,
+station_id,
 report_date,
 report_time
 ORDER BY file_date DESC
@@ -116,13 +116,13 @@ One thing worth noting here is the overloading of the term PARTITION in this pip
 
 When setting up external tables, PARTITION is a subset of the data that Snowflake uses for optimization, and corresponds to a file path, which in this case is generated based on the file date.
 
-So in the above query, you select all the data in the external table for a certain partner's data, you PARTITION it by the unique key, and then you ORDER BY `file_date`... which just so happens to be the external table PARTITION.
+So in the above query, you select all the data in the external table for a certain supplier's data, you PARTITION it by the unique key, and then you ORDER BY `file_date`... which just so happens to be the external table PARTITION.
 
 You order the contents of the PARTITION by PARTITION.
 
 ## Views
 
-The window function logic, plus any other cleanup, goes in views, such as `acme_delivery_current` or `weekly_by_partner`. In the view definitions you use joins to handle exceptions, such as overriding bad identifiers, and window functions to surface the most recent version of data. Downstream code consumes the views.
+The window function logic, plus any other cleanup, goes in views, such as `acme_readings_current` or `weekly_by_supplier`. In the view definitions you use joins to handle exceptions, such as overriding bad identifiers, and window functions to surface the most recent version of data. Downstream code consumes the views.
 
 When faster access is required, the view can be materialized or the data copied into regular tables.
 
@@ -132,6 +132,6 @@ It helps to pick a naming convention and stick to it. For example:
 
 - **Current view**: `<feed>_current`, presenting the most current data and filtering out problematic stuff.
 
-- **Aggregate views and tables**: named for what they aggregate, like `weekly_by_partner`.
+- **Aggregate views and tables**: named for what they aggregate, like `weekly_by_supplier`.
 
 [← Part 2: Building on external tables](/transmissions/external-tables/building-on-external-tables/) [Part 4: Defending the boundary →](/transmissions/external-tables/defending-the-boundary/)

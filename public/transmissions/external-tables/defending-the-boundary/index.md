@@ -14,11 +14,11 @@ Append-only pipelines · Part 4 of 5
 
 [io-ts](https://gcanti.github.io/io-ts/) is a TypeScript library by Giulio Canti built around the idea of a codec. A codec is one definition that does three jobs at once: it validates unknown data at runtime, it tells the compiler what the type is, and it encodes the value back out again. The thing it is for is the boundary, the place where data arrives from outside your program and you have no guarantee it is what you were promised. TypeScript's own types are gone by the time the program runs, so at that boundary they protect you from nothing.
 
-The pipeline uses [io-ts](https://gcanti.github.io/io-ts/) to do runtime type checking; most notably the transform step of the pipeline relies on it. For example, an .xls parser is used with [Node streams](https://nodejs.org/api/stream.html) (pipelines) and io-ts to go through each row of an Excel file provided by the partner and verify the cells provide data which can be encoded to the expected type. If it encounters a cell that doesn't meet expectations, you can either skip the row, fail the file, or fail the entire job, depending on the configuration.
+The pipeline uses [io-ts](https://gcanti.github.io/io-ts/) to do runtime type checking; most notably the transform step of the pipeline relies on it. For example, an .xls parser is used with [Node streams](https://nodejs.org/api/stream.html) (pipelines) and io-ts to go through each row of an Excel file provided by the supplier and verify the cells provide data which can be encoded to the expected type. If it encounters a cell that doesn't meet expectations, you can either skip the row, fail the file, or fail the entire job, depending on the configuration.
 
 This functional approach saved us tons of time, money, and heartache, and here's why.
 
-With io-ts, one codec definition decodes whatever the partner sent into typed values, encodes those values back out to the CSV, and gives TypeScript the static type. So the validation, the type, and the serialization come from the same place and can't get out of sync with each other.
+With io-ts, one codec definition decodes whatever the supplier sent into typed values, encodes those values back out to the CSV, and gives TypeScript the static type. So the validation, the type, and the serialization come from the same place and can't get out of sync with each other.
 
 When a cell doesn't decode, io-ts doesn't throw an exception. It returns a Left, which is just a value, and it moves through the pipeline like any other value. That's why skipping the row, failing the file, or failing the job can be a configuration setting. And the decode errors include the path to the value that failed, so the QA reports can point at the exact row and column.
 

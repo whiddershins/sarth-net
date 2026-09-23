@@ -12,7 +12,7 @@ Five parts
 
 *Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.*
 
-*What I think about after building a pipeline. It's based on a pipeline for ad delivery reports from a bunch of partners, each with their own file formats and delivery schedules. Nothing here is specific to that domain, though. If third parties send you files, and newer files contain updated versions of stuff that was in older files, and you need to serve whatever is current, this is for you.*
+*What I think about after building a pipeline. It's based on a pipeline for reports from a bunch of suppliers, each with their own file formats and delivery schedules. Nothing here is specific to that domain, though. If third parties send you files, and newer files contain updated versions of stuff that was in older files, and you need to serve whatever is current, this is for you.*
 
 This pipeline uses [external tables](https://docs.snowflake.com/en/user-guide/tables-external-intro) for the primary data store instead of a typical time series (CRUD style) database. That decision affects everything else, including the fact that the word PARTITION ends up meaning two different things in the same query.
 
@@ -20,9 +20,9 @@ This pipeline uses [external tables](https://docs.snowflake.com/en/user-guide/ta
 
 The pipeline consists of:
 
-Partner A
-Partner B
-Partner C
+Supplier A
+Supplier B
+Supplier C
 
 - 
 copy, any order
@@ -39,11 +39,11 @@ QA report
 
 write CSV
 
-transformed/acme_delivery/
+transformed/acme_readings/
 
-file_date=April 1, 2023/report.csv
+file_date=2023-04-01/report.csv
 
-file_date=April 2, 2023/report.csv
+file_date=2023-04-02/report.csv
 
 LOAD TIME
 no ordering, idempotent
@@ -57,7 +57,7 @@ PARTITION BY (file_date)
 
 latest per unique key
 
-acme_delivery_current
+acme_readings_current
 ROW_NUMBER() … = 1
 
 views on views
@@ -76,13 +76,13 @@ In a CRUD system, the state of the database depends on the order the updates wer
 
 The usual way to explain this is the letter order. ETL means you shape the data before it lands. ELT means you land it raw and shape it inside the warehouse. This pipeline does both.
 
-io-ts parses the partner file and encodes the types before anything gets written. That is the T in ETL, and it happens once. Then the views do the rest. All the logic about what data is current and what is valid lives on the query side. Window functions surface the most recent version of a record, joins handle exceptions and replace bad identifiers, and when faster access is required the view gets materialized or copied into a delivery table. Some of them run well over a hundred lines of SQL. That is the T in ELT, and it happens on every query. [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) is about the first one. [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) is about the second.
+io-ts parses the supplier file and encodes the types before anything gets written. That is the T in ETL, and it happens once. Then the views do the rest. All the logic about what data is current and what is valid lives on the query side. Window functions surface the most recent version of a record, joins handle exceptions and replace bad identifiers, and when faster access is required the view gets materialized or copied into a delivery table. Some of them run well over a hundred lines of SQL. That is the T in ELT, and it happens on every query. [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) is about the first one. [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) is about the second.
 
 ## Schema on read
 
 External tables are read only and schema on read. You define the table columns after the fact, and you can always alter the column definitions in the future without concern about altering data. Some of that comes free with [external tables](/transmissions/external-tables/building-on-external-tables/).
 
-You can change your mind. Partners change their formats, and you get things wrong, and you can redefine a column later without reloading anything.
+You can change your mind. Suppliers change their formats, and you get things wrong, and you can redefine a column later without reloading anything.
 
 And the raw file is still sitting there, untouched. That is what makes the whole thing rebuildable, and it is the same property as loading in any order.
 

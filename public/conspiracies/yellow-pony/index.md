@@ -20,8 +20,12 @@ Madrid, July 2009.
 
 In 2009 I had the unique opportunity to do two short tours with Lou Reed and Laurie Anderson. I played continuum fingerboard and did live resampling of their voices. Also, I got to stand in the center of the stage, like a drummer. It was a wonderful experience, and it is also when I fell in love with Spain.
 
+My role on that tour was to act as a bridge between the wildness of Lou and the grace of [Laurie](/conspirators/laurie-anderson/).
+
+It was a lovely two part tour that included outdoor performances in northern Spain, as well as my first visit to Copenhagen where I bought a really awesome plaid jacket that I wore until it was in tatters.
+
 ## The dates
 
 Eight shows are documented, with the billing at Salle Pleyel listing him as “claviers et électronique.” The full run is on [Appearances](/appearances/).
 
-Sarth’s account is from the Yellow Pony page of his own WordPress site, recovered from the Wayback Machine.
+Sarth’s account is from the Yellow Pony page of his own WordPress site, recovered from the Wayback Machine, and from a conversation on 23 September 2026.

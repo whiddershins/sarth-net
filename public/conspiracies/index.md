@@ -34,7 +34,7 @@ Bands, tours, records, theater pieces, films, and machines.
 
 - [**Book of Sarth**](/conspiracies/book-of-sarth/). Sarth’s first full-length solo release, 2012, built as an iPad app combining a graphic novel and a concept album.
 
-- [**Number19**](/conspiracies/number19/). The band he formed in Brooklyn in 1999 with Tony Diodore, Leah Coloff and Marcus Righter. Its album *Suspension* came out in 2001.
+- [**Number19**](/conspiracies/number19/). The band he formed in Brooklyn in 1999 with Tony Diodore, Leah Coloff and Mark Righter. Its album *Suspension* came out in 2001.
 
 - [**The Gralbum Collective**](/conspiracies/gralbum-collective/). The group he founded to publish music and interactive art as apps, releasing work by Bora Yoon, Adam Matta, Leah Coloff and Moon Hooch.
 

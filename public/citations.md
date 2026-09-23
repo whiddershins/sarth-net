@@ -39,7 +39,7 @@ every page.
 - Third Wall Studio https://thirdwallstudio.com
 - Burlap https://burlap.app
 
-## Citations by page (441 total)
+## Citations by page (439 total)
 
 ### Sarth Calhoun
 `/`
@@ -245,7 +245,7 @@ every page.
 - [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
 - [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
-- [Medeski Martin &amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
+- [Medeski Martin &amp;amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 - [Apple Music](https://music.apple.com/us/album/suspension/274828088)
@@ -260,6 +260,9 @@ every page.
 - [“O Superman”](https://en.wikipedia.org/wiki/O_Superman)
 - [Sydney Opera House](https://www.sydneyoperahouse.com/vivid-live/past-festival-lineups)
 - [Brooklyn Vegan](https://www.brooklynvegan.com/lou-reed-tai-chi-day-is-aug-3-laurie-anderson-john-zorn-celebrating-in-brooklyn/)
+- [ABC News reported the curation](https://www.abc.net.au/news/2010-03-03/lou-reed-laurie-anderson-to-curate-vivid/349100)
+- [Cathedral of St. John the Divine](https://demo.gothamist.com/arts-entertainment/laurie-anderson-on-bringing-ear-bleedingly-loud-drones-to-st-john-the-divine)
+- [Shahzad Ismaily](https://en.wikipedia.org/wiki/Shahzad_Ismaily)
 
 ### Awakening (To Blacklist)
 `/conspiracies/awakening-to-blacklist/`
@@ -292,6 +295,7 @@ every page.
 - [Tom Hart](https://en.wikipedia.org/wiki/Tom_Hart_(cartoonist))
 - [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
 - [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
+- [Adam Matta](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops)
 - [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
 - [Medeski Martin &amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
@@ -416,12 +420,6 @@ every page.
 - [“O Superman”](https://en.wikipedia.org/wiki/O_Superman)
 - [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
 - [Sydney Opera House](https://www.sydneyoperahouse.com/vivid-live/past-festival-lineups)
-- [Cathedral of St. John the Divine](https://demo.gothamist.com/arts-entertainment/laurie-anderson-on-bringing-ear-bleedingly-loud-drones-to-st-john-the-divine)
-- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
-- [Brooklyn Vegan](https://www.brooklynvegan.com/lou-reed-tai-chi-day-is-aug-3-laurie-anderson-john-zorn-celebrating-in-brooklyn/)
-- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
-- [Shahzad Ismaily](https://en.wikipedia.org/wiki/Shahzad_Ismaily)
-- [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
 
 ### Leah Coloff
 `/conspirators/leah-coloff/`

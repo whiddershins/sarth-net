@@ -14,7 +14,7 @@ Tony Diodore is a guitarist and violinist in Brooklyn. He has played in [Number1
 
 ## Number19
 
-Diodore, Sarth, [Leah Coloff](/conspirators/leah-coloff/) and Marcus Righter formed Number19 in 1999, with Tony on guitar and violin. The band funded its first record, *Suspension*, out of mp3.com downloads, at one point sitting at number eighteen overall on the site.
+Diodore, Sarth, [Leah Coloff](/conspirators/leah-coloff/) and Mark Righter formed Number19 in 1999, with Tony on guitar and violin. The band funded its first record, *Suspension*, out of mp3.com downloads, at one point sitting at number eighteen overall on the site.
 
 ## Puracane and BM LINX
 
@@ -28,6 +28,6 @@ Diodore later described Sarth’s job in that band as “Lou’s imagination.”
 
 ## How Sarth introduced him
 
-Tony, Sarth, Leah Coloff, and Marcus Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
+Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
 
 Sarth wrote that introduction for the conspirators section of his old WordPress site, recovered from the Wayback Machine.

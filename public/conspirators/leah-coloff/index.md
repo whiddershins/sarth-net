@@ -16,7 +16,7 @@ She and Sarth have made three things together: Number19, Lucibel Crater, and [Bo
 
 ## Number19
 
-Coloff, Sarth, [Tony Diodore](/conspirators/tony-diodore/) and Marcus Righter formed Number19 in 1999. The band put looped cello and voice over bass and drums, and paid for its first record, *Suspension*, out of mp3.com downloads.
+Coloff, Sarth, [Tony Diodore](/conspirators/tony-diodore/) and Mark Righter formed Number19 in 1999. The band put looped cello and voice over bass and drums, and paid for its first record, *Suspension*, out of mp3.com downloads.
 
 From the biography on Sarth’s own site: Along his musical journeys, he met cellist and songwriter Leah Coloff, who convinced him to combine computers with music. The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
 

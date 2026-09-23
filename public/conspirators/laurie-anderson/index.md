@@ -18,9 +18,9 @@ Yellow Pony, Madrid, July 2009.
 
 ## Yellow Pony
 
-The tours were billed *The Yellow Pony and Other Songs and Stories*: two short European legs in 2009, one in July and one across August and September, eight cities from Sant Feliu de Guíxols to Paris. Anderson stood with violin and electronics, Reed sat with guitars, and Sarth was between them.
+I first toured with Laurie as a trio along with Lou doing [“The Yellow Pony and Other Songs and Stories”](/conspiracies/yellow-pony/). It was a lovely two part tour that included outdoor performances in northern Spain, as well as my first visit to Copenhagen where I bought a really awesome plaid jacket that I wore until it was in tatters.
 
-From the Yellow Pony page of Sarth’s own site: In 2009 I had the unique opportunity to do two short tours with Lou Reed and Laurie Anderson. I played continuum fingerboard and did live resampling of their voices. Also, I got to stand in the center of the stage, like a drummer. It was a wonderful experience, and it is also when I fell in love with Spain.
+My role on that tour was to act as a bridge between the wildness of Lou and the grace of Laurie.
 
 ## What the room looked like
 
@@ -34,10 +34,8 @@ Anderson and Reed curated the 2010 edition of Vivid LIVE at the [Sydney Opera Ho
 
 ## Afterwards
 
-Sarth and Anderson have played together at several events built around Reed’s work since he died. On 13 March 2019 they performed at the [Cathedral of St. John the Divine](https://demo.gothamist.com/arts-entertainment/laurie-anderson-on-bringing-ear-bleedingly-loud-drones-to-st-john-the-divine), in an evening tied to what would have been Reed’s seventy-seventh birthday. Anderson played viola and electronics, [John Zorn](https://en.wikipedia.org/wiki/John_Zorn) opened on the organ, Stewart Hurwood, Reed’s guitar technician, ran the old guitars against amplifiers as the Lou Reed Drones, and Sarth brought what the Gothamist preview called crazy electronics. The musicians were spread through the cathedral and the audience walked between them.
+Since then every time I have joined her I think it was for a noise thing. In Sydney, at [Vivid LIVE](/conspiracies/vivid-live/), or at some of the drone shows.
 
-That August, at the first International Lou Reed Tai Chi Day, they played the Prospect Park Bandshell for BRIC Celebrate Brooklyn!, a demonstration by Master Ren Guang-Yi, Reed’s tai chi teacher of twelve years, accompanied by Reed’s Drones. [Brooklyn Vegan](https://www.brooklynvegan.com/lou-reed-tai-chi-day-is-aug-3-laurie-anderson-john-zorn-celebrating-in-brooklyn/) announced the lineup as a live performance of Reed’s “Drones” featuring Laurie Anderson, John Zorn, Sarth Calhoun and Stewart Hurwood.
+My favourite venue was the Cathedral of St. John the Divine. I have always loved that cathedral. My favourite show was probably the Winter Garden.
 
-They played again on 2 March 2023 at Brookfield Place, for Reed’s eighty-first birthday, with [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) and [Shahzad Ismaily](https://en.wikipedia.org/wiki/Shahzad_Ismaily), against Hurwood’s drones. Reed had left an unfinished book about tai chi. Anderson decided to complete it and worked on it with three of his friends, Stephan Berwick, Robert Currie and Scott Richman; *The Art of the Straight Line: My Tai Chi* came out that spring. Sarth is one of the people they interviewed for it, as [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/) record.
-
-Sarth’s account is from the Yellow Pony page of his old WordPress site, recovered from the Wayback Machine.
+Both are on [Appearances](/appearances/): St. John the Divine on 13 March 2019, for what would have been Lou’s 77th birthday, and Brookfield Place Winter Garden on 2 March 2023, for his 81st.

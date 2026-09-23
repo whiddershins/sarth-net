@@ -32,7 +32,7 @@ Brian Heater covered the launch for [Laughing Squid](https://laughingsquid.com/g
 
 ## The titles
 
-Five gralbums were in the store at launch. *Book of Sarth*, Sarth’s own. *Sketches* by the beatboxer and animator Adam Matta, in which every sound is his unaltered voice and every image his own drawing. *Sunken Cathedral Trilogy* by the composer and vocalist Bora Yoon, set against the animated sculptures of the Seoul artist [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe). *This Tree*, three songs by Leah Coloff with her childhood home videos and animated oil paintings. And *Train O’ Thoughts*, the subway sketches Tom Hart drew live on his commute, under a brass soundtrack.
+Five gralbums were in the store at launch. *Book of Sarth*, Sarth’s own. *Sketches* by the beatboxer and animator [Adam Matta](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops), in which every sound is his unaltered voice and every image his own drawing. *Sunken Cathedral Trilogy* by the composer and vocalist Bora Yoon, set against the animated sculptures of the Seoul artist [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe). *This Tree*, three songs by Leah Coloff with her childhood home videos and animated oil paintings. And *Train O’ Thoughts*, the subway sketches Tom Hart drew live on his commute, under a brass soundtrack.
 
 The collective listed further titles as coming: *Omnisphere* by [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist)), the drummer of [Medeski Martin & Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood); an introductory gralbum by Eva Parker built on the artwork of [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel); and *Betty Goes Boom Boom*.
 

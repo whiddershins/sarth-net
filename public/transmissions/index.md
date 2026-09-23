@@ -54,7 +54,7 @@ Records and songs.
 
 ## Suspension
 
-2001. Number19, the band he formed in 1999 with Tony Diodore, Leah Coloff and Marcus Righter.
+2001. Number19, the band he formed in 1999 with Tony Diodore, Leah Coloff and Mark Righter.
 
 [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
 

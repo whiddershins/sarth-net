@@ -1,6 +1,6 @@
 ---
 title: Number19
-description: Number19, the Brooklyn band Sarth Calhoun formed in 1999 with Leah Coloff, Tony Diodore and Marcus Righter, and its album Suspension.
+description: Number19, the Brooklyn band Sarth Calhoun formed in 1999 with Leah Coloff, Tony Diodore and Mark Righter, and its album Suspension.
 url: https://www.sarth.net/conspiracies/number19/
 author: Sarth Calhoun
 ---
@@ -10,7 +10,7 @@ Conspiracy
 
 # Number19
 
-[Number19](https://en.wikipedia.org/wiki/Number19) was a band in Brooklyn. [Tony Diodore](/conspirators/tony-diodore/), Sarth Calhoun, [Leah Coloff](/conspirators/leah-coloff/) and Marcus Righter formed it in 1999, with Diodore on guitar and violin, Sarth on bass and a [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5), Coloff on cello and voice, and Righter on drums. Cello and violin ran over bass and drums, with electronics underneath. The band released one album, *Suspension*, and was active until 2005.
+[Number19](https://en.wikipedia.org/wiki/Number19) was a band in Brooklyn. [Tony Diodore](/conspirators/tony-diodore/), Sarth Calhoun, [Leah Coloff](/conspirators/leah-coloff/) and Mark Righter formed it in 1999, with Diodore on guitar and violin, Sarth on bass and a [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5), Coloff on cello and voice, and Righter on drums. Cello and violin ran over bass and drums, with electronics underneath. The band released one album, *Suspension*, and was active until 2005.
 
 It was the first band Sarth made with Coloff and with Diodore. He started [Lucibel Crater](/conspiracies/lucibel-crater/) with Coloff in 2005, and played in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) with Diodore from 2011.
 
@@ -30,6 +30,6 @@ Diodore played guitar and violin on [Puracane](https://en.wikipedia.org/wiki/Pur
 
 ## How Sarth introduced the band
 
-Tony, Sarth, Leah Coloff, and Marcus Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
+Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
 
 Sarth wrote that introduction, and the biography quoted above, for his old WordPress site, recovered from the Wayback Machine.

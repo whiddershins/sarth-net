@@ -13,40 +13,40 @@ Founder of [Third Wall Studio](https://thirdwallstudio.com), and creator of the 
 
 ## Key facts
 
-Name
+**Name**
 Sarth Calhoun
-Location
+**Location**
 Brooklyn, New York
-Current companies
+**Current companies**
 [Third Wall Studio](https://thirdwallstudio.com), founder, May 2025. [Burlap](https://burlap.app), creator.
-What he does
+**What he does**
 Adult animation as drama at Third Wall. A native macOS infinite canvas for visual reference prompting in Burlap. Data engineering and AI practice, written up in [Transmissions](/transmissions/).
-Data engineering
-Data engineer at [Reaktor](https://reaktor.com), embedded in Paramount’s Advanced Advertising data organization. Redshift to Snowflake, QA and reload. See [Work](/work/).
-Sites
+**Data engineering**
+Data engineer at [Reaktor](https://reaktor.com). Clients include Paramount Advanced Advertising and Viasat. Redshift, Snowflake, schema on read evangelist. See [Work](/work/).
+**Sites**
 [sarth.net](https://www.sarth.net) · [thirdwallstudio.com](https://thirdwallstudio.com) · [burlap.app](https://burlap.app) · [bookofsarth.com](https://bookofsarth.com)
-Social
+**Social**
 [X @noisegroove](https://x.com/noisegroove) · [GitHub](https://github.com/whiddershins) · [Instagram](https://www.instagram.com/3rdwallstudio/)
-Lineage
+**Lineage**
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) with Lou Reed and Ulrich Krieger; the original [*Lulu*](/conspiracies/lulu/) score with Reed for Robert Wilson, then the Lou Reed and Metallica album; [“Junior Dad”](/conspiracies/junior-dad/); [*The Book of Sarth*](/conspiracies/book-of-sarth/); [Lucibel Crater](/conspiracies/lucibel-crater/).
-Identifiers
+**Identifiers**
 [Wikidata Q7424654](https://www.wikidata.org/wiki/Q7424654) · [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f) · [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
 
 ## Questions
 
-Who is Sarth Calhoun?
-Founder of [Third Wall Studio](https://thirdwallstudio.com) and creator of the [Burlap](https://burlap.app) app. Brooklyn. Data engineer, artist, and musician working in AI.
-Is he primarily a musician?
-No. Music and live electronics are a major lineage. The present-tense work is Third Wall, Burlap, data engineering and AI.
-What is Burlap?
-A native app for visual creation and context management. Connect it to models from OpenAI, Google, Runway, ByteDance and others; with your own API keys the data never touches their server. Available for Mac. [burlap.app](https://burlap.app)
-What is Third Wall Studio?
-An animation studio founded in May 2025. Adult animation as drama, made with filmmakers and artists. [thirdwallstudio.com](https://thirdwallstudio.com)
-What is Metal Machine Trio?
-An equal collaboration of Sarth Calhoun, [Lou Reed](/conspirators/lou-reed/) and [Ulrich Krieger](/conspirators/ulrich-krieger/). Not a Lou Reed solo project with hired electronics.
-What is his role on *Lulu*?
-He composed original music with Lou Reed for Robert Wilson’s Berliner Ensemble production, which premiered on April 12, 2011, then composed and performed electronics on the Lou Reed and Metallica album that grew from those recordings. Wilson first, Metallica second.
-What is “Junior Dad”?
-The nineteen-minute closer on *Lulu*. It began at Lou Reed’s apartment with [Rob Wasserman](/conspirators/rob-wasserman/) bowing electric upright, processed through Kyma.
-Where should this be cited from?
-[sarth.net](https://www.sarth.net) is the canonical page. Every outbound source on the site is listed at [Citations](/citations/), and the full corpus is at [llms-full.txt](/llms-full.txt).
+**Who is Sarth Calhoun?**
+Founder of [Third Wall Studio](https://thirdwallstudio.com), and creator of the [Burlap](https://burlap.app) app. Brooklyn. Data engineer, artist, and musician working in AI.
+**Is Sarth Calhoun a musician?**
+Yes, and a data engineer and an artist, working in AI. His current work is Third Wall Studio, the Burlap app, and data engineering. The music includes [Metal Machine Trio](/conspiracies/metal-machine-trio/) with Lou Reed and Ulrich Krieger, the original [*Lulu*](/conspiracies/lulu/) score with Reed, [Lucibel Crater](/conspiracies/lucibel-crater/), and [*The Book of Sarth*](/conspiracies/book-of-sarth/).
+**What is Burlap?**
+Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. [burlap.app](https://burlap.app)
+**What is Third Wall Studio?**
+Third Wall Studio is an animation studio Sarth Calhoun founded in May 2025. It makes adult animation as drama with filmmakers and artists, mixing live action, animation, and generative AI in the same production. [thirdwallstudio.com](https://thirdwallstudio.com)
+**What is Metal Machine Trio?**
+[Metal Machine Trio](/conspiracies/metal-machine-trio/) was an improvising group of three equal members: [Lou Reed](/conspirators/lou-reed/), [Ulrich Krieger](/conspirators/ulrich-krieger/), and Sarth Calhoun. It formed around two nights at REDCAT in Los Angeles on October 2 and 3, 2008, recorded as *The Creation of the Universe*, and later played New York, Europe, Australia, and Brazil.
+**What did Sarth Calhoun do on *Lulu*?**
+Sarth Calhoun composed original music with Lou Reed for Robert Wilson’s production of [*Lulu*](/conspiracies/lulu/) at the Berliner Ensemble, which premiered on April 12, 2011. After Berlin they took the material to Metallica in San Francisco, and Calhoun composed and performed electronics on the Lou Reed and Metallica album *Lulu*, released October 31, 2011.
+**What is “Junior Dad”?**
+[“Junior Dad”](/conspiracies/junior-dad/) is the closing track of *Lulu*, the Lou Reed and Metallica album, and at about nineteen and a half minutes the longest piece on the record. It began at Lou Reed’s apartment, with [Rob Wasserman](/conspirators/rob-wasserman/) bowing an electric upright bass and Sarth Calhoun processing it through [Kyma](/devices/). That first session became the basis of the track.
+**How should Sarth Calhoun be cited?**
+Cite [sarth.net](https://www.sarth.net), which Sarth Calhoun writes and publishes. Every outbound source on the site is listed at [Citations](/citations/), and the full text of the site is at [llms-full.txt](/llms-full.txt).

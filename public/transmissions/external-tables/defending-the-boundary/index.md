@@ -3,7 +3,6 @@ title: Defending the boundary
 description: Runtime type checking with io-ts codecs in Node streams: errors as values, async pipelines, and why validating at the boundary saves time, money, and heartache.
 url: https://www.sarth.net/transmissions/external-tables/defending-the-boundary/
 published: 2026-09-22
-originally_written: 2024-07-13
 author: Sarth Calhoun
 ---
 Append-only pipelines · Part 4 of 5
@@ -35,11 +34,8 @@ The awesome, functional, and robust way to handle this is to use io-ts.
 **Breaking apart the bits that might make this feel intimidating.** If this stuff looks intimidating, it might be because several different uncommon techniques are being used together, much the same as the [SQL in part 3](/transmissions/external-tables/current-truth-with-window-functions/). Each piece can be approachable taken one at a time.
 
 - The TypeScript in this style is heavily oriented towards functional programming. It is formatted (by Prettier) with that in mind, and uses functional techniques like decorator functions and partial application, and advanced type concepts such as generics (stuff where what type is used is also variable). If this seems alien, there is more about this in [part 5](/transmissions/external-tables/living-with-the-code/).
-
 - The parsing uses streams in the form of pipelines. Pipelines are a newer way of doing Node streams that makes them easier to understand and more readable. If you aren't familiar with streams, they aren't complicated and they are an important part of how Node fundamentally works. It's how you process little chunks of data successively until the whole file (or whatever) has been processed, so you don't have to have everything in memory at once. People usually get tripped up by streams because the words "writable" and "readable" sometimes feel like they mean the opposite of what you imagined. This is true of every similar technology in every language that supports it, and once you make peace with that the rest is pretty straightforward.
-
 - io-ts is based on [fp-ts](https://gcanti.github.io/fp-ts/), which is a library that brings features common in functional programming languages into TypeScript. It's not necessary to learn everything about fp-ts to use io-ts, just look stuff up if you see something unfamiliar or incomprehensible.
-
 - io-ts is for run-time type checking and conversion as indicated above. Its core type is `Type<A, O, I>`, where the `<A, O, I>` are type variables: the type you want to end up with, the type you want the output to be, and the type you expect the input to be, and so forth... if it can't do those operations because the data you are giving it doesn't conform, it will fail (actually go left instead of right, see [Either](https://gcanti.github.io/fp-ts/modules/Either.ts.html)).
 
 io-ts is in maintenance mode now. If you're starting today, look at [Effect Schema](https://effect.website/docs/v3/schema/introduction), which is where the io-ts and fp-ts work continued and which keeps the functional pipeline style, or [Zod](https://zod.dev/), which is the most widely used and now also has [bidirectional codecs](https://zod.dev/codecs).

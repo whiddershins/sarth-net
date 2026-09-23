@@ -3,7 +3,6 @@ title: Building on external tables
 description: Laying out object storage so file paths are partitions, and defining external tables over directories of CSVs, with Snowflake as the worked example.
 url: https://www.sarth.net/transmissions/external-tables/building-on-external-tables/
 published: 2026-09-22
-originally_written: 2024-07-13
 author: Sarth Calhoun
 ---
 Append-only pipelines · Part 2 of 5
@@ -31,26 +30,26 @@ External tables are read only and schema on read: you define the table columns a
 
 Here is an example of the [command](https://docs.snowflake.com/en/sql-reference/sql/create-external-table) used to define an external table in Snowflake:
 
-```
+```sql
 create or replace external table analytics.ext_acme_readings (
-site_name VARCHAR(256) NOT NULL as (value:c1::VARCHAR),
-station_id VARCHAR(256) NOT NULL as (value:c2::VARCHAR),
-report_date DATE NOT NULL as (value:c3::DATE),
-report_time TIME NOT NULL as (value:c4::TIME),
-readings INTEGER as (value:c5::INTEGER),
-clicks INTEGER as (value:c6::INTEGER),
-spend NUMBER(12,2) as (value:c7::NUMBER(12,2)),
-file_name VARCHAR(256) NOT NULL as (value:c8::VARCHAR),
-updated_at TIMESTAMP_NTZ(9) NOT NULL as (value:c9::TIMESTAMP_NTZ),
-file_date DATE NOT NULL as (
-SPLIT_PART(SPLIT_PART(metadata$filename, 'file_date=', -1), '/', 1)::date
-)
+  site_name         VARCHAR(256) NOT NULL     as (value:c1::VARCHAR),
+  station_id VARCHAR(256) NOT NULL     as (value:c2::VARCHAR),
+  report_date           DATE NOT NULL             as (value:c3::DATE),
+  report_time           TIME NOT NULL             as (value:c4::TIME),
+  readings           INTEGER                   as (value:c5::INTEGER),
+  clicks                INTEGER                   as (value:c6::INTEGER),
+  spend                 NUMBER(12,2)              as (value:c7::NUMBER(12,2)),
+  file_name             VARCHAR(256) NOT NULL     as (value:c8::VARCHAR),
+  updated_at            TIMESTAMP_NTZ(9) NOT NULL as (value:c9::TIMESTAMP_NTZ),
+  file_date             DATE NOT NULL as (
+    SPLIT_PART(SPLIT_PART(metadata$filename, 'file_date=', -1), '/', 1)::date
+  )
 )
 PARTITION BY (file_date)
 WITH LOCATION = @analytics.lake_stage/acme_readings
 FILE_FORMAT = (
-TYPE='CSV', SKIP_HEADER=1, EMPTY_FIELD_AS_NULL=TRUE,
-FIELD_OPTIONALLY_ENCLOSED_BY='"'
+  TYPE='CSV', SKIP_HEADER=1, EMPTY_FIELD_AS_NULL=TRUE,
+  FIELD_OPTIONALLY_ENCLOSED_BY='"'
 );
 ```
 

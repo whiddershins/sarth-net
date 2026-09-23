@@ -19,14 +19,14 @@ I had always heard about DuckDB but never had the pleasure of using it until one
 
 Here's a simplified version of what the records look like:
 
-```
+```json
 {"created_at":"2026-09-01T14:02:11Z","artist":"maya","project":"album-cover","model":"image-model-a","cost_usd":0.04}
 {"created_at":"2026-09-01T16:30:00Z","artist":"dev","project":"music-video","model":"video-model-b","cost_usd":1.20}
 ```
 
 Ask how much each artist spent on each project in September, and this is the kind of query that ends up running:
 
-```
+```sql
 SELECT artist, project, round(sum(cost_usd), 2) AS spent
 FROM 'calls/*.jsonl'
 WHERE created_at >= '2026-09-01' AND created_at < '2026-10-01'
@@ -36,11 +36,11 @@ ORDER BY spent DESC;
 
 ```
 ┌─────────┬─────────────┬────────┐
-│ artist │ project │ spent │
+│ artist  │   project   │ spent  │
 ├─────────┼─────────────┼────────┤
-│ dev │ music-video │ 3.6 │
-│ maya │ music-video │ 1.2 │
-│ maya │ album-cover │ 0.16 │
+│ dev     │ music-video │    3.6 │
+│ maya    │ music-video │    1.2 │
+│ maya    │ album-cover │   0.16 │
 └─────────┴─────────────┴────────┘
 ```
 
@@ -54,19 +54,19 @@ In [the external tables tutorial](/transmissions/external-tables/) I wrote about
 
 In DuckDB it's this:
 
-```
+```sql
 CREATE VIEW acme_readings AS
 SELECT * FROM read_csv(
-'lake/acme_readings/*/*.csv',
-hive_partitioning = true,
-filename = true
+  'lake/acme_readings/*/*.csv',
+  hive_partitioning = true,
+  filename = true
 );
 
 CREATE VIEW acme_readings_current AS
 SELECT * FROM acme_readings
 QUALIFY ROW_NUMBER() OVER (
-PARTITION BY station_id, date, time
-ORDER BY file_date DESC
+  PARTITION BY station_id, date, time
+  ORDER BY file_date DESC
 ) = 1;
 ```
 
@@ -74,11 +74,11 @@ With the two files from the tutorial example sitting in `file_date=2022-01-04/` 
 
 ```
 ┌───────────────────────┬────────────┬──────────┬─────────────┐
-│ station_id │ date │ time │ readings │
+│ station_id │    date    │   time   │ readings │
 ├───────────────────────┼────────────┼──────────┼─────────────┤
-│ North Bridge │ 2022-01-01 │ 19:00:00 │ 2000 │
-│ Harbour West │ 2022-01-03 │ 12:00:00 │ 1100 │
-│ Old Mill │ 2022-01-05 │ 12:00:00 │ 1900 │
+│ North Bridge          │ 2022-01-01 │ 19:00:00 │        2000 │
+│ Harbour West           │ 2022-01-03 │ 12:00:00 │        1100 │
+│ Old Mill          │ 2022-01-05 │ 12:00:00 │        1900 │
 └───────────────────────┴────────────┴──────────┴─────────────┘
 ```
 

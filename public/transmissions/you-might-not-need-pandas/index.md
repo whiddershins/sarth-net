@@ -3,7 +3,6 @@ title: You might not need Pandas
 description: Why most day to day Pandas work is better done in SQL, with a side by side average-sales-by-category example, and where Pandas still earns its place.
 url: https://www.sarth.net/transmissions/you-might-not-need-pandas/
 published: 2026-09-22
-originally_written: 2024-04-14
 author: Sarth Calhoun
 ---
 Essay
@@ -28,7 +27,7 @@ Well, let's do a fairly simple, but actually *not contrived* example. Let's calc
 
 In Pandas:
 
-```
+```python
 import pandas as pd
 
 # Load data into a DataFrame
@@ -42,7 +41,7 @@ print(average_sales)
 
 In SQL:
 
-```
+```sql
 SELECT category, AVG(sales) AS average_sales
 FROM sales_data
 GROUP BY category;

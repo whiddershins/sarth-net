@@ -3,7 +3,6 @@ title: Living with the code
 description: Reading dense, strongly typed functional TypeScript: Prettier verticality, generics, and going one concept at a time.
 url: https://www.sarth.net/transmissions/external-tables/living-with-the-code/
 published: 2026-09-22
-originally_written: 2024-07-13
 author: Sarth Calhoun
 ---
 Append-only pipelines · Part 5 of 5
@@ -16,29 +15,29 @@ Code built this way is oriented towards strongly typed (TypeScript) functional c
 
 Make sure your IDE toolchain is set up right, with all the linting and [Prettier](https://prettier.io/) for formatting. Get set up with a TS REPL and the [JEST](https://jestjs.io/) runtime thing, and use the [TypeScript playground](https://www.typescriptlang.org/play) or the REPL to validate your understanding of how stuff works. One thing that might be off putting if you aren't used to it is how VERTICAL the code is. For example, when a function has numerous parameters, Prettier will put them each on their own line like:
 
-```
+```typescript
 const sendAlertAndRecordResult = async (
-channel: string,
-recipients: Recipient[],
-message: string,
-checkIds: string[],
-dryRun: boolean
+  channel: string,
+  recipients: Recipient[],
+  message: string,
+  checkIds: string[],
+  dryRun: boolean
 )
 ```
 
 Or maybe it does this:
 
-```
+```typescript
 export async function runCheck<Result extends BaseResult = BaseResult>(
-{
-tableName,
-checkName,
-threshold = 0.05,
-notify,
-dryRun,
-failOnWarning = false,
-}: CheckConfig,
-format: ResultFormatter<Result> = defaultFormatter
+  {
+    tableName,
+    checkName,
+    threshold = 0.05,
+    notify,
+    dryRun,
+    failOnWarning = false,
+  }: CheckConfig,
+  format: ResultFormatter<Result> = defaultFormatter
 )
 ```
 

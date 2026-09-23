@@ -151,7 +151,7 @@ home_body = r'''
       <article id="third-wall">
         <h3><a href="https://thirdwallstudio.com">Third Wall Studio</a></h3>
         <p>Third Wall Studio makes animation with filmmakers and artists. We mix live action, animation, and generative AI in the same production—not as a gimmick, but as part of the craft. New tools for ancient magic.</p>
-        <p>Writers, animators, directors, and visual artists bring their own worlds. We build the projects together, share the credit, and the work stays with the artist. <a href="https://burlap.app">Burlap</a> is the canvas underneath it all.</p>
+        <p>Writers, animators, directors, and visual artists bring their own worlds. <a href="https://burlap.app">Burlap</a> is the canvas underneath it all.</p>
         <p>Recent work includes Savas’s <em>Kubler-Ross Model</em>; Doron Lev’s <em>Watching Shadows</em>, <em>Pigeon Problems</em>, and <em>Truck Stop Love</em>; Jacob McCoy’s <em>Meatsuitz</em>; and Jonathan Arons’s <em>The Trinary Matrix</em>. Doron Lev, Tetiana Khodakivska, and Jonathan Arons have also joined us as artists in residence. See the films, meet the artists, or bring us something strange.</p>
         <p class="meta"><a href="https://thirdwallstudio.com">thirdwallstudio.com</a> · <a href="mailto:studio@thirdwallstudio.com">studio@thirdwallstudio.com</a></p>
       </article>

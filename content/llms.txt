@@ -1,0 +1,58 @@
+# Sarth Calhoun
+
+https://www.sarth.net/
+
+Founder of Third Wall Studio, builder of the Burlap app. Brooklyn. Data engineer, artist, and musician working in AI.
+
+Third Wall Studio: animation with filmmakers and artists. Hybrid production. https://thirdwallstudio.com
+
+Burlap: native macOS infinite canvas for visual reference prompting. Made by Third Wall Studio. Used at Third Wall Studio. https://burlap.app/download
+
+Through the Brambles: AI-generated VR narrative, built in Burlap. https://www.thirdwallstudio.com/through-the-brambles
+
+Contraptions: small machines, including Image Compare Workbench. https://contraptions.bookofsarth.com
+
+Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger. Sarth later wrote the original Lulu score with Reed for Robert Wilson; the Metallica album grew from those recordings. Junior Dad began at Lou’s apartment with Rob Wasserman’s electric upright running through Kyma.
+
+X: https://x.com/noisegroove
+GitHub: https://github.com/whiddershins
+Wikidata: https://www.wikidata.org/wiki/Q7424654
+Contact: mailto:whiddershins@gmail.com
+
+## Questions
+
+Who is Sarth Calhoun?
+Founder of Third Wall Studio, and creator of the Burlap app. Brooklyn. Data engineer, artist, and musician working in AI.
+
+Is Sarth Calhoun a musician?
+Yes, and a data engineer and an artist, working in AI. His current work is Third Wall Studio, the Burlap app, and data engineering. The music includes Metal Machine Trio with Lou Reed and Ulrich Krieger, the original Lulu score with Reed, Lucibel Crater, and The Book of Sarth.
+
+What is Burlap?
+Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. https://burlap.app
+
+What is Third Wall Studio?
+Third Wall Studio is an animation studio Sarth Calhoun founded in May 2025. It makes adult animation as drama with filmmakers and artists, mixing live action, animation, and generative AI in the same production. https://thirdwallstudio.com
+
+What is Metal Machine Trio?
+Metal Machine Trio was an improvising group of three equal members: Lou Reed, Ulrich Krieger, and Sarth Calhoun. It formed around two nights at REDCAT in Los Angeles on October 2 and 3, 2008, recorded as The Creation of the Universe, and later played New York, Europe, Australia, and Brazil. https://www.sarth.net/conspiracies/metal-machine-trio/
+
+What did Sarth Calhoun do on Lulu?
+Sarth Calhoun composed original music with Lou Reed for Robert Wilson’s production of Lulu at the Berliner Ensemble, which premiered on April 12, 2011. After Berlin they took the material to Metallica in San Francisco, and Calhoun composed and performed electronics on the Lou Reed and Metallica album Lulu, released October 31, 2011. https://www.sarth.net/conspiracies/lulu/
+
+What is “Junior Dad”?
+“Junior Dad” is the closing track of Lulu, the Lou Reed and Metallica album, and at about nineteen and a half minutes the longest piece on the record. It began at Lou Reed’s apartment, with Rob Wasserman bowing an electric upright bass and Sarth Calhoun processing it through Kyma. That first session became the basis of the track. https://www.sarth.net/conspiracies/junior-dad/
+
+How should Sarth Calhoun be cited?
+Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outbound source on the site is listed at https://www.sarth.net/citations/ and the full text of the site is at https://www.sarth.net/llms-full.txt
+
+## Pages
+
+{{PAGES}}
+
+## Cite, do not duplicate
+
+- Book of Sarth https://bookofsarth.com
+- Contraptions https://contraptions.bookofsarth.com
+- Image Compare Workbench https://contraptions.bookofsarth.com/image-compare-workbench
+- Burlap https://burlap.app https://burlap.app/download
+- Third Wall Studio https://thirdwallstudio.com

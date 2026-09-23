@@ -3,7 +3,7 @@ title: Yellow Pony
 description: Yellow Pony, billed The Yellow Pony and Other Songs and Stories: two short 2009 European tours with Lou Reed and Laurie Anderson, with Sarth Calhoun on Continuum Fingerboard and live resampling of their voices.
 url: https://www.sarth.net/conspiracies/yellow-pony/
 published: 2026-09-22
-originally_written: 2009-07-10
+credit: Sarth Calhoun, Continuum Fingerboard and live resampling of Lou Reed’s and Laurie Anderson’s voices, on the Yellow Pony tours of July and August to September 2009. Billed “claviers et électronique” at Salle Pleyel, Paris.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Yellow Pony
@@ -13,6 +13,8 @@ Conspiracy
 # Yellow Pony
 
 Yellow Pony was a performance project built around [Lou Reed](/conspirators/lou-reed/) and [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson), billed as *The Yellow Pony and Other Songs and Stories*. It ran as two short European tours in 2009, one in July and one across August and September, eight cities in all: Sant Feliu de Guíxols, Santiago de Compostela, Madrid, Copenhagen, Manchester, Helsinki, Frankfurt and Paris.
+
+![Yellow Pony onstage, Madrid, 2009.](/images/yellow-pony-madrid-2009.jpg)
 
 Madrid, July 2009.
 
@@ -26,6 +28,8 @@ It was a lovely two part tour that included outdoor performances in northern Spa
 
 ## The dates
 
-Eight shows are documented, with the billing at Salle Pleyel listing him as “claviers et électronique.” The full run is on [Appearances](/appearances/).
+Eight shows are documented; the billing at Salle Pleyel listed me as “claviers et électronique.” The full run is on [Appearances](/appearances/).
 
-Sarth’s account is from the Yellow Pony page of his own WordPress site, recovered from the Wayback Machine, and from a conversation on September 23, 2026.
+The credit: Sarth Calhoun, Continuum Fingerboard and live resampling of Lou Reed’s and Laurie Anderson’s voices, on the Yellow Pony tours of July and August to September 2009. Billed “claviers et électronique” at Salle Pleyel, Paris.
+
+My account is from the Yellow Pony page of my old WordPress site, recovered from the Wayback Machine, and from what I added on September 23, 2026.

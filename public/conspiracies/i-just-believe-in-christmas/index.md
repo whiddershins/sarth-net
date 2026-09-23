@@ -3,12 +3,12 @@ title: I Just Believe in Christmas
 description: The origin of Sarth Calhoun’s Christmas song, sung by Michael Patrick Flanagan Smith, with words finished by Jesse Schoen, Virginia Piazza and Doron Lev. Lyrics and links.
 url: https://www.sarth.net/conspiracies/i-just-believe-in-christmas/
 published: 2026-09-22
-originally_written: 2015-12-01
+credit: Released December 2015 as Catfish Calhoun and Friends: a collaboration between Sarth Calhoun, Michael Patrick Flanagan Smith, Jesse Schoen, Doron Lev, Virginia Piazza and Dominic Bouffard. Mike, lead vocals. Sarth, piano. Doron, drums. Dom, guitars. Virginia, backing vocals. Jacob McCoy, bass. Phil Weinrobe, banjo. Dan Richman, mandolin. Tony Diodore and Sarah Alden, violin. Scott Hampton, ukulele. Exaltron, trumpet. And everybody sang backing vocals. Recorded by Phil Weinrobe at Figure 8 Studios. Mixed by Marc Urselli. Mastered by Fred Kevorkian.
 author: Sarth Calhoun
 ---
-[Conspiracies](/conspiracies/) / I Just Believe in Christmas
+[Transmissions](/transmissions/) / I Just Believe in Christmas
 
-Conspiracy
+Transmission
 
 # I Just Believe in Christmas
 
@@ -28,7 +28,9 @@ Immediately I thought it should be sung by Michael Patrick Flanagan Smith. To fi
 
 In August of 2015 we all went in to the studio, along with a motley assortment of NYC instrumentalists, plus my good friend Dominic Bouffard who was visiting from London. It came out that December.
 
-ReleasedDecember 2015. Sung by Michael Patrick Flanagan Smith. Words finished with Jesse Schoen, Virginia Piazza and Doron Lev.
+[Embedded player](https://www.youtube.com/embed/dXqYHjmmev0)
+
+The credits: Released December 2015 as Catfish Calhoun and Friends: a collaboration between Sarth Calhoun, Michael Patrick Flanagan Smith, Jesse Schoen, Doron Lev, Virginia Piazza and Dominic Bouffard. Mike, lead vocals. Sarth, piano. Doron, drums. Dom, guitars. Virginia, backing vocals. Jacob McCoy, bass. Phil Weinrobe, banjo. Dan Richman, mandolin. Tony Diodore and Sarah Alden, violin. Scott Hampton, ukulele. Exaltron, trumpet. And everybody sang backing vocals. Recorded by Phil Weinrobe at Figure 8 Studios. Mixed by Marc Urselli. Mastered by Fred Kevorkian.
 
 [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas) · [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0) · [Flanagan Smith acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw) · [Alternate version](https://www.youtube.com/watch?v=4oPZjuz1vwQ)
 
@@ -88,4 +90,4 @@ It ain't sacrilegious, I just believe
 I got a bunch of friends getting Chinese food and going to the movies
 ```
 
-Sarth’s account and lyrics. The exchange with the neighbours was Christmas Eve 2014, the session was August 2015, the release was December 2015.
+My account, the credits and the lyrics are from the song’s page on my old Squarespace site. The exchange with the neighbors was Christmas Eve 2014, the session was August 2015, the release was December 2015.

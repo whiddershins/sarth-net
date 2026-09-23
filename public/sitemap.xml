@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.sarth.net/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/lou-reed-song-band/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/metal-machine-trio/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/lulu/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/junior-dad/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/reflections-vol-1/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/i-just-believe-in-christmas/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/awakening-to-blacklist/</loc></url>
-  <url><loc>https://www.sarth.net/conspirators/</loc></url>
-  <url><loc>https://www.sarth.net/conspirators/lou-reed/</loc></url>
-  <url><loc>https://www.sarth.net/conspirators/rob-wasserman/</loc></url>
-  <url><loc>https://www.sarth.net/sightings/</loc></url>
-  <url><loc>https://www.sarth.net/appearances/</loc></url>
-  <url><loc>https://www.sarth.net/devices/</loc></url>
+  <url><loc>https://www.sarth.net/about/</loc></url>
+  <url><loc>https://www.sarth.net/work/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/visual-reference-prompting/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/singles/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/beautiful-tornado/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/solsbury-hill/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/peggy-sue/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/the-creation-of-the-universe/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/the-family-album/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/miracles/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/suspension/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/introspections/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/external-tables/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/external-tables/why-append-only/</loc></url>
@@ -27,25 +22,44 @@
   <url><loc>https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/external-tables/defending-the-boundary/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/external-tables/living-with-the-code/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/sql-as-the-data-language/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/window-functions/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/sql-as-the-data-language/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/you-might-not-need-pandas/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/why-python-is-the-default-for-data-work/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/modern-postgres/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/node-vs-rails/</loc></url>
-  <url><loc>https://www.sarth.net/work/</loc></url>
-  <url><loc>https://www.sarth.net/citations/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/visual-reference-prompting/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/about-awakening-to-blacklist/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/third-wall-studio/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/burlap/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/gralbum-collective/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/book-of-sarth/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/awakening-to-blacklist/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/lulu/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/junior-dad/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/metal-machine-trio/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/</loc></url>
   <url><loc>https://www.sarth.net/conspiracies/yellow-pony/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/vivid-live/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/lou-reed-song-band/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/lucibel-crater/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/number19/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/i-just-believe-in-christmas/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/reflections-vol-1/</loc></url>
+  <url><loc>https://www.sarth.net/conspirators/</loc></url>
+  <url><loc>https://www.sarth.net/conspirators/lou-reed/</loc></url>
+  <url><loc>https://www.sarth.net/conspirators/rob-wasserman/</loc></url>
   <url><loc>https://www.sarth.net/conspirators/leah-coloff/</loc></url>
   <url><loc>https://www.sarth.net/conspirators/paul-chuffo/</loc></url>
   <url><loc>https://www.sarth.net/conspirators/tony-diodore/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/lucibel-crater/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/book-of-sarth/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/number19/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/gralbum-collective/</loc></url>
   <url><loc>https://www.sarth.net/conspirators/ulrich-krieger/</loc></url>
   <url><loc>https://www.sarth.net/conspirators/laurie-anderson/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/vivid-live/</loc></url>
-  <url><loc>https://www.sarth.net/about/</loc></url>
+  <url><loc>https://www.sarth.net/sightings/</loc></url>
+  <url><loc>https://www.sarth.net/appearances/</loc></url>
+  <url><loc>https://www.sarth.net/devices/</loc></url>
+  <url><loc>https://www.sarth.net/citations/</loc></url>
   <url><loc>https://www.sarth.net/contact/</loc></url>
 </urlset>

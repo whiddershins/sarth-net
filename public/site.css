@@ -77,6 +77,12 @@ main {
   border-top: 1px solid var(--line);
 }
 .story section h2 { font-size: 1.35rem; }
+.story section > blockquote, .story .w2 > blockquote {
+  margin: 0 0 1rem;
+  padding: 0 0 0 1rem;
+  border-left: 2px solid var(--line);
+  max-width: 42rem;
+}
 .source-note {
   margin-top: 1.8rem;
   color: var(--mute);
@@ -87,6 +93,8 @@ main {
 .story-list a { display: block; padding: 1.25rem 0; text-decoration: none; }
 .story-list strong { display: block; margin-bottom: 0.25rem; font-weight: 500; }
 .story-list span { display: block; color: var(--mute); }
+.story-list .sub { margin: -0.6rem 0 0; padding: 0 0 1.25rem; color: var(--mute); }
+.story-list .sub a { display: inline; padding: 0; text-decoration: underline; }
 section { margin: 0 0 3.4rem; }
 h1, h2, h3 {
   font-weight: 500;
@@ -319,13 +327,15 @@ footer .host {
 }
 .row3 blockquote.pull cite a { color: var(--mute); }
 
-.row3 .excerpt {
+.excerpt {
+  max-width: 42rem;
   padding: 0.85rem 1rem;
   background: rgba(0, 0, 0, 0.22);
   font-size: 0.92rem;
   line-height: 1.5;
 }
-.row3 .excerpt .label {
+.row3 .excerpt { max-width: none; }
+.excerpt .label {
   display: block;
   margin-bottom: 0.4rem;
   font-size: 0.68rem;
@@ -413,3 +423,12 @@ footer .host {
   .facts dt { margin: 0 0 0.9rem; padding-top: 0.2rem; }
   .facts dd { margin: 0 0 0.9rem; }
 }
+
+/* --- native audio examples in essays ------------------------------------ */
+figure.audio { margin: 1.2rem 0 1.6rem; max-width: 42rem; }
+figure.audio audio { display: block; width: 100%; }
+figure.audio figcaption { margin-top: 0.4rem; font-size: 0.82rem; color: var(--mute); }
+.essay .embed { position: relative; width: 100%; max-width: 42rem; margin: 1.2rem 0 1.6rem; }
+.essay .embed.audio { height: 152px; }
+.essay .embed.audio.tall { height: 352px; }
+.essay .embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }

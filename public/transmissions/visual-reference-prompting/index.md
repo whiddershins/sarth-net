@@ -19,4 +19,6 @@ In the general case this is context management. Actively choosing the elements t
 
 Because the default Burlap interface isn’t a chat mode, to implement chat you would need to manually reselect all the context after each round of generation. Which is pointlessly manual for chat. But it also exposes to the end user what chat is. Resending the entire convo over and over and over. Instead, we are trying to give the model the precise context it needs, for each generation we call. For a concrete example: Frogs and Goblins (below).
 
+[Embedded player](https://www.youtube.com/embed/wroKqbXfx5g)
+
 [Download Burlap](https://burlap.app/download) · [Third Wall Studio](https://thirdwallstudio.com)

@@ -3,7 +3,6 @@ title: Current truth with window functions
 description: Unique keys, ROW_NUMBER() OVER (PARTITION BY ... ORDER BY file_date DESC) = 1, and views: surfacing the current version of every record from an append-only store.
 url: https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/
 published: 2026-09-22
-originally_written: 2024-07-13
 author: Sarth Calhoun
 ---
 Append-only pipelines · Part 3 of 5
@@ -20,59 +19,25 @@ For this, each file format has a unique key, which is a combination of columns, 
 
 Consider the following example. Let's say all you have in a certain table is this:
 
-station_id
-date
-time
-readings
-
-North Bridge
-2022-01-01
-19:00
-2000
-
-Harbour West
-2022-01-03
-12:00
-1000
+| station_id | date | time | readings |
+|---|---|---|---|
+| North Bridge | 2022-01-01 | 19:00 | 2000 |
+| Harbour West | 2022-01-03 | 12:00 | 1000 |
 
 Suppose you receive an updated file with the following data:
 
-station_id
-date
-time
-readings
-
-Harbour West
-2022-01-03
-12:00
-1100
-
-Old Mill
-2022-01-05
-12:00
-1900
+| station_id | date | time | readings |
+|---|---|---|---|
+| Harbour West | 2022-01-03 | 12:00 | 1100 |
+| Old Mill | 2022-01-05 | 12:00 | 1900 |
 
 Since the Harbour West entry in the new file matches on the unique key `(station_id, date, time)`, the new file should be considered the source of truth, and your current data is:
 
-station_id
-date
-time
-readings
-
-North Bridge
-2022-01-01
-19:00
-2000
-
-Harbour West
-2022-01-03
-12:00
-1100
-
-Old Mill
-2022-01-05
-12:00
-1900
+| station_id | date | time | readings |
+|---|---|---|---|
+| North Bridge | 2022-01-01 | 19:00 | 2000 |
+| Harbour West | 2022-01-03 | 12:00 | 1100 |
+| Old Mill | 2022-01-05 | 12:00 | 1900 |
 
 If you aren't using a CRUD model that replaces that entry with updated data, but instead keep every version of everything in the database, how do you surface only the most current information?
 
@@ -80,21 +45,21 @@ If you aren't using a CRUD model that replaces that entry with updated data, but
 
 For this you use window functions. (If window functions are new to you, [this page](/transmissions/window-functions/) has the mental model.) They take the form of:
 
-```
+```sql
 ROW_NUMBER() OVER (PARTITION BY <...unique keys...> ORDER BY file_date DESC) = 1
 ```
 
 Here is an example of that for the external table from [part 2](/transmissions/external-tables/building-on-external-tables/):
 
-```
+```sql
 SELECT * FROM analytics.ext_acme_readings
 QUALIFY ROW_NUMBER() OVER (
-PARTITION BY
-site_name,
-station_id,
-report_date,
-report_time
-ORDER BY file_date DESC
+  PARTITION BY
+    site_name,
+    station_id,
+    report_date,
+    report_time
+  ORDER BY file_date DESC
 ) = 1
 ```
 
@@ -129,9 +94,7 @@ When faster access is required, the view can be materialized or the data copied 
 It helps to pick a naming convention and stick to it. For example:
 
 - **External table**: `ext_<feed>`, partitioned by file date, containing all the files loaded to date.
-
 - **Current view**: `<feed>_current`, presenting the most current data and filtering out problematic stuff.
-
 - **Aggregate views and tables**: named for what they aggregate, like `weekly_by_supplier`.
 
 [← Part 2: Building on external tables](/transmissions/external-tables/building-on-external-tables/) [Part 4: Defending the boundary →](/transmissions/external-tables/defending-the-boundary/)

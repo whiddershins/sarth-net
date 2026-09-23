@@ -4,8 +4,12 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
+    "prepare": "git config core.hooksPath .githooks",
+    "build": "python3 scripts/build.py",
+    "check:build": "python3 scripts/build.py --check",
     "dev": "wrangler dev",
-    "check": "wrangler deploy --dry-run"
+    "check": "wrangler deploy --dry-run",
+    "dev:holes": "python3 scripts/dev.py"
   },
   "devDependencies": {
     "wrangler": "^4.34.0"

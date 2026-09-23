@@ -22,7 +22,7 @@ Now
 
 Third Wall Studio makes animation with filmmakers and artists. We mix live action, animation, and generative AI in the same production, not as a gimmick, but as part of the craft. New tools for ancient magic.
 
-Writers, animators, directors, and visual artists bring their own worlds. We build the projects together, share the credit, and the work stays with the artist. [Burlap](https://burlap.app) is the canvas underneath it all.
+Writers, animators, directors, and visual artists bring their own worlds. [Burlap](https://burlap.app) is the canvas underneath it all.
 
 Recent work includes Savas’s [*Kubler-Ross Model*](https://www.youtube.com/shorts/yxCoeTg-qR8); Doron Lev’s [*Watching Shadows*](https://www.youtube.com/watch?v=fghXNj-HdBg), [*Pigeon Problems*](https://www.youtube.com/watch?v=vs6KM7hFzxs), and [*Truck Stop Love*](https://www.youtube.com/watch?v=gx9jIWSoEDQ); Jacob McCoy’s [*Meatsuitz*](https://www.youtube.com/watch?v=nZ2LpA9P-LY); and Jonathan Arons’s [*The Trinary Matrix*](https://thirdwallstudio.com). Doron Lev, Tetiana Khodakivska, and Jonathan Arons have also joined us as artists in residence. [See the films](https://thirdwallstudio.com), [meet the artists](https://thirdwallstudio.com/process), or [bring us something strange](mailto:studio@thirdwallstudio.com).
 
@@ -36,7 +36,8 @@ Create, remix, and organize images and videos in an open ended workspace, lettin
 
 Burlap is made by [Third Wall Studio](https://thirdwallstudio.com) as our workflow tool for animation and visual design. It is available now for Mac, and it is the canvas underneath [visual reference prompting](/transmissions/visual-reference-prompting/).
 
-[](https://burlap.app/download)
+![Burlap, infinite canvas for visual reference prompting.](/images/burlap.jpg)
+
 Burlap. Download at burlap.app.
 
 [Download for Mac](https://burlap.app/download)
@@ -59,7 +60,13 @@ Small tools made to solve very particular problems. [Image Compare Workbench](ht
 
 I call this visual reference prompting, meaning you want to be using visual material as the input to creating visual material. This is axiomatic. There is a reason they say “a picture is worth a thousand words.” There are two dimensions of this technique, broadly. One is using a subject reference (for example a character) and the other is a style reference. In both cases you are pushing the genAI into a different probability space. This is how to get a unique style, and also how you chase consistency.
 
-Lineage
+![Sarth Calhoun performing at Lollapalooza.](/images/lolla.jpg)
+
+![Sarth Calhoun with two Continuum Fingerboards and a rack of gear.](/images/sarth-1.jpg)
+
+![Sarth Calhoun performing live.](/images/sarth-7.jpg)
+
+Earlier
 
 ## Also
 

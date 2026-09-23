@@ -3,7 +3,6 @@ title: Why append-only
 description: Why you would keep every file forever instead of upserting: an append-only store makes loads idempotent, order-independent, and parallelizable.
 url: https://www.sarth.net/transmissions/external-tables/why-append-only/
 published: 2026-09-22
-originally_written: 2024-07-13
 author: Sarth Calhoun
 ---
 Append-only pipelines · Part 1 of 5
@@ -30,13 +29,13 @@ The pipeline consists of:
 
 ```
 Supplier S3 bucket
-→ Extract (copy) →
+  → Extract (copy) →
 Your S3 bucket
-→ Load / Transform (io-ts) →
+  → Load / Transform (io-ts) →
 Snowflake external tables (CSV in S3)
-→ Views →
+  → Views →
 Aggregate / materialized tables
-→ API
+  → API
 ```
 
 The jobs are initiated by DAGs that run once per day. There are different jobs per supplier, per file/report type, and for other things including QA.

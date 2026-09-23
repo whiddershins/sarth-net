@@ -2,6 +2,7 @@
 title: Lou Reed
 description: Sarth Calhoun on working with Lou Reed: Tai Chi and meditation music, the touring band, Metal Machine Trio, Lulu, and the sounds Lou asked him to invent.
 url: https://www.sarth.net/conspirators/lou-reed/
+credit: Sarth Calhoun played Continuum Fingerboard and live electronics in Lou Reed’s touring band from 2008 through the 2011 European tour, was one third of Metal Machine Trio with Reed and Ulrich Krieger, toured Yellow Pony with Reed and Laurie Anderson in 2009, co-wrote the score for Robert Wilson’s *Lulu* with Reed, and played electronics on the Lou Reed and Metallica album.
 author: Sarth Calhoun
 ---
 [Conspirators](/conspirators/) / Lou Reed
@@ -10,7 +11,7 @@ Conspirator
 
 # Lou Reed
 
-We started with Tai Chi and meditation music. From there came rock tours, deep noise, theater, and years of Lou asking for sounds that did not have names yet.
+We met through Tai Chi and started with meditation music. Then came the song band, Metal Machine Trio, Yellow Pony and *Lulu*.
 
 ## Who Lou Reed was
 
@@ -18,18 +19,18 @@ Lou Reed (1942 to 2013) was an American songwriter, guitarist and singer. He co-
 
 ## Before the noise
 
-Lou and I met through a shared love of Tai Chi. The first sustained music we made together was meditation music, drones and melody, improvised, revised, edited, remixed, and transformed over several years. That quiet work is the root of everything that followed.
-
-It meant that when the projects became loud, the listening underneath them was already there. The touring band, Metal Machine Trio, and *Lulu* look like separate chapters from the outside.
+Lou and I met through Tai Chi, and we decided to do an album of meditation music together. That stuff was drones and melodies combined with pure noise, and we had talked about doing some duet shows performing it.
 
 ## Lou’s imagination
 
-Lou made the decisions about his bands. He invited me because he wanted fresh sounds and wanted the music to feel modern. My job was not a normal instrumental chair. When he wanted something wild, or just something outside the vocabulary the band already had, I was there to find it.
+Lou invited me. Lou made all those decisions, but yeah, Lou invited me, and he wanted some fresh sounds. He wanted me to modernize the sound of what we were doing.
 
-Tony Diodore later called me “Lou’s imagination.” That feels accurate. Lou could ask for a result before either of us knew what machine, gesture, or accident would produce it.
+[Tony Diodore](/conspirators/tony-diodore/) once said that I was Lou’s imagination, when he wanted to just have some wild sound or some completely different kind of sound. That was what I brought.
 
-## Follow the work
+## The projects
 
-In 2008 Lou called about an improvised noise concert at REDCAT with [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger). Those nights became Metal Machine Trio. Later he called me to his house to make interstitial music for Robert Wilson’s *Lulu*. That became a score, songs, rehearsals in Berlin, and then a record with Metallica.
+I did a tour with Lou’s [rock band](/conspiracies/lou-reed-song-band/) in the [spring of 2008](/conspiracies/lou-reed-spring-2008-tour/), processing and sampling the instruments on stage. That fall Lou called me up about a free improvised noise gig at REDCAT in Los Angeles with [Ulrich Krieger](/conspirators/ulrich-krieger/), and those nights became [Metal Machine Trio](/conspiracies/metal-machine-trio/). In 2009 I did two short tours with Lou and [Laurie Anderson](/conspirators/laurie-anderson/) as [Yellow Pony](/conspiracies/yellow-pony/). Then he called me to go over to his house and make some interstitial music for Robert Wilson’s *[Lulu](/conspiracies/lulu/)*, which turned into co-writing eight more songs, rehearsals in Berlin, and the record with Metallica. [“Junior Dad”](/conspiracies/junior-dad/) began at his apartment with [Rob Wasserman](/conspirators/rob-wasserman/) and Kyma. I was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
 
-The scale kept changing, but the invitation was consistent: come over, listen closely, and make the sound the project needs.
+The credit: Sarth Calhoun played Continuum Fingerboard and live electronics in Lou Reed’s touring band from 2008 through the 2011 European tour, was one third of Metal Machine Trio with Reed and Ulrich Krieger, toured Yellow Pony with Reed and Laurie Anderson in 2009, co-wrote the score for Robert Wilson’s *Lulu* with Reed, and played electronics on the Lou Reed and Metallica album.
+
+My account is from an interview on August 25, 2026 and from the Metal Machine Trio, Lulu and Yellow Pony pages of my old WordPress site. Tai Chi and the meditation album are from the biography on that site.

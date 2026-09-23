@@ -3,16 +3,16 @@ title: The Creation of the Universe, ambisonic installation
 description: The Metal Machine Trio Blender Theater recording spatialized as a 10.1 ambisonic installation at CSULB and Cranbrook, using Arup SoundLab technology. Sarth Calhoun on what he thought of it at the time.
 url: https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/
 published: 2026-09-22
-originally_written: 2012-01-16
+credit: Sarth Calhoun is one of the three recorded performers, on Continuum and live processing, in the Metal Machine Trio recording of April 24, 2009 that the installation plays; visitors stand in his, Lou Reed’s or Ulrich Krieger’s position on stage.
 author: Sarth Calhoun
 ---
-[Conspiracies](/conspiracies/) / The Creation of the Universe, ambisonic installation
+[Conspiracies](/conspiracies/) / [Metal Machine Trio](/conspiracies/metal-machine-trio/) / The Creation of the Universe, ambisonic installation
 
-Conspiracy
+Installation
 
 # The Creation of the Universe, ambisonic installation
 
-A Metal Machine Trio recording turned into a room you walk into. I have never heard it.
+A Metal Machine Trio recording turned into a room you walk into.
 
 ## What it is
 
@@ -22,10 +22,10 @@ The source was a [Metal Machine Trio](/conspiracies/metal-machine-trio/) recordi
 
 ## What I said at the time
 
-> The MM3 Blender Theater shows have been reborn as a 10.1 ambisonic installation hosted by California State University at Long Beach (that’s csulb for those in the know) and I do wonder what it sounds like! Lou and Ulrich both say it sounds amazing so it must be true. It utilizes some mad technology by the guys at Arup Engineering SoundLab. Oh yeah. They had mics all over that place, and now they present the music to you as if you are there on stage, or something. More details to come? Maybe! 
+> The MM3 Blender Theater shows have been reborn as a 10.1 ambisonic installation hosted by California State University at Long Beach (that’s csulb for those in the know) and I do wonder what it sounds like! Lou and Ulrich both say it sounds amazing so it must be true. It utilizes some mad technology by the guys at Arup Engineering SoundLab. Oh yeah. They had mics all over that place, and now they present the music to you as if you are there on stage, or something. More details to come? Maybe!
 
-That was January 2012. The honest part is the part I would probably have edited out later: I do wonder what it sounds like. I played on the recording and I was not in the room when it became an installation. Lou and Ulrich told me it sounded amazing, and I took their word for it.
+That was January 2012, before it opened. I heard it in Long Beach. I never heard the restaging at Cranbrook.
 
-The promised details never came. There was no next post.
+The credit: Sarth Calhoun is one of the three recorded performers, on Continuum and live processing, in the Metal Machine Trio recording of April 24, 2009 that the installation plays; visitors stand in his, Lou Reed’s or Ulrich Krieger’s position on stage.
 
-Sarth’s post is from January 16, 2012, recovered from Common Crawl on September 22, 2026. The installation ran at CSULB from 27 January to April 15, 2012 and was restaged at Cranbrook from November 21, 2015 to March 26, 2016.
+My post is from January 16, 2012, on my old WordPress site, recovered from Common Crawl. The installation ran at CSULB from January 27 to April 15, 2012 and was restaged at Cranbrook from November 21, 2015 to March 26, 2016.

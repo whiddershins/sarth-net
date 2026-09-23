@@ -3,7 +3,6 @@ title: Modern Postgres is shockingly capable
 description: JSONB, horizontal scaling, and the rise and fall of MongoDB: why the argument for NoSQL got harder to make until people stopped making it.
 url: https://www.sarth.net/transmissions/modern-postgres/
 published: 2026-09-22
-originally_written: 2024-04-14
 author: Sarth Calhoun
 ---
 Essay

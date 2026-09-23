@@ -2,6 +2,7 @@
 title: Lulu
 description: How Sarth Calhoun and Lou Reed made music for Robert Wilson's 2011 Berliner Ensemble Lulu, then took the material to Metallica in San Francisco.
 url: https://www.sarth.net/conspiracies/lulu/
+credit: Sarth Calhoun co-wrote the score for Robert Wilson’s *Lulu* with Lou Reed and directed its rehearsals at the Berliner Ensemble, 2011. On the Lou Reed and Metallica album he composed and performed electronics; “Junior Dad” grew from his Kyma session with Rob Wasserman at Reed’s apartment.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Lulu
@@ -10,30 +11,52 @@ Conspiracy
 
 # *Lulu*
 
-*Lulu* is an album by [Lou Reed](/conspirators/lou-reed/) and [Metallica](https://en.wikipedia.org/wiki/Metallica), released on October 31, 2011. Its songs began as the score Reed wrote for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))’s staging of [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)’s Lulu plays, which premiered at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble) on April 12, 2011.
+*Lulu* is an album by [Lou Reed](/conspirators/lou-reed/) and [Metallica](https://en.wikipedia.org/wiki/Metallica), released on October 31, 2011. Its songs began as the score Lou Reed and I wrote for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))’s staging of [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)’s Lulu plays, which premiered at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble) on April 12, 2011.
 
-Sarth Calhoun co-wrote and performed on the theater score, and played on the album.
+I co-wrote the theater score, directed its rehearsals in Berlin, and played electronics on the album.
+
+![Sarth Calhoun playing a Haken Continuum Fingerboard.](/images/continuum.jpg)
+
+Sarth Calhoun at the Continuum.
+
+> long drones on cello and an electronic instrument, the Continuum, played by Reed and Sarth Calhoun, a member of Reed’s band. (Calhoun also appears on *Lulu*.)
+> 
+> David Fricke on the original tapes, [Rolling Stone, September 30, 2011](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/)
 
 ## Go over to Lou’s house
 
-The assignment sounded small: make some “interstitial” music for Robert Wilson’s production of [Frank Wedekind](https://en.wikipedia.org/wiki/Frank_Wedekind)’s *Lulu* at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble). I went to Lou’s house. The interstitial music kept opening into larger pieces; in my account, it turned into co-writing eight more songs with Lou.
+I got a call from Lou one day to go over to his house and make some “interstitial” music for a theater production. Robert Wilson was staging *Lulu* with the Berliner Ensemble. This turned into co-writing 8 more songs with Lou Reed. Hells yeah.
 
-The original tapes were spare and strange: Lou’s guitar, long cello drones, and Continuum. This was before [Metallica](https://en.wikipedia.org/wiki/Metallica). That was the material we made before Berlin, not the instrumentation of the band that later played the production.
+The tapes we made before Berlin were Lou’s guitar, long cello drones and Continuum, which is what David Fricke describes in *Rolling Stone*. This was before [Metallica](https://en.wikipedia.org/wiki/Metallica).
 
 ## Berlin without Lou
 
-Lou was not in Berlin for rehearsals. I was. I helped turn the music we had sent into something the theater’s live band could perform night after night. It was a confusing situation, with the score, the songs, and the staging all moving at once.
+Lou was not in Berlin for the rehearsals. I went, and directed the music with the theater’s band.
 
-The band was Stefan Rager on drums and musical direction; Ulrich Maiß on keyboards and cello; Dominic Bouffard on guitar; Friedrich Paravicini on bugle, cello, and harmonica; Andreas Walter on bass; and Joe Bauer on sound effects. Touring programs sometimes list Ulf Borgwardt and Ofer Wetzler in the keyboard/cello and bass chairs. No Continuum or Kyma performer appears in the surviving production programs, and I do not remember bringing the Continuum to Berlin.
+The band was Stefan Rager on drums and musical direction; Ulrich Maiß on keyboards and cello; Dominic Bouffard on guitar; Friedrich Paravicini on bugle, cello, and harmonica; Andreas Walter on bass; and Joe Bauer on sound effects. Later programs list Ulf Borgwardt and Ofer Wetzler in the keyboard/cello and bass chairs.
 
-The production was not simply playing finished [Lou Reed](/conspirators/lou-reed/) songs under a play. The music had to become theater in the room: timed, embodied, and playable by the company night after night. *Lulu* premiered at the Berliner Ensemble on April 12, 2011 and remained in its repertoire through 2014, with guest runs in Paris, Spoleto, and São Paulo.
+*Lulu* premiered at the Berliner Ensemble on April 12, 2011 and stayed in its repertoire through 2014, with guest runs in Paris, Spoleto, and São Paulo.
 
-## Then Metallica heard it
+> Composer/performer Sarth Calhoun is directing rehearsals of Lou Reed’s music for Frank Wedekind’s *Lulu* directed by Robert Wilson at the Berliner Ensemble theater in Berlin. The score features Kyma processing, Continuum/Kyma playing, and dual Continuum fingerboard improvisations accompanied by a live string section.
+> 
+> [Symbolic Sound, April 2011](https://news.symbolicsound.com/2011/04/lulu-at-the-berliner-ensemble-theater/)
 
-After Berlin, we took the material to San Francisco. Metallica did not decorate the score; they completely reinterpreted it. The scale, weight, and attack changed. The connective tissue remained the earlier tapes and songs, the quieter, otherworldly object underneath the album.
+> the concept was abandoned late in the game, when Lou heard metal riffs Calhoun had added to the more ambient work they’d created for Robert Wilson’s stagings of Wedekind’s plays.
+> 
+> Jason P. Woodbury, [Stereogum, 2021](https://stereogum.com/2165325/lulu-lou-reed-metallica/reviews/the-anniversary)
 
-Here is how I put it on my own site at the time:
+## Then Metallica
 
-> I got a call from Lou one day to go over to his house and make some “interstitial” music for a theater production. Robert Wilson was staging Lulu with the Berliner Ensemble. This turned into co-writing 8 more songs with Lou Reed. Hells yeah. After I got back from Berlin, we took the project to San Francisco and recorded it with Metallica. What a blast. They completely reinterpreted all the stuff, of course. They were awesome. Of course. 
+After I got back from Berlin, we took the project to San Francisco and recorded it with Metallica. What a blast. They completely reinterpreted all the stuff, of course. They were awesome. Of course.
 
-[Robert Wilson’s production](https://robertwilson.com/lulu) premiered April 12, 2011. The [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu) documents the live ensemble; [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) documented the earlier Continuum-and-cello tapes in [*Rolling Stone*](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/).
+The first live performances of the material were in November 2011: *Later... with Jools Holland* in London, *Taratata* in Paris, and five songs in Cologne. I was on stage for those.
+
+[Robert Wilson’s production](https://robertwilson.com/lulu) premiered April 12, 2011. The [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu) documents the live ensemble; [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) documented the earlier Continuum-and-cello tapes in [*Rolling Stone*](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/). My account is from the Lulu page of my old WordPress site, and the November 2011 shows from my posts there.
+
+## The record
+
+[Embedded player](https://embed.music.apple.com/us/album/lulu/467890760)
+
+The record: Released October 31, 2011, by Lou Reed and Metallica. Ten songs; the last is [“Junior Dad”](/conspiracies/junior-dad/). On [Apple Music](https://music.apple.com/us/album/lulu/467890760) and [Discogs](https://www.discogs.com/release/3201257-Lou-Reed-Metallica-Lulu).
+
+The credit: Sarth Calhoun co-wrote the score for Robert Wilson’s *Lulu* with Lou Reed and directed its rehearsals at the Berliner Ensemble, 2011. On the Lou Reed and Metallica album he composed and performed electronics; “Junior Dad” grew from his Kyma session with Rob Wasserman at Reed’s apartment.

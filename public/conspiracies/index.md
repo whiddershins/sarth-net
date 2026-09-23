@@ -1,6 +1,6 @@
 ---
 title: Conspiracies
-description: Projects made by Sarth Calhoun with other people: Lou Reed's song band, Metal Machine Trio, Lulu, Junior Dad, and more.
+description: Projects made by Sarth Calhoun with other people: Third Wall Studio, Burlap, the Gralbum Collective, Book of Sarth, Lulu, Metal Machine Trio, and more.
 url: https://www.sarth.net/conspiracies/
 author: Sarth Calhoun
 ---
@@ -10,34 +10,34 @@ Projects
 
 Bands, tours, records, theater pieces, films, and machines.
 
-- [**Lou Reed’s song band**](/conspiracies/lou-reed-song-band/). The touring group Lou Reed used for his song repertoire. Sarth joined in 2008, playing Continuum Fingerboard and processing the other musicians live.
+1. [**Third Wall Studio**The animation studio I founded in May 2025. Animation with filmmakers and artists, mixing live action, animation and generative AI, with Burlap as the canvas. The 2026 shorts with Doron Lev, Jacob McCoy, Savas and Jonathan Arons.](/conspiracies/third-wall-studio/)
 
-- [**Lou Reed spring 2008 U.S. tour**](/conspiracies/lou-reed-spring-2008-tour/). Lou Reed’s United States tour of April and May 2008, running through the Northeast and then south by bus as far as Memphis. It was Sarth’s first tour with Reed.
+2. [**Burlap**The native Mac app Third Wall builds and works in: an infinite canvas for visual creation and context management, connected to models from OpenAI, Google, Runway and ByteDance. The canvas under the 2026 shorts.](/conspiracies/burlap/)
 
-- [**Metal Machine Trio**](/conspiracies/metal-machine-trio/). The improvising trio of Lou Reed, Ulrich Krieger and Sarth Calhoun, formed at REDCAT in Los Angeles in October 2008. Its live album *The Creation of the Universe* came out in 2009.
+3. [**The Gralbum Collective**The group I founded to publish music and interactive art as apps, releasing work by Bora Yoon, Adam Matta, Leah Coloff and Moon Hooch.](/conspiracies/gralbum-collective/)
 
-- [***Lulu***](/conspiracies/lulu/). The 2011 album by Lou Reed and Metallica. Its songs began as the score Reed wrote for Robert Wilson’s staging of Frank Wedekind’s Lulu plays at the Berliner Ensemble.
+4. [**Book of Sarth**My first full-length solo release, 2012, built as an iPad app combining a graphic novel and a concept album.](/conspiracies/book-of-sarth/)
 
-- [**Lou Reed’s 2011 European tour**](/conspiracies/lou-reed-2011-european-tour/). Lou Reed’s run through the European festival circuit in the summer of 2011, with an eight-piece band. Two posts Sarth wrote from the road are most of what survives of it.
+   One track, [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), has its own page.
 
-- [***The Creation of the Universe*, ambisonic installation**](/conspiracies/creation-of-the-universe-ambisonic/). A Metal Machine Trio recording from the Blender Theater staged as a 10.1 ambisonic installation, at California State University Long Beach in 2012 and the Cranbrook Art Museum in 2015. Sarth played on the recording and has never heard the installation.
+5. [***Lulu***The 2011 album by Lou Reed and Metallica. Its songs began as the score Lou Reed and I wrote for Robert Wilson’s staging of Frank Wedekind’s Lulu plays at the Berliner Ensemble.](/conspiracies/lulu/)
 
-- [***Reflections, Vol. 1***](/conspiracies/reflections-vol-1/). Sarth’s first release of improvised duets, November 2015. Its full title comes from a review of a Metal Machine Trio performance.
+   Its closing track, [“Junior Dad”](/conspiracies/junior-dad/), has its own page.
 
-- [**“I Just Believe in Christmas”**](/conspiracies/i-just-believe-in-christmas/). A song that came out of a Christmas Eve 2014 email exchange with the neighbors about squirrels in the attic. Released in December 2015, sung by Michael Patrick Flanagan Smith.
+6. [**Metal Machine Trio**The improvising trio of Lou Reed, Ulrich Krieger and me, formed at REDCAT in Los Angeles in October 2008. Its live album *The Creation of the Universe* came out in 2009.](/conspiracies/metal-machine-trio/)
 
-- [**“Awakening (To Blacklist)”**](/conspiracies/awakening-to-blacklist/). A track from *The Book of Sarth*, his graphic novel and concept album built as one iPad app. Its melody is made out of a recording of 60 cycle hum.
+   A later recording became [*The Creation of the Universe*, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/).
 
-- [**Yellow Pony**](/conspiracies/yellow-pony/). Two short European tours in 2009 with Lou Reed and Laurie Anderson, billed *The Yellow Pony and Other Songs and Stories*. Sarth played Continuum Fingerboard and resampled their voices live.
+7. [**Yellow Pony**Two short European tours in 2009 with Lou Reed and Laurie Anderson, billed *The Yellow Pony and Other Songs and Stories*. I played Continuum Fingerboard and resampled their voices live.](/conspiracies/yellow-pony/)
 
-- [**Lucibel Crater**](/conspiracies/lucibel-crater/). The rock and electronic trio of Leah Coloff, Paul Chuffo and Sarth Calhoun. Its album *The Family Album* came out in 2008.
+8. [**Vivid LIVE 2010**The two week festival at the Sydney Opera House curated by Lou Reed and Laurie Anderson. Metal Machine Trio played it, along with a fifty person noise band at the opening and about a dozen unplanned jams.](/conspiracies/vivid-live/)
 
-- [**Book of Sarth**](/conspiracies/book-of-sarth/). Sarth’s first full-length solo release, 2012, built as an iPad app combining a graphic novel and a concept album.
+9. [**Lou Reed’s 2011 European tour**Lou Reed’s run through the European festival circuit in the summer of 2011, with an eight-piece band. I posted twice from the road.](/conspiracies/lou-reed-2011-european-tour/)
 
-- [**Number19**](/conspiracies/number19/). The band he formed in Brooklyn in 1999 with Tony Diodore, Leah Coloff and Mark Righter. Its album *Suspension* came out in 2001.
+10. [**Lou Reed’s song band**The touring group Lou Reed used for his song repertoire. I joined in 2008, playing Continuum Fingerboard and processing the other musicians live.](/conspiracies/lou-reed-song-band/)
 
-- [**The Gralbum Collective**](/conspiracies/gralbum-collective/). The group he founded to publish music and interactive art as apps, releasing work by Bora Yoon, Adam Matta, Leah Coloff and Moon Hooch.
+11. [**Lou Reed spring 2008 U.S. tour**Lou Reed’s United States tour of April and May 2008, running through the Northeast and then south by bus as far as Memphis. It was my first tour with Reed.](/conspiracies/lou-reed-spring-2008-tour/)
 
-- [**Vivid LIVE 2010**](/conspiracies/vivid-live/). The two week festival at the Sydney Opera House curated by Lou Reed and Laurie Anderson. Metal Machine Trio played it, along with a fifty person noise band at the opening and about a dozen unplanned jams.
+12. [**Lucibel Crater**The rock and electronic trio of Leah Coloff, Paul Chuffo and me. Its album *The Family Album* came out in 2008.](/conspiracies/lucibel-crater/)
 
-- [**“Junior Dad”**](/conspiracies/junior-dad/). The nineteen-minute closing track of Lou Reed and Metallica’s *Lulu*, 2011. Built from a recording made at Reed’s apartment before the album existed.
+13. [**Number19**The band I formed in Brooklyn in 1999 with Tony Diodore, Leah Coloff and Mark Righter. Its album *Suspension* came out in 2001.](/conspiracies/number19/)

@@ -1,15 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Sarth Calhoun</title>
-  <subtitle>Founder of Third Wall Studio and creator of the Burlap app. Data engineer, artist and musician working in AI, based in Brooklyn. Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger, and the Lulu score written with Reed for Robert Wilson.</subtitle>
+  <subtitle>Sarth Calhoun. Founder of Third Wall Studio, builder of the Burlap app.</subtitle>
   <link rel="self" type="application/atom+xml" href="https://www.sarth.net/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://www.sarth.net/"/>
   <id>https://www.sarth.net/</id>
-  <updated>2026-09-22T00:00:00Z</updated>
+  <updated>2026-09-23T00:00:00Z</updated>
   <author>
     <name>Sarth Calhoun</name>
     <uri>https://www.sarth.net/</uri>
   </author>
+  <entry>
+    <title>Solsbury Hill</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/solsbury-hill/"/>
+    <id>https://www.sarth.net/transmissions/solsbury-hill/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <published>2026-09-23T00:00:00Z</published>
+    <summary>Solsbury Hill, Lou Reed&#x27;s recording of the Peter Gabriel song for And I&#x27;ll Scratch Yours, Real World Records, 2013, produced by Sarth Calhoun, who plays electronics on it.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Singles</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/singles/"/>
+    <id>https://www.sarth.net/transmissions/singles/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <published>2026-09-23T00:00:00Z</published>
+    <summary>Sarth Calhoun&#x27;s singles as Sarth, 2020 to 2025, on Noise | Groove: Squishy | Bass, Peanut Style, Everything Everything, For Lovers, My Empty Father, Failure is OK, Shimmering Angels, Ego Streaked, Softly Questioning (Reprise), and Sometimes You Need Sun as Catfish Calhoun and Friends.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Peggy Sue</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/peggy-sue/"/>
+    <id>https://www.sarth.net/transmissions/peggy-sue/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <published>2026-09-23T00:00:00Z</published>
+    <summary>Peggy Sue, Lou Reed&#x27;s recording of the Buddy Holly song for Rave On Buddy Holly, 2011, with Sarth Calhoun on bass, a Moog Little Phatty.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Introspections</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/introspections/"/>
+    <id>https://www.sarth.net/transmissions/introspections/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <published>2026-09-23T00:00:00Z</published>
+    <summary>Introspections, Sarth Calhoun&#x27;s improvised drone pieces from 2015 on Continuum and Kyma: For Lovers with Jacob McCoy, Sunset Meditation, and a Warper Party clip. Built on the meditation music made with Lou Reed and Metal Machine Trio.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Beautiful Tornado</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/beautiful-tornado/"/>
+    <id>https://www.sarth.net/transmissions/beautiful-tornado/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <published>2026-09-23T00:00:00Z</published>
+    <summary>Beautiful Tornado, the podcast by Sarth Calhoun and Dom Bouffard: six conversations with musicians and artists, 2020 to 2021, with Doron Lev, Glen Brady, Richard Naviasky, Bryan Senti and Michael Patrick Flanagan Smith.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Third Wall Studio</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/third-wall-studio/"/>
+    <id>https://www.sarth.net/conspiracies/third-wall-studio/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <published>2026-09-23T00:00:00Z</published>
+    <summary>Third Wall Studio, the animation studio Sarth Calhoun founded in May 2025. Animation with filmmakers and artists, mixing live action, animation and generative AI, made in Burlap.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Burlap</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/burlap/"/>
+    <id>https://www.sarth.net/conspiracies/burlap/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <published>2026-09-23T00:00:00Z</published>
+    <summary>Burlap, the native Mac app Sarth Calhoun made at Third Wall Studio: an infinite canvas for visual creation and context management, connected to models from OpenAI, Google, Runway and ByteDance.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>About</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/about/"/>
+    <id>https://www.sarth.net/about/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <published>2026-09-23T00:00:00Z</published>
+    <summary>Sarth Calhoun: founder of Third Wall Studio, creator of the Burlap app. Brooklyn. Data engineer, artist and musician working in AI. Key facts and frequently asked questions.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
   <entry>
     <title>Work</title>
     <link rel="alternate" type="text/html" href="https://www.sarth.net/work/"/>
@@ -17,105 +105,6 @@
     <updated>2026-09-22T00:00:00Z</updated>
     <published>2026-09-22T00:00:00Z</published>
     <summary>What Sarth Calhoun is working on now and what came before: Third Wall Studio, the Burlap app, 2026 animated shorts, data engineering, and the music.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>DuckDB, where have you been all my life</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/"/>
-    <id>https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>Using Claude and DuckDB to query Burlap's JSON records of genAI calls, and running the whole append-only pipeline pattern on a laptop.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>External Tables, Partitions, CTEs, Window Functions, and Partitions</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/"/>
-    <id>https://www.sarth.net/transmissions/external-tables/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>A five-part tutorial on building an append-only data pipeline on external tables: why append-only, external tables, window functions for the current truth, runtime type checking at the boundary, and living with the code.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Why append-only</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/why-append-only/"/>
-    <id>https://www.sarth.net/transmissions/external-tables/why-append-only/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>Why you would keep every file forever instead of upserting: an append-only store makes loads idempotent, order-independent, and parallelizable.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Building on external tables</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/building-on-external-tables/"/>
-    <id>https://www.sarth.net/transmissions/external-tables/building-on-external-tables/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>Laying out object storage so file paths are partitions, and defining external tables over directories of CSVs, with Snowflake as the worked example.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Current truth with window functions</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/"/>
-    <id>https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>Unique keys, ROW_NUMBER() OVER (PARTITION BY ... ORDER BY file_date DESC) = 1, and views: surfacing the current version of every record from an append-only store.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Defending the boundary</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/defending-the-boundary/"/>
-    <id>https://www.sarth.net/transmissions/external-tables/defending-the-boundary/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>Runtime type checking with io-ts codecs in Node streams: errors as values, async pipelines, and why validating at the boundary saves time, money, and heartache.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Living with the code</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/living-with-the-code/"/>
-    <id>https://www.sarth.net/transmissions/external-tables/living-with-the-code/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>Reading dense, strongly typed functional TypeScript: Prettier verticality, generics, and going one concept at a time.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>SQL as the data language</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/sql-as-the-data-language/"/>
-    <id>https://www.sarth.net/transmissions/sql-as-the-data-language/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>Views, CTEs, joins, and why a handy way to think about SQL is that everything is a table (which is also not true).</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Window functions, the mental model</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/window-functions/"/>
-    <id>https://www.sarth.net/transmissions/window-functions/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>The mental model for SQL window functions: compare them to aggregates, PARTITION BY vs GROUP BY, ROW_NUMBER vs RANK, and why the window grows.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>
@@ -132,6 +121,17 @@
     </author>
   </entry>
   <entry>
+    <title>Window functions, the mental model</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/window-functions/"/>
+    <id>https://www.sarth.net/transmissions/window-functions/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>The mental model for SQL window functions: compare them to aggregates, PARTITION BY vs GROUP BY, ROW_NUMBER vs RANK, and why the window grows.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
     <title>Why Python is the default for data work</title>
     <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/why-python-is-the-default-for-data-work/"/>
     <id>https://www.sarth.net/transmissions/why-python-is-the-default-for-data-work/</id>
@@ -143,12 +143,12 @@
     </author>
   </entry>
   <entry>
-    <title>Modern Postgres is shockingly capable</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/modern-postgres/"/>
-    <id>https://www.sarth.net/transmissions/modern-postgres/</id>
+    <title>SQL as the data language</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/sql-as-the-data-language/"/>
+    <id>https://www.sarth.net/transmissions/sql-as-the-data-language/</id>
     <updated>2026-09-22T00:00:00Z</updated>
     <published>2026-09-22T00:00:00Z</published>
-    <summary>JSONB, horizontal scaling, and the rise and fall of MongoDB: why the argument for NoSQL got harder to make until people stopped making it.</summary>
+    <summary>Views, CTEs, joins, and why a handy way to think about SQL is that everything is a table (which is also not true).</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>
@@ -165,6 +165,94 @@
     </author>
   </entry>
   <entry>
+    <title>Modern Postgres is shockingly capable</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/modern-postgres/"/>
+    <id>https://www.sarth.net/transmissions/modern-postgres/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>JSONB, horizontal scaling, and the rise and fall of MongoDB: why the argument for NoSQL got harder to make until people stopped making it.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Why append-only</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/why-append-only/"/>
+    <id>https://www.sarth.net/transmissions/external-tables/why-append-only/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>Why you would keep every file forever instead of upserting: an append-only store makes loads idempotent, order-independent, and parallelizable.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Living with the code</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/living-with-the-code/"/>
+    <id>https://www.sarth.net/transmissions/external-tables/living-with-the-code/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>Reading dense, strongly typed functional TypeScript: Prettier verticality, generics, and going one concept at a time.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Defending the boundary</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/defending-the-boundary/"/>
+    <id>https://www.sarth.net/transmissions/external-tables/defending-the-boundary/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>Runtime type checking with io-ts codecs in Node streams: errors as values, async pipelines, and why validating at the boundary saves time, money, and heartache.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Current truth with window functions</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/"/>
+    <id>https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>Unique keys, ROW_NUMBER() OVER (PARTITION BY ... ORDER BY file_date DESC) = 1, and views: surfacing the current version of every record from an append-only store.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Building on external tables</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/building-on-external-tables/"/>
+    <id>https://www.sarth.net/transmissions/external-tables/building-on-external-tables/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>Laying out object storage so file paths are partitions, and defining external tables over directories of CSVs, with Snowflake as the worked example.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>External Tables, Partitions, CTEs, Window Functions, and Partitions</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/external-tables/"/>
+    <id>https://www.sarth.net/transmissions/external-tables/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>A five-part tutorial on building an append-only data pipeline on external tables: why append-only, external tables, window functions for the current truth, runtime type checking at the boundary, and living with the code.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DuckDB, where have you been all my life</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/"/>
+    <id>https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>Using Claude and DuckDB to query Burlap&#x27;s JSON records of genAI calls, and running the whole append-only pipeline pattern on a laptop.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
     <title>Yellow Pony</title>
     <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/yellow-pony/"/>
     <id>https://www.sarth.net/conspiracies/yellow-pony/</id>
@@ -176,23 +264,12 @@
     </author>
   </entry>
   <entry>
-    <title>Lou Reed’s 2011 European tour</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/"/>
-    <id>https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/</id>
+    <title>Vivid LIVE 2010</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/vivid-live/"/>
+    <id>https://www.sarth.net/conspiracies/vivid-live/</id>
     <updated>2026-09-22T00:00:00Z</updated>
     <published>2026-09-22T00:00:00Z</published>
-    <summary>Lou Reed’s 2011 European summer tour with an eight-piece band including Sarth Calhoun on Continuum and Kyma, Rob Wasserman, Kevin Hearn, Aram Bajakian, Tony Diodore and Tony Smith. Hop Farm and Carhaix.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The Creation of the Universe, ambisonic installation</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/"/>
-    <id>https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <published>2026-09-22T00:00:00Z</published>
-    <summary>The Metal Machine Trio Blender Theater recording spatialized as a 10.1 ambisonic installation at CSULB and Cranbrook, using Arup SoundLab technology. Sarth Calhoun on what he thought of it at the time.</summary>
+    <summary>Vivid LIVE 2010 at the Sydney Opera House, curated by Lou Reed and Laurie Anderson. Sarth Calhoun played Metal Machine Trio, a roughly fifty-person noise band at the opening, and about a dozen unplanned jams across the two weeks.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>
@@ -209,12 +286,34 @@
     </author>
   </entry>
   <entry>
+    <title>Lou Reed’s 2011 European tour</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/"/>
+    <id>https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>Lou Reed’s 2011 European summer tour with an eight-piece band including Sarth Calhoun on Continuum and Kyma, Rob Wasserman, Kevin Hearn, Aram Bajakian, Tony Diodore and Tony Smith. Hop Farm and Carhaix.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
     <title>I Just Believe in Christmas</title>
     <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/i-just-believe-in-christmas/"/>
     <id>https://www.sarth.net/conspiracies/i-just-believe-in-christmas/</id>
     <updated>2026-09-22T00:00:00Z</updated>
     <published>2026-09-22T00:00:00Z</published>
     <summary>The origin of Sarth Calhoun’s Christmas song, sung by Michael Patrick Flanagan Smith, with words finished by Jesse Schoen, Virginia Piazza and Doron Lev. Lyrics and links.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The Creation of the Universe, ambisonic installation</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/"/>
+    <id>https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <summary>The Metal Machine Trio Blender Theater recording spatialized as a 10.1 ambisonic installation at CSULB and Cranbrook, using Arup SoundLab technology. Sarth Calhoun on what he thought of it at the time.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>
@@ -236,7 +335,7 @@
     <id>https://www.sarth.net/citations/</id>
     <updated>2026-09-22T00:00:00Z</updated>
     <published>2026-09-22T00:00:00Z</published>
-    <summary>Every outbound citation on sarth.net, per page, with a note on what first-party means here.</summary>
+    <summary>Every outbound citation on sarth.net, grouped by page, with a machine-readable JSON version for agents.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>
@@ -248,6 +347,94 @@
     <updated>2026-07-31T00:00:00Z</updated>
     <published>2026-07-31T00:00:00Z</published>
     <summary>We’ve been doing hybrid production at Third Wall Studio since before anyone called it that. I made Burlap for this precise use case: Start from original art and use it to style more images, explore variations, and generate the in-betweens.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>About Awakening (To Blacklist)</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/about-awakening-to-blacklist/"/>
+    <id>https://www.sarth.net/transmissions/about-awakening-to-blacklist/</id>
+    <updated>2020-11-21T00:00:00Z</updated>
+    <published>2020-11-21T00:00:00Z</published>
+    <summary>How the melody of Awakening (To Blacklist) came out of a recording of 60 cycle hum: a frequency shifter on the Spacebirds preset, wet/dry automation, and a happy accident with two frozen drum tracks. With the audio examples. By Sarth Calhoun, November 21, 2020.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Transmissions from the Book of Sarth</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/"/>
+    <id>https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/</id>
+    <updated>2013T00:00:00Z</updated>
+    <published>2013T00:00:00Z</published>
+    <summary>Transmissions from the Book of Sarth, the 2013 four-track EP by Sarth Calhoun from the music of The Book of Sarth: Awakening (To Blacklist), Table (If I Can), Primary Defenestration (Deforestation), For Valentina (To Your Rescue).</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Book of Sarth</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/book-of-sarth/"/>
+    <id>https://www.sarth.net/conspiracies/book-of-sarth/</id>
+    <updated>2012T00:00:00Z</updated>
+    <published>2012T00:00:00Z</published>
+    <summary>Book of Sarth, the iPad gralbum Sarth Calhoun spent two and a half years making: a graphic novel and a concept album running as one work.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Lou Reed Live at Lollapalooza 2009</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/"/>
+    <id>https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/</id>
+    <updated>2011-07-19T00:00:00Z</updated>
+    <published>2011-07-19T00:00:00Z</published>
+    <summary>Lou Reed Live at Lollapalooza 2009, the official DVD of Reed&#x27;s Grant Park set of August 9, 2009, with Sarth Calhoun on electronics and Continuum, Rob Wasserman on bass and Ulrich Krieger on saxophone. Released July 19, 2011.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The Creation of the Universe</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/the-creation-of-the-universe/"/>
+    <id>https://www.sarth.net/transmissions/the-creation-of-the-universe/</id>
+    <updated>2009-05-19T00:00:00Z</updated>
+    <published>2009-05-19T00:00:00Z</published>
+    <summary>The Creation of the Universe, the 2009 double live album by Lou Reed&#x27;s Metal Machine Trio: Lou Reed, Ulrich Krieger and Sarth Calhoun, recorded over two nights at REDCAT in Los Angeles, October 2008.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The Family Album</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/the-family-album/"/>
+    <id>https://www.sarth.net/transmissions/the-family-album/</id>
+    <updated>2008-02-12T00:00:00Z</updated>
+    <published>2008-02-12T00:00:00Z</published>
+    <summary>The Family Album, the 2008 album by Lucibel Crater: Leah Coloff, Paul Chuffo and Sarth Calhoun, with Lou Reed on guitar on Threadbare Funeral. Ten songs, mixed by Bryce Goggin.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Miracles</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/miracles/"/>
+    <id>https://www.sarth.net/transmissions/miracles/</id>
+    <updated>2007T00:00:00Z</updated>
+    <published>2007T00:00:00Z</published>
+    <summary>Miracles, the 2007 EP by Lucibel Crater: Leah Coloff, Paul Chuffo and Sarth Calhoun.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Suspension</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/suspension/"/>
+    <id>https://www.sarth.net/transmissions/suspension/</id>
+    <updated>2001T00:00:00Z</updated>
+    <published>2001T00:00:00Z</published>
+    <summary>Suspension, the 2001 album by Number19: Tony Diodore, Sarth Calhoun, Leah Coloff and Mark Righter. Nine songs on Searching Eye Records, paid for by mp3.com downloads.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>

@@ -3,7 +3,6 @@ title: Node vs Rails: agnostic vs batteries included
 description: The case that an agnostic server like Node beats batteries included, and why I am not sure I believe it.
 url: https://www.sarth.net/transmissions/node-vs-rails/
 published: 2026-09-22
-originally_written: 2024-04-14
 author: Sarth Calhoun
 ---
 Essay

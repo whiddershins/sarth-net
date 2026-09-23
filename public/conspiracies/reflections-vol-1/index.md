@@ -3,12 +3,12 @@ title: Reflections, Vol. 1
 description: Sarth Calhoun’s first release of improvised duets, subtitled A Noise Akin to a Flight of Deranged Swallows in Combat, featuring Exaltron, and the track whose melody came from Joe Kelly’s film Poughkeepsie.
 url: https://www.sarth.net/conspiracies/reflections-vol-1/
 published: 2026-09-22
-originally_written: 2015-11-20
+credit: Sarth Calhoun, Continuum Fingerboard, on *Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat)*, released November 2015. Duets with Lou Petto, drums, on “Softly Questioning,” and with Exaltron, trumpet, guitar, guitar-bass and live looping, on the last track.
 author: Sarth Calhoun
 ---
-[Conspiracies](/conspiracies/) / Reflections, Vol. 1
+[Transmissions](/transmissions/) / Reflections, Vol. 1
 
-Conspiracy
+Transmission
 
 # Reflections, Vol. 1
 
@@ -30,4 +30,8 @@ The reviewer was describing what I was doing with a Continuum. Exaltron is featu
 
 The third track is called Softly Questioning. Its main melody is the one used in the film *Poughkeepsie*, written and directed by Joe Kelly.
 
-From Sarth’s note on the record, November 20, 2015. It is also where the Joe Kelly film is named as *Poughkeepsie*.
+It is one of my favorite tracks from the record. It was improvised and recorded in one take, with no editing. A duet with continuum fingerboard and Lou Petto on drums.
+
+The credit: Sarth Calhoun, Continuum Fingerboard, on *Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat)*, released November 2015. Duets with Lou Petto, drums, on “Softly Questioning,” and with Exaltron, trumpet, guitar, guitar-bass and live looping, on the last track.
+
+From my posts on the record, November 29, 2015 and November 20, 2020.

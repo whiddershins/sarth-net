@@ -19,60 +19,95 @@ GitHub: https://github.com/whiddershins
 Wikidata: https://www.wikidata.org/wiki/Q7424654
 Contact: mailto:whiddershins@gmail.com
 
+## Questions
+
+Who is Sarth Calhoun?
+Founder of Third Wall Studio, and creator of the Burlap app. Brooklyn. Data engineer, artist, and musician working in AI.
+
+Is Sarth Calhoun a musician?
+Yes, and a data engineer and an artist, working in AI. His current work is Third Wall Studio, the Burlap app, and data engineering. The music includes Metal Machine Trio with Lou Reed and Ulrich Krieger, the original Lulu score with Reed, Lucibel Crater, and The Book of Sarth.
+
+What is Burlap?
+Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. https://burlap.app
+
+What is Third Wall Studio?
+Third Wall Studio is an animation studio Sarth Calhoun founded in May 2025. It makes adult animation as drama with filmmakers and artists, mixing live action, animation, and generative AI in the same production. https://thirdwallstudio.com
+
+What is Metal Machine Trio?
+Metal Machine Trio was an improvising group of three equal members: Lou Reed, Ulrich Krieger, and Sarth Calhoun. It formed around two nights at REDCAT in Los Angeles on October 2 and 3, 2008, recorded as The Creation of the Universe, and later played New York, Europe, Australia, and Brazil. https://www.sarth.net/conspiracies/metal-machine-trio/
+
+What did Sarth Calhoun do on Lulu?
+Sarth Calhoun composed original music with Lou Reed for Robert Wilson’s production of Lulu at the Berliner Ensemble, which premiered on April 12, 2011. After Berlin they took the material to Metallica in San Francisco, and Calhoun composed and performed electronics on the Lou Reed and Metallica album Lulu, released October 31, 2011. https://www.sarth.net/conspiracies/lulu/
+
+What is “Junior Dad”?
+“Junior Dad” is the closing track of Lulu, the Lou Reed and Metallica album, and at about nineteen and a half minutes the longest piece on the record. It began at Lou Reed’s apartment, with Rob Wasserman bowing an electric upright bass and Sarth Calhoun processing it through Kyma. That first session became the basis of the track. https://www.sarth.net/conspiracies/junior-dad/
+
+How should Sarth Calhoun be cited?
+Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outbound source on the site is listed at https://www.sarth.net/citations/ and the full text of the site is at https://www.sarth.net/llms-full.txt
+
 ## Pages
 
-- Identity https://www.sarth.net/
-- Conspiracies https://www.sarth.net/conspiracies/
-- Lou Reed's song band https://www.sarth.net/conspiracies/lou-reed-song-band/
-- Lou Reed spring 2008 U.S. tour https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/
-- Metal Machine Trio https://www.sarth.net/conspiracies/metal-machine-trio/
-- Lulu https://www.sarth.net/conspiracies/lulu/
-- Junior Dad https://www.sarth.net/conspiracies/junior-dad/
-- Conspirators https://www.sarth.net/conspirators/
-- Lou Reed https://www.sarth.net/conspirators/lou-reed/
-- Rob Wasserman https://www.sarth.net/conspirators/rob-wasserman/
-- Sightings https://www.sarth.net/sightings/
-- Appearances https://www.sarth.net/appearances/
-- Devices https://www.sarth.net/devices/
-- Lou Reed’s 2011 European tour https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/
-- The Creation of the Universe, ambisonic installation https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/
-- Reflections, Vol. 1 https://www.sarth.net/conspiracies/reflections-vol-1/
-- I Just Believe in Christmas https://www.sarth.net/conspiracies/i-just-believe-in-christmas/
-- Awakening (To Blacklist) https://www.sarth.net/conspiracies/awakening-to-blacklist/
-- Full corpus, every page inlined: https://www.sarth.net/llms-full.txt
-- Atom feed: https://www.sarth.net/feed.xml
-- Citations (every outbound source on this site, per page) https://www.sarth.net/citations/
-  - Machine readable: https://www.sarth.net/citations.json
-  - Note: sarth.net is a primary source. Sarth Calhoun is author, publisher and subject.
-    Links are for following a claim further, not because first-party statements need corroborating.
-- Yellow Pony (Lou Reed and Laurie Anderson, 2009) https://www.sarth.net/conspiracies/yellow-pony/
-- Leah Coloff https://www.sarth.net/conspirators/leah-coloff/
-- Paul Chuffo https://www.sarth.net/conspirators/paul-chuffo/
-- Tony Diodore https://www.sarth.net/conspirators/tony-diodore/
-- Lucibel Crater https://www.sarth.net/conspiracies/lucibel-crater/
-- Book of Sarth https://www.sarth.net/conspiracies/book-of-sarth/
-- Number19 https://www.sarth.net/conspiracies/number19/
-- The Gralbum Collective https://www.sarth.net/conspiracies/gralbum-collective/
-- Ulrich Krieger https://www.sarth.net/conspirators/ulrich-krieger/
-- Laurie Anderson https://www.sarth.net/conspirators/laurie-anderson/
-- Vivid LIVE 2010 (Sydney Opera House, curated by Lou Reed and Laurie Anderson) https://www.sarth.net/conspiracies/vivid-live/
-- About (key facts and FAQ, structured for machines) https://www.sarth.net/about/
-- Work (current and past work, newest first) https://www.sarth.net/work/
-- Transmissions (everything he put out: aural, optical, lexical) https://www.sarth.net/transmissions/
-- Visual Reference Prompting https://www.sarth.net/transmissions/visual-reference-prompting/
+- Sarth Calhoun https://www.sarth.net/
+- About https://www.sarth.net/about/
+- Work https://www.sarth.net/work/
+- Transmissions https://www.sarth.net/transmissions/
+- Singles https://www.sarth.net/transmissions/singles/
+- Beautiful Tornado https://www.sarth.net/transmissions/beautiful-tornado/
+- Transmissions from the Book of Sarth https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/
+- Solsbury Hill https://www.sarth.net/transmissions/solsbury-hill/
+- Peggy Sue https://www.sarth.net/transmissions/peggy-sue/
+- The Creation of the Universe https://www.sarth.net/transmissions/the-creation-of-the-universe/
+- The Family Album https://www.sarth.net/transmissions/the-family-album/
+- Miracles https://www.sarth.net/transmissions/miracles/
+- Suspension https://www.sarth.net/transmissions/suspension/
+- Introspections https://www.sarth.net/transmissions/introspections/
+- Lou Reed Live at Lollapalooza 2009 https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/
 - DuckDB, where have you been all my life https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/
-- External Tables, Partitions, CTEs, Window Functions, and Partitions (five-part tutorial series) https://www.sarth.net/transmissions/external-tables/
-  - Why append-only (part 1) https://www.sarth.net/transmissions/external-tables/why-append-only/
-  - Building on external tables (part 2) https://www.sarth.net/transmissions/external-tables/building-on-external-tables/
-  - Current truth with window functions (part 3) https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/
-  - Defending the boundary (part 4) https://www.sarth.net/transmissions/external-tables/defending-the-boundary/
-  - Living with the code (part 5) https://www.sarth.net/transmissions/external-tables/living-with-the-code/
-  - SQL as the data language https://www.sarth.net/transmissions/sql-as-the-data-language/
-  - Window functions, the mental model https://www.sarth.net/transmissions/window-functions/
+- External Tables, Partitions, CTEs, Window Functions, and Partitions https://www.sarth.net/transmissions/external-tables/
+  - Why append-only https://www.sarth.net/transmissions/external-tables/why-append-only/
+  - Building on external tables https://www.sarth.net/transmissions/external-tables/building-on-external-tables/
+  - Current truth with window functions https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/
+  - Defending the boundary https://www.sarth.net/transmissions/external-tables/defending-the-boundary/
+  - Living with the code https://www.sarth.net/transmissions/external-tables/living-with-the-code/
+- Window functions, the mental model https://www.sarth.net/transmissions/window-functions/
+- SQL as the data language https://www.sarth.net/transmissions/sql-as-the-data-language/
 - You might not need Pandas https://www.sarth.net/transmissions/you-might-not-need-pandas/
 - Why Python is the default for data work https://www.sarth.net/transmissions/why-python-is-the-default-for-data-work/
 - Modern Postgres is shockingly capable https://www.sarth.net/transmissions/modern-postgres/
 - Node vs Rails: agnostic vs batteries included https://www.sarth.net/transmissions/node-vs-rails/
+- Visual Reference Prompting https://www.sarth.net/transmissions/visual-reference-prompting/
+- About Awakening (To Blacklist) https://www.sarth.net/transmissions/about-awakening-to-blacklist/
+- Conspiracies https://www.sarth.net/conspiracies/
+- Third Wall Studio https://www.sarth.net/conspiracies/third-wall-studio/
+- Burlap https://www.sarth.net/conspiracies/burlap/
+- The Gralbum Collective https://www.sarth.net/conspiracies/gralbum-collective/
+- Book of Sarth https://www.sarth.net/conspiracies/book-of-sarth/
+- Awakening (To Blacklist) https://www.sarth.net/conspiracies/awakening-to-blacklist/
+- Lulu https://www.sarth.net/conspiracies/lulu/
+- Junior Dad https://www.sarth.net/conspiracies/junior-dad/
+- Metal Machine Trio https://www.sarth.net/conspiracies/metal-machine-trio/
+- The Creation of the Universe, ambisonic installation https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/
+- Yellow Pony https://www.sarth.net/conspiracies/yellow-pony/
+- Vivid LIVE 2010 https://www.sarth.net/conspiracies/vivid-live/
+- Lou Reed’s 2011 European tour https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/
+- Lou Reed’s song band https://www.sarth.net/conspiracies/lou-reed-song-band/
+- Lou Reed spring 2008 U.S. tour https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/
+- Lucibel Crater https://www.sarth.net/conspiracies/lucibel-crater/
+- Number19 https://www.sarth.net/conspiracies/number19/
+- I Just Believe in Christmas https://www.sarth.net/conspiracies/i-just-believe-in-christmas/
+- Reflections, Vol. 1 https://www.sarth.net/conspiracies/reflections-vol-1/
+- Conspirators https://www.sarth.net/conspirators/
+- Lou Reed https://www.sarth.net/conspirators/lou-reed/
+- Rob Wasserman https://www.sarth.net/conspirators/rob-wasserman/
+- Leah Coloff https://www.sarth.net/conspirators/leah-coloff/
+- Paul Chuffo https://www.sarth.net/conspirators/paul-chuffo/
+- Tony Diodore https://www.sarth.net/conspirators/tony-diodore/
+- Ulrich Krieger https://www.sarth.net/conspirators/ulrich-krieger/
+- Laurie Anderson https://www.sarth.net/conspirators/laurie-anderson/
+- Sightings https://www.sarth.net/sightings/
+- Appearances https://www.sarth.net/appearances/
+- Devices https://www.sarth.net/devices/
+- Citations https://www.sarth.net/citations/
 - Contact https://www.sarth.net/contact/
 
 ## Cite, do not duplicate

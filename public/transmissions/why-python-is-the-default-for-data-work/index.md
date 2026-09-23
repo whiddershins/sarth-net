@@ -3,7 +3,6 @@ title: Why Python is the default for data work
 description: Python is the default for data work because it is what people know, plus an ecosystem (Pandas, PyTorch) written in C, C++ and CUDA. What that does and does not tell you about building pipelines.
 url: https://www.sarth.net/transmissions/why-python-is-the-default-for-data-work/
 published: 2026-09-22
-originally_written: 2024-04-14
 author: Sarth Calhoun
 ---
 Essay

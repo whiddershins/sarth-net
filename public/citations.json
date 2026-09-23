@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-22",
-  "citation_count": 449,
+  "citation_count": 462,
   "pages": [
     {
       "path": "/",
@@ -84,6 +84,56 @@
         {
           "url": "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
           "text": "Spotify"
+        }
+      ]
+    },
+    {
+      "path": "/about/",
+      "title": "About",
+      "citations": [
+        {
+          "url": "https://thirdwallstudio.com",
+          "text": "Third Wall Studio"
+        },
+        {
+          "url": "https://burlap.app",
+          "text": "Burlap"
+        },
+        {
+          "url": "https://reaktor.com",
+          "text": "Reaktor"
+        },
+        {
+          "url": "https://www.sarth.net",
+          "text": "sarth.net"
+        },
+        {
+          "url": "https://bookofsarth.com",
+          "text": "bookofsarth.com"
+        },
+        {
+          "url": "https://x.com/noisegroove",
+          "text": "X @noisegroove"
+        },
+        {
+          "url": "https://github.com/whiddershins",
+          "text": "GitHub"
+        },
+        {
+          "url": "https://www.instagram.com/3rdwallstudio/",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q7424654",
+          "text": "Wikidata Q7424654"
+        },
+        {
+          "url": "https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f",
+          "text": "MusicBrainz"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sarth_Calhoun",
+          "text": "Wikipedia"
         }
       ]
     },
@@ -823,7 +873,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood",
-          "text": "Medeski Martin &amp;amp;amp;amp;amp;amp;amp;amp; Wood"
+          "text": "Medeski Martin &amp;amp;amp;amp;amp;amp;amp;amp;amp; Wood"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
@@ -896,6 +946,14 @@
         {
           "url": "https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops",
           "text": "Adam Matta"
+        },
+        {
+          "url": "https://reaktor.com",
+          "text": "Reaktor"
+        },
+        {
+          "url": "https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html",
+          "text": "Mastercard"
         }
       ]
     },

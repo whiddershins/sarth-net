@@ -56,6 +56,7 @@ Contact: mailto:whiddershins@gmail.com
 - Ulrich Krieger https://www.sarth.net/conspirators/ulrich-krieger/
 - Laurie Anderson https://www.sarth.net/conspirators/laurie-anderson/
 - Vivid LIVE 2010 (Sydney Opera House, curated by Lou Reed and Laurie Anderson) https://www.sarth.net/conspiracies/vivid-live/
+- About (key facts and FAQ, structured for machines) https://www.sarth.net/about/
 - Work (current and past work, newest first) https://www.sarth.net/work/
 - Transmissions (everything he put out: aural, optical, lexical) https://www.sarth.net/transmissions/
 - Visual Reference Prompting https://www.sarth.net/transmissions/visual-reference-prompting/

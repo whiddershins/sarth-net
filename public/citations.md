@@ -39,7 +39,7 @@ every page.
 - Third Wall Studio https://thirdwallstudio.com
 - Burlap https://burlap.app
 
-## Citations by page (449 total)
+## Citations by page (462 total)
 
 ### Sarth Calhoun
 `/`
@@ -63,6 +63,21 @@ every page.
 - [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+
+### About
+`/about/`
+
+- [Third Wall Studio](https://thirdwallstudio.com)
+- [Burlap](https://burlap.app)
+- [Reaktor](https://reaktor.com)
+- [sarth.net](https://www.sarth.net)
+- [bookofsarth.com](https://bookofsarth.com)
+- [X @noisegroove](https://x.com/noisegroove)
+- [GitHub](https://github.com/whiddershins)
+- [Instagram](https://www.instagram.com/3rdwallstudio/)
+- [Wikidata Q7424654](https://www.wikidata.org/wiki/Q7424654)
+- [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
+- [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
 
 ### Appearances
 `/appearances/`
@@ -252,7 +267,7 @@ every page.
 - [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
 - [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
-- [Medeski Martin &amp;amp;amp;amp;amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
+- [Medeski Martin &amp;amp;amp;amp;amp;amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 - [Apple Music](https://music.apple.com/us/album/suspension/274828088)
@@ -271,6 +286,8 @@ every page.
 - [Cathedral of St. John the Divine](https://demo.gothamist.com/arts-entertainment/laurie-anderson-on-bringing-ear-bleedingly-loud-drones-to-st-john-the-divine)
 - [Shahzad Ismaily](https://en.wikipedia.org/wiki/Shahzad_Ismaily)
 - [Adam Matta](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops)
+- [Reaktor](https://reaktor.com)
+- [Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
 
 ### Awakening (To Blacklist)
 `/conspiracies/awakening-to-blacklist/`

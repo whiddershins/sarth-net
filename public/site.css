@@ -389,3 +389,27 @@ footer .host {
   .thumbs .t-title { font-size: 0.92rem; }
   .thumbs .t-meta { font-size: 0.76rem; }
 }
+
+/* --- definition lists: key facts and FAQ -------------------------------- */
+.facts, .faq { margin: 0 0 2rem; }
+.facts dt, .faq dt {
+  margin: 1.1rem 0 0.2rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+.facts dd, .faq dd { margin: 0 0 0.9rem; max-width: 42rem; }
+.faq dt {
+  font-size: 1rem;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--paper);
+  font-weight: 500;
+  margin-top: 1.5rem;
+}
+@media (min-width: 720px) {
+  .facts { display: grid; grid-template-columns: 11rem 1fr; gap: 0 1.5rem; }
+  .facts dt { margin: 0 0 0.9rem; padding-top: 0.2rem; }
+  .facts dd { margin: 0 0 0.9rem; }
+}

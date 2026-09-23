@@ -54,6 +54,7 @@ nav a[aria-current="page"] { color: var(--paper); }
 }
 .hero .band {
   margin: 0;
+  text-align: center;
   padding: 0.95rem clamp(1.2rem, 6vw, 5rem) 0.85rem;
   background: #000;
   border-top: 1px solid #1c1c1c;
@@ -145,6 +146,17 @@ main {
 .story-list span { display: block; color: var(--mute); }
 .story-list .sub { margin: -0.6rem 0 0; padding: 0 0 1.25rem; color: var(--mute); }
 .story-list .sub a { display: inline; padding: 0; text-decoration: underline; }
+.cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem 2.2rem; }
+.cards li { margin: 0; border-top: 1px solid var(--line); padding: 1.1rem 0 0; }
+.cards a { display: block; text-decoration: none; }
+.cards img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; margin: 0 0 0.85rem; background: #000; }
+.cards strong { display: block; margin-bottom: 0.3rem; font-weight: 500; font-size: 1.15rem; }
+.cards span { display: block; color: var(--mute); line-height: 1.5; }
+.cards .sub { margin: 0.5rem 0 0; color: var(--mute); font-size: 0.92rem; }
+.cards .sub a { display: inline; text-decoration: underline; }
+main.directory { width: min(94rem, calc(100% - 4rem)); }
+@media (min-width: 1200px) { .cards { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 719px) { .cards { grid-template-columns: 1fr; } main.directory { width: calc(100% - 2rem); } }
 section { margin: 0 0 3.4rem; }
 h1, h2, h3 {
   font-weight: 500;

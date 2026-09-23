@@ -45,7 +45,7 @@ nav a[aria-current="page"] { color: var(--paper); }
   margin: 0 0 2.4rem;
   background: #000;
 }
-.hero { position: relative; }
+.hero-frame { position: relative; }
 .hero-text {
   position: absolute;
   left: 0; right: 0; bottom: 0;

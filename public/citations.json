@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-22",
-  "citation_count": 462,
+  "citation_count": 463,
   "pages": [
     {
       "path": "/",
@@ -328,6 +328,22 @@
           "text": "Metallica"
         },
         {
+          "url": "https://reaktor.com",
+          "text": "Reaktor"
+        },
+        {
+          "url": "https://www.sarth.net",
+          "text": "sarth.net"
+        },
+        {
+          "url": "https://github.com/whiddershins",
+          "text": "GitHub"
+        },
+        {
+          "url": "https://www.instagram.com/3rdwallstudio/",
+          "text": "Instagram"
+        },
+        {
           "url": "https://en.wikipedia.org/wiki/John_Zorn",
           "text": "John Zorn"
         },
@@ -482,10 +498,6 @@
         {
           "url": "https://www.youtube.com/watch?v=-Sq3OSve1Ls",
           "text": "Video"
-        },
-        {
-          "url": "https://github.com/whiddershins",
-          "text": "github.com/whiddershins"
         },
         {
           "url": "https://kyma.symbolicsound.com/",
@@ -666,10 +678,6 @@
         {
           "url": "https://docs.snowflake.com/en/user-guide/functions-window-using",
           "text": "Snowflake documentation"
-        },
-        {
-          "url": "https://www.instagram.com/3rdwallstudio/",
-          "text": "Instagram"
         },
         {
           "url": "https://www.youtube.com/watch?v=CP8939UdzSo",
@@ -873,7 +881,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood",
-          "text": "Medeski Martin &amp;amp;amp;amp;amp;amp;amp;amp;amp; Wood"
+          "text": "Medeski Martin &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Wood"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
@@ -946,10 +954,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops",
           "text": "Adam Matta"
-        },
-        {
-          "url": "https://reaktor.com",
-          "text": "Reaktor"
         },
         {
           "url": "https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html",

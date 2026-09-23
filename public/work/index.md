@@ -101,7 +101,7 @@ with Jacob McCoy · January 2026
 
 - **Snowflake Summit 2025**, Moscone Center, June 2–5. Swathi Chandrasekaran presented Paramount’s Always-On Attribution product; Ian Fosbery and Alexey Novikov presented the team’s data re-architecture.
 
-- **Cannabis cultivation automation.** A large, bespoke grow house system, one of its kind, for a client in Pittsburg.
+- **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest.
 
 - **Satellite communications company.** Engineering work.
 

@@ -3,9 +3,10 @@ title: You might not need Pandas
 description: Why most day to day Pandas work is better done in SQL, with a side by side average-sales-by-category example, and where Pandas still earns its place.
 url: https://www.sarth.net/transmissions/you-might-not-need-pandas/
 published: 2026-09-22
+facet: message
 author: Sarth Calhoun
 ---
-Essay
+Essay · Message
 
 # You might not need Pandas
 

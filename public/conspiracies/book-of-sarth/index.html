@@ -73,6 +73,10 @@
         "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
         "https://sarth.bandcamp.com",
         "https://www.youtube.com/@whiddershins",
+        "https://www.instagram.com/noisegroove/",
+        "https://soundcloud.com/noisegroove",
+        "https://bsky.app/profile/noisegroove.bsky.social",
+        "https://music.apple.com/us/artist/sarth/1061852162",
         "https://github.com/whiddershins",
         "https://x.com/noisegroove",
         "https://www.linkedin.com/in/sarth-calhoun/",
@@ -101,6 +105,10 @@
       "@id": "https://www.sarth.net/#burlap",
       "name": "Burlap",
       "url": "https://burlap.app",
+      "sameAs": [
+        "https://www.instagram.com/burlapapp/",
+        "https://www.youtube.com/@burlap_app"
+      ],
       "applicationCategory": "DesignApplication",
       "operatingSystem": "macOS",
       "creator": {
@@ -150,23 +158,25 @@
 <body>
   <header class="top">
     <a class="mark" href="/">Sarth</a>
+    <input type="checkbox" id="menu" class="menu-toggle">
+    <label for="menu" class="menu-button">Menu</label>
     <nav>
-      <a href="/">Sarth</a>
       <a href="/about/">About</a>
       <a href="/conspiracies/" aria-current="page">Conspiracies</a>
       <a href="/conspirators/">Conspirators</a>
-      <a href="/sightings/">Sightings</a>
+      <a href="/rumors/">Rumors</a>
       <a href="/work/">Work</a>
-      <a href="/appearances/">Appearances</a>
+      <a href="/sightings/">Sightings</a>
       <a href="/devices/">Devices</a>
+      <a href="/contraptions/">Contraptions</a>
       <a href="/transmissions/">Transmissions</a>
       <a href="/contact/">Contact</a>
     </nav>
   </header>
 
-  <main class="page story">
+  <main class="page story" data-facet="dream">
     <p class="breadcrumbs"><a href="/conspiracies/">Conspiracies</a> / Book of Sarth</p>
-    <p class="kicker">Conspiracy</p>
+    <p class="kicker">Conspiracy · Dream</p>
     <h1>Book of Sarth</h1>
 
         <section class="opener">
@@ -227,7 +237,7 @@
           <h2>What was written about it</h2>
           <p><a href="https://news.symbolicsound.com/2012/11/the-book-of-sarth/">Symbolic Sound</a> wrote about it in November 2012: <q>a narrative about an ear worm that is, itself, an ear worm! The Book of Sarth is the first example of an entirely new art form for the early 21st century.</q> <a href="https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597">Gizmodo</a> put it in Apps of the Week that December.</p>
           <p>Bryan Bishop reviewed it for <a href="https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album">The Verge</a> on January 3, 2013: <q>Things really come alive in what’s called the ‘director’s view’: tap an image and the artwork fills the screen, putting the reader in the same place as the characters.</q> He also wrote that <q>Calhoun’s music is no doubt experimental, but his tracks and the artwork play nimbly off one another.</q></p>
-          <p><a href="https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali">Vogue Italia</a> ran it in a September 2013 piece on music apps: <q>Chi invece è riuscito a coniare un nuovo concetto di ‘album musicale’ è Sarth Calhoun con il suo sorprendente The Book of Sarth.</q> <a href="https://www.chaindlk.com/reviews/7353">Chain D.L.K.</a> gave it a mixed review. The rest is on <a href="/sightings/">Sightings</a>.</p>
+          <p><a href="https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali">Vogue Italia</a> ran it in a September 2013 piece on music apps: <q>Chi invece è riuscito a coniare un nuovo concetto di ‘album musicale’ è Sarth Calhoun con il suo sorprendente The Book of Sarth.</q> <a href="https://www.chaindlk.com/reviews/7353">Chain D.L.K.</a> gave it a mixed review. The rest is on <a href="/rumors/">Rumors</a>.</p>
         </div>
         <figure class="w1">
           <img src="/images/sarth-prison-cell.jpg" loading="lazy" alt="Artwork from The Book of Sarth: a man on a cell bunk surrounded by handwritten signs.">
@@ -246,7 +256,7 @@
       <dt>Conspirators</dt>
       <dd><a href="/conspirators/leah-coloff/">Leah Coloff</a> · Andrew Beck · Elik Smith · Jacob McCoy</dd>
       <dt>Related</dt>
-      <dd><a href="/transmissions/transmissions-from-the-book-of-sarth/">Transmissions from the Book of Sarth</a> · <a href="/conspiracies/awakening-to-blacklist/">“Awakening (To Blacklist)”</a> · <a href="/conspiracies/lucibel-crater/">Lucibel Crater</a> · <a href="/sightings/">Sightings</a></dd>
+      <dd><a href="/transmissions/transmissions-from-the-book-of-sarth/">Transmissions from the Book of Sarth</a> · <a href="/conspiracies/awakening-to-blacklist/">“Awakening (To Blacklist)”</a> · <a href="/conspiracies/lucibel-crater/">Lucibel Crater</a> · <a href="/rumors/">Rumors</a></dd>
       <dt>Devices</dt>
       <dd><a href="/devices/">Kyma</a></dd>
       <dt>Elsewhere</dt>
@@ -255,16 +265,24 @@
   </aside>
   <footer>
     <p>
-      <a href="https://x.com/noisegroove">@noisegroove</a>
+      <a href="https://x.com/noisegroove">X</a>
+      · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
+      · <a href="https://www.youtube.com/@whiddershins">YouTube</a>
+      · <a href="https://soundcloud.com/noisegroove">SoundCloud</a>
+      · <a href="https://sarth.bandcamp.com">Bandcamp</a>
+      · <a href="https://bsky.app/profile/noisegroove.bsky.social">Bluesky</a>
       · <a href="https://github.com/whiddershins">GitHub</a>
       · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
-      · <a href="mailto:whiddershins@gmail.com">email</a>
+      · <a href="mailto:sayhello@sarth.net">email</a>
     </p>
     <p>
-      <a href="https://bookofsarth.com">Book of Sarth</a>
-      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/3rdwallstudio/">its Instagram</a>
       · <a href="https://burlap.app">Burlap</a>
-      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/burlapapp/">its Instagram</a>
+      · <a href="https://www.youtube.com/@burlap_app">its YouTube</a>
+      · <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
     </p>
     <p class="host">All rights reserved</p>
   </footer>

@@ -3,12 +3,13 @@ title: Reflections, Vol. 1
 description: Sarth Calhoun’s first release of improvised duets, subtitled A Noise Akin to a Flight of Deranged Swallows in Combat, featuring Exaltron, and the track whose melody came from Joe Kelly’s film Poughkeepsie.
 url: https://www.sarth.net/conspiracies/reflections-vol-1/
 published: 2026-09-22
+facet: dream
 credit: Sarth Calhoun, Continuum Fingerboard, on *Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat)*, released November 2015. Duets with Lou Petto, drums, on “Softly Questioning,” and with Exaltron, trumpet, guitar, guitar-bass and live looping, on the last track.
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / Reflections, Vol. 1
 
-Transmission
+Transmission · Dream
 
 # Reflections, Vol. 1
 

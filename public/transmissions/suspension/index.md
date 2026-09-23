@@ -3,12 +3,13 @@ title: Suspension
 description: Suspension, the 2001 album by Number19: Tony Diodore, Sarth Calhoun, Leah Coloff and Mark Righter. Nine songs on Searching Eye Records, paid for by mp3.com downloads.
 url: https://www.sarth.net/transmissions/suspension/
 published: 2001
+facet: dream
 credit: Sarth Calhoun, bass and Yamaha EX5, on *Suspension* by Number19, with Tony Diodore, Leah Coloff and Mark Righter. Searching Eye Records, 2001. On [Apple Music](https://music.apple.com/us/album/suspension/274828088) and [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5), credited to Number 19.
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / Suspension
 
-Transmission
+Transmission · Dream
 
 # *Suspension*
 

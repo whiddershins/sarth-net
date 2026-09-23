@@ -23,7 +23,7 @@ After Number19, Diodore played guitar and violin on Puracane’s *I’ve Been He
 
 ## Back in the same band
 
-A tour announcement on May 23, 2011 named Diodore as Lou Reed’s newly confirmed guitarist. He toured Europe that summer in [Lou’s band](/conspiracies/lou-reed-song-band/) on guitar and violin, and returned in 2012 for the *From VU to Lulu* European cycle, where Copenhagen, Bonn and Bordeaux coverage all name him. He also played the Wrecking Ball gala at St. Ann’s Warehouse with Lou on May 7, 2012. The dates are on [Appearances](/appearances/) and on the page for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
+A tour announcement on May 23, 2011 named Diodore as Lou Reed’s newly confirmed guitarist. He toured Europe that summer in [Lou’s band](/conspiracies/lou-reed-song-band/) on guitar and violin, and returned in 2012 for the *From VU to Lulu* European cycle, where Copenhagen, Bonn and Bordeaux coverage all name him. He also played the Wrecking Ball gala at St. Ann’s Warehouse with Lou on May 7, 2012. The dates are on [Sightings](/sightings/) and on the page for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
 
 Tony once said that I was Lou’s imagination, when Lou wanted to just have some wild sound or some completely different kind of sound.
 

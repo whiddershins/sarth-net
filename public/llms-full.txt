@@ -74,7 +74,7 @@ Machine-readable companions:
 
 ## Pages
 
-62 pages follow, in reading order, separated by a horizontal rule.
+63 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -130,13 +130,27 @@ A VR story built entirely inside Burlap. Every scene began as a prompted 360° i
 
 ### [Contraptions](https://contraptions.bookofsarth.com)
 
-Small tools made to solve very particular problems. [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench) makes it fast to compare a folder full of generations: lock one image, then walk the other. Soundscape One turns a 2D field into an instrument. Burlap is the main machine; these are the odd little ones beside it.
+Small tools made to solve very particular problems. [FM / 6](https://contraptions.bookofsarth.com/fm6/) is a six-operator synthesizer, a sound you can take apart. [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench) makes it fast to compare a folder full of generations: lock one image, then walk the other. [Soundscape One](https://contraptions.bookofsarth.com/soundscape-one) turns a 2D field into an instrument. Burlap is the main machine; these are the odd little ones beside it. [The shelf, on this site.](/contraptions/)
 
 [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
 
 ### [Visual Reference Prompting](/transmissions/visual-reference-prompting/)
 
 I call this visual reference prompting, meaning you want to be using visual material as the input to creating visual material. This is axiomatic. There is a reason they say “a picture is worth a thousand words.” There are two dimensions of this technique, broadly. One is using a subject reference (for example a character) and the other is a style reference. In both cases you are pushing the genAI into a different probability space. This is how to get a unique style, and also how you chase consistency.
+
+## Machine · Dream · Message
+
+### Machine
+
+[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Burlap](/conspiracies/burlap/) · [Devices](/devices/) · [Contraptions](/contraptions/)
+
+### Dream
+
+[Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/) · [Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
+
+### Message
+
+[Beautiful Tornado](/transmissions/beautiful-tornado/) · [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) · [Window functions, the mental model](/transmissions/window-functions/) · [SQL as the data language](/transmissions/sql-as-the-data-language/) · [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · [Modern Postgres is shockingly capable](/transmissions/modern-postgres/) · [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)
 
 ![Sarth Calhoun performing at Lollapalooza.](/images/lolla.jpg)
 
@@ -150,8 +164,8 @@ Earlier
 
 Before the studio and Burlap: Number19 with Leah Coloff, Tony Diodore, and Mark Righter; Lucibel Crater with Coloff and Paul Chuffo; and [Book of Sarth](https://bookofsarth.com), the first gralbum. With [Lou Reed](/conspirators/lou-reed/) and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger), I made [Metal Machine Trio](/conspiracies/metal-machine-trio/) and recorded *The Creation of the Universe* over two nights at REDCAT. Lou and I later wrote the original [*Lulu* score](/conspiracies/lulu/) for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))’s [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble) production; the [Metallica](https://en.wikipedia.org/wiki/Metallica) album grew from those recordings. [Junior Dad](/conspiracies/junior-dad/) began in Lou’s apartment, with [Rob Wasserman](/conspirators/rob-wasserman/)’s electric upright running through Kyma. I still use Kyma and the Haken Continuum.
 
-[Appearances](/appearances/)
 [Sightings](/sightings/)
+[Rumors](/rumors/)
 [Devices](/devices/)
 [Book of Sarth](https://bookofsarth.com)
 [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
@@ -183,7 +197,7 @@ Data engineer at [Reaktor](https://reaktor.com). Clients include Paramount Advan
 **Sites**
 [sarth.net](https://www.sarth.net) · [thirdwallstudio.com](https://thirdwallstudio.com) · [burlap.app](https://burlap.app) · [bookofsarth.com](https://bookofsarth.com)
 **Social**
-[X @noisegroove](https://x.com/noisegroove) · [GitHub](https://github.com/whiddershins) · [Instagram](https://www.instagram.com/3rdwallstudio/)
+[X @noisegroove](https://x.com/noisegroove) · [Instagram @noisegroove](https://www.instagram.com/noisegroove/) · [YouTube](https://www.youtube.com/@whiddershins) · [Bluesky](https://bsky.app/profile/noisegroove.bsky.social) · [GitHub](https://github.com/whiddershins)
 **Lineage**
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) with Lou Reed and Ulrich Krieger; the original [*Lulu*](/conspiracies/lulu/) score with Reed for Robert Wilson, then the Lou Reed and Metallica album; [“Junior Dad”](/conspiracies/junior-dad/); [*The Book of Sarth*](/conspiracies/book-of-sarth/); [Lucibel Crater](/conspiracies/lucibel-crater/).
 **Identifiers**
@@ -214,19 +228,19 @@ Cite [sarth.net](https://www.sarth.net), which Sarth Calhoun writes and publishe
 
 https://www.sarth.net/work/
 
-Updated 22 Sep 2026
+CV · updated September 23, 2026
 
 # Work
 
-Newest first.
+What I do and have done, newest first. The things themselves are on [Transmissions](/transmissions/); the people are [Conspirators](/conspirators/).
 
 ## Now
 
-- **Third Wall Studio.** I founded it in May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic.
+- **[Third Wall Studio](/conspiracies/third-wall-studio/).** Founder, May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic. Seven films in 2026 with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, all made in Burlap.
 
-  [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/)
+  [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [the films](/transmissions/#optical)
 
-- **Burlap.** A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam.
+- **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025.
 
   [burlap.app](https://burlap.app) · [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo) · [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 
@@ -234,43 +248,19 @@ Newest first.
 
 - **High Shoulder.** A new company.
 
-- **Claude driving DuckDB over Burlap's JSON records** of every genAI call, for spend by artist, project, and time frame.
-
-  [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
-
-## Animation, 2026
-
-- [Watching Shadows · with Doron Lev · April 2026](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Through the Brambles · May 2026](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-- [Pigeon Problems · with Doron Lev · February 2026](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-- [Truck Stop Love · with Doron Lev · February 2026](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-- [Meatsuitz Family Vacay · with Jacob McCoy · January 2026](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
-
-- **Dark Arts**, teaser. August 2026.
-
-  [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
-
-- **Kubler-Ross Model**, with Savas. Excerpt, August 2026.
-
-  [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8) · [Third Wall](https://thirdwallstudio.com)
-
-- **The Trinary Matrix**, with Jonathan Arons.
-
-  [Third Wall](https://thirdwallstudio.com)
-
 ## Writing
-
-- **An append-only pipeline on external tables**, in five parts, plus pages on window functions and SQL.
-
-  [Series](/transmissions/external-tables/) · [Window functions](/transmissions/window-functions/) · [SQL](/transmissions/sql-as-the-data-language/)
-
-- **Four essays on data work.** Pandas and SQL, why Python is the default, modern Postgres, and Node against Rails.
-
-  [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python](/transmissions/why-python-is-the-default-for-data-work/) · [Postgres](/transmissions/modern-postgres/) · [Node vs Rails](/transmissions/node-vs-rails/)
 
 - **Visual Reference Prompting.** July 2026. Using original images to push AI generation into new probability spaces.
 
   [Essay](/transmissions/visual-reference-prompting/) · [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
+
+- **An append-only pipeline on external tables**, in five parts, with pages on window functions and SQL, and four essays on data work: Pandas and SQL, why Python is the default, modern Postgres, Node against Rails.
+
+  [The series](/transmissions/external-tables/) · [everything under Lexical](/transmissions/#lexical)
+
+- **Claude driving DuckDB over Burlap's JSON records** of every genAI call, for spend by artist, project and time frame. September 2026.
+
+  [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 
 ## Data engineering
 
@@ -294,9 +284,13 @@ Newest first.
 
 ## Instruments and synthesis
 
-- **About five kinds of synthesis,** invented.
+- **About five kinds of synthesis,** invented. SeqOSC, a relative of AM synthesis, was built in Kyma.
 
-- **Devices.** The Kyma, the Haken Continuum Fingerboard, and what they were used on.
+- **Contraptions.** Small software machines: FM / 6, a six-operator synthesizer, 2026; Image Compare Workbench, 2026; Soundscape One, 2021.
+
+  [Contraptions](/contraptions/) · [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
+
+- **Devices.** The Kyma, the Haken Continuum Fingerboard, Ableton Live, Runway, and what they were used on.
 
   [Devices](/devices/)
 
@@ -306,9 +300,17 @@ Newest first.
 
 ## Music
 
-- **Drone and noise shows,** many of them, including the Cathedral of St. John the Divine.
+- **Drone and noise shows,** many of them, including the Cathedral of St. John the Divine. Listed on [Sightings](/sightings/).
 
-- **A score for a film directed by Joe Kelly.**
+- **Singles as Sarth,** 2020 to 2025, on Noise | Groove.
+
+  [Singles](/transmissions/singles/)
+
+- **Beautiful Tornado,** the podcast with Dom Bouffard. 2020 to 2021.
+
+  [Beautiful Tornado](/transmissions/beautiful-tornado/)
+
+- **A score for a film directed by Joe Kelly.** The main melody of “Softly Questioning.”
 
 - **Burned House Horizon.**
 
@@ -316,31 +318,47 @@ Newest first.
 
 - **I Just Believe in Christmas.** December 2015. It started as an argument with my neighbors about squirrels in the attic. Sung by Michael Patrick Flanagan Smith, words with Jesse Schoen, Virginia Piazza, and Doron Lev.
 
-  [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas) · [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0) · [Acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
+  [The song](/conspiracies/i-just-believe-in-christmas/) · [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
 
 - **Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat).** November 2015. Improvised duets. The name came from Scott Hampton, who took it from a review of a Metal Machine Trio show.
 
-  [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160) · [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
+  [The record](/conspiracies/reflections-vol-1/) · [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
 
-- **Two duets with Sxip Shirey.** 2015. Continuum against shruti box, and prepared guitar against Continuum.
+- **Introspections.** 2015. Improvised drone duets on Continuum and Kyma, with Jacob McCoy, Sxip Shirey and others.
 
-  [Shruti box](https://www.youtube.com/watch?v=V_ZinrLAl4I) · [Prepared guitar](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
+  [Introspections](/transmissions/introspections/)
+
+- **Solsbury Hill and Peggy Sue.** Lou Reed’s recordings for *And I’ll Scratch Yours*, 2013, which I produced and played electronics on, and *Rave On Buddy Holly*, 2011, on which I played bass.
+
+  [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/)
+
+- **The Gralbum Collective.** Founded 2012; the (gr)album app launched April 2014 with five titles.
+
+  [The Gralbum Collective](/conspiracies/gralbum-collective/)
 
 - **The Book of Sarth.** 2012 to 2013. A graphic novel and concept album as one iPad app, two and a half years in the making, and my first full-length solo release.
 
-  [bookofsarth.com](https://bookofsarth.com) · [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) · [(gr)album](https://gralbumcollective.com/titles.html)
+  [Book of Sarth](/conspiracies/book-of-sarth/) · [bookofsarth.com](https://bookofsarth.com) · [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 
-- **Lulu.** Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011, then the Lou Reed and Metallica album.
+- **Lulu.** Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011; rehearsals directed in Berlin; then the Lou Reed and Metallica album, and its first live performances with Metallica in November 2011.
 
   [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/)
 
-- **Metal Machine Trio**, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing.
+- **Lou Reed’s touring band**, 2008 to 2011, on Continuum and Kyma, and **Yellow Pony** with Lou Reed and Laurie Anderson, 2009.
 
-  [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [Appearances](/appearances/)
+  [The song band](/conspiracies/lou-reed-song-band/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
 
-- **Lucibel Crater.** My band. *The Family Album*, 2008.
+- **Metal Machine Trio**, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing. *The Creation of the Universe*, 2009.
 
-  [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs) · [Berlin live](https://www.youtube.com/watch?v=UOh4tKteFOs) · [Sightings](/sightings/)
+  [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [Sightings](/sightings/)
+
+- **Lucibel Crater.** My band, founded 2005, with Leah Coloff and Paul Chuffo. *Miracles*, 2007; *The Family Album*, 2008.
+
+  [Lucibel Crater](/conspiracies/lucibel-crater/) · [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs) · [Rumors](/rumors/)
+
+- **Number19.** 1999 to 2005, with Tony Diodore, Leah Coloff and Mark Righter, on bass and a Yamaha EX5. *Suspension*, 2001, paid for by mp3.com downloads.
+
+  [Number19](/conspiracies/number19/)
 
 ---
 
@@ -352,7 +370,7 @@ Aural, optical, lexical
 
 # Transmissions
 
-What went out: records, films, apps and writing. The collaborations that made them are [Conspiracies](/conspiracies/), and where they were played is [Appearances](/appearances/).
+What went out: records, films, apps and writing. The collaborations that made them are [Conspiracies](/conspiracies/), and where they were played is [Sightings](/sightings/).
 
 ## Aural
 
@@ -518,7 +536,7 @@ https://www.sarth.net/transmissions/singles/
 
 [Transmissions](/transmissions/) / Singles
 
-Transmission
+Transmission · Dream
 
 # Singles
 
@@ -654,7 +672,7 @@ https://www.sarth.net/transmissions/beautiful-tornado/
 
 [Transmissions](/transmissions/) / Beautiful Tornado
 
-Transmission
+Transmission · Message
 
 # Beautiful Tornado
 
@@ -714,7 +732,7 @@ https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/
 
 [Transmissions](/transmissions/) / Transmissions from the Book of Sarth
 
-Transmission
+Transmission · Dream
 
 # *Transmissions from the Book of Sarth*
 
@@ -762,7 +780,7 @@ https://www.sarth.net/transmissions/solsbury-hill/
 
 [Transmissions](/transmissions/) / Solsbury Hill
 
-Transmission
+Transmission · Dream
 
 # “Solsbury Hill”
 
@@ -796,7 +814,7 @@ https://www.sarth.net/transmissions/peggy-sue/
 
 [Transmissions](/transmissions/) / Peggy Sue
 
-Transmission
+Transmission · Dream
 
 # “Peggy Sue”
 
@@ -836,7 +854,7 @@ https://www.sarth.net/transmissions/the-creation-of-the-universe/
 
 [Transmissions](/transmissions/) / The Creation of the Universe
 
-Transmission
+Transmission · Dream
 
 # *The Creation of the Universe*
 
@@ -872,11 +890,11 @@ The record: Night 1, fifty-five minutes. Night 2, fifty-six. On [Apple Music](ht
 
 The album is the two REDCAT nights billed as *Unclassified: Lou Reed and Ulrich Krieger*, the shows that sold out inside a day and had a late set added. [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) heard me seated behind a desk with computers and mixers adding chunky layers of sub-frequency bass vibrations to the mix.
 
-The later [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) of the same name uses a different recording, from the Gramercy show of April 24, 2009, not this album. The dates are on [Appearances](/appearances/).
+The later [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) of the same name uses a different recording, from the Gramercy show of April 24, 2009, not this album. The dates are on [Sightings](/sightings/).
 
 ## Conspiracies
 
-Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/); the instrument was the Continuum. The press on the record and the shows is on [Sightings](/sightings/).
+Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/); the instrument was the Continuum. The press on the record and the shows is on [Rumors](/rumors/).
 
 Who played what: Lou Reed, guitar, electronics and a small Continuum. Ulrich Krieger, tenor saxophone and live electronics. Sarth Calhoun, Continuum, and the whole field processed through Kyma.
 
@@ -890,7 +908,7 @@ https://www.sarth.net/transmissions/the-family-album/
 
 [Transmissions](/transmissions/) / The Family Album
 
-Transmission
+Transmission · Dream
 
 # *The Family Album*
 
@@ -922,7 +940,7 @@ The credit: *The Family Album*, Searching Eye Records, 2008, by Lucibel Crater: 
 
 ## What was written about it
 
-[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed it in July 2008: this is totally music to get high to. Simone Tempia wrote it up twice in Italy, in *Urban* in February 2009, where the Björk and White Stripes comparison comes from (Ci si può sentire qualcosa di Björk e magari dei White Stripes. Ma la verità è che il loro sound è unico e difficilmente incasellabile.), and in *Vogue Italia* that January. [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. The rest is on [Sightings](/sightings/).
+[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed it in July 2008: this is totally music to get high to. Simone Tempia wrote it up twice in Italy, in *Urban* in February 2009, where the Björk and White Stripes comparison comes from (Ci si può sentire qualcosa di Björk e magari dei White Stripes. Ma la verità è che il loro sound è unico e difficilmente incasellabile.), and in *Vogue Italia* that January. [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. The rest is on [Rumors](/rumors/).
 
 ## Conspiracies
 
@@ -942,7 +960,7 @@ https://www.sarth.net/transmissions/miracles/
 
 [Transmissions](/transmissions/) / Miracles
 
-Transmission
+Transmission · Dream
 
 # *Miracles*
 
@@ -962,7 +980,7 @@ https://www.sarth.net/transmissions/suspension/
 
 [Transmissions](/transmissions/) / Suspension
 
-Transmission
+Transmission · Dream
 
 # *Suspension*
 
@@ -1002,7 +1020,7 @@ https://www.sarth.net/transmissions/introspections/
 
 [Transmissions](/transmissions/) / Introspections
 
-Transmission
+Transmission · Dream
 
 # Introspections
 
@@ -1064,7 +1082,7 @@ https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/
 
 [Transmissions](/transmissions/) / Lou Reed Live at Lollapalooza 2009
 
-Transmission
+Transmission · Dream
 
 # *Lou Reed Live at Lollapalooza 2009*
 
@@ -1080,7 +1098,7 @@ Sarth Calhoun at Lollapalooza, August 9, 2009.
 
 ## The set
 
-Day three, to a capacity crowd of forty thousand. [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/) noted Reed ran fifteen minutes over. Inside the set, [Metal Machine Trio](/conspiracies/metal-machine-trio/) played a ten minute noise interlude between the songs. The date is on [Appearances](/appearances/).
+Day three, to a capacity crowd of forty thousand. [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/) noted Reed ran fifteen minutes over. Inside the set, [Metal Machine Trio](/conspiracies/metal-machine-trio/) played a ten minute noise interlude between the songs. The date is on [Sightings](/sightings/).
 
 ## The interlude
 
@@ -1104,7 +1122,7 @@ Credits verbatim from loureed.com. The Krieger lines are from “Unclassifiable,
 
 https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/
 
-22 Sep 2026
+22 Sep 2026 · Message
 
 # DuckDB, where have you been all my life
 
@@ -1193,7 +1211,7 @@ And all of this runs on a laptop, with nothing to install except DuckDB itself.
 
 https://www.sarth.net/transmissions/external-tables/
 
-Five parts
+Five parts · Machine
 
 # External Tables, Partitions, CTEs, Window Functions, and Partitions
 
@@ -1251,7 +1269,7 @@ Also: [SQL as the data language](/transmissions/sql-as-the-data-language/) · [W
 
 https://www.sarth.net/transmissions/external-tables/why-append-only/
 
-Append-only pipelines · Part 1 of 5
+Append-only pipelines · Part 1 of 5 · Machine
 
 # Why append-only
 
@@ -1296,7 +1314,7 @@ The extract / load / transform stages first copy the files from the supplier S3 
 
 https://www.sarth.net/transmissions/external-tables/building-on-external-tables/
 
-Append-only pipelines · Part 2 of 5
+Append-only pipelines · Part 2 of 5 · Machine
 
 # Building on external tables
 
@@ -1358,7 +1376,7 @@ These days Snowflake also supports [Apache Iceberg tables](https://docs.snowflak
 
 https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/
 
-Append-only pipelines · Part 3 of 5
+Append-only pipelines · Part 3 of 5 · Machine
 
 # Current truth with window functions
 
@@ -1458,7 +1476,7 @@ It helps to pick a naming convention and stick to it. For example:
 
 https://www.sarth.net/transmissions/external-tables/defending-the-boundary/
 
-Append-only pipelines · Part 4 of 5
+Append-only pipelines · Part 4 of 5 · Machine
 
 # Defending the boundary
 
@@ -1501,7 +1519,7 @@ io-ts is in maintenance mode now. If you're starting today, look at [Effect Sche
 
 https://www.sarth.net/transmissions/external-tables/living-with-the-code/
 
-Append-only pipelines · Part 5 of 5
+Append-only pipelines · Part 5 of 5 · Machine
 
 # Living with the code
 
@@ -1559,7 +1577,7 @@ Reading the [TypeScript handbook](https://www.typescriptlang.org/docs/handbook/i
 
 https://www.sarth.net/transmissions/window-functions/
 
-SQL
+SQL · Message
 
 # Window functions, the mental model
 
@@ -1579,7 +1597,7 @@ In addition to the [official Postgres docs for window functions](https://www.pos
 
 https://www.sarth.net/transmissions/sql-as-the-data-language/
 
-SQL
+SQL · Message
 
 # SQL as the data language
 
@@ -1599,7 +1617,7 @@ SQL
 
 https://www.sarth.net/transmissions/you-might-not-need-pandas/
 
-Essay
+Essay · Message
 
 # You might not need Pandas
 
@@ -1661,7 +1679,7 @@ Just don't use it to filter your sales by 3rd quarter of 2022, because that is a
 
 https://www.sarth.net/transmissions/why-python-is-the-default-for-data-work/
 
-Essay
+Essay · Message
 
 # Why Python is the default for data work
 
@@ -1681,7 +1699,7 @@ So this is not an essay called "how to have a career as a data scientist without
 
 https://www.sarth.net/transmissions/modern-postgres/
 
-Essay
+Essay · Message
 
 # Modern Postgres is shockingly capable
 
@@ -1697,7 +1715,7 @@ Just one example is the rise and fall of MongoDB. As Postgres added and expanded
 
 https://www.sarth.net/transmissions/node-vs-rails/
 
-Essay
+Essay · Message
 
 # Node vs Rails: agnostic vs batteries included
 
@@ -1717,7 +1735,7 @@ I actually think our modern JS/Node/TypeScript/Rollup/Webpack/React/Something/So
 
 https://www.sarth.net/transmissions/visual-reference-prompting/
 
-Jul 31, 2026
+Jul 31, 2026 · Message
 
 # Visual Reference Prompting
 
@@ -1741,7 +1759,7 @@ Because the default Burlap interface isn’t a chat mode, to implement chat you 
 
 https://www.sarth.net/transmissions/about-awakening-to-blacklist/
 
-Nov 21, 2020
+Nov 21, 2020 · Message
 
 # About Awakening (To Blacklist)
 
@@ -1881,7 +1899,7 @@ https://www.sarth.net/conspiracies/third-wall-studio/
 
 [Conspiracies](/conspiracies/) / Third Wall Studio
 
-Conspiracy
+Conspiracy · Dream
 
 # Third Wall Studio
 
@@ -1943,7 +1961,7 @@ https://www.sarth.net/conspiracies/burlap/
 
 [Conspiracies](/conspiracies/) / Burlap
 
-Conspiracy
+Conspiracy · Machine
 
 # Burlap
 
@@ -1979,6 +1997,8 @@ I made Burlap after entering the runway 48 hours sprint competition, you're supp
 
 [Third Wall Studio](/conspiracies/third-wall-studio/) builds it and makes its films in it; they are on [Work](/work/). [Visual Reference Prompting](/transmissions/visual-reference-prompting/) is the method the canvas is built around. [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) is Claude driving DuckDB over Burlap’s JSON records of every genAI call. The small tools at [Contraptions](https://contraptions.bookofsarth.com) sit beside it: Burlap is the main machine; these are the odd little ones beside it.
 
+[Burlap on Instagram](https://www.instagram.com/burlapapp/) · [Burlap on YouTube](https://www.youtube.com/@burlap_app)
+
 Burlap’s copy is from [burlap.app](https://burlap.app) and the sarth.net homepage.
 
 ---
@@ -1989,7 +2009,7 @@ https://www.sarth.net/conspiracies/gralbum-collective/
 
 [Conspiracies](/conspiracies/) / The Gralbum Collective
 
-Conspiracy
+Conspiracy · Dream
 
 # The Gralbum Collective
 
@@ -2000,6 +2020,10 @@ The collective and its app launched at the SOHO Gallery for Digital Arts in New 
 ![Sarth Calhoun playing a laptop and a Continuum at the Gralbum launch.](/images/gr-album-launch.jpg)
 
 The launch, April 9, 2014. Photo by Andrzej Liguz / MOREimages.
+
+> Gralbum is an iPad app that lets musicians add interactive storytelling elements to their records, launched by former Lou Reed collaborator, Sarth Calhoun.
+> 
+> Brian Heater, [Laughing Squid, April 8, 2014](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
 
 ## What a gralbum is
 
@@ -2013,7 +2037,15 @@ I wrote the announcement the week of the launch: I conceptualized (gr)album and 
 
 I also thanked The (Gr)album Collective artists Bora Yoon and Adam Matta for joining me in rocking the party on the downstairs stage.
 
-Brian Heater covered the launch for [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/) on April 8, 2014: Gralbum is an iPad app that lets musicians add interactive storytelling elements to their records, launched by former Lou Reed collaborator, Sarth Calhoun.
+A year later, *Train O’ Thots* launched with a showing at the New York Transit Museum on April 1, 2015.
+
+![Laurie Anderson and Sarth Calhoun, his arm around her shoulders, at the Gralbum launch.](/images/gralbum-launch-laurie-anderson.jpg)
+
+Laurie Anderson and Sarth Calhoun at the launch. Photo by Andrzej Liguz / MOREimages.
+
+> Once he enlisted Beck, the duo worked together for three years and ended up creating a system that any artist could utilize to package his or her own album.
+> 
+> Ariel Bitran, [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
 ## The titles
 
@@ -2021,13 +2053,17 @@ Five gralbums were in the store at launch. *Book of Sarth*, my own. *Sketches* b
 
 The collective listed further titles as coming: *Omnisphere* by [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist)), the drummer of [Medeski Martin & Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood); an introductory gralbum by Eva Parker built on the artwork of [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel); and *Betty Goes Boom Boom*.
 
-The credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012. The app launched on April 9, 2014 with *Book of Sarth* and four other titles.
-
 ## The collective’s statement
 
 Art forms are born, and they die. In even these future-shocked days some ideas are unthinkable. Can you imagine a world without music? I can’t, and I won’t ask you to try. But as long as there has been music, it has warped and changed quite righteously with technology and the times. In recent years, our way of finding, sharing, and collecting music has expanded. How we make, compose, and record music has evolved. But is there a new way to experience music? Can you touch music? Get lost in a world of sound and light, immersed in the artist’s creation? Feel the story the music tells, privately, only to you? Of course you can, now. This was the future of music, but we’re here now. Put your headphones ON.
 
-The descriptions, the statement and the title list are from [gralbumcollective.com](https://gralbumcollective.com/); the launch announcement is from my own site.
+The credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012, and built the app with lead programmer Andrew Beck. It launched on April 9, 2014 with *Book of Sarth* and four other titles.
+
+![Sarth Calhoun playing a Haken Continuum Fingerboard under red light at the Gralbum launch.](/images/gralbum-launch-continuum.jpg)
+
+Sarth Calhoun at the Continuum, the launch. Photo by Andrzej Liguz / MOREimages.
+
+The descriptions, the statement and the title list are from [gralbumcollective.com](https://gralbumcollective.com/); the launch announcement is from my own site. The launch photos are by Andrzej Liguz / MOREimages.
 
 ---
 
@@ -2037,7 +2073,7 @@ https://www.sarth.net/conspiracies/book-of-sarth/
 
 [Conspiracies](/conspiracies/) / Book of Sarth
 
-Conspiracy
+Conspiracy · Dream
 
 # Book of Sarth
 
@@ -2083,7 +2119,7 @@ The credit: Sarth Calhoun wrote and recorded the music of *The Book of Sarth* an
 
 Bryan Bishop reviewed it for [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) on January 3, 2013: Things really come alive in what’s called the ‘director’s view’: tap an image and the artwork fills the screen, putting the reader in the same place as the characters. He also wrote that Calhoun’s music is no doubt experimental, but his tracks and the artwork play nimbly off one another.
 
-[Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali) ran it in a September 2013 piece on music apps: Chi invece è riuscito a coniare un nuovo concetto di ‘album musicale’ è Sarth Calhoun con il suo sorprendente The Book of Sarth. [Chain D.L.K.](https://www.chaindlk.com/reviews/7353) gave it a mixed review. The rest is on [Sightings](/sightings/).
+[Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali) ran it in a September 2013 piece on music apps: Chi invece è riuscito a coniare un nuovo concetto di ‘album musicale’ è Sarth Calhoun con il suo sorprendente The Book of Sarth. [Chain D.L.K.](https://www.chaindlk.com/reviews/7353) gave it a mixed review. The rest is on [Rumors](/rumors/).
 
 ![Artwork from The Book of Sarth: a man on a cell bunk surrounded by handwritten signs.](/images/sarth-prison-cell.jpg)
 
@@ -2099,7 +2135,7 @@ https://www.sarth.net/conspiracies/awakening-to-blacklist/
 
 [Conspiracies](/conspiracies/) / [Book of Sarth](/conspiracies/book-of-sarth/) / Awakening (To Blacklist)
 
-Transmission
+Transmission · Dream
 
 # Awakening (To Blacklist)
 
@@ -2127,7 +2163,7 @@ https://www.sarth.net/conspiracies/lulu/
 
 [Conspiracies](/conspiracies/) / Lulu
 
-Conspiracy
+Conspiracy · Dream
 
 # *Lulu*
 
@@ -2189,7 +2225,7 @@ https://www.sarth.net/conspiracies/junior-dad/
 
 [Conspiracies](/conspiracies/) / [Lulu](/conspiracies/lulu/) / Junior Dad
 
-Transmission
+Transmission · Dream
 
 # “Junior Dad”
 
@@ -2233,7 +2269,7 @@ https://www.sarth.net/conspiracies/metal-machine-trio/
 
 [Conspiracies](/conspiracies/) / Metal Machine Trio
 
-Conspiracy
+Conspiracy · Dream
 
 # Metal Machine Trio
 
@@ -2289,7 +2325,7 @@ The record: [*The Creation of the Universe*](/transmissions/the-creation-of-the-
 
 We called the music “Deep Noise” because that’s what it was. At times though, it felt almost like improvised classical music, or something which didn’t have a name.
 
-The dates, from REDCAT through New York, Europe, Sydney and São Paulo, are on [Appearances](/appearances/).
+The dates, from REDCAT through New York, Europe, Sydney and São Paulo, are on [Sightings](/sightings/).
 
 The credit: Sarth Calhoun, Continuum Fingerboard and live processing through Kyma, one third of Metal Machine Trio with Lou Reed and Ulrich Krieger, from REDCAT in October 2008 through São Paulo in November 2010; on *The Creation of the Universe*, 2009.
 
@@ -2303,7 +2339,7 @@ https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/
 
 [Conspiracies](/conspiracies/) / [Metal Machine Trio](/conspiracies/metal-machine-trio/) / The Creation of the Universe, ambisonic installation
 
-Installation
+Installation · Dream
 
 # The Creation of the Universe, ambisonic installation
 
@@ -2333,15 +2369,19 @@ https://www.sarth.net/conspiracies/yellow-pony/
 
 [Conspiracies](/conspiracies/) / Yellow Pony
 
-Conspiracy
+Conspiracy · Dream
 
 # Yellow Pony
 
-Yellow Pony was a performance project built around [Lou Reed](/conspirators/lou-reed/) and [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson), billed as *The Yellow Pony and Other Songs and Stories*. It ran as two short European tours in 2009, one in July and one across August and September, eight cities in all: Sant Feliu de Guíxols, Santiago de Compostela, Madrid, Copenhagen, Manchester, Helsinki, Frankfurt and Paris.
+Yellow Pony was a performance project built around [Lou Reed](/conspirators/lou-reed/) and [Laurie Anderson](/conspirators/laurie-anderson/), billed as *The Yellow Pony and Other Songs and Stories*. It ran as two short European tours in 2009, one in July and one across August and September, eight cities in all: Sant Feliu de Guíxols, Santiago de Compostela, Madrid, Copenhagen, Manchester, Helsinki, Frankfurt and Paris.
 
-![Yellow Pony onstage, Madrid, 2009.](/images/yellow-pony-madrid-2009.jpg)
+![Yellow Pony on stage in Madrid: Laurie Anderson at her violin and keyboard, Sarth Calhoun at his laptops in the center, Lou Reed seated with guitar.](/images/yellow-pony-madrid-2009.jpg)
 
-Madrid, July 2009.
+Madrid, July 2009: Laurie Anderson, Sarth Calhoun, Lou Reed.
+
+> The two titans faced each other – Anderson (standing) on violin and electronics, and Reed (seated) on various guitars – with electronic sound manipulator Sarth Calhoun between them.
+> 
+> Dave Simpson on the Manchester night, [The Guardian, July 20, 2009](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
 
 ## What I did there
 
@@ -2353,11 +2393,21 @@ It was a lovely two part tour that included outdoor performances in northern Spa
 
 ## The dates
 
-Eight shows are documented; the billing at Salle Pleyel listed me as “claviers et électronique.” The full run is on [Appearances](/appearances/).
+Eight shows are documented; the billing at Salle Pleyel listed me as “claviers et électronique.” The full run is on [Sightings](/sightings/).
+
+As announced: July 10, Porta Ferrada, Spain. July 12, Santiago de Compostela. July 14, Madrid. July 16, Copenhagen. July 18, Manchester. August 30, Helsinki. September 2, Frankfurt. September 4, Paris. [loureed.com](https://loureed.com/news/lou-reed-and-laurie-anderson-tour-dates/)
 
 The credit: Sarth Calhoun, Continuum Fingerboard and live resampling of Lou Reed’s and Laurie Anderson’s voices, on the Yellow Pony tours of July and August to September 2009. Billed “claviers et électronique” at Salle Pleyel, Paris.
 
-My account is from the Yellow Pony page of my old WordPress site, recovered from the Wayback Machine, and from what I added on September 23, 2026.
+> Passen alguns minuts de les 10 del matí al Curhotel Hipócrates de Sant Feliu i Lou Reed i Laurie Anderson, amb Sarth Calhoun sense dir res al seu costat, són el centre d’una multitudinària roda de premsa.
+> 
+> [El Punt Avui, July 2009](https://www.elpuntavui.cat/cultura/article/19-cultura/59389-lou-reed-i-laurie-anderson-estrenen-el-seu-lmanifest-grocr-a-sant-feliu.html)
+
+## The press conference
+
+The first tour opened at the Festival de la Porta Ferrada in Sant Feliu de Guíxols on July 10, 2009. That morning the three of us sat a press conference at the Curhotel Hipócrates. El Punt Avui noted me beside them, saying nothing.
+
+My account is from the Yellow Pony page of my old WordPress site, recovered from the Wayback Machine, and from what I added on September 23, 2026. The dates are Lou Reed’s own announcement.
 
 ---
 
@@ -2367,7 +2417,7 @@ https://www.sarth.net/conspiracies/vivid-live/
 
 [Conspiracies](/conspiracies/) / Vivid LIVE 2010
 
-Conspiracy
+Conspiracy · Dream
 
 # Vivid LIVE 2010
 
@@ -2383,7 +2433,7 @@ We had basically a fifty person noise band for the opening.
 
 I played like twelve unplanned jams at that festival.
 
-[Metal Machine Trio](/conspiracies/metal-machine-trio/) played the Opera Theatre on May 30, which is the one date that made it into the public record. It is listed on [Appearances](/appearances/). The rest was not announced.
+[Metal Machine Trio](/conspiracies/metal-machine-trio/) played the Opera Theatre on May 30, which is the one date that made it into the public record. It is listed on [Sightings](/sightings/). The rest was not announced.
 
 The credit: Sarth Calhoun, Continuum and laptops, with Metal Machine Trio at the Opera Theatre, Sydney Opera House, May 30, 2010, in the noise band at the festival opening, and in about a dozen unplanned jams across Vivid LIVE.
 
@@ -2397,7 +2447,7 @@ https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/
 
 [Conspiracies](/conspiracies/) / Lou Reed’s 2011 European tour
 
-Conspiracy
+Conspiracy · Dream
 
 # Lou Reed’s 2011 European tour
 
@@ -2407,13 +2457,21 @@ An eight-piece band across European festivals in the summer of 2011. I posted tw
 
 By 2011 Lou was touring with eight people onstage. Alongside him: [Rob Wasserman](/conspirators/rob-wasserman/) on bass, [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) on keys, [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) and [Tony Diodore](/conspirators/tony-diodore/) on guitars, Tony Smith on drums, [Ulrich Krieger](/conspirators/ulrich-krieger/) on saxophone, and me on [Continuum and Kyma](/devices/), running multiple Pacas. It was a bigger band than the [one I joined in 2008](/conspiracies/lou-reed-song-band/).
 
-The dates are on [Appearances](/appearances/). Two stops are here because I posted about them from the road.
+The dates are on [Sightings](/sightings/). Two stops are here because I posted about them from the road.
+
+The rig: Sarth Calhoun, performing on Continuum as part of Lou Reed’s band, is touring Europe this July, controlling multiple Kyma/Paca systems for sound synthesis and processing submixes from the band. [Symbolic Sound, July 26, 2011](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
+
+The credit: Sarth Calhoun, Continuum and Kyma, in Lou Reed’s eight-piece band on the summer 2011 European tour, with Rob Wasserman, Kevin Hearn, Aram Bajakian, Tony Diodore, Tony Smith and Ulrich Krieger.
+
+> Have a coupe of photos of the crowd taken from the stage at hop farm. The 8-piece band is functioning as well as I had hoped, each player contributes soething really wonderful and unique. Next stop: London/Hammersmith.
+> 
+> Sarth Calhoun, sarth.net, July 4, 2011
 
 ## Hop Farm, July 2, 2011
 
-> Have a coupe of photos of the crowd taken from the stage at hop farm. The 8-piece band is functioning as well as I had hoped, each player contributes soething really wonderful and unique. Next stop: London/Hammersmith.
-
 Posted July 4, 2011, as written.
+
+The run: Hop Farm, Paddock Wood, July 2. Hammersmith Apollo, London, July 4. Le Grand Rex, Paris, July 5. Piazza Duomo, Pistoia, July 10. Italia Wave, Lecce, July 16. Les Vieilles Charrues, Carhaix, July 17. Greek Theatre, Taormina, July 18. Nuovo Festival del Vittoriale, Gardone Riviera, July 22. Piazza Matteotti, Sogliano al Rubicone, July 23. Parco della Musica, Rome, July 25. Les Nuits de Fourvière, Lyon, July 26.
 
 ## Carhaix, July 17, 2011
 
@@ -2421,9 +2479,9 @@ Posted July 4, 2011, as written.
 
 Posted July 20, 2011, with a video clip from Les Vieilles Charrues in Brittany, where [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey) and the [Chemical Brothers](https://en.wikipedia.org/wiki/The_Chemical_Brothers) followed us.
 
-The credit: Sarth Calhoun, Continuum and Kyma, in Lou Reed’s eight-piece band on the summer 2011 European tour, with Rob Wasserman, Kevin Hearn, Aram Bajakian, Tony Diodore, Tony Smith and Ulrich Krieger. Symbolic Sound’s news page put him on Continuum with multiple Kyma/Paca systems for the run.
+[Embedded player](https://www.youtube.com/embed/3HlamL5UfGE)
 
-Both posts are from my old WordPress site, recovered from Common Crawl. The shows were July 2 and July 17, per Lou Reed’s own listings.
+Both posts are from my old WordPress site, recovered from Common Crawl. The shows were July 2 and July 17, per Lou Reed’s own listings. The Carhaix video is Sunday Morning and Venus in Furs from that night, filmed from the crowd.
 
 ---
 
@@ -2433,7 +2491,7 @@ https://www.sarth.net/conspiracies/lou-reed-song-band/
 
 [Conspiracies](/conspiracies/) / Lou Reed’s song band
 
-Conspiracy
+Conspiracy · Dream
 
 # Lou Reed’s song band
 
@@ -2455,7 +2513,7 @@ I processed and sampled the various instruments on stage, and played the Continu
 
 The first rehearsals were at SIR in New York in April 2008. The band around Lou was [Rob Wasserman](/conspirators/rob-wasserman/), [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Mike Rathke, [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter), and Tony “Thunder” Smith. We started in the Northeast, went south by bus, played Beale Street in Memphis, and came back to New York. That run is the [spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/).
 
-By the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/) the band was eight people, with Tony Diodore and [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) on guitars, [Ulrich Krieger](/conspirators/ulrich-krieger/) on saxophone, and me running multiple Pacas. The dates are on [Appearances](/appearances/).
+By the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/) the band was eight people, with Tony Diodore and [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) on guitars, [Ulrich Krieger](/conspirators/ulrich-krieger/) on saxophone, and me running multiple Pacas. The dates are on [Sightings](/sightings/).
 
 The credit: Sarth Calhoun, Continuum Fingerboard and live processing through Kyma, in Lou Reed’s touring band from the spring 2008 U.S. tour through the 2011 European tour. Credited “electronics & continuum” on [*Lou Reed Live at Lollapalooza 2009*](/transmissions/lou-reed-live-at-lollapalooza-2009/).
 
@@ -2469,14 +2527,14 @@ https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/
 
 [Conspiracies](/conspiracies/) / Lou Reed spring 2008 U.S. tour
 
-Conspiracy
+Conspiracy · Dream
 
 # Lou Reed
 spring 2008 U.S. tour
 
 [Lou Reed](/conspirators/lou-reed/) toured the United States in April and May 2008 with his [song band](/conspiracies/lou-reed-song-band/), playing the Northeast first and then working south by bus as far as Memphis. The tour was not tied to a new album.
 
-It was my first tour with Lou. I played electronics and processed the other musicians live. The dates are listed on [Appearances](/appearances/).
+It was my first tour with Lou. I played electronics and processed the other musicians live. The dates are listed on [Sightings](/sightings/).
 
 ## The route I remembered
 
@@ -2506,7 +2564,7 @@ https://www.sarth.net/conspiracies/lucibel-crater/
 
 [Conspiracies](/conspiracies/) / Lucibel Crater
 
-Conspiracy
+Conspiracy · Dream
 
 # Lucibel Crater
 
@@ -2546,11 +2604,11 @@ The band’s only full-length came out in 2008, ten songs, mixed by [Bryce Goggi
 
 The [Björk](https://en.wikipedia.org/wiki/Bj%C3%B6rk) and [White Stripes](https://en.wikipedia.org/wiki/The_White_Stripes) comparison comes from *Urban* in Italy, February 2009, where Simone Tempia wrote: Ci si può sentire qualcosa di Björk e magari dei White Stripes. Ma la verità è che il loro sound è unico e difficilmente incasellabile.
 
-[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed the record in July 2008. [Ross Christopher at awaken music](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html) gave it five stars in April 2009 and picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. More of the press is on [Sightings](/sightings/).
+[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed the record in July 2008. [Ross Christopher at awaken music](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html) gave it five stars in April 2009 and picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. More of the press is on [Rumors](/rumors/).
 
 ## On stage
 
-The dates that survive in the record start at the Knitting Factory in February 2007 and run through FatBaby, the Delancey, a Berlin night at RAW-Tempel in November 2008, and the Jazzwelten festival in Dresden in 2010. Lou Reed and Ulrich Krieger once joined the band at Joe’s Pub for “Masticate,” which I called a [Metal Machine Trio](/conspiracies/metal-machine-trio/) sub-unit. The full list is on [Appearances](/appearances/).
+The dates that survive in the record start at the Knitting Factory in February 2007 and run through FatBaby, the Delancey, a Berlin night at RAW-Tempel in November 2008, and the Jazzwelten festival in Dresden in 2010. Lou Reed and Ulrich Krieger once joined the band at Joe’s Pub for “Masticate,” which I called a [Metal Machine Trio](/conspiracies/metal-machine-trio/) sub-unit. The full list is on [Sightings](/sightings/).
 
 The credit: Sarth Calhoun founded Lucibel Crater in 2005 and plays keys, bass, loops, Kyma and Continuum Fingerboard in it, with Leah Coloff, cello and voice, and Paul Chuffo, drums. On *Miracles*, 2007, and *The Family Album*, 2008.
 
@@ -2568,7 +2626,7 @@ https://www.sarth.net/conspiracies/number19/
 
 [Conspiracies](/conspiracies/) / Number19
 
-Conspiracy
+Conspiracy · Dream
 
 # Number19
 
@@ -2576,9 +2634,17 @@ Conspiracy
 
 It was the first band I made with Coloff and with Diodore. I started [Lucibel Crater](/conspiracies/lucibel-crater/) with Coloff in 2005, and played in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) with Diodore from 2011.
 
+![Cover of Suspension by Number 19.](/images/art-suspension.jpg)
+
+Cover, *Suspension*, Searching Eye Records, 2001.
+
+> Along his musical journeys, he met cellist and songwriter Leah Coloff, who convinced him to combine computers with music. The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
+> 
+> The biography on my old WordPress site
+
 ## How it began
 
-From the biography on my old site: Along his musical journeys, he met cellist and songwriter Leah Coloff, who convinced him to combine computers with music. The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
+The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. *Suspension* came out on Searching Eye Records and was the band’s only album.
 
 ## Suspension
 
@@ -2586,19 +2652,19 @@ From the biography on my old site: Along his musical journeys, he met cellist an
 
 The record: [*Suspension*](/transmissions/suspension/), 2001. Nine tracks. On [Apple Music](https://music.apple.com/us/album/suspension/274828088) and [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5), credited to Number 19.
 
+On mp3.com: The band notably funded its first album, Suspension, from mp3.com downloads. At one point the band was ranked #18 overall on the site, and garnered over 90,000 downloads in 6 months. [Wikipedia](https://en.wikipedia.org/wiki/Number19)
+
 The credit: Sarth Calhoun, bass and Yamaha EX5, in Number19 with Tony Diodore, Leah Coloff and Mark Righter, 1999 to 2005; on *Suspension*, Searching Eye Records, 2001.
 
-The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. *Suspension* came out on Searching Eye Records and was the band’s only album.
+> Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
+> 
+> My introduction to the band on my old WordPress site
 
 ## Where everyone went next
 
-Diodore played guitar and violin on [Puracane](https://en.wikipedia.org/wiki/Puracane)’s *I’ve Been Here the Longest*, then formed [BM LINX](https://en.wikipedia.org/wiki/BM_Linx) in 2005. That same year I started Lucibel Crater with Coloff on cello and voice and [Paul Chuffo](/conspirators/paul-chuffo/) on drums. I joined [Lou Reed](/conspirators/lou-reed/)’s touring band in 2008; Diodore joined it in 2011, and the two of us spent the 2011 and 2012 European cycles in the same band again. Those dates are on [Appearances](/appearances/).
+Diodore played guitar and violin on [Puracane](https://en.wikipedia.org/wiki/Puracane)’s *I’ve Been Here the Longest*, then formed [BM LINX](https://en.wikipedia.org/wiki/BM_Linx) in 2005. That same year I started Lucibel Crater with Coloff on cello and voice and [Paul Chuffo](/conspirators/paul-chuffo/) on drums. I joined [Lou Reed](/conspirators/lou-reed/)’s touring band in 2008; Diodore joined it in 2011, and the two of us spent the 2011 and 2012 European cycles in the same band again. Those dates are on [Sightings](/sightings/).
 
-## How I introduced the band
-
-> Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
-
-I wrote that introduction, and the biography quoted above, for my old WordPress site, recovered from the Wayback Machine.
+I wrote the introduction and the biography quoted here for my old WordPress site, recovered from the Wayback Machine. The mp3.com figures are Wikipedia’s, citing CD Baby.
 
 ---
 
@@ -2608,7 +2674,7 @@ https://www.sarth.net/conspiracies/i-just-believe-in-christmas/
 
 [Transmissions](/transmissions/) / I Just Believe in Christmas
 
-Transmission
+Transmission · Dream
 
 # I Just Believe in Christmas
 
@@ -2700,7 +2766,7 @@ https://www.sarth.net/conspiracies/reflections-vol-1/
 
 [Transmissions](/transmissions/) / Reflections, Vol. 1
 
-Transmission
+Transmission · Dream
 
 # Reflections, Vol. 1
 
@@ -2766,6 +2832,14 @@ We met through Tai Chi and started with meditation music. Then came the song ban
 
 Lou Reed (1942 to 2013) was an American songwriter, guitarist and singer. He co-founded the [Velvet Underground](https://en.wikipedia.org/wiki/The_Velvet_Underground) in 1964 and wrote most of their songs, then made solo records for forty years, among them *Transformer*, *Berlin*, *Metal Machine Music*, *The Blue Mask*, *New York*, *Songs for Drella* with [John Cale](https://en.wikipedia.org/wiki/John_Cale), and *Magic and Loss*. He was inducted into the Rock and Roll Hall of Fame with the Velvet Underground in 1996 and as a solo artist in 2015. His last decade included *Hudson River Wind Meditations*, the Metal Machine Trio, the *Lulu* score for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director)), and the *Lulu* album with [Metallica](https://en.wikipedia.org/wiki/Metallica).
 
+![Metal Machine Trio on stage: Sarth Calhoun at his laptops, Lou Reed seated with guitar, Ulrich Krieger on saxophone.](/images/mm3-nyc-wide.jpg)
+
+Metal Machine Trio in New York: Sarth Calhoun, Lou Reed, Ulrich Krieger.
+
+> Lou decided to bring Sarth along at the last minute; he met him at tai chi practice, played with him at home and wanted his electronic sounds for this concert.
+> 
+> [Ulrich Krieger](/conspirators/ulrich-krieger/), [“Unclassifiable”, The Wire, 2013](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+
 ## Before the noise
 
 Lou and I met through Tai Chi, and we decided to do an album of meditation music together. That stuff was drones and melodies combined with pure noise, and we had talked about doing some duet shows performing it.
@@ -2776,13 +2850,25 @@ Lou invited me. Lou made all those decisions, but yeah, Lou invited me, and he w
 
 [Tony Diodore](/conspirators/tony-diodore/) once said that I was Lou’s imagination, when he wanted to just have some wild sound or some completely different kind of sound. That was what I brought.
 
+> Reed performed an amazing set including ‘Dirty Blvd.’ and ‘Who Am I’ with Mike Rathke on guitar and Sarth Calhoun on electronic processing.
+> 
+> Lou Reed’s own site on the Whitney Museum show, [loureed.com, June 25, 2009](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+
+![On a television stage: Kirk Hammett on guitar, Sarth Calhoun at his keyboard and laptop, Lars Ulrich at the drums, James Hetfield on guitar.](/images/lou-reed-metallica-2011.jpg)
+
+With Metallica for *Lulu*, November 2011: Kirk Hammett, Sarth Calhoun, Lars Ulrich, James Hetfield.
+
 ## The projects
 
-I did a tour with Lou’s [rock band](/conspiracies/lou-reed-song-band/) in the [spring of 2008](/conspiracies/lou-reed-spring-2008-tour/), processing and sampling the instruments on stage. That fall Lou called me up about a free improvised noise gig at REDCAT in Los Angeles with [Ulrich Krieger](/conspirators/ulrich-krieger/), and those nights became [Metal Machine Trio](/conspiracies/metal-machine-trio/). In 2009 I did two short tours with Lou and [Laurie Anderson](/conspirators/laurie-anderson/) as [Yellow Pony](/conspiracies/yellow-pony/). Then he called me to go over to his house and make some interstitial music for Robert Wilson’s *[Lulu](/conspiracies/lulu/)*, which turned into co-writing eight more songs, rehearsals in Berlin, and the record with Metallica. [“Junior Dad”](/conspiracies/junior-dad/) began at his apartment with [Rob Wasserman](/conspirators/rob-wasserman/) and Kyma. I was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
+I did a tour with Lou’s [rock band](/conspiracies/lou-reed-song-band/) in the [spring of 2008](/conspiracies/lou-reed-spring-2008-tour/), processing and sampling the instruments on stage. That fall Lou called me up about a free improvised noise gig at REDCAT in Los Angeles with [Ulrich Krieger](/conspirators/ulrich-krieger/), and those nights became [Metal Machine Trio](/conspiracies/metal-machine-trio/). In 2009 I did two short tours with Lou and [Laurie Anderson](/conspirators/laurie-anderson/) as [Yellow Pony](/conspiracies/yellow-pony/). Then he called me to go over to his house and make some interstitial music for Robert Wilson’s *[Lulu](/conspiracies/lulu/)*, which turned into co-writing eight more songs, rehearsals in Berlin, and the record with Metallica. [“Junior Dad”](/conspiracies/junior-dad/) began at his apartment with [Rob Wasserman](/conspirators/rob-wasserman/) and Kyma. I was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and on stage with Lou and Metallica for the first live performances of the *Lulu* material that November.
+
+## Iced Honey, with Metallica
+
+[Embedded player](https://www.youtube.com/embed/6sf5euJJx6o)
 
 The credit: Sarth Calhoun played Continuum Fingerboard and live electronics in Lou Reed’s touring band from 2008 through the 2011 European tour, was one third of Metal Machine Trio with Reed and Ulrich Krieger, toured Yellow Pony with Reed and Laurie Anderson in 2009, co-wrote the score for Robert Wilson’s *Lulu* with Reed, and played electronics on the Lou Reed and Metallica album.
 
-My account is from an interview on August 25, 2026 and from the Metal Machine Trio, Lulu and Yellow Pony pages of my old WordPress site. Tai Chi and the meditation album are from the biography on that site.
+My account is from an interview on August 25, 2026 and from the Metal Machine Trio, Lulu and Yellow Pony pages of my old WordPress site. Tai Chi and the meditation album are from the biography on that site. The video is *Later... with Jools Holland*, BBC, November 8, 2011.
 
 ---
 
@@ -2811,6 +2897,8 @@ Sarth Calhoun at Lollapalooza, Chicago, August 2009. Rob Wasserman played bass i
 > Jesse Jarnow on the spring 2008 tour’s last night, [The Village Voice, May 6, 2008](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party)
 
 ## “A huge fan”
+
+What follows is the letter I wrote the day after Rob died, June 30, 2016.
 
 I first met Rob Wasserman backstage at a performance of Lou Reed’s *Berlin* at St. Ann’s Warehouse. I walked up to him and shook his hand saying “Rob Wasserman! I’m a huge fan!”
 
@@ -2858,7 +2946,7 @@ From the biography on my old site: Along his musical journeys, he met cellist an
 
 ## Lucibel Crater
 
-I started Lucibel Crater in 2005 with Coloff on cello and voice and Paul Chuffo on drums. The trio released an EP, *Miracles*, in 2007 and a full-length, *The Family Album*, in 2008. [Lou Reed](/conspirators/lou-reed/) plays guitar on “Threadbare Funeral.” The live dates that survive in the record are on [Appearances](/appearances/).
+I started Lucibel Crater in 2005 with Coloff on cello and voice and Paul Chuffo on drums. The trio released an EP, *Miracles*, in 2007 and a full-length, *The Family Album*, in 2008. [Lou Reed](/conspirators/lou-reed/) plays guitar on “Threadbare Funeral.” The live dates that survive in the record are on [Sightings](/sightings/).
 
 ## Book of Sarth
 
@@ -2890,7 +2978,7 @@ Paul Chuffo is a drummer in New York. He was the original drummer for [Gutbucket
 
 Lucibel Crater has been a trio since I started it in 2005. A typical set begins with Chuffo’s syncopated drum parts being looped live, piece by piece, before the rest of the band builds on top of them. The trio released the EP *Miracles* in 2007 and the full-length *The Family Album* in 2008, with [Lou Reed](/conspirators/lou-reed/) playing guitar on “Threadbare Funeral.”
 
-The dates that survive in the record run from the Knitting Factory in February 2007 through FatBaby, the Delancey and a Berlin night at RAW-Tempel in November 2008. They are listed on [Appearances](/appearances/).
+The dates that survive in the record run from the Knitting Factory in February 2007 through FatBaby, the Delancey and a Berlin night at RAW-Tempel in November 2008. They are listed on [Sightings](/sightings/).
 
 The credit: Paul Chuffo has played drums in Lucibel Crater with Sarth Calhoun and Leah Coloff since 2005, on *Miracles*, 2007, and *The Family Album*, 2008.
 
@@ -2924,7 +3012,7 @@ After Number19, Diodore played guitar and violin on Puracane’s *I’ve Been He
 
 ## Back in the same band
 
-A tour announcement on May 23, 2011 named Diodore as Lou Reed’s newly confirmed guitarist. He toured Europe that summer in [Lou’s band](/conspiracies/lou-reed-song-band/) on guitar and violin, and returned in 2012 for the *From VU to Lulu* European cycle, where Copenhagen, Bonn and Bordeaux coverage all name him. He also played the Wrecking Ball gala at St. Ann’s Warehouse with Lou on May 7, 2012. The dates are on [Appearances](/appearances/) and on the page for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
+A tour announcement on May 23, 2011 named Diodore as Lou Reed’s newly confirmed guitarist. He toured Europe that summer in [Lou’s band](/conspiracies/lou-reed-song-band/) on guitar and violin, and returned in 2012 for the *From VU to Lulu* European cycle, where Copenhagen, Bonn and Bordeaux coverage all name him. He also played the Wrecking Ball gala at St. Ann’s Warehouse with Lou on May 7, 2012. The dates are on [Sightings](/sightings/) and on the page for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
 
 Tony once said that I was Lou’s imagination, when Lou wanted to just have some wild sound or some completely different kind of sound.
 
@@ -2980,7 +3068,7 @@ The credit: Ulrich Krieger and Sarth Calhoun were two thirds of Metal Machine Tr
 
 ## In Lou’s band
 
-Krieger and I were both in the eight-piece band Reed took through Europe in July 2011, with [Rob Wasserman](/conspirators/rob-wasserman/) on bass, [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) on keys, [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) and [Tony Diodore](/conspirators/tony-diodore/) on guitars, and Tony Smith on drums. That run is on the page for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and the concerts are listed on [Appearances](/appearances/).
+Krieger and I were both in the eight-piece band Reed took through Europe in July 2011, with [Rob Wasserman](/conspirators/rob-wasserman/) on bass, [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) on keys, [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) and [Tony Diodore](/conspirators/tony-diodore/) on guitars, and Tony Smith on drums. That run is on the page for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and the concerts are listed on [Sightings](/sightings/).
 
 The Gramercy recording the trio made in April 2009 was later spatialised as an [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) that visitors walked into, standing where Reed, Krieger or I had stood.
 
@@ -3016,7 +3104,7 @@ My role on that tour was to act as a bridge between the wildness of Lou and the 
 
 Dave Simpson reviewed the Manchester night for [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review) on July 20, 2009: The two titans faced each other – Anderson (standing) on violin and electronics, and Reed (seated) on various guitars – with electronic sound manipulator Sarth Calhoun between them. Over two hours, his expression transformed from enthusiastic glee to that of a baffled marriage counsellor, as Reed barked instructions.
 
-The Paris house program at Salle Pleyel billed me as “claviers et électronique.” The full run is on [Appearances](/appearances/).
+The Paris house program at Salle Pleyel billed me as “claviers et électronique.” The full run is on [Sightings](/sightings/).
 
 ## Vivid LIVE
 
@@ -3028,7 +3116,7 @@ Since then every time I have joined her I think it was for a noise thing, in [Sy
 
 The credit: Sarth Calhoun played Continuum Fingerboard between Laurie Anderson and Lou Reed on the Yellow Pony tours of 2009, resampling their voices live, and has played with Anderson since: Vivid LIVE 2010, and the Lou Reed drone concerts at the Cathedral of St. John the Divine, 2019, and the Winter Garden, 2023.
 
-Both are on [Appearances](/appearances/): St. John the Divine on March 13, 2019, for what would have been Lou’s 77th birthday, and Brookfield Place Winter Garden on March 2, 2023, for his 81st.
+Both are on [Sightings](/sightings/): St. John the Divine on March 13, 2019, for what would have been Lou’s 77th birthday, and Brookfield Place Winter Garden on March 2, 2023, for his 81st.
 
 ---
 
@@ -3036,127 +3124,9 @@ Both are on [Appearances](/appearances/): St. John the Divine on March 13, 2019,
 
 https://www.sarth.net/sightings/
 
-Press
-
-# Sightings
-
-Press on the work, quoted exactly as published. I made Metal Machine Trio with [Lou Reed](/conspirators/lou-reed/) and [Ulrich Krieger](/conspirators/ulrich-krieger/), and wrote the original *Lulu* score with Reed for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director)); the [Metallica](https://en.wikipedia.org/wiki/Metallica) album grew from those recordings.
-
-## Spine
-
-1. [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) · Bryan Bishop · Jan 3, 2013 · Book of Sarth
-2. [Tumblr Storyboard](https://web.archive.org/web/20140812122953/http://storyboard.tumblr.com/post/41358319321/the-book-of-sarth-an-interactive-cyberpunk-tale) · Jan 24, 2013 · interview
-3. [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali) · Sep 2013 · “Hi-Tech Music” · Book of Sarth
-4. [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597) · Leslie Horn · Dec 21, 2012 · Apps of the Week
-5. [The Eighth Nerve](https://news.symbolicsound.com/2012/11/the-book-of-sarth/) · Nov 2012 · Symbolic Sound
-6. [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album) · Ariel Bitran · Apr 23, 2014 · Gralbum launch
-7. [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html) · [Ben Ratliff](https://en.wikipedia.org/wiki/Ben_Ratliff) · Apr 25, 2009 · Metal Machine Trio
-8. [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) · Jeffrey Overwood · Oct 8, 2008 · REDCAT
-9. [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/) · David Sprague · Apr 27, 2009 · Gramercy
-10. [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/) · [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) · Sep 30, 2011 · Lulu / Continuum
-11. [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) · Ulrich Krieger · 2013 · “Unclassifiable”
-12. [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) · Samson Stryker · Jul 2, 2008 · Lucibel Crater *The Family Album*
-
-## Book of Sarth
-
-- > Things really come alive in what’s called the ‘director’s view’: tap an image and the artwork fills the screen, putting the reader in the same place as the characters.
-
-  > Calhoun’s music is no doubt experimental, but his tracks and the artwork play nimbly off one another.
-
-  [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) · Bryan Bishop · Jan 3, 2013
-
-- > The app format seems like a completely new medium to work in. Music always needs a new medium, because it’s always changing. I think if music doesn’t have technology on its side, it tends to have the problem of where to go, it starts to run out of steam.
-
-  Sarth Calhoun, [Tumblr Storyboard](https://web.archive.org/web/20140812122953/http://storyboard.tumblr.com/post/41358319321/the-book-of-sarth-an-interactive-cyberpunk-tale) · ~Jan 24, 2013
-
-- > a narrative about an ear worm that is, itself, an ear worm! The Book of Sarth is the first example of an entirely new art form for the early 21st century.
-
-  [The Eighth Nerve](https://news.symbolicsound.com/2012/11/the-book-of-sarth/) · Nov 2012
-
-- > I wouldn’t mind rolling a j before playing with this trippy app.
-
-  [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597) · Leslie Horn · Dec 21, 2012
-
-- > Chi invece è riuscito a coniare un nuovo concetto di ‘album musicale’ è Sarth Calhoun con il suo sorprendente The Book of Sarth.
-
-  [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali) · Sep 2013 · “Hi-Tech Music”
-
-- Launch at SOHO Digital Arts.
-
-  [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album) · Ariel Bitran · Apr 23, 2014
-
-- [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/) · Brian Heater · Apr 8, 2014
-
-- [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
-
-## Lucibel Crater
-
-- > this is totally music to get high to.
-
-  [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) · Samson Stryker · Jul 2, 2008
-
-- > Something like Bjork and maybe like White Stripes; But the truth is that their sound is unique and not easy to label, to the extent that even Lou Reed has fallen in love with it.
-
-  Urban Magazine (Italia) · Simone Tempia · 2009
-
-- > Lucibel Crater surprise us with a schizoid, unpredictable sound made of both live improvisations and thoughtful studio recordings.
-
-  Vogue Italia · Simone Tempia · 2009 · Lucibel, not the 2013 Book of Sarth piece
-
-## Metal Machine Trio
-
-- > The duo took the stage along with Sarth Calhoun, a computer-based sound designer… Calhoun, seated behind a desk with computers and mixers, added chunky layers of sub-frequency bass vibrations to the mix.
-
-  [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) · Jeffrey Overwood · Oct 8, 2008 · REDCAT
-
-- > On Thursday night at the Blender Theater at Gramercy, onstage between Sarth Calhoun and Ulrich Krieger, two much younger musicians, he was making noise — improvised, loud, heavily processed, and some of it ugly enough to make people leave.
-
-  [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html) · Ben Ratliff · Apr 25, 2009
-
-- > teaming with the composer and saxophonist Ulrich Krieger and the multi-instrumentalist Sarth Calhoun to create ‘a night of deep noise.’
-
-  [The New York Times](https://www.nytimes.com/2009/04/17/arts/music/17pop.html) · listing · Apr 17, 2009
-
-- > It would be too warm and fuzzy to suggest that he engaged bandmate Sarth Calhoun — who did much of his work on a laptop — in any sort of interplay, but the two did combine to create a formidable wall of sound.
-
-  [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/) · David Sprague · Apr 27, 2009
-
-- > Calhoun started playing his Continuum as if it was a throbbing Hammond organ, creating a low undulating swarm of sound.
-
-  [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-brings-controversial-metal-machine-music-to-life-114478/) · Apr 2009
-
-- > Lou decided to bring Sarth along at the last minute; he met him at tai chi practice, played with him at home and wanted his electronic sounds for this concert.
-
-  Ulrich Krieger, [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) · 2013 · “Unclassifiable”
-
-- > Lou said, I don’t want to play duo, I have this electronic guy in New York and I’d like to bring him along. So he brought Sarth Calhoun in.
-
-  Ulrich Krieger, [OC Weekly](https://www.ocweekly.com/metal-machine-trios-ulrich-krieger-the-trio-is-an-update-of-lou-reeds-metal-machine-music-in-philosophical-and-aesthetic-sense-6581450/) · Jan 27, 2012
-
-- [SPIN](https://www.spinmagazine.com/2009/04/lou-reed-unleashes-metal-machine-music-nyc/) · John Macdonald · Apr 24, 2009 · names the Continuum Fingerboard
-
-- [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/) · Apr 15, 2009
-
-## Lulu
-
-- > long drones on cello and an electronic instrument, the Continuum, played by Reed and Sarth Calhoun, a member of Reed’s band. (Calhoun also appears on Lulu.)
-
-  David Fricke, [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/) · Sep 30, 2011 · describing the original Wilson-era tapes
-
-## Books
-
-- I am in Anthony DeCurtis, *Lou Reed: A Life* (2017, Little, Brown / Dey Street).
-- I was interviewed for Lou Reed, *The Art of the Straight Line: My Tai Chi* (March 14, 2023, HarperOne); [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/) name me as an interviewee. Brookfield Place Winter Garden, Lou Reed’s 81st birthday, March 2, 2023: I played a guest performance with [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Shahzad Ismaily, [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson), against Lou Reed’s Musical Drones (Stewart Hurwood).
-
----
-
-# Appearances
-
-https://www.sarth.net/appearances/
-
 Live
 
-# Appearances
+# Sightings
 
 A record of shows and installations. *The Creation of the Universe* comes from two nights at REDCAT, October 2–3, 2008. The later ambisonic installation uses a different recording, made at the Gramercy show on April 24, 2009.
 
@@ -3270,6 +3240,8 @@ Electronics on *[Lulu](/conspiracies/lulu/)*, 2011, and Continuum drones on the 
 
   [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
+- **April 1, 2015** · New York Transit Museum, Brooklyn. Launch showing of the *Train O’ Thots* gralbum, Tom Hart with Moon Hooch, from [The Gralbum Collective](/conspiracies/gralbum-collective/). An event, not a concert.
+
 - **March 13, 2019** · Cathedral of St. John the Divine, New York. Lou Reed Drones for Reed’s 77th birthday. Continuum / electronics, with Laurie Anderson, John Zorn, Stewart Hurwood, Stan Harrison, Shahzad Ismaily.
 
 - **August 3, 2019** · Prospect Park Bandshell, Brooklyn. International Lou Reed Tai Chi Day / BRIC Celebrate Brooklyn! With Laurie Anderson, John Zorn and Stewart Hurwood.
@@ -3296,15 +3268,133 @@ Electronics on *[Lulu](/conspiracies/lulu/)*, 2011, and Continuum drones on the 
 
 ---
 
+# Rumors
+
+https://www.sarth.net/rumors/
+
+Press and announcements
+
+# Rumors
+
+Press on the work, quoted exactly as published. I made Metal Machine Trio with [Lou Reed](/conspirators/lou-reed/) and [Ulrich Krieger](/conspirators/ulrich-krieger/), and wrote the original *Lulu* score with Reed for [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director)); the [Metallica](https://en.wikipedia.org/wiki/Metallica) album grew from those recordings.
+
+## Spine
+
+1. [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) · Bryan Bishop · Jan 3, 2013 · Book of Sarth
+2. [Tumblr Storyboard](https://web.archive.org/web/20140812122953/http://storyboard.tumblr.com/post/41358319321/the-book-of-sarth-an-interactive-cyberpunk-tale) · Jan 24, 2013 · interview
+3. [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali) · Sep 2013 · “Hi-Tech Music” · Book of Sarth
+4. [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597) · Leslie Horn · Dec 21, 2012 · Apps of the Week
+5. [The Eighth Nerve](https://news.symbolicsound.com/2012/11/the-book-of-sarth/) · Nov 2012 · Symbolic Sound
+6. [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album) · Ariel Bitran · Apr 23, 2014 · Gralbum launch
+7. [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html) · [Ben Ratliff](https://en.wikipedia.org/wiki/Ben_Ratliff) · Apr 25, 2009 · Metal Machine Trio
+8. [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) · Jeffrey Overwood · Oct 8, 2008 · REDCAT
+9. [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/) · David Sprague · Apr 27, 2009 · Gramercy
+10. [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/) · [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) · Sep 30, 2011 · Lulu / Continuum
+11. [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) · Ulrich Krieger · 2013 · “Unclassifiable”
+12. [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) · Samson Stryker · Jul 2, 2008 · Lucibel Crater *The Family Album*
+
+## Book of Sarth
+
+- > Things really come alive in what’s called the ‘director’s view’: tap an image and the artwork fills the screen, putting the reader in the same place as the characters.
+
+  > Calhoun’s music is no doubt experimental, but his tracks and the artwork play nimbly off one another.
+
+  [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) · Bryan Bishop · Jan 3, 2013
+
+- > The app format seems like a completely new medium to work in. Music always needs a new medium, because it’s always changing. I think if music doesn’t have technology on its side, it tends to have the problem of where to go, it starts to run out of steam.
+
+  Sarth Calhoun, [Tumblr Storyboard](https://web.archive.org/web/20140812122953/http://storyboard.tumblr.com/post/41358319321/the-book-of-sarth-an-interactive-cyberpunk-tale) · ~Jan 24, 2013
+
+- > a narrative about an ear worm that is, itself, an ear worm! The Book of Sarth is the first example of an entirely new art form for the early 21st century.
+
+  [The Eighth Nerve](https://news.symbolicsound.com/2012/11/the-book-of-sarth/) · Nov 2012
+
+- > I wouldn’t mind rolling a j before playing with this trippy app.
+
+  [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597) · Leslie Horn · Dec 21, 2012
+
+- > Chi invece è riuscito a coniare un nuovo concetto di ‘album musicale’ è Sarth Calhoun con il suo sorprendente The Book of Sarth.
+
+  [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali) · Sep 2013 · “Hi-Tech Music”
+
+- Launch at SOHO Digital Arts.
+
+  [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album) · Ariel Bitran · Apr 23, 2014
+
+- [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/) · Brian Heater · Apr 8, 2014
+
+- [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
+
+## Lucibel Crater
+
+- > this is totally music to get high to.
+
+  [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) · Samson Stryker · Jul 2, 2008
+
+- > Something like Bjork and maybe like White Stripes; But the truth is that their sound is unique and not easy to label, to the extent that even Lou Reed has fallen in love with it.
+
+  Urban Magazine (Italia) · Simone Tempia · 2009
+
+- > Lucibel Crater surprise us with a schizoid, unpredictable sound made of both live improvisations and thoughtful studio recordings.
+
+  Vogue Italia · Simone Tempia · 2009 · Lucibel, not the 2013 Book of Sarth piece
+
+## Metal Machine Trio
+
+- > The duo took the stage along with Sarth Calhoun, a computer-based sound designer… Calhoun, seated behind a desk with computers and mixers, added chunky layers of sub-frequency bass vibrations to the mix.
+
+  [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) · Jeffrey Overwood · Oct 8, 2008 · REDCAT
+
+- > On Thursday night at the Blender Theater at Gramercy, onstage between Sarth Calhoun and Ulrich Krieger, two much younger musicians, he was making noise — improvised, loud, heavily processed, and some of it ugly enough to make people leave.
+
+  [The New York Times](https://www.nytimes.com/2009/04/25/arts/music/25reed.html) · Ben Ratliff · Apr 25, 2009
+
+- > teaming with the composer and saxophonist Ulrich Krieger and the multi-instrumentalist Sarth Calhoun to create ‘a night of deep noise.’
+
+  [The New York Times](https://www.nytimes.com/2009/04/17/arts/music/17pop.html) · listing · Apr 17, 2009
+
+- > It would be too warm and fuzzy to suggest that he engaged bandmate Sarth Calhoun — who did much of his work on a laptop — in any sort of interplay, but the two did combine to create a formidable wall of sound.
+
+  [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/) · David Sprague · Apr 27, 2009
+
+- > Calhoun started playing his Continuum as if it was a throbbing Hammond organ, creating a low undulating swarm of sound.
+
+  [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-brings-controversial-metal-machine-music-to-life-114478/) · Apr 2009
+
+- > Lou decided to bring Sarth along at the last minute; he met him at tai chi practice, played with him at home and wanted his electronic sounds for this concert.
+
+  Ulrich Krieger, [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable) · 2013 · “Unclassifiable”
+
+- > Lou said, I don’t want to play duo, I have this electronic guy in New York and I’d like to bring him along. So he brought Sarth Calhoun in.
+
+  Ulrich Krieger, [OC Weekly](https://www.ocweekly.com/metal-machine-trios-ulrich-krieger-the-trio-is-an-update-of-lou-reeds-metal-machine-music-in-philosophical-and-aesthetic-sense-6581450/) · Jan 27, 2012
+
+- [SPIN](https://www.spinmagazine.com/2009/04/lou-reed-unleashes-metal-machine-music-nyc/) · John Macdonald · Apr 24, 2009 · names the Continuum Fingerboard
+
+- [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/) · Apr 15, 2009
+
+## Lulu
+
+- > long drones on cello and an electronic instrument, the Continuum, played by Reed and Sarth Calhoun, a member of Reed’s band. (Calhoun also appears on Lulu.)
+
+  David Fricke, [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/) · Sep 30, 2011 · describing the original Wilson-era tapes
+
+## Books
+
+- I am in Anthony DeCurtis, *Lou Reed: A Life* (2017, Little, Brown / Dey Street).
+- I was interviewed for Lou Reed, *The Art of the Straight Line: My Tai Chi* (March 14, 2023, HarperOne); [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/) name me as an interviewee. Brookfield Place Winter Garden, Lou Reed’s 81st birthday, March 2, 2023: I played a guest performance with [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Shahzad Ismaily, [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson), against Lou Reed’s Musical Drones (Stewart Hurwood).
+
+---
+
 # Devices
 
 https://www.sarth.net/devices/
 
-Physical objects
+Physical objects · Machine
 
 # Devices
 
-Physical objects on the table. Kyma, Continuum, the performance DAW, the motion studio. Software machines live on [Contraptions](https://contraptions.bookofsarth.com).
+Physical objects on the table. Kyma, Continuum, the performance DAW, the motion studio. Software machines are on [Contraptions](/contraptions/).
 
 ## Symbolic Sound Kyma (Paca / Pacarana)
 
@@ -3342,6 +3432,76 @@ My first instrument. In my teens I stopped buying comic books to save up for my 
 
 ---
 
+# Contraptions
+
+https://www.sarth.net/contraptions/
+
+Small machines · Machine
+
+# Contraptions
+
+Contraptions is my shelf of small machines, used at [Third Wall Studio](/conspiracies/third-wall-studio/). Each one lives at its own path on [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com), with its source, a text guide and a release record beside it, and each runs in the browser with nothing leaving it. [Burlap](/conspiracies/burlap/) is the main machine; these are the odd little ones beside it.
+
+The physical instruments are on [Devices](/devices/).
+
+![FM / 6 in the browser: three of its six operators with wave, ratio, detune, level and envelope controls, and the signal routing diagram.](/images/contraption-fm6.png)
+
+FM / 6, the Glass garden patch.
+
+The record: Published September 8, 2026. Six operators, four FM routings, two touch keyboards with sustain latches, MIDI and MPE input, ten starting patches, patch URLs, JSON import and export. The C++ engine runs in the browser through WebAssembly and the Web Audio API. [Play](https://contraptions.bookofsarth.com/fm6/) · [Guide](https://contraptions.bookofsarth.com/fm6.md) · [Release record](https://contraptions.bookofsarth.com/fm6.json)
+
+## FM / 6
+
+Six operators. Two keyboards. A sound you can take apart.
+
+A six-operator synthesizer. Start with a bell, a bass or a slowly moving chord. Change the operators and hear how the sound is made.
+
+Why: to make the relationships inside a sound playable and understandable. Each operator explains its role in the current patch and suggests a useful change to try.
+
+## Image Compare Workbench
+
+One folder of gens. Two click-rails on the same pool. Lock A, walk B. Camera and wipe stay put. Nothing leaves the browser.
+
+Drop a folder of images. Click a reference on one rail, click candidates on the other. The camera stays put. Local, in the browser. Svelte 5, Vite, TypeScript. Images stay as File objects and blob URLs.
+
+Sat with [imgsli](https://imgsli.com/) and [Improve ImgSLI](https://github.com/Loganavter/Improve-ImgSLI). One local pool, two independent click-rails.
+
+[Use it](https://contraptions.bookofsarth.com/image-compare-workbench) · [Source](https://github.com/whiddershins/image-compare-workbench)
+
+![Image Compare Workbench: two rails of thumbnails either side of a wipe between two versions of a drawing of children walking away.](/images/contraption-image-compare-workbench.jpg)
+
+Image Compare Workbench: two rails, one pool, a wipe between A and B.
+
+![Soundscape One: a volume slider, movement controls and a black ball in a grey field.](/images/contraption-soundscape-one.jpg)
+
+Soundscape One. The ball is you.
+
+## Soundscape One
+
+A 2D field of sound. You walk; the mix follows. Position is the instrument.
+
+A playable space, not a playlist. Sound is placed in the plane. Your position is the mix. Why: to be inside a sound, not in front of a track.
+
+Three versions: [Soundscape One A](https://contraptions.bookofsarth.com/soundscape-one/one-a.html), four voice, the denser one; [Soundscape Two A](https://contraptions.bookofsarth.com/soundscape-one/officeSoundscape_01.html), offices; and [Soundscape One B](https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html), two voice, the original, simpler one. First published February 23, 2021.
+
+[Walk it](https://contraptions.bookofsarth.com/soundscape-one) · [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
+
+## Other people’s machines
+
+Two things on the shelf are not mine. [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript): Surya Narreddi and Cameron Franz RL’d Qwen to paint in p5.js. The sketch is the painting. You edit the code, not the prompt. They rated 1,664 gens by hand and judged new rollouts pairwise against a love pool. That pool is a folder of gens. Image Compare Workbench is the local set-workbench for that job.
+
+[Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb): Zach Hill’s kick sequencer. Kick, noise, reverb layers, then a mastering chain. Diffusion kicks behind a login.
+
+The credit: Contraptions is Sarth Calhoun’s shelf of small machines. FM / 6 (2026), Image Compare Workbench (2026), Soundscape One (2021) and Burlap (2025) are his. Paint with JavaScript and Kick with Reverb are other people’s, kept on the shelf.
+
+## Earlier machines
+
+The Contraptions category of my old WordPress site listed Jamboxes, with Moldover, in July 2012; ConnecTable carpentry in July 2013; and Brain melt, a double FireWire 800 scare, in October 2011. Only the titles survive there. SeqOSC, a relative of AM synthesis, was built in Kyma and is on [Devices](/devices/).
+
+The copy for each machine is mine, from its page on contraptions.bookofsarth.com; the screenshots are the shelf’s own.
+
+---
+
 # Citations
 
 https://www.sarth.net/citations/
@@ -3376,7 +3536,9 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [meet the artists](https://thirdwallstudio.com/process)
 - [Through the Brambles](https://www.thirdwallstudio.com/through-the-brambles)
 - [Contraptions](https://contraptions.bookofsarth.com)
+- [FM / 6](https://contraptions.bookofsarth.com/fm6/)
 - [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
+- [Soundscape One](https://contraptions.bookofsarth.com/soundscape-one)
 - [Book of Sarth](https://bookofsarth.com)
 - [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
 - [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
@@ -3394,38 +3556,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [sarth.net](https://www.sarth.net)
 - [bookofsarth.com](https://bookofsarth.com)
 - [X @noisegroove](https://x.com/noisegroove)
+- [Instagram @noisegroove](https://www.instagram.com/noisegroove/)
+- [YouTube](https://www.youtube.com/@whiddershins)
+- [Bluesky](https://bsky.app/profile/noisegroove.bsky.social)
 - [GitHub](https://github.com/whiddershins)
-- [Instagram](https://www.instagram.com/3rdwallstudio/)
 - [Wikidata Q7424654](https://www.wikidata.org/wiki/Q7424654)
 - [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
 - [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
-
-## [Appearances](/appearances/)
-
-`/appearances/`
-
-- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
-- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
-- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
-- [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House)
-- [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
-- [REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
-- [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
-- [NYT Ratliff](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
-- [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
-- [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
-- [Announcement](https://loureed.com/news/lou-reed-at-lollapalooza/)
-- [DVD credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
-- [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
-- [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
-- [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
-- [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
-- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
-- [Metallica](https://en.wikipedia.org/wiki/Metallica)
-- [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
-- [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
-- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
-- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 
 ## [Citations](/citations/)
 
@@ -3467,6 +3604,8 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 - [Contraptions](https://contraptions.bookofsarth.com)
+- [Burlap on Instagram](https://www.instagram.com/burlapapp/)
+- [Burlap on YouTube](https://www.youtube.com/@burlap_app)
 
 ## [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/)
 
@@ -3479,10 +3618,11 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/conspiracies/gralbum-collective/`
 
 - [gralbumcollective.com](https://gralbumcollective.com/)
+- [Laughing Squid, April 8, 2014](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
 - [Bora Yoon](https://www.borayoon.com/)
 - [Tom Hart](https://en.wikipedia.org/wiki/Tom_Hart_(cartoonist))
 - [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
-- [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
+- [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 - [Adam Matta](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops)
 - [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
@@ -3521,6 +3661,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian)
+- [Symbolic Sound, July 26, 2011](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
 - [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey)
 - [Chemical Brothers](https://en.wikipedia.org/wiki/The_Chemical_Brothers)
 
@@ -3595,9 +3736,9 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Number19](https://en.wikipedia.org/wiki/Number19)
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
+- [mp3.com](https://en.wikipedia.org/wiki/Mp3.com)
 - [Apple Music](https://music.apple.com/us/album/suspension/274828088)
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
-- [mp3.com](https://en.wikipedia.org/wiki/Mp3.com)
 - [Puracane](https://en.wikipedia.org/wiki/Puracane)
 - [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
 
@@ -3635,7 +3776,9 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/conspiracies/yellow-pony/`
 
-- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+- [The Guardian, July 20, 2009](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
+- [loureed.com](https://loureed.com/news/lou-reed-and-laurie-anderson-tour-dates/)
+- [El Punt Avui, July 2009](https://www.elpuntavui.cat/cultura/article/19-cultura/59389-lou-reed-i-laurie-anderson-estrenen-el-seu-lmanifest-grocr-a-sant-feliu.html)
 
 ## [Laurie Anderson](/conspirators/laurie-anderson/)
 
@@ -3668,6 +3811,8 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [John Cale](https://en.wikipedia.org/wiki/John_Cale)
 - [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
+- [“Unclassifiable”, The Wire, 2013](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+- [loureed.com, June 25, 2009](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 
 ## [Paul Chuffo](/conspirators/paul-chuffo/)
 
@@ -3713,14 +3858,44 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/contact/`
 
-- [@noisegroove](https://x.com/noisegroove)
+- [@noisegroove on X](https://x.com/noisegroove)
+- [Instagram](https://www.instagram.com/noisegroove/)
+- [Bluesky](https://bsky.app/profile/noisegroove.bsky.social)
+- [YouTube](https://www.youtube.com/@whiddershins)
+- [SoundCloud](https://soundcloud.com/noisegroove)
+- [Bandcamp](https://sarth.bandcamp.com)
+- [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+- [Apple Music](https://music.apple.com/us/artist/sarth/1061852162)
 - [github.com/whiddershins](https://github.com/whiddershins)
+- [Instagram](https://www.instagram.com/3rdwallstudio/)
+- [YouTube](https://www.youtube.com/@burlap_app)
+- [burlap.app](https://burlap.app)
+- [Instagram](https://www.instagram.com/burlapapp/)
+
+## [Contraptions](/contraptions/)
+
+`/contraptions/`
+
+- [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
+- [Play](https://contraptions.bookofsarth.com/fm6/)
+- [Guide](https://contraptions.bookofsarth.com/fm6.md)
+- [Release record](https://contraptions.bookofsarth.com/fm6.json)
+- [imgsli](https://imgsli.com/)
+- [Improve ImgSLI](https://github.com/Loganavter/Improve-ImgSLI)
+- [Use it](https://contraptions.bookofsarth.com/image-compare-workbench)
+- [Source](https://github.com/whiddershins/image-compare-workbench)
+- [Soundscape One A](https://contraptions.bookofsarth.com/soundscape-one/one-a.html)
+- [Soundscape Two A](https://contraptions.bookofsarth.com/soundscape-one/officeSoundscape_01.html)
+- [Soundscape One B](https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html)
+- [Walk it](https://contraptions.bookofsarth.com/soundscape-one)
+- [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
+- [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript)
+- [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb)
 
 ## [Devices](/devices/)
 
 `/devices/`
 
-- [Contraptions](https://contraptions.bookofsarth.com)
 - [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
 - [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
 - [Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
@@ -3732,9 +3907,9 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
 - [runwayml.com](https://runwayml.com/)
 
-## [Sightings](/sightings/)
+## [Rumors](/rumors/)
 
-`/sightings/`
+`/rumors/`
 
 - [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
@@ -3762,6 +3937,33 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+
+## [Sightings](/sightings/)
+
+`/sightings/`
+
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
+- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+- [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House)
+- [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
+- [REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
+- [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
+- [NYT Ratliff](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
+- [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
+- [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
+- [Announcement](https://loureed.com/news/lou-reed-at-lollapalooza/)
+- [DVD credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
+- [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+- [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
+- [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
+- [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+- [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
+- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 
 ## [Transmissions](/transmissions/)
 
@@ -3997,29 +4199,16 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [burlap.app](https://burlap.app)
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
-- [Watching Shadows](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Through the Brambles](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-- [Pigeon Problems](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-- [Truck Stop Love](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-- [Meatsuitz Family Vacay](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
-- [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
-- [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
 - [Reaktor](https://reaktor.com)
 - [Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
+- [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
 - [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 - [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
-- [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)
-- [Acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
 - [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
-- [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
-- [Shruti box](https://www.youtube.com/watch?v=V_ZinrLAl4I)
-- [Prepared guitar](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
 - [bookofsarth.com](https://bookofsarth.com)
 - [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
-- [(gr)album](https://gralbumcollective.com/titles.html)
 - [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs)
-- [Berlin live](https://www.youtube.com/watch?v=UOh4tKteFOs)
 
 ---
 
@@ -4033,8 +4222,12 @@ Write
 
 Sarth Calhoun. Brooklyn.
 
-[whiddershins@gmail.com](mailto:whiddershins@gmail.com)
+[sayhello@sarth.net](mailto:sayhello@sarth.net)
 
-[@noisegroove](https://x.com/noisegroove)
+[@noisegroove on X](https://x.com/noisegroove) · [Instagram](https://www.instagram.com/noisegroove/) · [Bluesky](https://bsky.app/profile/noisegroove.bsky.social)
+
+[YouTube](https://www.youtube.com/@whiddershins) · [SoundCloud](https://soundcloud.com/noisegroove) · [Bandcamp](https://sarth.bandcamp.com) · [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9) · [Apple Music](https://music.apple.com/us/artist/sarth/1061852162)
 
 [github.com/whiddershins](https://github.com/whiddershins)
+
+Third Wall Studio: [studio@thirdwallstudio.com](mailto:studio@thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [YouTube](https://www.youtube.com/@burlap_app). Burlap: [burlap.app](https://burlap.app) · [Instagram](https://www.instagram.com/burlapapp/) · [YouTube](https://www.youtube.com/@burlap_app).

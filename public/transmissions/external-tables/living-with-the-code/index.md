@@ -3,9 +3,10 @@ title: Living with the code
 description: Reading dense, strongly typed functional TypeScript: Prettier verticality, generics, and going one concept at a time.
 url: https://www.sarth.net/transmissions/external-tables/living-with-the-code/
 published: 2026-09-22
+facet: machine
 author: Sarth Calhoun
 ---
-Append-only pipelines · Part 5 of 5
+Append-only pipelines · Part 5 of 5 · Machine
 
 # Living with the code
 

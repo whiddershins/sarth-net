@@ -3,12 +3,13 @@ title: The Creation of the Universe
 description: The Creation of the Universe, the 2009 double live album by Lou Reed's Metal Machine Trio: Lou Reed, Ulrich Krieger and Sarth Calhoun, recorded over two nights at REDCAT in Los Angeles, October 2008.
 url: https://www.sarth.net/transmissions/the-creation-of-the-universe/
 published: 2009-05-19
+facet: dream
 credit: Lou Reed, guitar, electronics and a small Continuum. Ulrich Krieger, tenor saxophone and live electronics. Sarth Calhoun, Continuum, and the whole field processed through Kyma.
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / The Creation of the Universe
 
-Transmission
+Transmission · Dream
 
 # *The Creation of the Universe*
 
@@ -44,11 +45,11 @@ The record: Night 1, fifty-five minutes. Night 2, fifty-six. On [Apple Music](ht
 
 The album is the two REDCAT nights billed as *Unclassified: Lou Reed and Ulrich Krieger*, the shows that sold out inside a day and had a late set added. [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) heard me seated behind a desk with computers and mixers adding chunky layers of sub-frequency bass vibrations to the mix.
 
-The later [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) of the same name uses a different recording, from the Gramercy show of April 24, 2009, not this album. The dates are on [Appearances](/appearances/).
+The later [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) of the same name uses a different recording, from the Gramercy show of April 24, 2009, not this album. The dates are on [Sightings](/sightings/).
 
 ## Conspiracies
 
-Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/); the instrument was the Continuum. The press on the record and the shows is on [Sightings](/sightings/).
+Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/); the instrument was the Continuum. The press on the record and the shows is on [Rumors](/rumors/).
 
 Who played what: Lou Reed, guitar, electronics and a small Continuum. Ulrich Krieger, tenor saxophone and live electronics. Sarth Calhoun, Continuum, and the whole field processed through Kyma.
 

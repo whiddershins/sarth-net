@@ -3,12 +3,13 @@ title: Transmissions from the Book of Sarth
 description: Transmissions from the Book of Sarth, the 2013 four-track EP by Sarth Calhoun from the music of The Book of Sarth: Awakening (To Blacklist), Table (If I Can), Primary Defenestration (Deforestation), For Valentina (To Your Rescue).
 url: https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/
 published: 2013
+facet: dream
 credit: *Transmissions from the Book of Sarth*, 2013: four pieces by Sarth Calhoun from the music of *The Book of Sarth*, made with Kyma, published through The Gralbum Collective.
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / Transmissions from the Book of Sarth
 
-Transmission
+Transmission · Dream
 
 # *Transmissions from the Book of Sarth*
 

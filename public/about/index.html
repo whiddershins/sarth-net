@@ -66,6 +66,10 @@
         "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
         "https://sarth.bandcamp.com",
         "https://www.youtube.com/@whiddershins",
+        "https://www.instagram.com/noisegroove/",
+        "https://soundcloud.com/noisegroove",
+        "https://bsky.app/profile/noisegroove.bsky.social",
+        "https://music.apple.com/us/artist/sarth/1061852162",
         "https://github.com/whiddershins",
         "https://x.com/noisegroove",
         "https://www.linkedin.com/in/sarth-calhoun/",
@@ -94,6 +98,10 @@
       "@id": "https://www.sarth.net/#burlap",
       "name": "Burlap",
       "url": "https://burlap.app",
+      "sameAs": [
+        "https://www.instagram.com/burlapapp/",
+        "https://www.youtube.com/@burlap_app"
+      ],
       "applicationCategory": "DesignApplication",
       "operatingSystem": "macOS",
       "creator": {
@@ -201,15 +209,17 @@
 <body>
   <header class="top">
     <a class="mark" href="/">Sarth</a>
+    <input type="checkbox" id="menu" class="menu-toggle">
+    <label for="menu" class="menu-button">Menu</label>
     <nav>
-      <a href="/">Sarth</a>
       <a href="/about/" aria-current="page">About</a>
       <a href="/conspiracies/">Conspiracies</a>
       <a href="/conspirators/">Conspirators</a>
-      <a href="/sightings/">Sightings</a>
+      <a href="/rumors/">Rumors</a>
       <a href="/work/">Work</a>
-      <a href="/appearances/">Appearances</a>
+      <a href="/sightings/">Sightings</a>
       <a href="/devices/">Devices</a>
+      <a href="/contraptions/">Contraptions</a>
       <a href="/transmissions/">Transmissions</a>
       <a href="/contact/">Contact</a>
     </nav>
@@ -236,7 +246,7 @@
       <dt>Sites</dt>
       <dd><a href="https://www.sarth.net">sarth.net</a> &middot; <a href="https://thirdwallstudio.com">thirdwallstudio.com</a> &middot; <a href="https://burlap.app">burlap.app</a> &middot; <a href="https://bookofsarth.com">bookofsarth.com</a></dd>
       <dt>Social</dt>
-      <dd><a href="https://x.com/noisegroove">X @noisegroove</a> &middot; <a href="https://github.com/whiddershins">GitHub</a> &middot; <a href="https://www.instagram.com/3rdwallstudio/">Instagram</a></dd>
+      <dd><a href="https://x.com/noisegroove">X @noisegroove</a> &middot; <a href="https://www.instagram.com/noisegroove/">Instagram @noisegroove</a> &middot; <a href="https://www.youtube.com/@whiddershins">YouTube</a> &middot; <a href="https://bsky.app/profile/noisegroove.bsky.social">Bluesky</a> &middot; <a href="https://github.com/whiddershins">GitHub</a></dd>
       <dt>Lineage</dt>
       <dd><a href="/conspiracies/metal-machine-trio/">Metal Machine Trio</a> with Lou Reed and Ulrich Krieger; the original <a href="/conspiracies/lulu/"><em>Lulu</em></a> score with Reed for Robert Wilson, then the Lou Reed and Metallica album; <a href="/conspiracies/junior-dad/">&ldquo;Junior Dad&rdquo;</a>; <a href="/conspiracies/book-of-sarth/"><em>The Book of Sarth</em></a>; <a href="/conspiracies/lucibel-crater/">Lucibel Crater</a>.</dd>
       <dt>Identifiers</dt>
@@ -268,16 +278,24 @@
   </main>
   <footer>
     <p>
-      <a href="https://x.com/noisegroove">@noisegroove</a>
+      <a href="https://x.com/noisegroove">X</a>
+      · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
+      · <a href="https://www.youtube.com/@whiddershins">YouTube</a>
+      · <a href="https://soundcloud.com/noisegroove">SoundCloud</a>
+      · <a href="https://sarth.bandcamp.com">Bandcamp</a>
+      · <a href="https://bsky.app/profile/noisegroove.bsky.social">Bluesky</a>
       · <a href="https://github.com/whiddershins">GitHub</a>
       · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
-      · <a href="mailto:whiddershins@gmail.com">email</a>
+      · <a href="mailto:sayhello@sarth.net">email</a>
     </p>
     <p>
-      <a href="https://bookofsarth.com">Book of Sarth</a>
-      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/3rdwallstudio/">its Instagram</a>
       · <a href="https://burlap.app">Burlap</a>
-      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/burlapapp/">its Instagram</a>
+      · <a href="https://www.youtube.com/@burlap_app">its YouTube</a>
+      · <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
     </p>
     <p class="host">All rights reserved</p>
   </footer>

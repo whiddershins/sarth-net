@@ -2,19 +2,20 @@
 title: Lou Reed spring 2008 U.S. tour
 description: Lou Reed's spring 2008 U.S. tour with Sarth Calhoun, Rob Wasserman, Kevin Hearn, Mike Rathke, Steve Hunter, and Tony Smith.
 url: https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/
+facet: dream
 credit: Sarth Calhoun, electronics and live processing, in Lou Reed’s band on the spring 2008 U.S. tour, with Rob Wasserman, Kevin Hearn, Mike Rathke, Steve Hunter and Tony “Thunder” Smith. Jesse Jarnow, reviewing the last night for [The Village Voice](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party): “Sarth Calhoun’s invisible Macbookery.”
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Lou Reed spring 2008 U.S. tour
 
-Conspiracy
+Conspiracy · Dream
 
 # Lou Reed
 spring 2008 U.S. tour
 
 [Lou Reed](/conspirators/lou-reed/) toured the United States in April and May 2008 with his [song band](/conspiracies/lou-reed-song-band/), playing the Northeast first and then working south by bus as far as Memphis. The tour was not tied to a new album.
 
-It was my first tour with Lou. I played electronics and processed the other musicians live. The dates are listed on [Appearances](/appearances/).
+It was my first tour with Lou. I played electronics and processed the other musicians live. The dates are listed on [Sightings](/sightings/).
 
 ## The route I remembered
 

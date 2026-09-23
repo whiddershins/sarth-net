@@ -43,7 +43,7 @@ The credit: Ulrich Krieger and Sarth Calhoun were two thirds of Metal Machine Tr
 
 ## In Lou’s band
 
-Krieger and I were both in the eight-piece band Reed took through Europe in July 2011, with [Rob Wasserman](/conspirators/rob-wasserman/) on bass, [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) on keys, [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) and [Tony Diodore](/conspirators/tony-diodore/) on guitars, and Tony Smith on drums. That run is on the page for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and the concerts are listed on [Appearances](/appearances/).
+Krieger and I were both in the eight-piece band Reed took through Europe in July 2011, with [Rob Wasserman](/conspirators/rob-wasserman/) on bass, [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn) on keys, [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) and [Tony Diodore](/conspirators/tony-diodore/) on guitars, and Tony Smith on drums. That run is on the page for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and the concerts are listed on [Sightings](/sightings/).
 
 The Gramercy recording the trio made in April 2009 was later spatialised as an [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) that visitors walked into, standing where Reed, Krieger or I had stood.
 

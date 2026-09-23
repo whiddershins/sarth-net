@@ -3,12 +3,13 @@ title: Burlap
 description: Burlap, the native Mac app Sarth Calhoun made at Third Wall Studio: an infinite canvas for visual creation and context management, connected to models from OpenAI, Google, Runway and ByteDance.
 url: https://www.sarth.net/conspiracies/burlap/
 published: 2026-09-23
+facet: machine
 credit: Burlap is made by Sarth Calhoun at Third Wall Studio. He started it after Runway’s 48-hour film competition in the spring of 2025.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Burlap
 
-Conspiracy
+Conspiracy · Machine
 
 # Burlap
 
@@ -43,5 +44,7 @@ I made Burlap after entering the runway 48 hours sprint competition, you're supp
 ## Conspiracies
 
 [Third Wall Studio](/conspiracies/third-wall-studio/) builds it and makes its films in it; they are on [Work](/work/). [Visual Reference Prompting](/transmissions/visual-reference-prompting/) is the method the canvas is built around. [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) is Claude driving DuckDB over Burlap’s JSON records of every genAI call. The small tools at [Contraptions](https://contraptions.bookofsarth.com) sit beside it: Burlap is the main machine; these are the odd little ones beside it.
+
+[Burlap on Instagram](https://www.instagram.com/burlapapp/) · [Burlap on YouTube](https://www.youtube.com/@burlap_app)
 
 Burlap’s copy is from [burlap.app](https://burlap.app) and the sarth.net homepage.

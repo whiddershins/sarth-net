@@ -72,6 +72,10 @@
         "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
         "https://sarth.bandcamp.com",
         "https://www.youtube.com/@whiddershins",
+        "https://www.instagram.com/noisegroove/",
+        "https://soundcloud.com/noisegroove",
+        "https://bsky.app/profile/noisegroove.bsky.social",
+        "https://music.apple.com/us/artist/sarth/1061852162",
         "https://github.com/whiddershins",
         "https://x.com/noisegroove",
         "https://www.linkedin.com/in/sarth-calhoun/",
@@ -100,6 +104,10 @@
       "@id": "https://www.sarth.net/#burlap",
       "name": "Burlap",
       "url": "https://burlap.app",
+      "sameAs": [
+        "https://www.instagram.com/burlapapp/",
+        "https://www.youtube.com/@burlap_app"
+      ],
       "applicationCategory": "DesignApplication",
       "operatingSystem": "macOS",
       "creator": {
@@ -148,23 +156,25 @@
 <body>
   <header class="top">
     <a class="mark" href="/">Sarth</a>
+    <input type="checkbox" id="menu" class="menu-toggle">
+    <label for="menu" class="menu-button">Menu</label>
     <nav>
-      <a href="/">Sarth</a>
       <a href="/about/">About</a>
       <a href="/conspiracies/">Conspiracies</a>
       <a href="/conspirators/">Conspirators</a>
-      <a href="/sightings/">Sightings</a>
+      <a href="/rumors/">Rumors</a>
       <a href="/work/">Work</a>
-      <a href="/appearances/">Appearances</a>
+      <a href="/sightings/">Sightings</a>
       <a href="/devices/">Devices</a>
+      <a href="/contraptions/">Contraptions</a>
       <a href="/transmissions/" aria-current="page">Transmissions</a>
       <a href="/contact/">Contact</a>
     </nav>
   </header>
 
-  <main class="page story">
+  <main class="page story" data-facet="dream">
     <p class="breadcrumbs"><a href="/transmissions/">Transmissions</a> / Lou Reed Live at Lollapalooza 2009</p>
-    <p class="kicker">Transmission</p>
+    <p class="kicker">Transmission · Dream</p>
     <h1><em>Lou Reed Live at Lollapalooza 2009</em></h1>
 
     <section class="opener">
@@ -187,7 +197,7 @@
         </blockquote>
         <div class="w2">
           <h2>The set</h2>
-          <p>Day three, to a capacity crowd of forty thousand. <a href="https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/">Rolling Stone</a> noted Reed ran fifteen minutes over. Inside the set, <a href="/conspiracies/metal-machine-trio/">Metal Machine Trio</a> played a ten minute noise interlude between the songs. The date is on <a href="/appearances/">Appearances</a>.</p>
+          <p>Day three, to a capacity crowd of forty thousand. <a href="https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/">Rolling Stone</a> noted Reed ran fifteen minutes over. Inside the set, <a href="/conspiracies/metal-machine-trio/">Metal Machine Trio</a> played a ten minute noise interlude between the songs. The date is on <a href="/sightings/">Sightings</a>.</p>
         </div>
       </div>
     </section>
@@ -226,7 +236,7 @@
       <dt>On this site</dt>
       <dd><a href="/">Sarth Calhoun</a> · <a href="/transmissions/">Transmissions</a></dd>
       <dt>Related work</dt>
-      <dd><a href="/conspiracies/lou-reed-song-band/">Lou Reed’s song band</a> · <a href="/conspiracies/metal-machine-trio/">Metal Machine Trio</a> · <a href="/appearances/">Appearances</a></dd>
+      <dd><a href="/conspiracies/lou-reed-song-band/">Lou Reed’s song band</a> · <a href="/conspiracies/metal-machine-trio/">Metal Machine Trio</a> · <a href="/sightings/">Sightings</a></dd>
       <dt>People in this story</dt>
       <dd><a href="/conspirators/lou-reed/">Lou Reed</a> · <a href="/conspirators/rob-wasserman/">Rob Wasserman</a> · <a href="/conspirators/ulrich-krieger/">Ulrich Krieger</a></dd>
       <dt>Tools</dt>
@@ -237,16 +247,24 @@
   </aside>
   <footer>
     <p>
-      <a href="https://x.com/noisegroove">@noisegroove</a>
+      <a href="https://x.com/noisegroove">X</a>
+      · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
+      · <a href="https://www.youtube.com/@whiddershins">YouTube</a>
+      · <a href="https://soundcloud.com/noisegroove">SoundCloud</a>
+      · <a href="https://sarth.bandcamp.com">Bandcamp</a>
+      · <a href="https://bsky.app/profile/noisegroove.bsky.social">Bluesky</a>
       · <a href="https://github.com/whiddershins">GitHub</a>
       · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
-      · <a href="mailto:whiddershins@gmail.com">email</a>
+      · <a href="mailto:sayhello@sarth.net">email</a>
     </p>
     <p>
-      <a href="https://bookofsarth.com">Book of Sarth</a>
-      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/3rdwallstudio/">its Instagram</a>
       · <a href="https://burlap.app">Burlap</a>
-      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/burlapapp/">its Instagram</a>
+      · <a href="https://www.youtube.com/@burlap_app">its YouTube</a>
+      · <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
     </p>
     <p class="host">All rights reserved</p>
   </footer>

@@ -3,9 +3,10 @@ title: Window functions, the mental model
 description: The mental model for SQL window functions: compare them to aggregates, PARTITION BY vs GROUP BY, ROW_NUMBER vs RANK, and why the window grows.
 url: https://www.sarth.net/transmissions/window-functions/
 published: 2026-09-22
+facet: message
 author: Sarth Calhoun
 ---
-SQL
+SQL · Message
 
 # Window functions, the mental model
 

@@ -3,12 +3,13 @@ title: Vivid LIVE 2010
 description: Vivid LIVE 2010 at the Sydney Opera House, curated by Lou Reed and Laurie Anderson. Sarth Calhoun played Metal Machine Trio, a roughly fifty-person noise band at the opening, and about a dozen unplanned jams across the two weeks.
 url: https://www.sarth.net/conspiracies/vivid-live/
 published: 2026-09-22
+facet: dream
 credit: Sarth Calhoun, Continuum and laptops, with Metal Machine Trio at the Opera Theatre, Sydney Opera House, May 30, 2010, in the noise band at the festival opening, and in about a dozen unplanned jams across Vivid LIVE.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Vivid LIVE 2010
 
-Conspiracy
+Conspiracy · Dream
 
 # Vivid LIVE 2010
 
@@ -24,7 +25,7 @@ We had basically a fifty person noise band for the opening.
 
 I played like twelve unplanned jams at that festival.
 
-[Metal Machine Trio](/conspiracies/metal-machine-trio/) played the Opera Theatre on May 30, which is the one date that made it into the public record. It is listed on [Appearances](/appearances/). The rest was not announced.
+[Metal Machine Trio](/conspiracies/metal-machine-trio/) played the Opera Theatre on May 30, which is the one date that made it into the public record. It is listed on [Sightings](/sightings/). The rest was not announced.
 
 The credit: Sarth Calhoun, Continuum and laptops, with Metal Machine Trio at the Opera Theatre, Sydney Opera House, May 30, 2010, in the noise band at the festival opening, and in about a dozen unplanned jams across Vivid LIVE.
 

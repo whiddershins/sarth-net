@@ -3,9 +3,10 @@ title: SQL as the data language
 description: Views, CTEs, joins, and why a handy way to think about SQL is that everything is a table (which is also not true).
 url: https://www.sarth.net/transmissions/sql-as-the-data-language/
 published: 2026-09-22
+facet: message
 author: Sarth Calhoun
 ---
-SQL
+SQL · Message
 
 # SQL as the data language
 

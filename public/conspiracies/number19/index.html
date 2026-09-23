@@ -72,6 +72,10 @@
         "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
         "https://sarth.bandcamp.com",
         "https://www.youtube.com/@whiddershins",
+        "https://www.instagram.com/noisegroove/",
+        "https://soundcloud.com/noisegroove",
+        "https://bsky.app/profile/noisegroove.bsky.social",
+        "https://music.apple.com/us/artist/sarth/1061852162",
         "https://github.com/whiddershins",
         "https://x.com/noisegroove",
         "https://www.linkedin.com/in/sarth-calhoun/",
@@ -100,6 +104,10 @@
       "@id": "https://www.sarth.net/#burlap",
       "name": "Burlap",
       "url": "https://burlap.app",
+      "sameAs": [
+        "https://www.instagram.com/burlapapp/",
+        "https://www.youtube.com/@burlap_app"
+      ],
       "applicationCategory": "DesignApplication",
       "operatingSystem": "macOS",
       "creator": {
@@ -164,34 +172,51 @@
 <body>
   <header class="top">
     <a class="mark" href="/">Sarth</a>
+    <input type="checkbox" id="menu" class="menu-toggle">
+    <label for="menu" class="menu-button">Menu</label>
     <nav>
-      <a href="/">Sarth</a>
       <a href="/about/">About</a>
       <a href="/conspiracies/" aria-current="page">Conspiracies</a>
       <a href="/conspirators/">Conspirators</a>
-      <a href="/sightings/">Sightings</a>
+      <a href="/rumors/">Rumors</a>
       <a href="/work/">Work</a>
-      <a href="/appearances/">Appearances</a>
+      <a href="/sightings/">Sightings</a>
       <a href="/devices/">Devices</a>
+      <a href="/contraptions/">Contraptions</a>
       <a href="/transmissions/">Transmissions</a>
       <a href="/contact/">Contact</a>
     </nav>
   </header>
 
-  <main class="page story">
-    <!-- bands: none. Not laid out yet. -->
+  <main class="page story" data-facet="dream">
     <p class="breadcrumbs"><a href="/conspiracies/">Conspiracies</a> / Number19</p>
-    <p class="kicker">Conspiracy</p>
+    <p class="kicker">Conspiracy · Dream</p>
     <h1>Number19</h1>
 
     <section class="opener">
-      <p><a href="https://en.wikipedia.org/wiki/Number19">Number19</a> was a band in Brooklyn. <a href="/conspirators/tony-diodore/">Tony Diodore</a>, <a href="/conspirators/leah-coloff/">Leah Coloff</a>, Mark Righter and I formed it in 1999, with Diodore on guitar and violin, me on bass and a <a href="https://en.wikipedia.org/wiki/Yamaha_EX5">Yamaha EX5</a>, Coloff on cello and voice, and Righter on drums. Cello and violin ran over bass and drums, with electronics underneath. The band released one album, <em>Suspension</em>, and was active until 2005.</p>
-      <p>It was the first band I made with Coloff and with Diodore. I started <a href="/conspiracies/lucibel-crater/">Lucibel Crater</a> with Coloff in 2005, and played in <a href="/conspiracies/lou-reed-song-band/">Lou Reed’s band</a> with Diodore from 2011.</p>
+      <div class="row3">
+        <div class="w2">
+          <p><a href="https://en.wikipedia.org/wiki/Number19">Number19</a> was a band in Brooklyn. <a href="/conspirators/tony-diodore/">Tony Diodore</a>, <a href="/conspirators/leah-coloff/">Leah Coloff</a>, Mark Righter and I formed it in 1999, with Diodore on guitar and violin, me on bass and a <a href="https://en.wikipedia.org/wiki/Yamaha_EX5">Yamaha EX5</a>, Coloff on cello and voice, and Righter on drums. Cello and violin ran over bass and drums, with electronics underneath. The band released one album, <em>Suspension</em>, and was active until 2005.</p>
+          <p>It was the first band I made with Coloff and with Diodore. I started <a href="/conspiracies/lucibel-crater/">Lucibel Crater</a> with Coloff in 2005, and played in <a href="/conspiracies/lou-reed-song-band/">Lou Reed’s band</a> with Diodore from 2011.</p>
+        </div>
+        <figure class="w1">
+          <img src="/images/art-suspension.jpg" loading="lazy" alt="Cover of Suspension by Number 19.">
+          <figcaption>Cover, <em>Suspension</em>, Searching Eye Records, 2001.</figcaption>
+        </figure>
+      </div>
     </section>
 
     <section>
-      <h2>How it began</h2>
-      <p>From the biography on my old site: <q>Along his musical journeys, he met cellist and songwriter Leah Coloff, who convinced him to combine computers with music. The band they established, Number19, funded its first record with downloads from mp3.com in 2001.</q></p>
+      <div class="row3">
+        <blockquote class="pull w1">
+          <p>Along his musical journeys, he met cellist and songwriter Leah Coloff, who convinced him to combine computers with music. The band they established, Number19, funded its first record with downloads from mp3.com in 2001.</p>
+          <cite>The biography on my old WordPress site</cite>
+        </blockquote>
+        <div class="w2">
+          <h2>How it began</h2>
+          <p>The record was paid for out of <a href="https://en.wikipedia.org/wiki/Mp3.com">mp3.com</a> downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. <em>Suspension</em> came out on Searching Eye Records and was the band’s only album.</p>
+        </div>
+      </div>
     </section>
 
     <section>
@@ -204,21 +229,24 @@
         </div>
         <div class="w1">
           <p class="excerpt"><span class="label">The record</span><a href="/transmissions/suspension/"><em>Suspension</em></a>, 2001. Nine tracks. On <a href="https://music.apple.com/us/album/suspension/274828088">Apple Music</a> and <a href="https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5">Spotify</a>, credited to Number 19.</p>
+          <p class="excerpt"><span class="label">On mp3.com</span><q>The band notably funded its first album, Suspension, from mp3.com downloads. At one point the band was ranked #18 overall on the site, and garnered over 90,000 downloads in 6 months.</q> <a href="https://en.wikipedia.org/wiki/Number19">Wikipedia</a></p>
           <p class="excerpt credit"><span class="label">The credit</span>Sarth Calhoun, bass and Yamaha EX5, in Number19 with Tony Diodore, Leah Coloff and Mark Righter, 1999 to 2005; on <em>Suspension</em>, Searching Eye Records, 2001.</p>
         </div>
       </div>
-      <p>The record was paid for out of <a href="https://en.wikipedia.org/wiki/Mp3.com">mp3.com</a> downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. <em>Suspension</em> came out on Searching Eye Records and was the band’s only album.</p>
     </section>
 
     <section>
-      <h2>Where everyone went next</h2>
-      <p>Diodore played guitar and violin on <a href="https://en.wikipedia.org/wiki/Puracane">Puracane</a>’s <em>I’ve Been Here the Longest</em>, then formed <a href="https://en.wikipedia.org/wiki/BM_Linx">BM LINX</a> in 2005. That same year I started Lucibel Crater with Coloff on cello and voice and <a href="/conspirators/paul-chuffo/">Paul Chuffo</a> on drums. I joined <a href="/conspirators/lou-reed/">Lou Reed</a>’s touring band in 2008; Diodore joined it in 2011, and the two of us spent the 2011 and 2012 European cycles in the same band again. Those dates are on <a href="/appearances/">Appearances</a>.</p>
-    </section>
-
-    <section>
-      <h2>How I introduced the band</h2>
-      <blockquote><p>Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.</p></blockquote>
-      <p class="source-note">I wrote that introduction, and the biography quoted above, for my old WordPress site, recovered from the Wayback Machine.</p>
+      <div class="row3">
+        <blockquote class="pull w1">
+          <p>Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.</p>
+          <cite>My introduction to the band on my old WordPress site</cite>
+        </blockquote>
+        <div class="w2">
+          <h2>Where everyone went next</h2>
+          <p>Diodore played guitar and violin on <a href="https://en.wikipedia.org/wiki/Puracane">Puracane</a>’s <em>I’ve Been Here the Longest</em>, then formed <a href="https://en.wikipedia.org/wiki/BM_Linx">BM LINX</a> in 2005. That same year I started Lucibel Crater with Coloff on cello and voice and <a href="/conspirators/paul-chuffo/">Paul Chuffo</a> on drums. I joined <a href="/conspirators/lou-reed/">Lou Reed</a>’s touring band in 2008; Diodore joined it in 2011, and the two of us spent the 2011 and 2012 European cycles in the same band again. Those dates are on <a href="/sightings/">Sightings</a>.</p>
+        </div>
+      </div>
+      <p class="source-note">I wrote the introduction and the biography quoted here for my old WordPress site, recovered from the Wayback Machine. The mp3.com figures are Wikipedia’s, citing CD Baby.</p>
     </section>
   </main>
 
@@ -228,7 +256,7 @@
       <dt>On this site</dt>
       <dd><a href="/">Sarth Calhoun</a> · <a href="/conspiracies/">Conspiracies</a></dd>
       <dt>Related work</dt>
-      <dd><a href="/transmissions/suspension/">Suspension</a> · <a href="/conspiracies/lucibel-crater/">Lucibel Crater</a> · <a href="/conspiracies/lou-reed-song-band/">Lou Reed’s song band</a> · <a href="/appearances/">Appearances</a></dd>
+      <dd><a href="/transmissions/suspension/">Suspension</a> · <a href="/conspiracies/lucibel-crater/">Lucibel Crater</a> · <a href="/conspiracies/lou-reed-song-band/">Lou Reed’s song band</a> · <a href="/sightings/">Sightings</a></dd>
       <dt>People in this story</dt>
       <dd><a href="/conspirators/leah-coloff/">Leah Coloff</a> · <a href="/conspirators/tony-diodore/">Tony Diodore</a> · <a href="/conspirators/paul-chuffo/">Paul Chuffo</a></dd>
       <dt>Elsewhere</dt>
@@ -237,16 +265,24 @@
   </aside>
   <footer>
     <p>
-      <a href="https://x.com/noisegroove">@noisegroove</a>
+      <a href="https://x.com/noisegroove">X</a>
+      · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
+      · <a href="https://www.youtube.com/@whiddershins">YouTube</a>
+      · <a href="https://soundcloud.com/noisegroove">SoundCloud</a>
+      · <a href="https://sarth.bandcamp.com">Bandcamp</a>
+      · <a href="https://bsky.app/profile/noisegroove.bsky.social">Bluesky</a>
       · <a href="https://github.com/whiddershins">GitHub</a>
       · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
-      · <a href="mailto:whiddershins@gmail.com">email</a>
+      · <a href="mailto:sayhello@sarth.net">email</a>
     </p>
     <p>
-      <a href="https://bookofsarth.com">Book of Sarth</a>
-      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/3rdwallstudio/">its Instagram</a>
       · <a href="https://burlap.app">Burlap</a>
-      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/burlapapp/">its Instagram</a>
+      · <a href="https://www.youtube.com/@burlap_app">its YouTube</a>
+      · <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
     </p>
     <p class="host">All rights reserved</p>
   </footer>

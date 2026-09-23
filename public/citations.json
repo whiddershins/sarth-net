@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 386,
+  "citation_count": 410,
   "pages": [
     {
       "path": "/",
@@ -58,8 +58,16 @@
           "text": "Contraptions"
         },
         {
+          "url": "https://contraptions.bookofsarth.com/fm6/",
+          "text": "FM / 6"
+        },
+        {
           "url": "https://contraptions.bookofsarth.com/image-compare-workbench",
           "text": "Image Compare Workbench"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/soundscape-one",
+          "text": "Soundscape One"
         },
         {
           "url": "https://bookofsarth.com",
@@ -116,12 +124,20 @@
           "text": "X @noisegroove"
         },
         {
-          "url": "https://github.com/whiddershins",
-          "text": "GitHub"
+          "url": "https://www.instagram.com/noisegroove/",
+          "text": "Instagram @noisegroove"
         },
         {
-          "url": "https://www.instagram.com/3rdwallstudio/",
-          "text": "Instagram"
+          "url": "https://www.youtube.com/@whiddershins",
+          "text": "YouTube"
+        },
+        {
+          "url": "https://bsky.app/profile/noisegroove.bsky.social",
+          "text": "Bluesky"
+        },
+        {
+          "url": "https://github.com/whiddershins",
+          "text": "GitHub"
         },
         {
           "url": "https://www.wikidata.org/wiki/Q7424654",
@@ -134,100 +150,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Sarth_Calhoun",
           "text": "Wikipedia"
-        }
-      ]
-    },
-    {
-      "path": "/appearances/",
-      "title": "Appearances",
-      "citations": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Ulrich_Krieger",
-          "text": "Ulrich Krieger"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/John_Zorn",
-          "text": "John Zorn"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Laurie_Anderson",
-          "text": "Laurie Anderson"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
-          "text": "Sydney Opera House"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Cranbrook_Art_Museum",
-          "text": "Cranbrook Art Museum"
-        },
-        {
-          "url": "https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger",
-          "text": "REDCAT archive"
-        },
-        {
-          "url": "https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/",
-          "text": "Billboard"
-        },
-        {
-          "url": "https://www.nytimes.com/2009/04/25/arts/music/25reed.html",
-          "text": "NYT Ratliff"
-        },
-        {
-          "url": "https://www.villagevoice.com/lou-reeds-metal-machine-trio/",
-          "text": "Village Voice"
-        },
-        {
-          "url": "https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/",
-          "text": "Variety"
-        },
-        {
-          "url": "https://loureed.com/news/lou-reed-at-lollapalooza/",
-          "text": "Announcement"
-        },
-        {
-          "url": "https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/",
-          "text": "DVD credits"
-        },
-        {
-          "url": "https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable",
-          "text": "Ulrich Krieger, The Wire"
-        },
-        {
-          "url": "https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/",
-          "text": "Chicago Tribune"
-        },
-        {
-          "url": "https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/",
-          "text": "Cranbrook"
-        },
-        {
-          "url": "https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review",
-          "text": "The Guardian"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Kevin_Hearn",
-          "text": "Kevin Hearn"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Metallica",
-          "text": "Metallica"
-        },
-        {
-          "url": "https://www.stereophile.com/content/gralbum-re-thinking-concept-album",
-          "text": "Stereophile"
-        },
-        {
-          "url": "https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php",
-          "text": "loureed.com, Jun 25, 2009, archived news feed"
-        },
-        {
-          "url": "https://music.apple.com/us/album/the-creation-of-the-universe/315196713",
-          "text": "Apple Music"
-        },
-        {
-          "url": "https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe",
-          "text": "Discogs"
         }
       ]
     },
@@ -341,6 +263,14 @@
         {
           "url": "https://contraptions.bookofsarth.com",
           "text": "Contraptions"
+        },
+        {
+          "url": "https://www.instagram.com/burlapapp/",
+          "text": "Burlap on Instagram"
+        },
+        {
+          "url": "https://www.youtube.com/@burlap_app",
+          "text": "Burlap on YouTube"
         }
       ]
     },
@@ -363,6 +293,10 @@
           "text": "gralbumcollective.com"
         },
         {
+          "url": "https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/",
+          "text": "Laughing Squid, April 8, 2014"
+        },
+        {
           "url": "https://www.borayoon.com/",
           "text": "Bora Yoon"
         },
@@ -375,8 +309,8 @@
           "text": "Moon Hooch"
         },
         {
-          "url": "https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/",
-          "text": "Laughing Squid"
+          "url": "https://www.stereophile.com/content/gralbum-re-thinking-concept-album",
+          "text": "Stereophile, April 23, 2014"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops",
@@ -487,6 +421,10 @@
         {
           "url": "https://en.wikipedia.org/wiki/Aram_Bajakian",
           "text": "Aram Bajakian"
+        },
+        {
+          "url": "https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/",
+          "text": "Symbolic Sound, July 26, 2011"
         },
         {
           "url": "https://en.wikipedia.org/wiki/PJ_Harvey",
@@ -701,16 +639,16 @@
           "text": "Yamaha EX5"
         },
         {
+          "url": "https://en.wikipedia.org/wiki/Mp3.com",
+          "text": "mp3.com"
+        },
+        {
           "url": "https://music.apple.com/us/album/suspension/274828088",
           "text": "Apple Music"
         },
         {
           "url": "https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5",
           "text": "Spotify"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Mp3.com",
-          "text": "mp3.com"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Puracane",
@@ -805,8 +743,16 @@
       "title": "Yellow Pony",
       "citations": [
         {
-          "url": "https://en.wikipedia.org/wiki/Laurie_Anderson",
-          "text": "Laurie Anderson"
+          "url": "https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review",
+          "text": "The Guardian, July 20, 2009"
+        },
+        {
+          "url": "https://loureed.com/news/lou-reed-and-laurie-anderson-tour-dates/",
+          "text": "loureed.com"
+        },
+        {
+          "url": "https://www.elpuntavui.cat/cultura/article/19-cultura/59389-lou-reed-i-laurie-anderson-estrenen-el-seu-lmanifest-grocr-a-sant-feliu.html",
+          "text": "El Punt Avui, July 2009"
         }
       ]
     },
@@ -898,6 +844,14 @@
         {
           "url": "https://en.wikipedia.org/wiki/Metallica",
           "text": "Metallica"
+        },
+        {
+          "url": "https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable",
+          "text": "“Unclassifiable”, The Wire, 2013"
+        },
+        {
+          "url": "https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php",
+          "text": "loureed.com, June 25, 2009"
         }
       ]
     },
@@ -1011,11 +965,121 @@
       "citations": [
         {
           "url": "https://x.com/noisegroove",
-          "text": "@noisegroove"
+          "text": "@noisegroove on X"
+        },
+        {
+          "url": "https://www.instagram.com/noisegroove/",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://bsky.app/profile/noisegroove.bsky.social",
+          "text": "Bluesky"
+        },
+        {
+          "url": "https://www.youtube.com/@whiddershins",
+          "text": "YouTube"
+        },
+        {
+          "url": "https://soundcloud.com/noisegroove",
+          "text": "SoundCloud"
+        },
+        {
+          "url": "https://sarth.bandcamp.com",
+          "text": "Bandcamp"
+        },
+        {
+          "url": "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
+          "text": "Spotify"
+        },
+        {
+          "url": "https://music.apple.com/us/artist/sarth/1061852162",
+          "text": "Apple Music"
         },
         {
           "url": "https://github.com/whiddershins",
           "text": "github.com/whiddershins"
+        },
+        {
+          "url": "https://www.instagram.com/3rdwallstudio/",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://www.youtube.com/@burlap_app",
+          "text": "YouTube"
+        },
+        {
+          "url": "https://burlap.app",
+          "text": "burlap.app"
+        },
+        {
+          "url": "https://www.instagram.com/burlapapp/",
+          "text": "Instagram"
+        }
+      ]
+    },
+    {
+      "path": "/contraptions/",
+      "title": "Contraptions",
+      "citations": [
+        {
+          "url": "https://contraptions.bookofsarth.com",
+          "text": "contraptions.bookofsarth.com"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/fm6/",
+          "text": "Play"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/fm6.md",
+          "text": "Guide"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/fm6.json",
+          "text": "Release record"
+        },
+        {
+          "url": "https://imgsli.com/",
+          "text": "imgsli"
+        },
+        {
+          "url": "https://github.com/Loganavter/Improve-ImgSLI",
+          "text": "Improve ImgSLI"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/image-compare-workbench",
+          "text": "Use it"
+        },
+        {
+          "url": "https://github.com/whiddershins/image-compare-workbench",
+          "text": "Source"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/soundscape-one/one-a.html",
+          "text": "Soundscape One A"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/soundscape-one/officeSoundscape_01.html",
+          "text": "Soundscape Two A"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html",
+          "text": "Soundscape One B"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/soundscape-one",
+          "text": "Walk it"
+        },
+        {
+          "url": "https://github.com/whiddershins/WebAudioSoundscape_01",
+          "text": "Source"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/paint-with-javascript",
+          "text": "Paint with JavaScript"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/kick-with-reverb",
+          "text": "Kick with Reverb"
         }
       ]
     },
@@ -1023,10 +1087,6 @@
       "path": "/devices/",
       "title": "Devices",
       "citations": [
-        {
-          "url": "https://contraptions.bookofsarth.com",
-          "text": "Contraptions"
-        },
         {
           "url": "https://kyma.symbolicsound.com/",
           "text": "kyma.symbolicsound.com"
@@ -1070,8 +1130,8 @@
       ]
     },
     {
-      "path": "/sightings/",
-      "title": "Sightings",
+      "path": "/rumors/",
+      "title": "Rumors",
       "citations": [
         {
           "url": "https://en.wikipedia.org/wiki/Robert_Wilson_(director)",
@@ -1176,6 +1236,100 @@
         {
           "url": "https://en.wikipedia.org/wiki/Laurie_Anderson",
           "text": "Laurie Anderson"
+        }
+      ]
+    },
+    {
+      "path": "/sightings/",
+      "title": "Sightings",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ulrich_Krieger",
+          "text": "Ulrich Krieger"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Zorn",
+          "text": "John Zorn"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Laurie_Anderson",
+          "text": "Laurie Anderson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+          "text": "Sydney Opera House"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cranbrook_Art_Museum",
+          "text": "Cranbrook Art Museum"
+        },
+        {
+          "url": "https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger",
+          "text": "REDCAT archive"
+        },
+        {
+          "url": "https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/",
+          "text": "Billboard"
+        },
+        {
+          "url": "https://www.nytimes.com/2009/04/25/arts/music/25reed.html",
+          "text": "NYT Ratliff"
+        },
+        {
+          "url": "https://www.villagevoice.com/lou-reeds-metal-machine-trio/",
+          "text": "Village Voice"
+        },
+        {
+          "url": "https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/",
+          "text": "Variety"
+        },
+        {
+          "url": "https://loureed.com/news/lou-reed-at-lollapalooza/",
+          "text": "Announcement"
+        },
+        {
+          "url": "https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/",
+          "text": "DVD credits"
+        },
+        {
+          "url": "https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable",
+          "text": "Ulrich Krieger, The Wire"
+        },
+        {
+          "url": "https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/",
+          "text": "Chicago Tribune"
+        },
+        {
+          "url": "https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/",
+          "text": "Cranbrook"
+        },
+        {
+          "url": "https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review",
+          "text": "The Guardian"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Hearn",
+          "text": "Kevin Hearn"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Metallica",
+          "text": "Metallica"
+        },
+        {
+          "url": "https://www.stereophile.com/content/gralbum-re-thinking-concept-album",
+          "text": "Stereophile"
+        },
+        {
+          "url": "https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php",
+          "text": "loureed.com, Jun 25, 2009, archived news feed"
+        },
+        {
+          "url": "https://music.apple.com/us/album/the-creation-of-the-universe/315196713",
+          "text": "Apple Music"
+        },
+        {
+          "url": "https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe",
+          "text": "Discogs"
         }
       ]
     },
@@ -1821,34 +1975,6 @@
           "text": "The AI canvas"
         },
         {
-          "url": "https://www.youtube.com/watch?v=fghXNj-HdBg",
-          "text": "Watching Shadows"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=ttWqwhzE-yA",
-          "text": "Through the Brambles"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=vs6KM7hFzxs",
-          "text": "Pigeon Problems"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=gx9jIWSoEDQ",
-          "text": "Truck Stop Love"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=nZ2LpA9P-LY",
-          "text": "Meatsuitz Family Vacay"
-        },
-        {
-          "url": "https://www.youtube.com/shorts/v5ttYqHIbI8",
-          "text": "Teaser"
-        },
-        {
-          "url": "https://www.youtube.com/shorts/yxCoeTg-qR8",
-          "text": "Excerpt"
-        },
-        {
           "url": "https://www.youtube.com/watch?v=wroKqbXfx5g",
           "text": "Video"
         },
@@ -1861,6 +1987,10 @@
           "text": "Mastercard"
         },
         {
+          "url": "https://contraptions.bookofsarth.com",
+          "text": "contraptions.bookofsarth.com"
+        },
+        {
           "url": "https://www.youtube.com/watch?v=8MqhRQI84Os",
           "text": "Watch"
         },
@@ -1869,28 +1999,8 @@
           "text": "Bandcamp"
         },
         {
-          "url": "https://www.youtube.com/watch?v=dXqYHjmmev0",
-          "text": "Lyric video"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=v-u7Zmd6GSw",
-          "text": "Acoustic demo"
-        },
-        {
           "url": "https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160",
           "text": "Apple Music"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=-Sq3OSve1Ls",
-          "text": "Video"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=V_ZinrLAl4I",
-          "text": "Shruti box"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=_8jgV_4Xqmc",
-          "text": "Prepared guitar"
         },
         {
           "url": "https://bookofsarth.com",
@@ -1901,16 +2011,8 @@
           "text": "The Verge"
         },
         {
-          "url": "https://gralbumcollective.com/titles.html",
-          "text": "(gr)album"
-        },
-        {
           "url": "https://www.youtube.com/watch?v=nwfygEI3Mzs",
           "text": "Masticate"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=UOh4tKteFOs",
-          "text": "Berlin live"
         }
       ]
     }

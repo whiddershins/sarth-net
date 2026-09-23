@@ -3,12 +3,13 @@ title: Introspections
 description: Introspections, Sarth Calhoun's improvised drone pieces from 2015 on Continuum and Kyma: For Lovers with Jacob McCoy, Sunset Meditation, and a Warper Party clip. Built on the meditation music made with Lou Reed and Metal Machine Trio.
 url: https://www.sarth.net/transmissions/introspections/
 published: 2026-09-23
+facet: dream
 credit: Introspections: Sarth Calhoun, Continuum Fingerboard and Kyma, improvised drone duets from 2015 with Jacob McCoy, Linnstrument; Sxip Shirey, shruti box and prepared guitar; and others.
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / Introspections
 
-Transmission
+Transmission · Dream
 
 # Introspections
 

@@ -3,12 +3,13 @@ title: Awakening (To Blacklist)
 description: How Sarth Calhoun built the track Awakening (To Blacklist) from 60-cycle hum in Ableton Live, using a frequency shifter preset called Space Birds, and matched it to a scene in The Book of Sarth.
 url: https://www.sarth.net/conspiracies/awakening-to-blacklist/
 published: 2026-09-22
+facet: dream
 credit: “Awakening (To Blacklist)” is by Sarth Calhoun, from *The Book of Sarth*, 2012, and the first track on *Transmissions from the Book of Sarth*, 2013. Built in Ableton Live from a recording of 60 cycle hum.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / [Book of Sarth](/conspiracies/book-of-sarth/) / Awakening (To Blacklist)
 
-Transmission
+Transmission · Dream
 
 # Awakening (To Blacklist)
 

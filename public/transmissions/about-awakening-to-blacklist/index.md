@@ -3,9 +3,10 @@ title: About Awakening (To Blacklist)
 description: How the melody of Awakening (To Blacklist) came out of a recording of 60 cycle hum: a frequency shifter on the Spacebirds preset, wet/dry automation, and a happy accident with two frozen drum tracks. With the audio examples. By Sarth Calhoun, November 21, 2020.
 url: https://www.sarth.net/transmissions/about-awakening-to-blacklist/
 published: 2020-11-21
+facet: message
 author: Sarth Calhoun
 ---
-Nov 21, 2020
+Nov 21, 2020 · Message
 
 # About Awakening (To Blacklist)
 

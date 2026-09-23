@@ -3,12 +3,13 @@ title: The Family Album
 description: The Family Album, the 2008 album by Lucibel Crater: Leah Coloff, Paul Chuffo and Sarth Calhoun, with Lou Reed on guitar on Threadbare Funeral. Ten songs, mixed by Bryce Goggin.
 url: https://www.sarth.net/transmissions/the-family-album/
 published: 2008-02-12
+facet: dream
 credit: *The Family Album*, Searching Eye Records, 2008, by Lucibel Crater: Leah Coloff, cello and voice; Paul Chuffo, drums; Sarth Calhoun, keys, bass, loops, Kyma and Continuum. Lou Reed, guitar, on “Threadbare Funeral.” Mixed by Bryce Goggin. On [Spotify](https://open.spotify.com/album/5GWIntdZRNl8zc9rAsIrKD) and [Apple Music](https://music.apple.com/us/album/the-family-album/274792742).
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / The Family Album
 
-Transmission
+Transmission · Dream
 
 # *The Family Album*
 
@@ -40,7 +41,7 @@ The credit: *The Family Album*, Searching Eye Records, 2008, by Lucibel Crater: 
 
 ## What was written about it
 
-[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed it in July 2008: this is totally music to get high to. Simone Tempia wrote it up twice in Italy, in *Urban* in February 2009, where the Björk and White Stripes comparison comes from (Ci si può sentire qualcosa di Björk e magari dei White Stripes. Ma la verità è che il loro sound è unico e difficilmente incasellabile.), and in *Vogue Italia* that January. [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. The rest is on [Sightings](/sightings/).
+[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed it in July 2008: this is totally music to get high to. Simone Tempia wrote it up twice in Italy, in *Urban* in February 2009, where the Björk and White Stripes comparison comes from (Ci si può sentire qualcosa di Björk e magari dei White Stripes. Ma la verità è che il loro sound è unico e difficilmente incasellabile.), and in *Vogue Italia* that January. [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. The rest is on [Rumors](/rumors/).
 
 ## Conspiracies
 

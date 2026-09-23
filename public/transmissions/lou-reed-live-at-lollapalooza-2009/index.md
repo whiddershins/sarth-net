@@ -3,12 +3,13 @@ title: Lou Reed Live at Lollapalooza 2009
 description: Lou Reed Live at Lollapalooza 2009, the official DVD of Reed's Grant Park set of August 9, 2009, with Sarth Calhoun on electronics and Continuum, Rob Wasserman on bass and Ulrich Krieger on saxophone. Released July 19, 2011.
 url: https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/
 published: 2011-07-19
+facet: dream
 credit: From [loureed.com](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/): Mike Rathke, guitar. Steve Hunter, guitar. Kevin Hearn, keyboards. Rob Wasserman, bass. Tony “Thunder” Smith, drums. Ulrich Krieger, saxophone. Sarth Calhoun, electronics and continuum. [Discogs](https://www.discogs.com/release/15272070) lists it on Sister Ray Enterprises, Sarth credited for Continuum fingerboard and processing.
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / Lou Reed Live at Lollapalooza 2009
 
-Transmission
+Transmission · Dream
 
 # *Lou Reed Live at Lollapalooza 2009*
 
@@ -24,7 +25,7 @@ Sarth Calhoun at Lollapalooza, August 9, 2009.
 
 ## The set
 
-Day three, to a capacity crowd of forty thousand. [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/) noted Reed ran fifteen minutes over. Inside the set, [Metal Machine Trio](/conspiracies/metal-machine-trio/) played a ten minute noise interlude between the songs. The date is on [Appearances](/appearances/).
+Day three, to a capacity crowd of forty thousand. [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/) noted Reed ran fifteen minutes over. Inside the set, [Metal Machine Trio](/conspiracies/metal-machine-trio/) played a ten minute noise interlude between the songs. The date is on [Sightings](/sightings/).
 
 ## The interlude
 

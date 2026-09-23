@@ -2,12 +2,13 @@
 title: Lou Reed’s song band
 description: How Sarth Calhoun joined Lou Reed's song-based touring band to bring live processing, electronics, and fresh sounds to the music.
 url: https://www.sarth.net/conspiracies/lou-reed-song-band/
+facet: dream
 credit: Sarth Calhoun, Continuum Fingerboard and live processing through Kyma, in Lou Reed’s touring band from the spring 2008 U.S. tour through the 2011 European tour. Credited “electronics & continuum” on [*Lou Reed Live at Lollapalooza 2009*](/transmissions/lou-reed-live-at-lollapalooza-2009/).
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Lou Reed’s song band
 
-Conspiracy
+Conspiracy · Dream
 
 # Lou Reed’s song band
 
@@ -29,7 +30,7 @@ I processed and sampled the various instruments on stage, and played the Continu
 
 The first rehearsals were at SIR in New York in April 2008. The band around Lou was [Rob Wasserman](/conspirators/rob-wasserman/), [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn), Mike Rathke, [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter), and Tony “Thunder” Smith. We started in the Northeast, went south by bus, played Beale Street in Memphis, and came back to New York. That run is the [spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/).
 
-By the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/) the band was eight people, with Tony Diodore and [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) on guitars, [Ulrich Krieger](/conspirators/ulrich-krieger/) on saxophone, and me running multiple Pacas. The dates are on [Appearances](/appearances/).
+By the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/) the band was eight people, with Tony Diodore and [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian) on guitars, [Ulrich Krieger](/conspirators/ulrich-krieger/) on saxophone, and me running multiple Pacas. The dates are on [Sightings](/sightings/).
 
 The credit: Sarth Calhoun, Continuum Fingerboard and live processing through Kyma, in Lou Reed’s touring band from the spring 2008 U.S. tour through the 2011 European tour. Credited “electronics & continuum” on [*Lou Reed Live at Lollapalooza 2009*](/transmissions/lou-reed-live-at-lollapalooza-2009/).
 

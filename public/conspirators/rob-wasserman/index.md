@@ -27,6 +27,8 @@ Sarth Calhoun at Lollapalooza, Chicago, August 2009. Rob Wasserman played bass i
 
 ## “A huge fan”
 
+What follows is the letter I wrote the day after Rob died, June 30, 2016.
+
 I first met Rob Wasserman backstage at a performance of Lou Reed’s *Berlin* at St. Ann’s Warehouse. I walked up to him and shook his hand saying “Rob Wasserman! I’m a huge fan!”
 
 My first instrument was the bass, and Rob was always one of my heroes. I became aware of him when his records, *Solo*, *Duo*, and *Trio*, redefined upright bass for me. I knew he was one of the people [Ned Steinberger](https://en.wikipedia.org/wiki/Ned_Steinberger) worked with in creating those amazing electric uprights, which was Rob’s signature instrument.

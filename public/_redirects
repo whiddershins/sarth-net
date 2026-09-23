@@ -1,0 +1,108 @@
+# Squarespace sitemap (32 URLs) plus the WordPress category paths that still get linked.
+# A path with a real page in public/ is not listed. Redirects win over files,
+# so delete a line before adding that page.
+# Specific rules first. Splats only catch leftover posts under those blogs.
+
+# Aliases of the homepage. /sarth was a photo index; those stills are on /.
+/sarthnet-in-transition / 301
+/sarthnet-in-transition/ / 301
+/sarth / 301
+/sarth/ / 301
+
+# Empty Squarespace pages.
+/happenings / 301
+/happenings/ / 301
+/me-time-score / 301
+/me-time-score/ / 301
+/new-blog / 301
+/new-blog/ / 301
+/intrigue / 301
+/intrigue/ / 301
+
+# Tour Dates widget became Sightings (live). Booking became Contact.
+/attend /sightings/ 301
+/attend/ /sightings/ 301
+/booking /contact/ 301
+/booking/ /contact/ 301
+
+# Press stubs.
+/rumors/2015/2/10/a-wonderful-write-up-of-the-book-of-sarth-on-the-verge /rumors/ 301
+/rumors/2015/2/10/a-wonderful-write-up-of-the-book-of-sarth-on-the-verge/ /rumors/ 301
+/rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week /rumors/ 301
+/rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week/ /rumors/ 301
+/rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum /sightings/ 301
+/rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum/ /sightings/ 301
+
+# Christmas stubs. The song page is not on this site yet.
+/i-just-believe-in-christmas / 301
+/i-just-believe-in-christmas/ / 301
+/words/2015/11/29/i-just-believe-in-christmas / 301
+/words/2015/11/29/i-just-believe-in-christmas/ / 301
+/rumors/2015/11/29/i-just-believe-in-christmas / 301
+/rumors/2015/11/29/i-just-believe-in-christmas/ / 301
+
+# The essay that is already a page.
+/words/2026/7/31/visual-reference-prompting /transmissions/visual-reference-prompting/ 301
+/words/2026/7/31/visual-reference-prompting/ /transmissions/visual-reference-prompting/ 301
+
+# Blog indexes and posts whose essays are not separate pages yet.
+/words /transmissions/ 301
+/words/ /transmissions/ 301
+/words/2020/11/21/about-awakening-to-blacklist /transmissions/ 301
+/words/2020/11/21/about-awakening-to-blacklist/ /transmissions/ 301
+/words/2015/11/29/aural-and-optical-transmissions-can-be-found-here /transmissions/ 301
+/words/2015/11/29/aural-and-optical-transmissions-can-be-found-here/ /transmissions/ 301
+/words/2015/2/6/gralbum-has-launched /transmissions/ 301
+/words/2015/2/6/gralbum-has-launched/ /transmissions/ 301
+/rumors/2022/4/18/elementary-audio-day-1 /transmissions/ 301
+/rumors/2022/4/18/elementary-audio-day-1/ /transmissions/ 301
+/rumors/2020/11/20/reflections-vol-1 /transmissions/ 301
+/rumors/2020/11/20/reflections-vol-1/ /transmissions/ 301
+/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now /transmissions/ 301
+/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/ /transmissions/ 301
+/rumors/2015/2/10/gralbum-has-launched /transmissions/ 301
+/rumors/2015/2/10/gralbum-has-launched/ /transmissions/ 301
+
+# Beautiful Tornado episodes are not on this site yet.
+/beautiful-tornado / 301
+/beautiful-tornado/ / 301
+/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith / 301
+/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith/ / 301
+/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission / 301
+/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission/ / 301
+
+# Introspections has no page yet. The Continuum and Kyma notes live on Devices.
+/introspections /devices/ 301
+/introspections/ /devices/ 301
+/introspections-collection /devices/ 301
+/introspections-collection/ /devices/ 301
+/introspections-about /devices/ 301
+/introspections-about/ /devices/ 301
+
+# WordPress-era paths.
+/category/conspirators/rob-wasserman /conspirators/rob-wasserman/ 301
+/category/conspirators/rob-wasserman/ /conspirators/rob-wasserman/ 301
+/category/conspirators/lou-reed /conspirators/lou-reed/ 301
+/category/conspirators/lou-reed/ /conspirators/lou-reed/ 301
+/category/conspiracies/metal-machine-trio /conspiracies/metal-machine-trio/ 301
+/category/conspiracies/metal-machine-trio/ /conspiracies/metal-machine-trio/ 301
+/category/conspiracies/lou-reed-metallica-project /conspiracies/lulu/ 301
+/category/conspiracies/lou-reed-metallica-project/ /conspiracies/lulu/ 301
+/metal-machine-trio-the-creation-of-the-universe /conspiracies/metal-machine-trio/ 301
+/metal-machine-trio-the-creation-of-the-universe/ /conspiracies/metal-machine-trio/ 301
+/category/press /rumors/ 301
+/category/press/ /rumors/ 301
+/category/reviews /rumors/ 301
+/category/reviews/ /rumors/ 301
+/book-of-sarth-in-the-app-store https://bookofsarth.com/ 301
+/book-of-sarth-in-the-app-store/ https://bookofsarth.com/ 301
+
+# Leftover posts under those blogs, including /sarth photo slides.
+/sarth/* / 301
+/words/* /transmissions/ 301
+/rumors/* /rumors/ 301
+/beautiful-tornado/* / 301
+/category/press/* /rumors/ 301
+/category/reviews/* /rumors/ 301
+/category/conspirators/* /conspirators/ 301
+/category/conspiracies/* /conspiracies/ 301

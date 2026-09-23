@@ -3,12 +3,13 @@ title: Book of Sarth
 description: Book of Sarth, the iPad gralbum Sarth Calhoun spent two and a half years making: a graphic novel and a concept album running as one work.
 url: https://www.sarth.net/conspiracies/book-of-sarth/
 published: 2012
+facet: dream
 credit: Sarth Calhoun wrote and recorded the music of *The Book of Sarth* and built the app with Andrew Beck, Elik Smith, Leah Coloff and Jacob McCoy; released 2012 through The Gralbum Collective.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Book of Sarth
 
-Conspiracy
+Conspiracy · Dream
 
 # Book of Sarth
 
@@ -54,7 +55,7 @@ The credit: Sarth Calhoun wrote and recorded the music of *The Book of Sarth* an
 
 Bryan Bishop reviewed it for [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) on January 3, 2013: Things really come alive in what’s called the ‘director’s view’: tap an image and the artwork fills the screen, putting the reader in the same place as the characters. He also wrote that Calhoun’s music is no doubt experimental, but his tracks and the artwork play nimbly off one another.
 
-[Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali) ran it in a September 2013 piece on music apps: Chi invece è riuscito a coniare un nuovo concetto di ‘album musicale’ è Sarth Calhoun con il suo sorprendente The Book of Sarth. [Chain D.L.K.](https://www.chaindlk.com/reviews/7353) gave it a mixed review. The rest is on [Sightings](/sightings/).
+[Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali) ran it in a September 2013 piece on music apps: Chi invece è riuscito a coniare un nuovo concetto di ‘album musicale’ è Sarth Calhoun con il suo sorprendente The Book of Sarth. [Chain D.L.K.](https://www.chaindlk.com/reviews/7353) gave it a mixed review. The rest is on [Rumors](/rumors/).
 
 ![Artwork from The Book of Sarth: a man on a cell bunk surrounded by handwritten signs.](/images/sarth-prison-cell.jpg)
 

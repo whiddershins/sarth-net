@@ -3,12 +3,13 @@ title: Singles
 description: Sarth Calhoun's singles as Sarth, 2020 to 2025, on Noise | Groove: Squishy | Bass, Peanut Style, Everything Everything, For Lovers, My Empty Father, Failure is OK, Shimmering Angels, Ego Streaked, Softly Questioning (Reprise), and Sometimes You Need Sun as Catfish Calhoun and Friends.
 url: https://www.sarth.net/transmissions/singles/
 published: 2026-09-23
+facet: dream
 credit: Singles by Sarth Calhoun, released as Sarth on Noise | Groove, 2020 to 2025. “Sometimes You Need Sun,” 2022, as Catfish Calhoun and Friends with Doron Lev. “For Lovers” with Jacob McCoy, Linnstrument.
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / Singles
 
-Transmission
+Transmission · Dream
 
 # Singles
 

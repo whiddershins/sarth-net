@@ -26,7 +26,7 @@ Data engineer at [Reaktor](https://reaktor.com). Clients include Paramount Advan
 **Sites**
 [sarth.net](https://www.sarth.net) · [thirdwallstudio.com](https://thirdwallstudio.com) · [burlap.app](https://burlap.app) · [bookofsarth.com](https://bookofsarth.com)
 **Social**
-[X @noisegroove](https://x.com/noisegroove) · [GitHub](https://github.com/whiddershins) · [Instagram](https://www.instagram.com/3rdwallstudio/)
+[X @noisegroove](https://x.com/noisegroove) · [Instagram @noisegroove](https://www.instagram.com/noisegroove/) · [YouTube](https://www.youtube.com/@whiddershins) · [Bluesky](https://bsky.app/profile/noisegroove.bsky.social) · [GitHub](https://github.com/whiddershins)
 **Lineage**
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) with Lou Reed and Ulrich Krieger; the original [*Lulu*](/conspiracies/lulu/) score with Reed for Robert Wilson, then the Lou Reed and Metallica album; [“Junior Dad”](/conspiracies/junior-dad/); [*The Book of Sarth*](/conspiracies/book-of-sarth/); [Lucibel Crater](/conspiracies/lucibel-crater/).
 **Identifiers**

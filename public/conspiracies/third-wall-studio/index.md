@@ -3,12 +3,13 @@ title: Third Wall Studio
 description: Third Wall Studio, the animation studio Sarth Calhoun founded in May 2025. Animation with filmmakers and artists, mixing live action, animation and generative AI, made in Burlap.
 url: https://www.sarth.net/conspiracies/third-wall-studio/
 published: 2026-09-23
+facet: dream
 credit: Sarth Calhoun founded Third Wall Studio in May 2025 and builds Burlap, the app its films are made in.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Third Wall Studio
 
-Conspiracy
+Conspiracy · Dream
 
 # Third Wall Studio
 

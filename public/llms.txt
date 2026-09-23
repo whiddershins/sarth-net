@@ -17,7 +17,7 @@ Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger. Sarth
 X: https://x.com/noisegroove
 GitHub: https://github.com/whiddershins
 Wikidata: https://www.wikidata.org/wiki/Q7424654
-Contact: mailto:whiddershins@gmail.com
+Contact: mailto:sayhello@sarth.net
 
 ## Questions
 
@@ -105,8 +105,9 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Ulrich Krieger https://www.sarth.net/conspirators/ulrich-krieger/
 - Laurie Anderson https://www.sarth.net/conspirators/laurie-anderson/
 - Sightings https://www.sarth.net/sightings/
-- Appearances https://www.sarth.net/appearances/
+- Rumors https://www.sarth.net/rumors/
 - Devices https://www.sarth.net/devices/
+- Contraptions https://www.sarth.net/contraptions/
 - Citations https://www.sarth.net/citations/
 - Contact https://www.sarth.net/contact/
 

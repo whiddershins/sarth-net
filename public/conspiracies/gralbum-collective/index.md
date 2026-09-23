@@ -2,12 +2,13 @@
 title: The Gralbum Collective
 description: The Gralbum Collective, founded by Sarth Calhoun in 2012 to publish gralbums: music released as interactive apps with art, animation and storytelling.
 url: https://www.sarth.net/conspiracies/gralbum-collective/
-credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012. The app launched on April 9, 2014 with *Book of Sarth* and four other titles.
+facet: dream
+credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012, and built the app with lead programmer Andrew Beck. It launched on April 9, 2014 with *Book of Sarth* and four other titles.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / The Gralbum Collective
 
-Conspiracy
+Conspiracy · Dream
 
 # The Gralbum Collective
 
@@ -18,6 +19,10 @@ The collective and its app launched at the SOHO Gallery for Digital Arts in New 
 ![Sarth Calhoun playing a laptop and a Continuum at the Gralbum launch.](/images/gr-album-launch.jpg)
 
 The launch, April 9, 2014. Photo by Andrzej Liguz / MOREimages.
+
+> Gralbum is an iPad app that lets musicians add interactive storytelling elements to their records, launched by former Lou Reed collaborator, Sarth Calhoun.
+> 
+> Brian Heater, [Laughing Squid, April 8, 2014](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
 
 ## What a gralbum is
 
@@ -31,7 +36,15 @@ I wrote the announcement the week of the launch: I conceptualized (gr)album and 
 
 I also thanked The (Gr)album Collective artists Bora Yoon and Adam Matta for joining me in rocking the party on the downstairs stage.
 
-Brian Heater covered the launch for [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/) on April 8, 2014: Gralbum is an iPad app that lets musicians add interactive storytelling elements to their records, launched by former Lou Reed collaborator, Sarth Calhoun.
+A year later, *Train O’ Thots* launched with a showing at the New York Transit Museum on April 1, 2015.
+
+![Laurie Anderson and Sarth Calhoun, his arm around her shoulders, at the Gralbum launch.](/images/gralbum-launch-laurie-anderson.jpg)
+
+Laurie Anderson and Sarth Calhoun at the launch. Photo by Andrzej Liguz / MOREimages.
+
+> Once he enlisted Beck, the duo worked together for three years and ended up creating a system that any artist could utilize to package his or her own album.
+> 
+> Ariel Bitran, [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
 ## The titles
 
@@ -39,10 +52,14 @@ Five gralbums were in the store at launch. *Book of Sarth*, my own. *Sketches* b
 
 The collective listed further titles as coming: *Omnisphere* by [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist)), the drummer of [Medeski Martin & Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood); an introductory gralbum by Eva Parker built on the artwork of [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel); and *Betty Goes Boom Boom*.
 
-The credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012. The app launched on April 9, 2014 with *Book of Sarth* and four other titles.
-
 ## The collective’s statement
 
 Art forms are born, and they die. In even these future-shocked days some ideas are unthinkable. Can you imagine a world without music? I can’t, and I won’t ask you to try. But as long as there has been music, it has warped and changed quite righteously with technology and the times. In recent years, our way of finding, sharing, and collecting music has expanded. How we make, compose, and record music has evolved. But is there a new way to experience music? Can you touch music? Get lost in a world of sound and light, immersed in the artist’s creation? Feel the story the music tells, privately, only to you? Of course you can, now. This was the future of music, but we’re here now. Put your headphones ON.
 
-The descriptions, the statement and the title list are from [gralbumcollective.com](https://gralbumcollective.com/); the launch announcement is from my own site.
+The credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012, and built the app with lead programmer Andrew Beck. It launched on April 9, 2014 with *Book of Sarth* and four other titles.
+
+![Sarth Calhoun playing a Haken Continuum Fingerboard under red light at the Gralbum launch.](/images/gralbum-launch-continuum.jpg)
+
+Sarth Calhoun at the Continuum, the launch. Photo by Andrzej Liguz / MOREimages.
+
+The descriptions, the statement and the title list are from [gralbumcollective.com](https://gralbumcollective.com/); the launch announcement is from my own site. The launch photos are by Andrzej Liguz / MOREimages.

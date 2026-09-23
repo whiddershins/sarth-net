@@ -264,6 +264,8 @@ def page_markdown(page):
     fm = [f"title: {page['title']}", f"description: {page['description']}", f"url: {page['url']}"]
     if page["published"]:
         fm.append(f"published: {page['published']}")
+    if page.get("facet"):
+        fm.append(f"facet: {page['facet']}")
     if credit_text(page):
         fm.append(f"credit: {credit_text(page)}")
     fm.append(f"author: {AUTHOR}")
@@ -296,9 +298,11 @@ def load_pages():
                     published = n["datePublished"]
                     break
         main_html = re.search(r"<main.*?</main>", s, re.S).group(0)
+        m = re.search(r'<main[^>]*data-facet="([a-z]+)"', s)
         pages[route] = {
             "route": route, "file": f, "html": s, "title": title, "description": desc,
             "url": url, "published": published, "main_html": main_html, "main": parse(main_html),
+            "facet": m.group(1) if m else None,
         }
     return pages
 
@@ -337,7 +341,7 @@ def ordered_routes(pages):
             visit(k)
 
     visit("/", recurse=False)
-    for top in ["/about/", "/work/", "/transmissions/", "/conspiracies/", "/conspirators/", "/sightings/", "/appearances/", "/devices/", "/citations/", "/contact/"]:
+    for top in ["/about/", "/work/", "/transmissions/", "/conspiracies/", "/conspirators/", "/sightings/", "/rumors/", "/devices/", "/contraptions/", "/citations/", "/contact/"]:
         visit(top)
     for r in sorted(pages):
         visit(r)
@@ -380,7 +384,7 @@ def md_inline(text):
     return t
 
 
-def holes_md(report, flat, credits=(), voice=()):
+def holes_md(report, flat, credits=(), voice=(), attribution=None, facets=None):
     lines = ["# Report", "", "What the build found that a person has to decide. Regenerated every build.", "", "## Holes", "",
              "Every `<div class=\"hole\">` on the site and whether `content/holes/` has filled it.",
              "Write the paragraph into the named file, in Sarth's words only, and run `npm run build`.", ""]
@@ -407,6 +411,20 @@ def holes_md(report, flat, credits=(), voice=()):
               "Sentences say I (Sarth's rule, 23 Sep 2026). Sentences that still name Sarth, outside quotes,",
               "captions, labels and data, with the first one on each page. About and Citations are exempt.", ""]
     lines += [f"- {u} ({n}): {first}" for u, n, first in sorted(voice)] or ["None."]
+    if attribution is not None:
+        lines += ["", "## Attribution", "",
+                  "What each story page's narrow slots carry. Every slot is one attribution unit: a photo with",
+                  "alt text and a caption, a pull quote with its cite, an embed with a title, or a labelled",
+                  "excerpt. The check fails a slot that lacks its attribution. Pages with no slots are the flat pages above.", ""]
+        for u, k in sorted(attribution.items()):
+            total = sum(k.values())
+            if total:
+                lines.append(f"- {u}: {total} · " + " · ".join(f"{n} {name}" for name, n in k.items() if n))
+    if facets:
+        lines += ["", "## Facets", "",
+                  "Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,",
+                  "shown in the kicker and listed on the homepage by the build. The check fails a page without one.", "",
+                  "- " + " · ".join(f"{n} {f}" for f, n in facets.items())]
     return "\n".join(lines) + "\n"
 
 
@@ -515,6 +533,75 @@ def check_bands(pages):
     return problems, flat
 
 
+def check_attribution(pages):
+    """Every narrow slot in a band carries its attribution: a photo has alt text and a
+    caption, a pull quote has a cite, an embed has a title, an excerpt has a label.
+    Returns (problems, counts per story page)."""
+    problems, counts = [], {}
+    for p in pages.values():
+        m = p["main"].find("main")
+        if not m or "story" not in m.cls():
+            continue
+        kinds = {"photo": 0, "quote": 0, "embed": 0, "excerpt": 0}
+        for band in m.find_all(cls="row3"):
+            found = False
+            for slot in [c for c in band.children if not isinstance(c, str)]:
+              for fig in ([slot] if slot.tag == "figure" else slot.find_all("figure")):
+                  found = True; kinds["photo"] += 1
+                  img, cap = fig.find("img"), fig.find("figcaption")
+                  if not img or not img.attrs.get("alt", "").strip():
+                      problems.append(f"{p['route']}: a photo in a narrow slot has no alt text")
+                  if not cap or not cap.text().strip():
+                      problems.append(f"{p['route']}: a photo in a narrow slot has no caption")
+              for q in ([slot] if slot.tag == "blockquote" else slot.find_all("blockquote", cls="pull")):
+                  found = True; kinds["quote"] += 1
+                  cite = q.find("cite")
+                  if not cite or not cite.text().strip():
+                      problems.append(f"{p['route']}: a pull quote has no cite")
+              for e in slot.find_all(cls="embed"):
+                  found = True; kinds["embed"] += 1
+                  fr = e.find("iframe") or e.find("audio")
+                  if not fr or not fr.attrs.get("title", "").strip():
+                      problems.append(f"{p['route']}: an embed has no title")
+              for x in ([slot] if "excerpt" in slot.cls() else []) + slot.find_all(cls="excerpt"):
+                  found = True; kinds["excerpt"] += 1
+                  if not x.find(cls="label"):
+                      problems.append(f"{p['route']}: an excerpt has no label")
+            if not found:
+                problems.append(f"{p['route']}: a band carries no photo, quote, embed or excerpt in either slot")
+        counts[p["url"]] = kinds
+    return problems, counts
+
+
+FACETS = ("machine", "dream", "message")
+
+
+def check_facets(pages):
+    """Every story and essay page carries one of Machine, Dream or Message (Sarth, 23 Sep 2026)
+    as data-facet on <main>; the homepage lists the pages under each."""
+    problems, counts = [], {f: 0 for f in FACETS}
+    for p in pages.values():
+        m = p["main"].find("main")
+        kind = set(m.cls()) if m else set()
+        if p["route"].startswith("/conspirators/"):
+            continue  # people are not entries
+        if p["facet"] and p["facet"] not in FACETS:
+            problems.append(f"{p['route']}: data-facet is {p['facet']!r}, not one of {', '.join(FACETS)}")
+        elif p["facet"]:
+            counts[p["facet"]] += 1
+        elif kind & {"story", "essay"}:
+            problems.append(f"{p['route']}: no data-facet on <main> (machine, dream or message)")
+    return problems, counts
+
+
+def facets_html(pages, order):
+    cols = []
+    for f in FACETS:
+        links = [f'<a href="{pages[r]["route"]}">{html.escape(pages[r]["title"])}</a>' for r in order if pages[r]["facet"] == f]
+        cols.append(f"      <div>\n        <h3>{f.title()}</h3>\n        <p>" + " · ".join(links) + "</p>\n      </div>")
+    return '    <div class="facet-grid">\n' + "\n".join(cols) + "\n    </div>\n    "
+
+
 def prose_paragraphs(main):
     """<p> elements, and unclassed <span>s such as index blurbs, that are sentences: not quotes, captions, labels, credits or data."""
     out = []
@@ -596,7 +683,19 @@ def build(mode):
     hole_changes, report = fill_holes(pages)
     outputs += hole_changes
     band_problems, flat = check_bands(pages)
-    outputs.append((ROOT / "REPORT.md", holes_md(report, flat, check_credits(pages), check_voice(pages))))
+    attr_problems, attribution = check_attribution(pages)
+    facet_problems, facet_counts = check_facets(pages)
+    outputs.append((ROOT / "REPORT.md", holes_md(report, flat, check_credits(pages), check_voice(pages), attribution, facet_counts)))
+
+    order = ordered_routes(pages)
+    home = pages["/"]
+    if "<!-- build:facets -->" in home["html"]:
+        new_home = splice(home["html"], facets_html(pages, order), "<!-- build:facets -->", "<!-- /build:facets -->")
+        if new_home != home["html"]:
+            home["html"] = new_home
+            home["main_html"] = re.search(r"<main.*?</main>", new_home, re.S).group(0)
+            home["main"] = parse(home["main_html"])
+            outputs.append((home["file"], new_home))
 
     cj, cmd, chtml = citations_outputs(pages, None)
     outputs.append((PUBLIC / "citations.json", cj))
@@ -609,7 +708,6 @@ def build(mode):
         cit_page["main"] = parse(cit_page["main_html"])
         outputs.append((cit_page["file"], new_cit_html))
 
-    order = ordered_routes(pages)
     twins = {r: page_markdown(pages[r]) for r in order}
     for r in order:
         outputs.append((pages[r]["file"].with_name("index.md"), twins[r]))
@@ -620,7 +718,7 @@ def build(mode):
     outputs.append((PUBLIC / "llms-full.txt", full))
 
     stale = [p for p, t in outputs if not p.exists() or p.read_text() != t]
-    problems = check_links(pages) + band_problems
+    problems = check_links(pages) + band_problems + attr_problems + facet_problems
     if mode == "check":
         for p in stale:
             print(f"stale: {p.relative_to(ROOT)}")

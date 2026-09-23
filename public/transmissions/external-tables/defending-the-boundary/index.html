@@ -83,22 +83,24 @@
 <body>
   <header class="top">
     <a class="mark" href="/">Sarth</a>
+    <input type="checkbox" id="menu" class="menu-toggle">
+    <label for="menu" class="menu-button">Menu</label>
     <nav>
-      <a href="/">Sarth</a>
       <a href="/about/">About</a>
       <a href="/conspiracies/">Conspiracies</a>
       <a href="/conspirators/">Conspirators</a>
-      <a href="/sightings/">Sightings</a>
+      <a href="/rumors/">Rumors</a>
       <a href="/work/">Work</a>
-      <a href="/appearances/">Appearances</a>
+      <a href="/sightings/">Sightings</a>
       <a href="/devices/">Devices</a>
+      <a href="/contraptions/">Contraptions</a>
       <a href="/transmissions/" aria-current="page">Transmissions</a>
       <a href="/contact/">Contact</a>
     </nav>
   </header>
 
-  <main class="page essay">
-    <p class="kicker">Append-only pipelines · Part 4 of 5</p>
+  <main class="page essay" data-facet="machine">
+    <p class="kicker">Append-only pipelines · Part 4 of 5 · Machine</p>
     <h1>Defending the boundary</h1>
     <p class="meta authors-note"><em>Adapted from a piece I wrote in July 2024, about work I did starting in the fall of 2022.</em></p>
 <p><a href="https://gcanti.github.io/io-ts/">io-ts</a> is a TypeScript library by Giulio Canti built around the idea of a codec. A codec is one definition that does three jobs at once: it validates unknown data at runtime, it tells the compiler what the type is, and it encodes the value back out again. The thing it is for is the boundary, the place where data arrives from outside your program and you have no guarantee it is what you were promised. TypeScript's own types are gone by the time the program runs, so at that boundary they protect you from nothing.</p>
@@ -135,16 +137,24 @@
   </aside>
   <footer>
     <p>
-      <a href="https://x.com/noisegroove">@noisegroove</a>
+      <a href="https://x.com/noisegroove">X</a>
+      · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
+      · <a href="https://www.youtube.com/@whiddershins">YouTube</a>
+      · <a href="https://soundcloud.com/noisegroove">SoundCloud</a>
+      · <a href="https://sarth.bandcamp.com">Bandcamp</a>
+      · <a href="https://bsky.app/profile/noisegroove.bsky.social">Bluesky</a>
       · <a href="https://github.com/whiddershins">GitHub</a>
       · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
-      · <a href="mailto:whiddershins@gmail.com">email</a>
+      · <a href="mailto:sayhello@sarth.net">email</a>
     </p>
     <p>
-      <a href="https://bookofsarth.com">Book of Sarth</a>
-      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+      <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/3rdwallstudio/">its Instagram</a>
       · <a href="https://burlap.app">Burlap</a>
-      · <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/burlapapp/">its Instagram</a>
+      · <a href="https://www.youtube.com/@burlap_app">its YouTube</a>
+      · <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
     </p>
     <p class="host">All rights reserved</p>
   </footer>

@@ -17,7 +17,7 @@ Paul Chuffo is a drummer in New York. He was the original drummer for [Gutbucket
 
 Lucibel Crater has been a trio since I started it in 2005. A typical set begins with Chuffo’s syncopated drum parts being looped live, piece by piece, before the rest of the band builds on top of them. The trio released the EP *Miracles* in 2007 and the full-length *The Family Album* in 2008, with [Lou Reed](/conspirators/lou-reed/) playing guitar on “Threadbare Funeral.”
 
-The dates that survive in the record run from the Knitting Factory in February 2007 through FatBaby, the Delancey and a Berlin night at RAW-Tempel in November 2008. They are listed on [Appearances](/appearances/).
+The dates that survive in the record run from the Knitting Factory in February 2007 through FatBaby, the Delancey and a Berlin night at RAW-Tempel in November 2008. They are listed on [Sightings](/sightings/).
 
 The credit: Paul Chuffo has played drums in Lucibel Crater with Sarth Calhoun and Leah Coloff since 2005, on *Miracles*, 2007, and *The Family Album*, 2008.
 

@@ -2,12 +2,13 @@
 title: Lulu
 description: How Sarth Calhoun and Lou Reed made music for Robert Wilson's 2011 Berliner Ensemble Lulu, then took the material to Metallica in San Francisco.
 url: https://www.sarth.net/conspiracies/lulu/
+facet: dream
 credit: Sarth Calhoun co-wrote the score for Robert Wilson’s *Lulu* with Lou Reed and directed its rehearsals at the Berliner Ensemble, 2011. On the Lou Reed and Metallica album he composed and performed electronics; “Junior Dad” grew from his Kyma session with Rob Wasserman at Reed’s apartment.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Lulu
 
-Conspiracy
+Conspiracy · Dream
 
 # *Lulu*
 

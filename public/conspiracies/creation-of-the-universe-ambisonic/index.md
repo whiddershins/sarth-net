@@ -3,12 +3,13 @@ title: The Creation of the Universe, ambisonic installation
 description: The Metal Machine Trio Blender Theater recording spatialized as a 10.1 ambisonic installation at CSULB and Cranbrook, using Arup SoundLab technology. Sarth Calhoun on what he thought of it at the time.
 url: https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/
 published: 2026-09-22
+facet: dream
 credit: Sarth Calhoun is one of the three recorded performers, on Continuum and live processing, in the Metal Machine Trio recording of April 24, 2009 that the installation plays; visitors stand in his, Lou Reed’s or Ulrich Krieger’s position on stage.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / [Metal Machine Trio](/conspiracies/metal-machine-trio/) / The Creation of the Universe, ambisonic installation
 
-Installation
+Installation · Dream
 
 # The Creation of the Universe, ambisonic installation
 

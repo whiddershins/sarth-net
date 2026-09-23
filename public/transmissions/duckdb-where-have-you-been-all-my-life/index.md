@@ -3,9 +3,10 @@ title: DuckDB, where have you been all my life
 description: Using Claude and DuckDB to query Burlap's JSON records of genAI calls, and running the whole append-only pipeline pattern on a laptop.
 url: https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/
 published: 2026-09-22
+facet: message
 author: Sarth Calhoun
 ---
-22 Sep 2026
+22 Sep 2026 · Message
 
 # DuckDB, where have you been all my life
 

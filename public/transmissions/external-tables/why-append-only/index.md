@@ -3,9 +3,10 @@ title: Why append-only
 description: Why you would keep every file forever instead of upserting: an append-only store makes loads idempotent, order-independent, and parallelizable.
 url: https://www.sarth.net/transmissions/external-tables/why-append-only/
 published: 2026-09-22
+facet: machine
 author: Sarth Calhoun
 ---
-Append-only pipelines · Part 1 of 5
+Append-only pipelines · Part 1 of 5 · Machine
 
 # Why append-only
 

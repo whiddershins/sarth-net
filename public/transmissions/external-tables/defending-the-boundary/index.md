@@ -3,9 +3,10 @@ title: Defending the boundary
 description: Runtime type checking with io-ts codecs in Node streams: errors as values, async pipelines, and why validating at the boundary saves time, money, and heartache.
 url: https://www.sarth.net/transmissions/external-tables/defending-the-boundary/
 published: 2026-09-22
+facet: machine
 author: Sarth Calhoun
 ---
-Append-only pipelines · Part 4 of 5
+Append-only pipelines · Part 4 of 5 · Machine
 
 # Defending the boundary
 

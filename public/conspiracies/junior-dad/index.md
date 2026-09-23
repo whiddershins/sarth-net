@@ -2,12 +2,13 @@
 title: Junior Dad
 description: The origin of Junior Dad: Rob Wasserman bowing electric upright at Lou Reed's apartment while Sarth Calhoun processed it through Kyma.
 url: https://www.sarth.net/conspiracies/junior-dad/
+facet: dream
 credit: Sarth Calhoun processed Rob Wasserman’s bowed electric upright through Kyma at Lou Reed’s apartment in the session that became the basis of “Junior Dad,” and plays electronics on *Lulu*, 2011.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / [Lulu](/conspiracies/lulu/) / Junior Dad
 
-Transmission
+Transmission · Dream
 
 # “Junior Dad”
 

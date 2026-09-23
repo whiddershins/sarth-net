@@ -3,12 +3,13 @@ title: Solsbury Hill
 description: Solsbury Hill, Lou Reed's recording of the Peter Gabriel song for And I'll Scratch Yours, Real World Records, 2013, produced by Sarth Calhoun, who plays electronics on it.
 url: https://www.sarth.net/transmissions/solsbury-hill/
 published: 2026-09-23
+facet: dream
 credit: Production and electronics, Sarth Calhoun. Discogs, [release 4938695](https://www.discogs.com/release/4938695), track 11, lists additional programming. On [Apple Music](https://music.apple.com/us/album/987512394) and [Spotify](https://open.spotify.com/track/1PO2HeYYaAm5GDoqQsuRQz).
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / Solsbury Hill
 
-Transmission
+Transmission · Dream
 
 # “Solsbury Hill”
 

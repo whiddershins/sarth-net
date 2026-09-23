@@ -3,12 +3,13 @@ title: Peggy Sue
 description: Peggy Sue, Lou Reed's recording of the Buddy Holly song for Rave On Buddy Holly, 2011, with Sarth Calhoun on bass, a Moog Little Phatty.
 url: https://www.sarth.net/transmissions/peggy-sue/
 published: 2026-09-23
+facet: dream
 credit: Discogs, [release 2948749](https://www.discogs.com/release/2948749), track 17: Lou Reed, “Peggy Sue.” Sarth Calhoun, bass, Little Phatty. On [Apple Music](https://music.apple.com/us/album/rave-on-buddy-holly-bonus-track-version/1440953567).
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / Peggy Sue
 
-Transmission
+Transmission · Dream
 
 # “Peggy Sue”
 

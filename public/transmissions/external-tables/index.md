@@ -3,9 +3,10 @@ title: External Tables, Partitions, CTEs, Window Functions, and Partitions
 description: A five-part tutorial on building an append-only data pipeline on external tables: why append-only, external tables, window functions for the current truth, runtime type checking at the boundary, and living with the code.
 url: https://www.sarth.net/transmissions/external-tables/
 published: 2026-09-22
+facet: machine
 author: Sarth Calhoun
 ---
-Five parts
+Five parts · Machine
 
 # External Tables, Partitions, CTEs, Window Functions, and Partitions
 

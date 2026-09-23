@@ -3,9 +3,10 @@ title: Visual Reference Prompting
 description: We’ve been doing hybrid production at Third Wall Studio since before anyone called it that. I made Burlap for this precise use case: Start from original art and use it to style more images, explore variations, and generate the in-betweens.
 url: https://www.sarth.net/transmissions/visual-reference-prompting/
 published: 2026-07-31
+facet: message
 author: Sarth Calhoun
 ---
-Jul 31, 2026
+Jul 31, 2026 · Message
 
 # Visual Reference Prompting
 

@@ -2,12 +2,13 @@
 title: Metal Machine Trio
 description: Sarth Calhoun on forming Metal Machine Trio with Lou Reed and Ulrich Krieger at REDCAT in 2008 and recording The Creation of the Universe.
 url: https://www.sarth.net/conspiracies/metal-machine-trio/
+facet: dream
 credit: Sarth Calhoun, Continuum Fingerboard and live processing through Kyma, one third of Metal Machine Trio with Lou Reed and Ulrich Krieger, from REDCAT in October 2008 through São Paulo in November 2010; on *The Creation of the Universe*, 2009.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Metal Machine Trio
 
-Conspiracy
+Conspiracy · Dream
 
 # Metal Machine Trio
 
@@ -63,7 +64,7 @@ The record: [*The Creation of the Universe*](/transmissions/the-creation-of-the-
 
 We called the music “Deep Noise” because that’s what it was. At times though, it felt almost like improvised classical music, or something which didn’t have a name.
 
-The dates, from REDCAT through New York, Europe, Sydney and São Paulo, are on [Appearances](/appearances/).
+The dates, from REDCAT through New York, Europe, Sydney and São Paulo, are on [Sightings](/sightings/).
 
 The credit: Sarth Calhoun, Continuum Fingerboard and live processing through Kyma, one third of Metal Machine Trio with Lou Reed and Ulrich Krieger, from REDCAT in October 2008 through São Paulo in November 2010; on *The Creation of the Universe*, 2009.
 

@@ -3,12 +3,13 @@ title: I Just Believe in Christmas
 description: The origin of Sarth Calhoun’s Christmas song, sung by Michael Patrick Flanagan Smith, with words finished by Jesse Schoen, Virginia Piazza and Doron Lev. Lyrics and links.
 url: https://www.sarth.net/conspiracies/i-just-believe-in-christmas/
 published: 2026-09-22
+facet: dream
 credit: Released December 2015 as Catfish Calhoun and Friends: a collaboration between Sarth Calhoun, Michael Patrick Flanagan Smith, Jesse Schoen, Doron Lev, Virginia Piazza and Dominic Bouffard. Mike, lead vocals. Sarth, piano. Doron, drums. Dom, guitars. Virginia, backing vocals. Jacob McCoy, bass. Phil Weinrobe, banjo. Dan Richman, mandolin. Tony Diodore and Sarah Alden, violin. Scott Hampton, ukulele. Exaltron, trumpet. And everybody sang backing vocals. Recorded by Phil Weinrobe at Figure 8 Studios. Mixed by Marc Urselli. Mastered by Fred Kevorkian.
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / I Just Believe in Christmas
 
-Transmission
+Transmission · Dream
 
 # I Just Believe in Christmas
 

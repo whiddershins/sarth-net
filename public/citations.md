@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (386 total)
+## Citations by page (410 total)
 
 ### Sarth Calhoun
 `/`
@@ -57,7 +57,9 @@ every page.
 - [meet the artists](https://thirdwallstudio.com/process)
 - [Through the Brambles](https://www.thirdwallstudio.com/through-the-brambles)
 - [Contraptions](https://contraptions.bookofsarth.com)
+- [FM / 6](https://contraptions.bookofsarth.com/fm6/)
 - [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
+- [Soundscape One](https://contraptions.bookofsarth.com/soundscape-one)
 - [Book of Sarth](https://bookofsarth.com)
 - [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
 - [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
@@ -74,37 +76,13 @@ every page.
 - [sarth.net](https://www.sarth.net)
 - [bookofsarth.com](https://bookofsarth.com)
 - [X @noisegroove](https://x.com/noisegroove)
+- [Instagram @noisegroove](https://www.instagram.com/noisegroove/)
+- [YouTube](https://www.youtube.com/@whiddershins)
+- [Bluesky](https://bsky.app/profile/noisegroove.bsky.social)
 - [GitHub](https://github.com/whiddershins)
-- [Instagram](https://www.instagram.com/3rdwallstudio/)
 - [Wikidata Q7424654](https://www.wikidata.org/wiki/Q7424654)
 - [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
 - [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
-
-### Appearances
-`/appearances/`
-
-- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
-- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
-- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
-- [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House)
-- [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
-- [REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
-- [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
-- [NYT Ratliff](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
-- [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
-- [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
-- [Announcement](https://loureed.com/news/lou-reed-at-lollapalooza/)
-- [DVD credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
-- [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
-- [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
-- [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
-- [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
-- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
-- [Metallica](https://en.wikipedia.org/wiki/Metallica)
-- [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
-- [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
-- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
-- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 
 ### Citations
 `/citations/`
@@ -142,6 +120,8 @@ every page.
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 - [Contraptions](https://contraptions.bookofsarth.com)
+- [Burlap on Instagram](https://www.instagram.com/burlapapp/)
+- [Burlap on YouTube](https://www.youtube.com/@burlap_app)
 
 ### The Creation of the Universe, ambisonic installation
 `/conspiracies/creation-of-the-universe-ambisonic/`
@@ -152,10 +132,11 @@ every page.
 `/conspiracies/gralbum-collective/`
 
 - [gralbumcollective.com](https://gralbumcollective.com/)
+- [Laughing Squid, April 8, 2014](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
 - [Bora Yoon](https://www.borayoon.com/)
 - [Tom Hart](https://en.wikipedia.org/wiki/Tom_Hart_(cartoonist))
 - [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
-- [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
+- [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 - [Adam Matta](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops)
 - [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
@@ -191,6 +172,7 @@ every page.
 
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian)
+- [Symbolic Sound, July 26, 2011](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
 - [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey)
 - [Chemical Brothers](https://en.wikipedia.org/wiki/The_Chemical_Brothers)
 
@@ -259,9 +241,9 @@ every page.
 
 - [Number19](https://en.wikipedia.org/wiki/Number19)
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
+- [mp3.com](https://en.wikipedia.org/wiki/Mp3.com)
 - [Apple Music](https://music.apple.com/us/album/suspension/274828088)
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
-- [mp3.com](https://en.wikipedia.org/wiki/Mp3.com)
 - [Puracane](https://en.wikipedia.org/wiki/Puracane)
 - [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
 
@@ -295,7 +277,9 @@ every page.
 ### Yellow Pony
 `/conspiracies/yellow-pony/`
 
-- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+- [The Guardian, July 20, 2009](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
+- [loureed.com](https://loureed.com/news/lou-reed-and-laurie-anderson-tour-dates/)
+- [El Punt Avui, July 2009](https://www.elpuntavui.cat/cultura/article/19-cultura/59389-lou-reed-i-laurie-anderson-estrenen-el-seu-lmanifest-grocr-a-sant-feliu.html)
 
 ### Laurie Anderson
 `/conspirators/laurie-anderson/`
@@ -325,6 +309,8 @@ every page.
 - [John Cale](https://en.wikipedia.org/wiki/John_Cale)
 - [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
+- [“Unclassifiable”, The Wire, 2013](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+- [loureed.com, June 25, 2009](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 
 ### Paul Chuffo
 `/conspirators/paul-chuffo/`
@@ -365,13 +351,42 @@ every page.
 ### Contact
 `/contact/`
 
-- [@noisegroove](https://x.com/noisegroove)
+- [@noisegroove on X](https://x.com/noisegroove)
+- [Instagram](https://www.instagram.com/noisegroove/)
+- [Bluesky](https://bsky.app/profile/noisegroove.bsky.social)
+- [YouTube](https://www.youtube.com/@whiddershins)
+- [SoundCloud](https://soundcloud.com/noisegroove)
+- [Bandcamp](https://sarth.bandcamp.com)
+- [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+- [Apple Music](https://music.apple.com/us/artist/sarth/1061852162)
 - [github.com/whiddershins](https://github.com/whiddershins)
+- [Instagram](https://www.instagram.com/3rdwallstudio/)
+- [YouTube](https://www.youtube.com/@burlap_app)
+- [burlap.app](https://burlap.app)
+- [Instagram](https://www.instagram.com/burlapapp/)
+
+### Contraptions
+`/contraptions/`
+
+- [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
+- [Play](https://contraptions.bookofsarth.com/fm6/)
+- [Guide](https://contraptions.bookofsarth.com/fm6.md)
+- [Release record](https://contraptions.bookofsarth.com/fm6.json)
+- [imgsli](https://imgsli.com/)
+- [Improve ImgSLI](https://github.com/Loganavter/Improve-ImgSLI)
+- [Use it](https://contraptions.bookofsarth.com/image-compare-workbench)
+- [Source](https://github.com/whiddershins/image-compare-workbench)
+- [Soundscape One A](https://contraptions.bookofsarth.com/soundscape-one/one-a.html)
+- [Soundscape Two A](https://contraptions.bookofsarth.com/soundscape-one/officeSoundscape_01.html)
+- [Soundscape One B](https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html)
+- [Walk it](https://contraptions.bookofsarth.com/soundscape-one)
+- [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
+- [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript)
+- [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb)
 
 ### Devices
 `/devices/`
 
-- [Contraptions](https://contraptions.bookofsarth.com)
 - [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
 - [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
 - [Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
@@ -383,8 +398,8 @@ every page.
 - [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
 - [runwayml.com](https://runwayml.com/)
 
-### Sightings
-`/sightings/`
+### Rumors
+`/rumors/`
 
 - [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
@@ -412,6 +427,32 @@ every page.
 - [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+
+### Sightings
+`/sightings/`
+
+- [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger)
+- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
+- [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+- [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House)
+- [Cranbrook Art Museum](https://en.wikipedia.org/wiki/Cranbrook_Art_Museum)
+- [REDCAT archive](https://web.archive.org/web/20110927041818/http://www.redcat.org/event/lou-reed-and-ulrich-krieger)
+- [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/)
+- [NYT Ratliff](https://www.nytimes.com/2009/04/25/arts/music/25reed.html)
+- [Village Voice](https://www.villagevoice.com/lou-reeds-metal-machine-trio/)
+- [Variety](https://variety.com/2009/music/markets-festivals/lou-reed-3-1117940137/)
+- [Announcement](https://loureed.com/news/lou-reed-at-lollapalooza/)
+- [DVD credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
+- [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
+- [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
+- [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
+- [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+- [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+- [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
+- [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 
 ### Transmissions
 `/transmissions/`
@@ -624,27 +665,14 @@ every page.
 - [burlap.app](https://burlap.app)
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
-- [Watching Shadows](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Through the Brambles](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-- [Pigeon Problems](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-- [Truck Stop Love](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-- [Meatsuitz Family Vacay](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
-- [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
-- [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
 - [Reaktor](https://reaktor.com)
 - [Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
+- [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
 - [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 - [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
-- [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)
-- [Acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
 - [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
-- [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
-- [Shruti box](https://www.youtube.com/watch?v=V_ZinrLAl4I)
-- [Prepared guitar](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
 - [bookofsarth.com](https://bookofsarth.com)
 - [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
-- [(gr)album](https://gralbumcollective.com/titles.html)
 - [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs)
-- [Berlin live](https://www.youtube.com/watch?v=UOh4tKteFOs)
 <!-- /build:citations -->

@@ -23,7 +23,7 @@ From the biography on my old site: Along his musical journeys, he met cellist an
 
 ## Lucibel Crater
 
-I started Lucibel Crater in 2005 with Coloff on cello and voice and Paul Chuffo on drums. The trio released an EP, *Miracles*, in 2007 and a full-length, *The Family Album*, in 2008. [Lou Reed](/conspirators/lou-reed/) plays guitar on “Threadbare Funeral.” The live dates that survive in the record are on [Appearances](/appearances/).
+I started Lucibel Crater in 2005 with Coloff on cello and voice and Paul Chuffo on drums. The trio released an EP, *Miracles*, in 2007 and a full-length, *The Family Album*, in 2008. [Lou Reed](/conspirators/lou-reed/) plays guitar on “Threadbare Funeral.” The live dates that survive in the record are on [Sightings](/sightings/).
 
 ## Book of Sarth
 

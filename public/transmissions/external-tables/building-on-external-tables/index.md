@@ -3,9 +3,10 @@ title: Building on external tables
 description: Laying out object storage so file paths are partitions, and defining external tables over directories of CSVs, with Snowflake as the worked example.
 url: https://www.sarth.net/transmissions/external-tables/building-on-external-tables/
 published: 2026-09-22
+facet: machine
 author: Sarth Calhoun
 ---
-Append-only pipelines · Part 2 of 5
+Append-only pipelines · Part 2 of 5 · Machine
 
 # Building on external tables
 

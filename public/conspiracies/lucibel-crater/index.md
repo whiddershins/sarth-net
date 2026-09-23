@@ -2,12 +2,13 @@
 title: Lucibel Crater
 description: Lucibel Crater, the Brooklyn rock and electronic trio Sarth Calhoun founded in 2005 with Leah Coloff and Paul Chuffo, and its 2008 record The Family Album.
 url: https://www.sarth.net/conspiracies/lucibel-crater/
+facet: dream
 credit: Sarth Calhoun founded Lucibel Crater in 2005 and plays keys, bass, loops, Kyma and Continuum Fingerboard in it, with Leah Coloff, cello and voice, and Paul Chuffo, drums. On *Miracles*, 2007, and *The Family Album*, 2008.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Lucibel Crater
 
-Conspiracy
+Conspiracy · Dream
 
 # Lucibel Crater
 
@@ -47,11 +48,11 @@ The band’s only full-length came out in 2008, ten songs, mixed by [Bryce Goggi
 
 The [Björk](https://en.wikipedia.org/wiki/Bj%C3%B6rk) and [White Stripes](https://en.wikipedia.org/wiki/The_White_Stripes) comparison comes from *Urban* in Italy, February 2009, where Simone Tempia wrote: Ci si può sentire qualcosa di Björk e magari dei White Stripes. Ma la verità è che il loro sound è unico e difficilmente incasellabile.
 
-[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed the record in July 2008. [Ross Christopher at awaken music](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html) gave it five stars in April 2009 and picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. More of the press is on [Sightings](/sightings/).
+[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed the record in July 2008. [Ross Christopher at awaken music](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html) gave it five stars in April 2009 and picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. More of the press is on [Rumors](/rumors/).
 
 ## On stage
 
-The dates that survive in the record start at the Knitting Factory in February 2007 and run through FatBaby, the Delancey, a Berlin night at RAW-Tempel in November 2008, and the Jazzwelten festival in Dresden in 2010. Lou Reed and Ulrich Krieger once joined the band at Joe’s Pub for “Masticate,” which I called a [Metal Machine Trio](/conspiracies/metal-machine-trio/) sub-unit. The full list is on [Appearances](/appearances/).
+The dates that survive in the record start at the Knitting Factory in February 2007 and run through FatBaby, the Delancey, a Berlin night at RAW-Tempel in November 2008, and the Jazzwelten festival in Dresden in 2010. Lou Reed and Ulrich Krieger once joined the band at Joe’s Pub for “Masticate,” which I called a [Metal Machine Trio](/conspiracies/metal-machine-trio/) sub-unit. The full list is on [Sightings](/sightings/).
 
 The credit: Sarth Calhoun founded Lucibel Crater in 2005 and plays keys, bass, loops, Kyma and Continuum Fingerboard in it, with Leah Coloff, cello and voice, and Paul Chuffo, drums. On *Miracles*, 2007, and *The Family Album*, 2008.
 

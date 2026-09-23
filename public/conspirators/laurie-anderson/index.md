@@ -29,7 +29,7 @@ My role on that tour was to act as a bridge between the wildness of Lou and the 
 
 Dave Simpson reviewed the Manchester night for [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review) on July 20, 2009: The two titans faced each other – Anderson (standing) on violin and electronics, and Reed (seated) on various guitars – with electronic sound manipulator Sarth Calhoun between them. Over two hours, his expression transformed from enthusiastic glee to that of a baffled marriage counsellor, as Reed barked instructions.
 
-The Paris house program at Salle Pleyel billed me as “claviers et électronique.” The full run is on [Appearances](/appearances/).
+The Paris house program at Salle Pleyel billed me as “claviers et électronique.” The full run is on [Sightings](/sightings/).
 
 ## Vivid LIVE
 
@@ -41,4 +41,4 @@ Since then every time I have joined her I think it was for a noise thing, in [Sy
 
 The credit: Sarth Calhoun played Continuum Fingerboard between Laurie Anderson and Lou Reed on the Yellow Pony tours of 2009, resampling their voices live, and has played with Anderson since: Vivid LIVE 2010, and the Lou Reed drone concerts at the Cathedral of St. John the Divine, 2019, and the Winter Garden, 2023.
 
-Both are on [Appearances](/appearances/): St. John the Divine on March 13, 2019, for what would have been Lou’s 77th birthday, and Brookfield Place Winter Garden on March 2, 2023, for his 81st.
+Both are on [Sightings](/sightings/): St. John the Divine on March 13, 2019, for what would have been Lou’s 77th birthday, and Brookfield Place Winter Garden on March 2, 2023, for his 81st.

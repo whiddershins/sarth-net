@@ -1,23 +1,23 @@
 ---
 title: Work
-description: What Sarth Calhoun is working on now and what came before: Third Wall Studio, the Burlap app, 2026 animated shorts, data engineering, and the music.
+description: Sarth Calhoun’s CV, newest first: Third Wall Studio, the Burlap app, writing, data engineering at Reaktor and Paramount, and the music.
 url: https://www.sarth.net/work/
 published: 2026-09-22
 author: Sarth Calhoun
 ---
-Updated 22 Sep 2026
+CV · updated September 23, 2026
 
 # Work
 
-Newest first.
+What I do and have done, newest first. The things themselves are on [Transmissions](/transmissions/); the people are [Conspirators](/conspirators/).
 
 ## Now
 
-- **Third Wall Studio.** I founded it in May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic.
+- **[Third Wall Studio](/conspiracies/third-wall-studio/).** Founder, May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic. Seven films in 2026 with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, all made in Burlap.
 
-  [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/)
+  [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [the films](/transmissions/#optical)
 
-- **Burlap.** A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam.
+- **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025.
 
   [burlap.app](https://burlap.app) · [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo) · [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 
@@ -25,43 +25,19 @@ Newest first.
 
 - **High Shoulder.** A new company.
 
-- **Claude driving DuckDB over Burlap's JSON records** of every genAI call, for spend by artist, project, and time frame.
-
-  [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
-
-## Animation, 2026
-
-- [Watching Shadows · with Doron Lev · April 2026](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Through the Brambles · May 2026](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-- [Pigeon Problems · with Doron Lev · February 2026](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-- [Truck Stop Love · with Doron Lev · February 2026](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-- [Meatsuitz Family Vacay · with Jacob McCoy · January 2026](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
-
-- **Dark Arts**, teaser. August 2026.
-
-  [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
-
-- **Kubler-Ross Model**, with Savas. Excerpt, August 2026.
-
-  [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8) · [Third Wall](https://thirdwallstudio.com)
-
-- **The Trinary Matrix**, with Jonathan Arons.
-
-  [Third Wall](https://thirdwallstudio.com)
-
 ## Writing
-
-- **An append-only pipeline on external tables**, in five parts, plus pages on window functions and SQL.
-
-  [Series](/transmissions/external-tables/) · [Window functions](/transmissions/window-functions/) · [SQL](/transmissions/sql-as-the-data-language/)
-
-- **Four essays on data work.** Pandas and SQL, why Python is the default, modern Postgres, and Node against Rails.
-
-  [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python](/transmissions/why-python-is-the-default-for-data-work/) · [Postgres](/transmissions/modern-postgres/) · [Node vs Rails](/transmissions/node-vs-rails/)
 
 - **Visual Reference Prompting.** July 2026. Using original images to push AI generation into new probability spaces.
 
   [Essay](/transmissions/visual-reference-prompting/) · [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
+
+- **An append-only pipeline on external tables**, in five parts, with pages on window functions and SQL, and four essays on data work: Pandas and SQL, why Python is the default, modern Postgres, Node against Rails.
+
+  [The series](/transmissions/external-tables/) · [everything under Lexical](/transmissions/#lexical)
+
+- **Claude driving DuckDB over Burlap's JSON records** of every genAI call, for spend by artist, project and time frame. September 2026.
+
+  [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 
 ## Data engineering
 
@@ -85,9 +61,13 @@ Newest first.
 
 ## Instruments and synthesis
 
-- **About five kinds of synthesis,** invented.
+- **About five kinds of synthesis,** invented. SeqOSC, a relative of AM synthesis, was built in Kyma.
 
-- **Devices.** The Kyma, the Haken Continuum Fingerboard, and what they were used on.
+- **Contraptions.** Small software machines: FM / 6, a six-operator synthesizer, 2026; Image Compare Workbench, 2026; Soundscape One, 2021.
+
+  [Contraptions](/contraptions/) · [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
+
+- **Devices.** The Kyma, the Haken Continuum Fingerboard, Ableton Live, Runway, and what they were used on.
 
   [Devices](/devices/)
 
@@ -97,9 +77,17 @@ Newest first.
 
 ## Music
 
-- **Drone and noise shows,** many of them, including the Cathedral of St. John the Divine.
+- **Drone and noise shows,** many of them, including the Cathedral of St. John the Divine. Listed on [Sightings](/sightings/).
 
-- **A score for a film directed by Joe Kelly.**
+- **Singles as Sarth,** 2020 to 2025, on Noise | Groove.
+
+  [Singles](/transmissions/singles/)
+
+- **Beautiful Tornado,** the podcast with Dom Bouffard. 2020 to 2021.
+
+  [Beautiful Tornado](/transmissions/beautiful-tornado/)
+
+- **A score for a film directed by Joe Kelly.** The main melody of “Softly Questioning.”
 
 - **Burned House Horizon.**
 
@@ -107,28 +95,44 @@ Newest first.
 
 - **I Just Believe in Christmas.** December 2015. It started as an argument with my neighbors about squirrels in the attic. Sung by Michael Patrick Flanagan Smith, words with Jesse Schoen, Virginia Piazza, and Doron Lev.
 
-  [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas) · [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0) · [Acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
+  [The song](/conspiracies/i-just-believe-in-christmas/) · [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
 
 - **Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat).** November 2015. Improvised duets. The name came from Scott Hampton, who took it from a review of a Metal Machine Trio show.
 
-  [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160) · [Video](https://www.youtube.com/watch?v=-Sq3OSve1Ls)
+  [The record](/conspiracies/reflections-vol-1/) · [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
 
-- **Two duets with Sxip Shirey.** 2015. Continuum against shruti box, and prepared guitar against Continuum.
+- **Introspections.** 2015. Improvised drone duets on Continuum and Kyma, with Jacob McCoy, Sxip Shirey and others.
 
-  [Shruti box](https://www.youtube.com/watch?v=V_ZinrLAl4I) · [Prepared guitar](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
+  [Introspections](/transmissions/introspections/)
+
+- **Solsbury Hill and Peggy Sue.** Lou Reed’s recordings for *And I’ll Scratch Yours*, 2013, which I produced and played electronics on, and *Rave On Buddy Holly*, 2011, on which I played bass.
+
+  [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/)
+
+- **The Gralbum Collective.** Founded 2012; the (gr)album app launched April 2014 with five titles.
+
+  [The Gralbum Collective](/conspiracies/gralbum-collective/)
 
 - **The Book of Sarth.** 2012 to 2013. A graphic novel and concept album as one iPad app, two and a half years in the making, and my first full-length solo release.
 
-  [bookofsarth.com](https://bookofsarth.com) · [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) · [(gr)album](https://gralbumcollective.com/titles.html)
+  [Book of Sarth](/conspiracies/book-of-sarth/) · [bookofsarth.com](https://bookofsarth.com) · [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 
-- **Lulu.** Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011, then the Lou Reed and Metallica album.
+- **Lulu.** Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011; rehearsals directed in Berlin; then the Lou Reed and Metallica album, and its first live performances with Metallica in November 2011.
 
   [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/)
 
-- **Metal Machine Trio**, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing.
+- **Lou Reed’s touring band**, 2008 to 2011, on Continuum and Kyma, and **Yellow Pony** with Lou Reed and Laurie Anderson, 2009.
 
-  [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [Appearances](/appearances/)
+  [The song band](/conspiracies/lou-reed-song-band/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
 
-- **Lucibel Crater.** My band. *The Family Album*, 2008.
+- **Metal Machine Trio**, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing. *The Creation of the Universe*, 2009.
 
-  [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs) · [Berlin live](https://www.youtube.com/watch?v=UOh4tKteFOs) · [Sightings](/sightings/)
+  [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [Sightings](/sightings/)
+
+- **Lucibel Crater.** My band, founded 2005, with Leah Coloff and Paul Chuffo. *Miracles*, 2007; *The Family Album*, 2008.
+
+  [Lucibel Crater](/conspiracies/lucibel-crater/) · [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs) · [Rumors](/rumors/)
+
+- **Number19.** 1999 to 2005, with Tony Diodore, Leah Coloff and Mark Righter, on bass and a Yamaha EX5. *Suspension*, 2001, paid for by mp3.com downloads.
+
+  [Number19](/conspiracies/number19/)

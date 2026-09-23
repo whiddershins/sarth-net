@@ -3,9 +3,10 @@ title: Current truth with window functions
 description: Unique keys, ROW_NUMBER() OVER (PARTITION BY ... ORDER BY file_date DESC) = 1, and views: surfacing the current version of every record from an append-only store.
 url: https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/
 published: 2026-09-22
+facet: machine
 author: Sarth Calhoun
 ---
-Append-only pipelines · Part 3 of 5
+Append-only pipelines · Part 3 of 5 · Machine
 
 # Current truth with window functions
 

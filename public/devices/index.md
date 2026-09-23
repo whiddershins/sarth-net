@@ -2,13 +2,14 @@
 title: Devices
 description: Physical objects on Sarth Calhoun’s table: Symbolic Sound Kyma, Haken Continuum Fingerboard, Ableton Live, Runway. Used in Metal Machine Trio, Lulu, Lucibel Crater, Book of Sarth, Burlap.
 url: https://www.sarth.net/devices/
+facet: machine
 author: Sarth Calhoun
 ---
-Physical objects
+Physical objects · Machine
 
 # Devices
 
-Physical objects on the table. Kyma, Continuum, the performance DAW, the motion studio. Software machines live on [Contraptions](https://contraptions.bookofsarth.com).
+Physical objects on the table. Kyma, Continuum, the performance DAW, the motion studio. Software machines are on [Contraptions](/contraptions/).
 
 ## Symbolic Sound Kyma (Paca / Pacarana)
 

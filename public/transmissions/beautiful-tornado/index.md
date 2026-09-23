@@ -3,12 +3,13 @@ title: Beautiful Tornado
 description: Beautiful Tornado, the podcast by Sarth Calhoun and Dom Bouffard: six conversations with musicians and artists, 2020 to 2021, with Doron Lev, Glen Brady, Richard Naviasky, Bryan Senti and Michael Patrick Flanagan Smith.
 url: https://www.sarth.net/transmissions/beautiful-tornado/
 published: 2026-09-23
+facet: message
 credit: *Beautiful Tornado* was made by Sarth Calhoun and Dom Bouffard: six episodes, March 2020 to February 2021.
 author: Sarth Calhoun
 ---
 [Transmissions](/transmissions/) / Beautiful Tornado
 
-Transmission
+Transmission · Message
 
 # Beautiful Tornado
 

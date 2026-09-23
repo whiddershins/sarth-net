@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-22",
-  "citation_count": 439,
+  "citation_count": 440,
   "pages": [
     {
       "path": "/",
@@ -795,7 +795,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood",
-          "text": "Medeski Martin &amp;amp;amp;amp;amp; Wood"
+          "text": "Medeski Martin &amp;amp;amp;amp;amp;amp; Wood"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
@@ -864,6 +864,10 @@
         {
           "url": "https://en.wikipedia.org/wiki/Shahzad_Ismaily",
           "text": "Shahzad Ismaily"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops",
+          "text": "Adam Matta"
         }
       ]
     },

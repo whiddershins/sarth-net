@@ -18,11 +18,13 @@ He was one third of [Metal Machine Trio](/conspiracies/metal-machine-trio/) with
 
 Krieger transcribed Reed’s *[Metal Machine Music](https://en.wikipedia.org/wiki/Metal_Machine_Music)*, an hour of guitar feedback, for the Berlin ensemble zeitkratzer, scoring it for amplified acoustic instruments. The result was chamber instruments that sounded electronic. Zeitkratzer released the recording in 2007. That arrangement is how Reed came to know him.
 
-## How Sarth tells it
+## The genuine article
 
-From the Metal Machine Trio page of Sarth’s own site: In 2008 Lou called me up and told me he was doing a free improvised noise gig at The REDCAT in LA with saxophonist and composer Ulrich Krieger. Ulrich had made a real impression on Lou by arranging Metal Machine Music for orchestral ensemble ... a rare and some might say unnatural feat that should be impossible.
+Ulrich is the genuine article.
 
-The concerts had no group name. Ulrich had billed us as “Unclassified” because obviously the group had no name yet. Onstage Krieger played tenor saxophone and live electronics, Reed played guitar, electronics and a small Continuum, and Sarth played Continuum and processed the whole field through [Kyma](/devices/).
+I got to see a performance of his transcription of *Metal Machine Music* for orchestra, which is I believe what brought him to Lou’s attention, and it was stunning.
+
+I always loved playing with him. The [MM3](/conspiracies/metal-machine-trio/) shows could go from pure unrelenting noise to what [Laurie](/conspirators/laurie-anderson/) described as almost improvised classical music.
 
 ## Unclassifiable
 
@@ -41,4 +43,4 @@ Krieger and Sarth were both in the eight-piece band Reed took through Europe in 
 
 The Gramercy recording the trio made in April 2009 was later spatialised as an [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) that visitors walked into, standing where Reed, Krieger or Sarth had stood.
 
-Sarth’s account is from the Metal Machine Trio page of his old WordPress site, recovered from the Wayback Machine; Krieger’s is from his 2013 essay in *The Wire*.
+Sarth’s account is his own, given 23 September 2026. The description of the Metal Machine Trio shows as almost improvised classical music is his recollection of Laurie Anderson’s phrase.

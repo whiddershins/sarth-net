@@ -24,17 +24,17 @@ Third Wall Studio makes animation with filmmakers and artists. We mix live actio
 
 Writers, animators, directors, and visual artists bring their own worlds. We build the projects together, share the credit, and the work stays with the artist. [Burlap](https://burlap.app) is the canvas underneath it all.
 
-Recent work includes Savas’s *Kubler-Ross Model*; Doron Lev’s *Watching Shadows*, *Pigeon Problems*, and *Truck Stop Love*; Jacob McCoy’s *Meatsuitz*; and Jonathan Arons’s *The Trinary Matrix*. Doron Lev, Tetiana Khodakivska, and Jonathan Arons have also joined us as artists in residence. See the films, meet the artists, or bring us something strange.
+Recent work includes Savas’s [*Kubler-Ross Model*](https://www.youtube.com/shorts/yxCoeTg-qR8); Doron Lev’s [*Watching Shadows*](https://www.youtube.com/watch?v=fghXNj-HdBg), [*Pigeon Problems*](https://www.youtube.com/watch?v=vs6KM7hFzxs), and [*Truck Stop Love*](https://www.youtube.com/watch?v=gx9jIWSoEDQ); Jacob McCoy’s [*Meatsuitz*](https://www.youtube.com/watch?v=nZ2LpA9P-LY); and Jonathan Arons’s [*The Trinary Matrix*](https://thirdwallstudio.com). Doron Lev, Tetiana Khodakivska, and Jonathan Arons have also joined us as artists in residence. [See the films](https://thirdwallstudio.com), [meet the artists](https://thirdwallstudio.com/process), or [bring us something strange](mailto:studio@thirdwallstudio.com).
 
 [thirdwallstudio.com](https://thirdwallstudio.com) · [studio@thirdwallstudio.com](mailto:studio@thirdwallstudio.com)
 
 ### [Burlap](https://burlap.app)
 
-Burlap is an infinite canvas for making images and motion on the Mac. I built it at Third Wall Studio because the usual AI tools felt like a row of tiny boxes. The work needed room to spread out.
+A native app for visual creation and context management. Connect Burlap to the latest models from OpenAI, Google, Runway, ByteDance, and more. When using your own API keys, your data never touches our server.
 
-Sketch, import, or grab anything already on the canvas, then use it to steer the next generation. Keep a character consistent. Chase a style. Run several ideas at once through Runway, OpenAI (including Sora) and other providers, without losing the thread while the models work.
+Create, remix, and organize images and videos in an open ended workspace, letting ideas unfold without limits.
 
-It’s made for animation, storyboards, illustration, and design. The references, generations, and assets all live together, so the canvas becomes the workflow. It’s also how we make films at Third Wall Studio.
+Burlap is made by [Third Wall Studio](https://thirdwallstudio.com) as our workflow tool for animation and visual design. It is available now for Mac, and it is the canvas underneath [visual reference prompting](/transmissions/visual-reference-prompting/).
 
 [](https://burlap.app/download)
 Burlap. Download at burlap.app.

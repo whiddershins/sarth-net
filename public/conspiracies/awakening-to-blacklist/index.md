@@ -36,4 +36,4 @@ Then it’s just a matter of automating the wet/dry control to morph the track f
 
 The other thing I love about this track is the drum sounds during this hum and intro section. There is the extremely clear track and a more, well, gnarly track. The clear one is a 606 pattern and the other is a sampled club kit with brushes. The dramatic, almost military hits that come in and out have the gnarliness much more pronounced.
 
-From Sarth’s own writeup, sarth.net, 21 November 2020. The original page carried downloadable audio examples of the plain hum, the hum melody, the 606 loop, the brushed club kit and the two combined; those files are not reproduced here. He promised to go deeper into wet/dry morphs in a following post.
+From Sarth’s own writeup, sarth.net, November 21, 2020. The original page carried downloadable audio examples of the plain hum, the hum melody, the 606 loop, the brushed club kit and the two combined; those files are not reproduced here. He promised to go deeper into wet/dry morphs in a following post.

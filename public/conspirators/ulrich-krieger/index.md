@@ -43,4 +43,4 @@ Krieger and Sarth were both in the eight-piece band Reed took through Europe in 
 
 The Gramercy recording the trio made in April 2009 was later spatialised as an [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) that visitors walked into, standing where Reed, Krieger or Sarth had stood.
 
-Sarth’s account is his own, given 23 September 2026. The description of the Metal Machine Trio shows as almost improvised classical music is his recollection of Laurie Anderson’s phrase.
+Sarth’s account is his own, given September 23, 2026. The description of the Metal Machine Trio shows as almost improvised classical music is his recollection of Laurie Anderson’s phrase.

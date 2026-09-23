@@ -39,7 +39,7 @@ every page.
 - Third Wall Studio https://thirdwallstudio.com
 - Burlap https://burlap.app
 
-## Citations by page (440 total)
+## Citations by page (446 total)
 
 ### Sarth Calhoun
 `/`
@@ -48,6 +48,12 @@ every page.
 - [Burlap](https://burlap.app)
 - [Download Burlap](https://burlap.app/download)
 - [@noisegroove](https://x.com/noisegroove)
+- [Kubler-Ross Model](https://www.youtube.com/shorts/yxCoeTg-qR8)
+- [Watching Shadows](https://www.youtube.com/watch?v=fghXNj-HdBg)
+- [Pigeon Problems](https://www.youtube.com/watch?v=vs6KM7hFzxs)
+- [Truck Stop Love](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
+- [Meatsuitz](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+- [meet the artists](https://thirdwallstudio.com/process)
 - [Through the Brambles](https://www.thirdwallstudio.com/through-the-brambles)
 - [Contraptions](https://contraptions.bookofsarth.com)
 - [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
@@ -80,7 +86,7 @@ every page.
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
-- [loureed.com, 25 Jun 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+- [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 
@@ -121,7 +127,7 @@ every page.
 - [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
-- [loureed.com, 25 Jun 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+- [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 - [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/)
@@ -135,9 +141,9 @@ every page.
 - [James Hetfield](https://en.wikipedia.org/wiki/James_Hetfield)
 - [Kirk Hammett](https://en.wikipedia.org/wiki/Kirk_Hammett)
 - [Lars Ulrich](https://en.wikipedia.org/wiki/Lars_Ulrich)
-- [The Howard Stern Show, 10 Apr 2012](https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/)
+- [The Howard Stern Show, Apr 10, 2012](https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/)
 - [Howard Stern](https://en.wikipedia.org/wiki/Howard_Stern)
-- [Ultimate Classic Rock, 1 Feb 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
+- [Ultimate Classic Rock, Feb 1, 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
 - [Robert Wilson’s production](https://robertwilson.com/lulu)
 - [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu)
 - [Rolling Stone](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/)
@@ -245,7 +251,7 @@ every page.
 - [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
 - [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
-- [Medeski Martin &amp;amp;amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
+- [Medeski Martin &amp;amp;amp;amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 - [Apple Music](https://music.apple.com/us/album/suspension/274828088)
@@ -324,7 +330,7 @@ every page.
 - [Lars Ulrich](https://en.wikipedia.org/wiki/Lars_Ulrich)
 - [The Howard Stern Show, 10 Apr 2012](https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/)
 - [Howard Stern](https://en.wikipedia.org/wiki/Howard_Stern)
-- [Ultimate Classic Rock, 1 Feb 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
+- [Ultimate Classic Rock, Feb 1, 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
 
 ### Lou Reed’s 2011 European tour
 `/conspiracies/lou-reed-2011-european-tour/`

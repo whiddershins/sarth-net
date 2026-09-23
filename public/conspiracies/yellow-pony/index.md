@@ -28,4 +28,4 @@ It was a lovely two part tour that included outdoor performances in northern Spa
 
 Eight shows are documented, with the billing at Salle Pleyel listing him as “claviers et électronique.” The full run is on [Appearances](/appearances/).
 
-Sarth’s account is from the Yellow Pony page of his own WordPress site, recovered from the Wayback Machine, and from a conversation on 23 September 2026.
+Sarth’s account is from the Yellow Pony page of his own WordPress site, recovered from the Wayback Machine, and from a conversation on September 23, 2026.

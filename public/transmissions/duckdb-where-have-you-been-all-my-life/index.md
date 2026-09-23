@@ -5,7 +5,7 @@ url: https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/
 published: 2026-09-22
 author: Sarth Calhoun
 ---
-22 Sep 2026
+Sep 22, 2026
 
 # DuckDB, where have you been all my life
 

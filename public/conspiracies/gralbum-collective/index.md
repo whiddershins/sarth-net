@@ -12,9 +12,9 @@ Conspiracy
 
 The Gralbum Collective is the group Sarth Calhoun founded in 2012 to publish gralbums. A gralbum is a record released as an app: music, artwork, video, animation and storytelling in one interactive piece, made for touch screens. The first one was [Book of Sarth](/conspiracies/book-of-sarth/).
 
-The collective and its app launched at the SOHO Gallery for Digital Arts in New York on 9 April 2014, with five titles. It is at [gralbumcollective.com](https://gralbumcollective.com/).
+The collective and its app launched at the SOHO Gallery for Digital Arts in New York on April 9, 2014, with five titles. It is at [gralbumcollective.com](https://gralbumcollective.com/).
 
-The launch, 9 April 2014. Photo by Andrzej Liguz / MOREimages.
+The launch, April 9, 2014. Photo by Andrzej Liguz / MOREimages.
 
 ## What a gralbum is
 
@@ -28,7 +28,7 @@ Sarth wrote the announcement the week of the launch: I conceptualized (gr)album 
 
 He also thanked The (Gr)album Collective artists Bora Yoon and Adam Matta for joining me in rocking the party on the downstairs stage.
 
-Brian Heater covered the launch for [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/) on 8 April 2014: Gralbum is an iPad app that lets musicians add interactive storytelling elements to their records, launched by former Lou Reed collaborator, Sarth Calhoun.
+Brian Heater covered the launch for [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/) on April 8, 2014: Gralbum is an iPad app that lets musicians add interactive storytelling elements to their records, launched by former Lou Reed collaborator, Sarth Calhoun.
 
 ## The titles
 

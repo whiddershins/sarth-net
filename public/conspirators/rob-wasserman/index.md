@@ -34,4 +34,4 @@ Rob had every reason to be skeptical of the younger person arriving with unfamil
 
 I will never forget that generosity, and the world has lost another hero.
 
-Sarth first wrote this remembrance after Rob’s death in 2016. The backstage meeting was during *Berlin* at St. Ann’s Warehouse, 14–17 December 2006. Their first documented tour together was Lou Reed’s spring 2008 U.S. tour.
+Sarth first wrote this remembrance after Rob’s death in 2016. The backstage meeting was during *Berlin* at St. Ann’s Warehouse, December 14–17, 2006. Their first documented tour together was Lou Reed’s spring 2008 U.S. tour.

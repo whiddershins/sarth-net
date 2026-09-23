@@ -28,4 +28,4 @@ That was January 2012. The honest part is the part I would probably have edited 
 
 The promised details never came. There was no next post.
 
-Sarth’s post is from 16 January 2012, recovered from Common Crawl on 22 September 2026. The installation ran at CSULB from 27 January to 15 April 2012 and was restaged at Cranbrook from 21 November 2015 to 26 March 2016.
+Sarth’s post is from January 16, 2012, recovered from Common Crawl on September 22, 2026. The installation ran at CSULB from 27 January to April 15, 2012 and was restaged at Cranbrook from November 21, 2015 to March 26, 2016.

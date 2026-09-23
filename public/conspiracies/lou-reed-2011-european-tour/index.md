@@ -20,16 +20,16 @@ By 2011 Lou was touring with eight people onstage. Alongside him: [Rob Wasserman
 
 The itinerary ran through the European summer festival circuit. Two stops are documented here because I wrote about them at the time, from the road.
 
-## Hop Farm, 2 July 2011
+## Hop Farm, July 2, 2011
 
 > Have a coupe of photos of the crowd taken from the stage at hop farm. The 8-piece band is functioning as well as I had hoped, each player contributes soething really wonderful and unique. Next stop: London/Hammersmith. 
 
 Typos mine, kept as I wrote them. The thing worth noticing is that I said the band was working as well as I had hoped, which means I had been hoping, which means eight people onstage was not obviously going to work.
 
-## Carhaix, 17 July 2011
+## Carhaix, July 17, 2011
 
 > Yeah, you can see me in the back there for a second, ends with a great shot of the crowd in Carhaix. PJ Harvey and the Chemical Brothers followed us. 
 
 Vieilles Charrues, in Brittany. I was at the back of a very large stage, briefly visible, and then [PJ Harvey](https://en.wikipedia.org/wiki/PJ_Harvey) and the [Chemical Brothers](https://en.wikipedia.org/wiki/The_Chemical_Brothers) played.
 
-Both posts are Sarth’s, written from the road and recovered from Common Crawl on 22 September 2026. He posted about Hop Farm on 4 July and Carhaix on 20 July; the shows themselves were 2 July and 17 July, per Lou Reed’s own appearance listings.
+Both posts are Sarth’s, written from the road and recovered from Common Crawl on September 22, 2026. He posted about Hop Farm on 4 July and Carhaix on 20 July; the shows themselves were 2 July and 17 July, per Lou Reed’s own appearance listings.

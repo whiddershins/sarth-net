@@ -31,4 +31,4 @@ Rob was one of my heroes before he was my bandmate. On this tour he treated me, 
 
 We reached the Beale Street Music Festival in Memphis on 3 May.
 
-Dates include Northampton on 20 April, Beale Street on 3 May, and New York on 5 May 2008.
+Dates include Northampton on 20 April, Beale Street on 3 May, and New York on May 5, 2008.

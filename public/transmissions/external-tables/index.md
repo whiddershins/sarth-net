@@ -41,9 +41,9 @@ write CSV
 
 transformed/acme_delivery/
 
-file_date=2023-04-01/report.csv
+file_date=April 1, 2023/report.csv
 
-file_date=2023-04-02/report.csv
+file_date=April 2, 2023/report.csv
 
 LOAD TIME
 no ordering, idempotent

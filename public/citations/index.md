@@ -91,7 +91,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
-- [loureed.com, 25 Jun 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+- [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 
@@ -169,7 +169,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
-- [loureed.com, 25 Jun 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+- [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 
@@ -197,11 +197,11 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Lars Ulrich](https://en.wikipedia.org/wiki/Lars_Ulrich)
 
-- [The Howard Stern Show, 10 Apr 2012](https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/)
+- [The Howard Stern Show, Apr 10, 2012](https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/)
 
 - [Howard Stern](https://en.wikipedia.org/wiki/Howard_Stern)
 
-- [Ultimate Classic Rock, 1 Feb 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
+- [Ultimate Classic Rock, Feb 1, 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
 
 - [Robert Wilson’s production](https://robertwilson.com/lulu)
 
@@ -417,7 +417,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
 
-- [Medeski Martin &amp;amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
+- [Medeski Martin &amp;amp;amp;amp;amp;amp; Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 
@@ -452,6 +452,8 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Cathedral of St. John the Divine](https://demo.gothamist.com/arts-entertainment/laurie-anderson-on-bringing-ear-bleedingly-loud-drones-to-st-john-the-divine)
 
 - [Shahzad Ismaily](https://en.wikipedia.org/wiki/Shahzad_Ismaily)
+
+- [Adam Matta](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops)
 
 ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
 
@@ -545,11 +547,11 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Lars Ulrich](https://en.wikipedia.org/wiki/Lars_Ulrich)
 
-- [The Howard Stern Show, 10 Apr 2012](https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/)
+- [The Howard Stern Show, Apr 10, 2012](https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/)
 
 - [Howard Stern](https://en.wikipedia.org/wiki/Howard_Stern)
 
-- [Ultimate Classic Rock, 1 Feb 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
+- [Ultimate Classic Rock, Feb 1, 2012](https://ultimateclassicrock.com/howard-stern-junior-dad-defense/)
 
 ## [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/)
 

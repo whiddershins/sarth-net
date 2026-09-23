@@ -25,7 +25,7 @@ From The Book of Sarth.
 
 From the biography on Sarth’s old site: Currently, Sarth is inventing a new medium called the gralbum (graphic+album) to combine his lifelong love of music with his mistress, graphic novels. The premiere gralbum is The Book of Sarth, available for download at the iTunes store. This will be the first of many releases from the Gralbum Collective, formed to house more of his collaborative creations and help other artists produce similar works.
 
-The Gralbum Collective launched at the SOHO Gallery for Digital Arts on 9 April 2014. [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/) covered it the day before; [*Stereophile*](https://www.stereophile.com/content/gralbum-re-thinking-concept-album) wrote it up two weeks later. Leah Coloff released a gralbum of her own through it.
+The Gralbum Collective launched at the SOHO Gallery for Digital Arts on April 9, 2014. [Laughing Squid](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/) covered it the day before; [*Stereophile*](https://www.stereophile.com/content/gralbum-re-thinking-concept-album) wrote it up two weeks later. Leah Coloff released a gralbum of her own through it.
 
 ## The music
 
@@ -35,7 +35,7 @@ The score was made with [Kyma](/devices/). One of its pieces, [“Awakening (To 
 
 [Symbolic Sound](https://news.symbolicsound.com/2012/11/the-book-of-sarth/) wrote about it in November 2012: a narrative about an ear worm that is, itself, an ear worm! The Book of Sarth is the first example of an entirely new art form for the early 21st century. [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597) put it in Apps of the Week that December.
 
-Bryan Bishop reviewed it for [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) on 3 January 2013: Things really come alive in what’s called the ‘director’s view’: tap an image and the artwork fills the screen, putting the reader in the same place as the characters. He also wrote that Calhoun’s music is no doubt experimental, but his tracks and the artwork play nimbly off one another.
+Bryan Bishop reviewed it for [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album) on January 3, 2013: Things really come alive in what’s called the ‘director’s view’: tap an image and the artwork fills the screen, putting the reader in the same place as the characters. He also wrote that Calhoun’s music is no doubt experimental, but his tracks and the artwork play nimbly off one another.
 
 [Vogue Italia](https://www.vogue.it/people-are-talking-about/vogue-arts/2013/09/app-musicali) ran it in a September 2013 piece on music apps: Chi invece è riuscito a coniare un nuovo concetto di ‘album musicale’ è Sarth Calhoun con il suo sorprendente The Book of Sarth. [Chain D.L.K.](https://www.chaindlk.com/reviews/7353) gave it a mixed review. The rest is on [Sightings](/sightings/).
 

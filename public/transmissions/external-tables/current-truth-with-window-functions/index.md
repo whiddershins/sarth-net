@@ -26,12 +26,12 @@ time
 impressions
 
 Movie Lovers
-2022-01-01
+January 1, 2022
 19:00
 2000
 
 Sports Fans
-2022-01-03
+January 3, 2022
 12:00
 1000
 
@@ -43,12 +43,12 @@ time
 impressions
 
 Sports Fans
-2022-01-03
+January 3, 2022
 12:00
 1100
 
 Cat Fanatics
-2022-01-05
+January 5, 2022
 12:00
 1900
 
@@ -60,17 +60,17 @@ time
 impressions
 
 Movie Lovers
-2022-01-01
+January 1, 2022
 19:00
 2000
 
 Sports Fans
-2022-01-03
+January 3, 2022
 12:00
 1100
 
 Cat Fanatics
-2022-01-05
+January 5, 2022
 12:00
 1900
 

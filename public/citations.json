@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-22",
-  "citation_count": 440,
+  "citation_count": 446,
   "pages": [
     {
       "path": "/",
@@ -24,6 +24,30 @@
         {
           "url": "https://x.com/noisegroove",
           "text": "@noisegroove"
+        },
+        {
+          "url": "https://www.youtube.com/shorts/yxCoeTg-qR8",
+          "text": "Kubler-Ross Model"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fghXNj-HdBg",
+          "text": "Watching Shadows"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vs6KM7hFzxs",
+          "text": "Pigeon Problems"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=gx9jIWSoEDQ",
+          "text": "Truck Stop Love"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=nZ2LpA9P-LY",
+          "text": "Meatsuitz"
+        },
+        {
+          "url": "https://thirdwallstudio.com/process",
+          "text": "meet the artists"
         },
         {
           "url": "https://www.thirdwallstudio.com/through-the-brambles",
@@ -145,7 +169,7 @@
         },
         {
           "url": "https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php",
-          "text": "loureed.com, 25 Jun 2009, archived news feed"
+          "text": "loureed.com, Jun 25, 2009, archived news feed"
         },
         {
           "url": "https://music.apple.com/us/album/the-creation-of-the-universe/315196713",
@@ -299,7 +323,7 @@
         },
         {
           "url": "https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php",
-          "text": "loureed.com, 25 Jun 2009, archived news feed"
+          "text": "loureed.com, Jun 25, 2009, archived news feed"
         },
         {
           "url": "https://music.apple.com/us/album/the-creation-of-the-universe/315196713",
@@ -355,7 +379,7 @@
         },
         {
           "url": "https://www.howardstern.com/show/2012/04/10/lars-ulrich-says-metallica-cries-rundowngallerymodel-870/",
-          "text": "The Howard Stern Show, 10 Apr 2012"
+          "text": "The Howard Stern Show, Apr 10, 2012"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Howard_Stern",
@@ -363,7 +387,7 @@
         },
         {
           "url": "https://ultimateclassicrock.com/howard-stern-junior-dad-defense/",
-          "text": "Ultimate Classic Rock, 1 Feb 2012"
+          "text": "Ultimate Classic Rock, Feb 1, 2012"
         },
         {
           "url": "https://robertwilson.com/lulu",
@@ -795,7 +819,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood",
-          "text": "Medeski Martin &amp;amp;amp;amp;amp;amp; Wood"
+          "text": "Medeski Martin &amp;amp;amp;amp;amp;amp;amp; Wood"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
@@ -1051,7 +1075,7 @@
         },
         {
           "url": "https://ultimateclassicrock.com/howard-stern-junior-dad-defense/",
-          "text": "Ultimate Classic Rock, 1 Feb 2012"
+          "text": "Ultimate Classic Rock, Feb 1, 2012"
         }
       ]
     },

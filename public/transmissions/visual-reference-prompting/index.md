@@ -5,7 +5,7 @@ url: https://www.sarth.net/transmissions/visual-reference-prompting/
 published: 2026-07-31
 author: Sarth Calhoun
 ---
-31 Jul 2026
+Jul 31, 2026
 
 # Visual Reference Prompting
 

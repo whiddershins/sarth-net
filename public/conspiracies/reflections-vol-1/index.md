@@ -30,4 +30,4 @@ The reviewer was describing what I was doing with a Continuum. Exaltron is featu
 
 The third track is called Softly Questioning. Its main melody is the one used in the film *Poughkeepsie*, written and directed by Joe Kelly.
 
-From Sarth’s note on the record, 20 November 2015. It is also where the Joe Kelly film is named as *Poughkeepsie*.
+From Sarth’s note on the record, November 20, 2015. It is also where the Joe Kelly film is named as *Poughkeepsie*.

@@ -5,7 +5,7 @@ url: https://www.sarth.net/work/
 published: 2026-09-22
 author: Sarth Calhoun
 ---
-Updated 22 Sep 2026
+Updated Sep 22, 2026
 
 # Work
 

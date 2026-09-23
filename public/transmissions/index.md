@@ -102,7 +102,7 @@ Essays and writing.
 
 ## [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 
-22 Sep 2026. Asking Claude how much an artist spent on a project in Burlap, answered straight from JSON files with DuckDB. Plus the whole append-only pipeline pattern, on a laptop.
+Sep 22, 2026. Asking Claude how much an artist spent on a project in Burlap, answered straight from JSON files with DuckDB. Plus the whole append-only pipeline pattern, on a laptop.
 
 - 
 
@@ -150,4 +150,4 @@ Essay. The case that an agnostic server beats batteries included, and why I am n
 
 ## [Visual Reference Prompting](/transmissions/visual-reference-prompting/)
 
-31 Jul 2026. How original images can hold a subject together, bend a style, and open up stranger places to go next.
+Jul 31, 2026. How original images can hold a subject together, bend a style, and open up stranger places to go next.

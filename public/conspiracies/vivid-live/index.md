@@ -26,4 +26,4 @@ I played something like twelve unplanned jams at that festival.
 
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) played the Opera Theatre on 30 May, which is the one date that made it into the public record. It is listed on [Appearances](/appearances/). The rest of it was not announced and is not written down anywhere.
 
-The curation and the dates are from contemporary coverage. The fifty-person opening band and the unplanned jams are Sarth’s own account, given 22 September 2026.
+The curation and the dates are from contemporary coverage. The fifty-person opening band and the unplanned jams are Sarth’s own account, given September 22, 2026.

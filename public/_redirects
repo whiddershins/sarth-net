@@ -100,7 +100,7 @@
 # Leftover posts under those blogs, including /sarth photo slides.
 /sarth/* / 301
 /words/* /transmissions/ 301
-/rumors/* /rumors/ 301
+/rumors/20* /rumors/ 301
 /beautiful-tornado/* / 301
 /category/press/* /rumors/ 301
 /category/reviews/* /rumors/ 301

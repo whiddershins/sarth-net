@@ -6,14 +6,14 @@ author: Sarth Calhoun
 ---
 Third Wall Studio · 2026
 
+Third Wall Studio makes animation with filmmakers and artists. We mix live action, animation, and generative AI in the same production, not as a gimmick, but as part of the craft. New tools for ancient magic. [The studio](/conspiracies/third-wall-studio/) · [The films](/work/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/)
+
 - [Watching Shadows · with Doron Lev](https://www.youtube.com/watch?v=fghXNj-HdBg)
 - [Through the Brambles · a VR story, made in Burlap](https://www.youtube.com/watch?v=ttWqwhzE-yA)
 - [Pigeon Problems · with Doron Lev](https://www.youtube.com/watch?v=vs6KM7hFzxs)
 - [Truck Stop Love · with Doron Lev](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
 - [Meatsuitz Family Vacay · with Jacob McCoy](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
 - [Introducing Burlap · the canvas under all of it](https://www.youtube.com/watch?v=CP8939UdzSo)
-
-We mix live action, animation, and generative AI in the same production, not as a gimmick, but as part of the craft. New tools for ancient magic. [The studio](/conspiracies/third-wall-studio/) · [The films](/work/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/)
 
 [Burlap](/conspiracies/burlap/) is the canvas underneath it all: a native app for visual creation and context management. Connect it to the latest models from OpenAI, Google, Runway, ByteDance, and more. When using your own API keys, your data never touches our server. [Download for Mac](https://burlap.app/download) · [burlap.app](https://burlap.app) · [Contraptions](/contraptions/)
 

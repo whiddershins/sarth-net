@@ -52,6 +52,14 @@ nav a[aria-current="page"] { color: var(--paper); }
   padding: 2.6rem clamp(1.2rem, 6vw, 5rem) 2rem;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0));
 }
+.hero .band {
+  margin: 0;
+  padding: 0.95rem clamp(1.2rem, 6vw, 5rem) 0.85rem;
+  background: #000;
+  border-bottom: 1px solid #1c1c1c;
+  color: var(--paper);
+  font-size: clamp(0.8rem, 1.2vw, 0.95rem);
+}
 .vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .tagline {
   font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;

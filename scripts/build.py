@@ -128,6 +128,8 @@ def inline(node):
             out.append("\n")
         elif c.tag == "span" and "label" in c.cls():
             out.append(f"{inline(c)}: ")
+        elif c.tag == "span" and "count" in c.cls():
+            out.append(f" ({inline(c)})")
         elif c.tag == "img":
             alt = c.attrs.get("alt", "")
             out.append(f"![{alt}]({c.attrs.get('src', '')})")
@@ -136,7 +138,7 @@ def inline(node):
     return re.sub(r"[ \t]*\n[ \t]*", "\n", re.sub(r"[ \t]+", " ", "".join(out))).strip()
 
 
-BLOCK = {"p", "h1", "h2", "h3", "h4", "ul", "ol", "dl", "blockquote", "pre", "figure", "table", "div", "section", "article", "main", "header", "footer", "nav", "hr", "iframe", "li", "dt", "dd", "figcaption", "aside"}
+BLOCK = {"p", "h1", "h2", "h3", "h4", "ul", "ol", "dl", "blockquote", "pre", "figure", "table", "div", "section", "article", "main", "header", "footer", "nav", "hr", "iframe", "li", "dt", "dd", "figcaption", "aside", "details", "summary"}
 
 
 def has_block(node):
@@ -172,6 +174,8 @@ def block(n):
         return []
     if t in ("h1", "h2", "h3", "h4"):
         return ["#" * int(t[1]) + " " + inline(n)]
+    if t == "summary":  # a drawer's label reads as a heading in the twin
+        return ["### " + inline(n)]
     if t == "p":
         s = inline(n)
         return [s] if s else []
@@ -458,7 +462,14 @@ def outbound(page):
             continue
         seen.add(h)
         t = a.find(cls="t-title")
-        out.append({"url": h, "text": inline(t) if t else re.sub(r"[*_`\[\]]", "", inline(a))})
+        img = a.find("img")
+        if t:
+            text = inline(t)
+        elif img and not a.text().strip():  # a linked picture is labelled by its alt text
+            text = img.attrs.get("alt", "")
+        else:
+            text = re.sub(r"[*_`\[\]]", "", inline(a))
+        out.append({"url": h, "text": text})
     return out
 
 
@@ -751,11 +762,19 @@ def check_facets(pages):
 
 
 def facets_html(pages, order):
-    cols = []
+    """The homepage index, folded: one <details> drawer per facet with the page count in its
+    summary, the three side by side on a wide screen and stacked on a phone (Sarth chose this
+    over one strip with two pluses, 24 Sep 2026). The band under the hero already says
+    Machine · Dream · Message, so the block carries no heading. name="facet" makes the drawers
+    exclusive where the browser supports it."""
+    drawers = []
     for f in FACETS:
         links = [f'<a href="{pages[r]["route"]}">{html.escape(pages[r]["title"])}</a>' for r in order if pages[r]["facet"] == f]
-        cols.append(f"      <div>\n        <h3>{f.title()}</h3>\n        <p>" + " · ".join(links) + "</p>\n      </div>")
-    return '    <div class="facet-grid">\n' + "\n".join(cols) + "\n    </div>\n    "
+        drawers.append(f'    <details class="facet" name="facet" id="{f}">\n'
+                       f'      <summary>{f.title()}<span class="count">{len(links)}</span></summary>\n'
+                       f'      <p>' + " · ".join(links) + "</p>\n"
+                       "    </details>")
+    return "\n".join(drawers) + "\n    "
 
 
 def prose_paragraphs(main):

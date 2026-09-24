@@ -82,7 +82,7 @@ The touring group Lou Reed used for his song repertoire. I joined in 2008, playi
 
 [![Sarth Calhoun performing at Lollapalooza with Lou Reed’s band.](/images/lolla.jpg)](/conspiracies/lou-reed-song-band/)
 
-[![Lou Reed’s band on the spring 2008 U.S. tour, on a club stage under red curtains.](/images/mwm-5113.jpg)](/conspiracies/lou-reed-spring-2008-tour/)
+[![Lou Reed’s band at the Highline Ballroom, New York, May 5, 2008.](/images/mwm-5113.jpg)](/conspiracies/lou-reed-spring-2008-tour/)
 
 ## [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/)
 

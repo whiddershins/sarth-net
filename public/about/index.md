@@ -11,9 +11,9 @@ Machine · Dream · Message
 
 Founder of [Third Wall Studio](https://thirdwallstudio.com), and creator of the [Burlap](https://burlap.app) app. Brooklyn. Data engineer, artist, and musician working in AI.
 
-![Sarth Calhoun playing a Haken Continuum Fingerboard.](/images/continuum.jpg)
+![Sarth Calhoun performing at Lollapalooza.](/images/lolla.jpg)
 
-Sarth Calhoun at the Continuum.
+Lollapalooza, Chicago, August 2009.
 
 ## Key facts
 

@@ -29,6 +29,4 @@ He played drums in [Number19](/conspiracies/number19/), the band [Tony Diodore](
 
 The credit: Mark Righter, drums, in Number19 with Sarth Calhoun, Leah Coloff and Tony Diodore, 1999 to 2005; Suspension, 2001.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

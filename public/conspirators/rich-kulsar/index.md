@@ -25,6 +25,4 @@ He drums on [Mike Acerbo](/conspirators/mike-acerbo/)’s *The Search* (2012), t
 
 The credit: Rich Kulsar, drums, and Sarth Calhoun, bass on “Trilby,” on Mike Acerbo’s The Search, 2012.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

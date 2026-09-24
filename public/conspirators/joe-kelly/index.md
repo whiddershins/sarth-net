@@ -27,6 +27,4 @@ The credit: Sarth Calhoun wrote the main melody of Joe Kelly’s short film Poug
 
 The main melody of “Softly Questioning,” the third track of [*Reflections, Vol. 1*](/conspiracies/reflections-vol-1/), is the main melody of [*Poughkeepsie*](/conspiracies/poughkeepsie/). I recorded the piece in one take with [Lou Petto](/conspirators/lou-petto/) on drums and released it in November 2015, the month the film’s Kickstarter closed; the film was finished in 2018. I wrote about the connection when I revisited the record in November 2020, and I returned to the piece as “[Softly Questioning (Reprise)](/transmissions/singles/)” in May 2025.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

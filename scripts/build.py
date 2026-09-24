@@ -16,7 +16,9 @@ public/**/index.html and writes:
                               sentences that still name Sarth instead of saying I
 
 It also fills each <div class="hole" data-hole="slug/name"> from
-content/holes/slug--name.md, leaving the bracketed prompt when the file is empty.
+content/holes/slug--name.md. An empty hole renders as an empty element (the CSS hides
+it and a section that holds only a heading and the hole); scripts/dev.py shows the
+data-prompt as a placeholder so Sarth can write in place.
 
   python3 scripts/build.py           write everything
   python3 scripts/build.py --check   write nothing; exit 1 if anything on disk is
@@ -201,8 +203,13 @@ def block(n):
         return [f"[Embedded player]({n.attrs.get('src', '')})"]
     if t == "div" and "hole" in n.cls():
         txt = n.text().strip()
-        if txt.startswith("[") and txt.endswith("]"):
+        if not txt or (txt.startswith("[") and txt.endswith("]")):
             return []  # an unfilled hole stays off the twins and the agent files
+    if t == "section":
+        kids = [c for c in n.children if not isinstance(c, str)]
+        if kids and any(c.tag == "div" and "hole" in c.cls() for c in kids) and all(
+                c.tag in ("h2", "h3") or (c.tag == "div" and "hole" in c.cls() and not c.text().strip()) for c in kids):
+            return []  # a heading over an empty hole is nothing yet
     if t in ("ul", "ol"):
         if "thumbs" in n.cls():
             items = []
@@ -363,7 +370,7 @@ def fill_holes(pages):
                 body = "\n".join(f"      <p>{md_inline(p)}</p>" for p in re.split(r"\n\s*\n", text))
                 body = "\n" + body + "\n      "
             else:
-                body = f"<p>[{prompt}]</p>"
+                body = ""  # nothing on the public page; scripts/dev.py shows the prompt as a placeholder
             report.append((page["url"], hid, bool(text), prompt))
             return f'<div class="hole" data-hole="{hid}" data-prompt="{html.escape(prompt)}">{body}</div>'
 

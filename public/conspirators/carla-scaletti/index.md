@@ -29,6 +29,4 @@ I beta-tested [Kyma](/devices/) and am credited on the Kyma X startup screen. Ky
 
 The credit: Sarth Calhoun beta-tested Kyma, made by Carla Scaletti and Kurt Hebel’s Symbolic Sound Corporation, and is credited on the Kyma X startup screen.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

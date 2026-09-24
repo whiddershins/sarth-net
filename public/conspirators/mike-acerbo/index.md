@@ -25,6 +25,4 @@ I played bass on “Trilby.” The first parts were recorded about a decade befo
 
 The credit: Sarth Calhoun plays bass on “Trilby,” the opening track of Mike Acerbo’s The Search, 2012.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

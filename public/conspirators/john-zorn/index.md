@@ -31,6 +31,4 @@ His Aleph-Bet Sound Project at the Contemporary Jewish Museum in San Francisco, 
 
 The credit: John Zorn and Sarth Calhoun: the Highline Ballroom with Lou Reed’s band, May 5, 2008; Metal Machine Trio at the Blender Theater at Gramercy, April 24, 2009; Lou Reed Drones at the Cathedral of St. John the Divine, March 13, 2019, and the Prospect Park Bandshell, August 3, 2019.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

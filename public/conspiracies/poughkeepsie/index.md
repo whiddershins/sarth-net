@@ -35,6 +35,4 @@ The credit: Sarth Calhoun wrote the main melody of Joe Kelly’s Poughkeepsie (2
 
 Listen: “Softly Questioning (Reprise),” May 20, 2025, 4:19. Also on [Apple Music](https://music.apple.com/us/album/1813001279); the original is on [Reflections, Vol. 1](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160).
 
-## My thoughts
-
 The film’s facts are from its Kickstarter page, IMDb and the Hudson Valley Post, May 16, 2018. My sentences on the track are from my posts of November 29, 2015 and November 20, 2020.

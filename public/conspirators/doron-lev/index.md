@@ -29,6 +29,4 @@ At [Third Wall Studio](/conspiracies/third-wall-studio/) three of his films came
 
 The credit: Doron Lev and Sarth Calhoun: “I Just Believe in Christmas” (2015, Lev on drums and words), Beautiful Tornado episodes 1 and 2 (2020), “Sometimes You Need Sun” (2022), and Third Wall Studio, where Lev is artist in residence: Truck Stop Love, Pigeon Problems and Watching Shadows (2026).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

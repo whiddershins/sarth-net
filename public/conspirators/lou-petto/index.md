@@ -25,6 +25,4 @@ Lou Petto is a drummer who lives and works in the New Jersey and New York City a
 
 The credit: Lou Petto, drums, and Sarth Calhoun, Continuum Fingerboard, on “Softly Questioning,” Reflections, Vol. 1, November 2015.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

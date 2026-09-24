@@ -29,6 +29,4 @@ At [Third Wall Studio](/conspiracies/third-wall-studio/) he is Director, Product
 
 The credit: Jacob McCoy and Sarth Calhoun: The Book of Sarth (2012), “For Lovers” (recorded March 2, 2015; single, 2020), Introspections (2015), “I Just Believe in Christmas” (2015, McCoy on bass), and Third Wall Studio, where McCoy is Director, Production and made Meatsuitz Family Vacay (2026).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

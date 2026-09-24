@@ -21,6 +21,4 @@ She is an artist in residence at [Third Wall Studio](/conspiracies/third-wall-st
 
 The credit: Tetiana Khodakivska is artist in residence at Third Wall Studio, founded by Sarth Calhoun in 2025.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

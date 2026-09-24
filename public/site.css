@@ -134,6 +134,10 @@ main {
   border-left: 2px solid var(--line);
   max-width: 42rem;
 }
+/* An unfilled hole is nothing on the public page. The dev server fills it with its prompt. */
+.hole:empty { display: none; }
+section.thoughts:has(> .hole:empty) { display: none; }
+
 .source-note {
   margin-top: 1.8rem;
   color: var(--mute);

@@ -29,6 +29,4 @@ His illustrations are part of [Book of Sarth](/conspiracies/book-of-sarth/), the
 
 The credit: Archie P. Valdez, illustrations (with Tom Hall), on Sarth Calhoun’s The Book of Sarth, 2012.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

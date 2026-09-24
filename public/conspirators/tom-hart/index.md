@@ -25,6 +25,4 @@ Tom Hart is a New York artist who draws annotated portraits of subway riders dur
 
 The credit: The Gralbum Collective, founded by Sarth Calhoun, published Tom Hart’s Train O’ Thots (2014, music by Moon Hooch) and Train O’ Thoughts (2015, music by Exaltron and Calhoun).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

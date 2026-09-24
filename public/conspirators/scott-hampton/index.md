@@ -23,6 +23,4 @@ He gave [*Reflections, Vol. 1*](/conspiracies/reflections-vol-1/) its subtitle, 
 
 The credit: Scott Hampton (Exaltron) and Sarth Calhoun: Reflections, Vol. 1 (2015; Hampton named it and plays the last track), Train O’ Thoughts (The Gralbum Collective, 2015; music by Exaltron and Calhoun), and “I Just Believe in Christmas” (2015; ukulele and trumpet).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

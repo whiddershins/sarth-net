@@ -25,6 +25,4 @@ The Paca, his dedicated DSP hardware for [Kyma](/devices/), is what I ran on sta
 
 The credit: Kurt Hebel designed the Paca and Pacarana, the Kyma hardware Sarth Calhoun ran with Metal Machine Trio, on Lou Reed’s 2011 tour and on Lulu; Calhoun beta-tested Kyma.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

@@ -25,6 +25,4 @@ The credit: Shahzad Ismaily and Sarth Calhoun played together in Lou Reed Drones
 
 We were both participating musicians in Lou Reed Drones at the Cathedral of St. John the Divine on March 13, 2019, for Lou’s 77th birthday, curated by [Stewart Hurwood](/conspirators/stewart-hurwood/), with [Laurie Anderson](/conspirators/laurie-anderson/), [John Zorn](/conspirators/john-zorn/) and Stan Harrison. On March 2, 2023, Lou’s 81st birthday, the guest performance at the Brookfield Place Winter Garden was the two of us with [Kevin Hearn](/conspirators/kevin-hearn/) and Laurie Anderson. “[I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/)” was recorded at his studio, Figure 8, in August 2015, by [Phil Weinrobe](/conspirators/phil-weinrobe/).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

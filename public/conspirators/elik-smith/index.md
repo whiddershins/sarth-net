@@ -25,6 +25,4 @@ He drew [Book of Sarth](/conspiracies/book-of-sarth/), my first full-length solo
 
 The credit: Elik Smith (credited as Alex Smith), art and story, and Sarth Calhoun, music, on The Book of Sarth, The Gralbum Collective, October 2012.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

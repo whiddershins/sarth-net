@@ -25,6 +25,4 @@ He built the app that became [Book of Sarth](/conspiracies/book-of-sarth/), rele
 
 The credit: Andrew Beck was lead programmer of The Book of Sarth (2012) and the (gr)album platform (2014), conceived and founded by Sarth Calhoun.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

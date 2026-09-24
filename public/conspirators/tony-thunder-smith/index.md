@@ -25,6 +25,4 @@ The credit: Tony “Thunder” Smith and Sarth Calhoun played together in Lou Re
 
 He was the drummer in the band around Lou at the first rehearsals at SIR in April 2008 and on the [spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/), at [Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/), and in the eight-piece band on the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), where I was on Continuum and Kyma.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

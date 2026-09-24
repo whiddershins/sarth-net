@@ -27,6 +27,4 @@ The idea for “[I Just Believe in Christmas](/conspiracies/i-just-believe-in-ch
 
 The credit: Michael Patrick Flanagan Smith sings lead on Sarth Calhoun’s “I Just Believe in Christmas” (Catfish Calhoun and Friends, 2015) and was the guest on Beautiful Tornado, episode 6, February 15, 2021.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

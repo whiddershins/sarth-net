@@ -29,6 +29,4 @@ After I got back from Berlin, we took the project to San Francisco and recorded 
 
 The credit: Sarth Calhoun plays electronics on every track of Lulu by Lou Reed and Metallica (2011), which grew from the score he wrote with Reed for Robert Wilson’s Lulu, and performed it with the band on Later… with Jools Holland (November 8, 2011), Taratata (November 9) and at the WDR Funkhaus, Cologne (November 11).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

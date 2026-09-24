@@ -4,9 +4,11 @@
   python3 scripts/dev.py [port]      default 8788, binds 127.0.0.1 only
 
 Serves public/ like a static host. Into every HTML page it injects a small
-script that makes each <div class="hole"> editable. Click a hole, type, click
-away (or press Cmd+S): the text is written to content/holes/<id>.md,
-scripts/build.py runs, and the page reloads showing the built HTML.
+script that makes each <div class="hole"> editable. An empty hole is invisible
+on the built page; here it shows its prompt as a placeholder. Click a hole,
+type, click away (or press Cmd+S): the text is written to
+content/holes/<id>.md, scripts/build.py runs, and the page reloads showing
+the built HTML.
 
 Nothing here touches the published site. The injection happens only in the
 response this server sends; the files under public/ are what the build wrote.
@@ -30,10 +32,16 @@ CLIENT = r"""
   .hole { position: relative; outline: 1px dashed rgba(255,255,255,.35); outline-offset: 8px; border-radius: 2px; cursor: text; }
   .hole:focus-within { outline-color: rgba(255,255,255,.85); }
   .hole::after { content: attr(data-status); position: absolute; right: 0; top: -1.6em; font-size: .7rem; letter-spacing: .1em; text-transform: uppercase; opacity: .65; }
+  .hole .placeholder { opacity: .55; }
 </style>
 <script>
 (() => {
   document.querySelectorAll('.hole[data-hole]').forEach(h => {
+    if (!h.innerText.trim()) {  // empty on the built page: show the prompt here only
+      const p = document.createElement('p'); p.className = 'placeholder';
+      p.textContent = '[' + (h.dataset.prompt || 'Sarth: your words here') + ']';
+      h.appendChild(p);
+    }
     const isPrompt = () => /^\[[\s\S]*\]$/.test(h.innerText.trim());
     let original = h.innerText.trim();
     h.dataset.status = 'click to write';

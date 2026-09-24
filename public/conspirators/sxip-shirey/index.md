@@ -33,6 +33,4 @@ In 2015 he came to (Gr)album World Headquarters and we recorded improvised duets
 
 The credit: Sxip Shirey, shruti box and prepared guitar, and Sarth Calhoun, Continuum Fingerboard: two improvised duets recorded at (Gr)album World Headquarters in 2015, part of Introspections.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

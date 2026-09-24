@@ -25,6 +25,4 @@ He played electric guitar in the Berliner Ensemble band for [*Lulu*](/conspiraci
 
 The credit: Dominic Bouffard and Sarth Calhoun: the Berliner Ensemble Lulu (2011; Bouffard on guitar in the band, Calhoun co-composer and rehearsal director), “I Just Believe in Christmas” (2015, guitars), and Beautiful Tornado (2020 to 2021, co-hosts).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

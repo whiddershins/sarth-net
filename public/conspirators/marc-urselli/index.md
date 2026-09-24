@@ -25,6 +25,4 @@ He reviewed [Book of Sarth](/conspiracies/book-of-sarth/) for [Chain D.L.K.](htt
 
 The credit: Marc Urselli mixed Sarth Calhoun’s “I Just Believe in Christmas” (2015) and reviewed The Book of Sarth for Chain D.L.K. (December 18, 2012).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

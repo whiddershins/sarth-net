@@ -29,6 +29,4 @@ Bora Yoon performs at TED2014, March 2014. Photo: Borayoon, [CC BY-SA 4.0](https
 
 The credit: The Gralbum Collective, founded by Sarth Calhoun, published Bora Yoon’s Sunken Cathedral gralbum in April 2014; Yoon played the launch, April 9, 2014, with Calhoun and Adam Matta.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

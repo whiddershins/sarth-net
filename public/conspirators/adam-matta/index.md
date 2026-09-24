@@ -25,6 +25,4 @@ Adam Matta is a human beatboxer and vocal performance artist from New York who h
 
 The credit: The Gralbum Collective, founded by Sarth Calhoun, published Adam Matta’s Sketches in April 2014; Matta played the launch, April 9, 2014, with Calhoun and Bora Yoon.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

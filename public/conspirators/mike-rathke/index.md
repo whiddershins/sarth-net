@@ -25,6 +25,4 @@ He was one of the two guitarists, with [Steve Hunter](/conspirators/steve-hunter
 
 The credit: Mike Rathke and Sarth Calhoun played together in Lou Reed’s band on the spring 2008 U.S. tour and at Lollapalooza 2009, as a trio with Reed at the Whitney Museum on June 23, 2009, and on Reed’s “Solsbury Hill” (Rathke, additional guitar; Calhoun, additional programming).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

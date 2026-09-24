@@ -23,6 +23,4 @@ He was Lou’s tech through all my years in the band, 2008 to 2011; the photogra
 
 The credit: Stewart Hurwood was Lou Reed’s guitar technician through Sarth Calhoun’s years with Reed (2008 to 2011); Calhoun has played in Hurwood’s Lou Reed Drones at the Cathedral of St. John the Divine (March 13, 2019), the Prospect Park Bandshell (August 3, 2019) and the Brookfield Place Winter Garden (March 2, 2023).
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

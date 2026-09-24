@@ -29,6 +29,4 @@ He was in the band around Lou at the first rehearsals at SIR in April 2008 and o
 
 The credit: Steve Hunter and Sarth Calhoun played together in Lou Reed’s band on the spring 2008 U.S. tour, including the Highline Ballroom show of May 5, 2008, and at Lollapalooza 2009.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

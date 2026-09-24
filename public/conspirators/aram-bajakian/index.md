@@ -25,6 +25,4 @@ The credit: Aram Bajakian, guitar, and Sarth Calhoun, Continuum and Kyma, in Lou
 
 By 2011 Lou was touring with eight people onstage, and he and [Tony Diodore](/conspirators/tony-diodore/) were the guitars, with me on Continuum and Kyma running multiple Pacas: the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), from Hop Farm on July 2 to Lyon on July 26. My road posts from that tour, the Hop Farm photos and the Carhaix clip, are the record of that band.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

@@ -29,6 +29,4 @@ Billy Martin, July 2007. Photo: Hreinn Gudlaugsson, [CC BY-SA 4.0](https://creat
 
 The credit: Billy Martin’s Omnisphere was a Gralbum Collective title in development, previewed at the collective’s launch on April 9, 2014; Sarth Calhoun founded the collective.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

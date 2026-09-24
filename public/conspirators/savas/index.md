@@ -23,6 +23,4 @@ The credit: Savas (Savaş Özay) is Head of Creation at Third Wall Studio, found
 
 He is Head of Creation at [Third Wall Studio](/conspiracies/third-wall-studio/), the studio I founded in May 2025. *Kubler-Ross Model*, made in [Burlap](/conspiracies/burlap/), is his film; the first excerpt went out in August 2026.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

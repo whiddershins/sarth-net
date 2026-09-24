@@ -29,6 +29,4 @@ Lou Reed and I wrote the music for his [*Lulu*](/conspiracies/lulu/). Lou did no
 
 The credit: Sarth Calhoun co-wrote, with Lou Reed, the score of Robert Wilson’s Lulu at the Berliner Ensemble (2011) and directed its music rehearsals in Berlin.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

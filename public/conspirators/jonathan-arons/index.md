@@ -21,6 +21,4 @@ He is an artist in residence at [Third Wall Studio](/conspiracies/third-wall-stu
 
 The credit: Jonathan Arons is artist in residence at Third Wall Studio, founded by Sarth Calhoun; The Trinary Matrix (2026) is his film.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

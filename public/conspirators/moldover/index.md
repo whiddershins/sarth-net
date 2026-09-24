@@ -29,6 +29,4 @@ We were on the same bill at the Warper Party at The Delancey in New York on Marc
 
 The credit: Moldover and Sarth Calhoun shared Warper Party bills in New York in 2009; Calhoun names him among the improvisers behind Introspections, and lists a video with him.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

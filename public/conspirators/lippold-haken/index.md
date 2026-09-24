@@ -25,6 +25,4 @@ The [Continuum](/devices/) is my instrument: bass and melodies in [Lucibel Crate
 
 The credit: Lippold Haken invented the Continuum Fingerboard, Sarth Calhoun’s instrument since Lucibel Crater and in Lou Reed’s band, Metal Machine Trio, Yellow Pony and Lulu; Wikipedia’s Continuum article names Calhoun among its players.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

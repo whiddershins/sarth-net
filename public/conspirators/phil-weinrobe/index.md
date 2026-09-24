@@ -23,6 +23,4 @@ He recorded “[I Just Believe in Christmas](/conspiracies/i-just-believe-in-chr
 
 The credit: Phil Weinrobe recorded Sarth Calhoun’s “I Just Believe in Christmas” at Figure 8 Studios, August 2015, and plays banjo on it.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

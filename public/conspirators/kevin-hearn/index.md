@@ -29,6 +29,4 @@ He was in the band around Lou at the first rehearsals at SIR in New York in Apri
 
 The credit: Kevin Hearn and Sarth Calhoun played together in Lou Reed’s band: the spring 2008 U.S. tour, Lollapalooza 2009 (on the DVD Lou Reed Live at Lollapalooza 2009), the 2011 European tour, and the Winter Garden guest performance for Reed’s 81st birthday, March 2, 2023.
 
-## My thoughts
-
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

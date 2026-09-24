@@ -21,13 +21,7 @@ Rob Wasserman (1952 to 2016) was an American bassist known for the electric upri
 
 Sarth Calhoun at Lollapalooza, Chicago, August 2009. Rob Wasserman played bass in that band.
 
-> Rob Wasserman’s upright electric bass, Kevin Hearn’s string/horn patches, Sarth Calhoun’s invisible Macbookery, and guitarist Steve Hunter’s fiery if decidedly inside-the-box solos.
-> 
-> Jesse Jarnow on the spring 2008 tour’s last night, [The Village Voice, May 6, 2008](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party)
-
-## “A huge fan”
-
-What follows is the letter I wrote the day after Rob died, June 30, 2016.
+The letter I wrote the day after Rob died, June 30, 2016.
 
 I first met Rob Wasserman backstage at a performance of Lou Reed’s *Berlin* at St. Ann’s Warehouse. I walked up to him and shook his hand saying “Rob Wasserman! I’m a huge fan!”
 
@@ -35,18 +29,16 @@ My first instrument was the bass, and Rob was always one of my heroes. I became 
 
 He just chuckled and said “a huge fan ...” I couldn’t have imagined I would be on tour with him a few months later, backing up Lou Reed.
 
-## The first sound
-
 I remember so clearly the first time I played with Rob. Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be Rob bowing the electric upright, which I processed through [Kyma](/devices/). We recorded that first session, and it ended up being the basis for [“Junior Dad,”](/conspiracies/junior-dad/) the 19 minute outro to *[Lulu](/conspiracies/lulu/)*.
+
+What I remember most dearly about Rob was how much he encouraged and supported me when I was the new guy in the band. He had as much or more reason than anyone on that stage to look on skeptically at this young whippersnapper, but instead he was unfailingly gracious. He always spoke to me with dignity and respect, as if I were an equal, which was status I had done nothing to earn. I will never forget that generosity, and the world has lost another hero.
+
+The letter is here as written. The backstage meeting was during *Berlin* at St. Ann’s Warehouse, December 14 to 17, 2006. Our first tour together was Lou Reed’s [spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/).
+
+> Rob Wasserman’s upright electric bass, Kevin Hearn’s string/horn patches, Sarth Calhoun’s invisible Macbookery, and guitarist Steve Hunter’s fiery if decidedly inside-the-box solos.
+> 
+> Jesse Jarnow on the spring 2008 tour’s last night, [The Village Voice, May 6, 2008](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party)
 
 [Embedded player](https://open.spotify.com/embed/track/2zg2zQsXs0o6hCH9MTkZzw)
 
 On record together: [*Lou Reed Live at Lollapalooza 2009*](/transmissions/lou-reed-live-at-lollapalooza-2009/), the official DVD, credits the band as Mike Rathke and Steve Hunter, guitars; Kevin Hearn, keyboards; Rob Wasserman, bass; Tony “Thunder” Smith, drums; Ulrich Krieger, saxophone; Sarth Calhoun, electronics and continuum. [loureed.com](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
-
-## The new guy
-
-What I remember most dearly about Rob was how much he encouraged and supported me when I was the new guy in the band. He had as much or more reason than anyone on that stage to look on skeptically at this young whippersnapper, but instead he was unfailingly gracious. He always spoke to me with dignity and respect, as if I were an equal, which was status I had done nothing to earn.
-
-I will never forget that generosity, and the world has lost another hero.
-
-I wrote this the day after Rob died, June 30, 2016, and it is here as written. The backstage meeting was during *Berlin* at St. Ann’s Warehouse, December 14 to 17, 2006. Our first tour together was Lou Reed’s [spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/).

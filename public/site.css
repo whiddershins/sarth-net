@@ -134,6 +134,12 @@ main {
   border-left: 2px solid var(--line);
   max-width: 42rem;
 }
+/* A letter or eulogy runs as one centered, continuous piece: no bands, no subheads. */
+.story section.piece { padding: 2.6rem 0 1.2rem; }
+.story .piece .letter { max-width: 40rem; margin: 0 auto; font-family: Georgia, "Iowan Old Style", serif; font-size: 1.12rem; line-height: 1.6; }
+.story .piece .letter p { max-width: none; }
+.story .piece .letter .when { margin-bottom: 1.8rem; font-family: inherit; font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--mute); }
+.story .piece .source-note { max-width: 40rem; margin-left: auto; margin-right: auto; }
 /* An unfilled hole is nothing on the public page. The dev server fills it with its prompt. */
 .hole:empty { display: none; }
 section.thoughts:has(> .hole:empty) { display: none; }

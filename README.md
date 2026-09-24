@@ -34,7 +34,7 @@ comment; the check fails a flat page without one). `npm run dev:holes` serves th
 with every hole editable in place: click, type, click away, and the file is
 written and the build re-run. The old page generator is retired under `scripts/legacy/`. Old Squarespace and WordPress addresses are 301s in `public/_redirects`. There is no Worker script, so a page view does not count as a Worker request.
 
-Publish by pushing to GitHub `main`. `.github/workflows/deploy.yml` runs the build check, then deploys to the Worker that serves `www.sarth.net`. `account_id` in `wrangler.jsonc` is Sarth@sarth.net's Account, so a deploy cannot land on Marshy Runner. The workflow reads `CLOUDFLARE_API_TOKEN`, a token with Workers Scripts Edit on that account only.
+Publish by connecting Workers Builds on the `sarth-net` Worker in Sarth@sarth.net's Account to this GitHub repo, production branch `main`, deploy command `npx wrangler deploy`. Cloudflare runs that on each push. A GitHub Action is not the publish path. `account_id` in `wrangler.jsonc` is that same account, so a manual `npx wrangler deploy --profile sarth-net` cannot land on Marshy Runner.
 
 Canonical host: `https://www.sarth.net`. Both `www.sarth.net` and `sarth.net` are attached to the `sarth-net` static deployment on Sarth@sarth.net's Account. Pages declare the `www` address in their canonical tag. There is no host redirect from the bare name to `www`. Mail records stay on Fastmail. The old Squarespace site remains at `https://sarth-stuff.squarespace.com`.
 
@@ -57,7 +57,7 @@ CLOUDFLARE_ACCOUNT_ID=cc4dcff1642e97ee3283755e696a3c40 npx wrangler <cmd> --prof
 CLOUDFLARE_ACCOUNT_ID=a750b82b27285ba96770503fbb636e64 npx wrangler <cmd> --profile sarth-net
 ```
 
-`bookofsarth` and `contraptions` pin Marshy Runner with `account_id` in their Wrangler config. `highshoulder` pins the other account. This repo pins Sarth@sarth.net's Account. `www.sarth.net` and `sarth.net` are attached to that Worker (`https://sarth-net.sarth.workers.dev`). A second, older copy remains on Marshy Runner at `https://sarth-net.marshy-runner.workers.dev` and is not updated by a push. A local deploy uses the same pin: `npx wrangler deploy --profile sarth-net`. The default login cannot see that account, so it refuses instead of publishing the preview.
+`bookofsarth` and `contraptions` pin Marshy Runner with `account_id` in their Wrangler config. `highshoulder` pins the other account. This repo pins Sarth@sarth.net's Account. `www.sarth.net` and `sarth.net` are attached to that Worker (`https://sarth-net.sarth.workers.dev`). A second, older copy remains on Marshy Runner at `https://sarth-net.marshy-runner.workers.dev`. Do not connect Builds to that copy. A local deploy uses the same pin: `npx wrangler deploy --profile sarth-net`. The default login cannot see the pinned account, so it refuses instead of publishing the preview.
 
 ## What it is
 

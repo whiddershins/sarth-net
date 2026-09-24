@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 502,
+  "citation_count": 506,
   "pages": [
     {
       "path": "/",
@@ -687,6 +687,10 @@
           "text": "Meatsuitz Family Vacay"
         },
         {
+          "url": "https://www.youtube.com/watch?v=VrtL59O1ps0",
+          "text": "Meatsuitz – Dare to be Delicious"
+        },
+        {
           "url": "https://www.youtube.com/shorts/v5ttYqHIbI8",
           "text": "Teaser"
         },
@@ -931,6 +935,18 @@
         {
           "url": "https://vimeo.com/125323250",
           "text": "“For Lovers” on Vimeo, April 2015"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=VrtL59O1ps0",
+          "text": "Meatsuitz – Dare to be Delicious"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=nZ2LpA9P-LY",
+          "text": "Meatsuitz Family Vacay"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ttWqwhzE-yA",
+          "text": "Through the Brambles"
         }
       ]
     },

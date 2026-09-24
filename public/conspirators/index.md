@@ -13,7 +13,7 @@ People I have made things with.
 ## Third Wall Studio
 
 1. [**Savas**Designer and creative director, Head of Creation at Third Wall Studio. Kubler-Ross Model is his film.](/conspirators/savas/)
-2. [**Jacob McCoy**Filmmaker, Director, Production at Third Wall Studio. Book of Sarth, the For Lovers duet, Introspections, and Meatsuitz Family Vacay.](/conspirators/jacob-mccoy/)
+2. [**Jacob McCoy**Filmmaker, Director, Production at Third Wall Studio. Book of Sarth, the For Lovers duet, Introspections, and, as director, the Meatsuitz films and Through the Brambles.](/conspirators/jacob-mccoy/)
 3. [**Doron Lev**Drummer, MC and illustrator. The drums on my Christmas song, a Beautiful Tornado guest, and three Third Wall films in 2026.](/conspirators/doron-lev/)
 4. [**Jonathan Arons**The dancing trombonist, artist in residence at Third Wall Studio. The Trinary Matrix, fourteen minutes from his own book, is his film.](/conspirators/jonathan-arons/)
 5. [**Tetiana Khodakivska**Film director and editor, artist in residence at Third Wall Studio.](/conspirators/tetiana-khodakivska/)

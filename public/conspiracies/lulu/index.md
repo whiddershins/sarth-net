@@ -52,6 +52,8 @@ After I got back from Berlin, we took the project to San Francisco and recorded 
 
 The first live performances of the material were in November 2011: *Later... with Jools Holland* in London, *Taratata* in Paris, and five songs in Cologne. I was on stage for those.
 
+The Wire wrote that against all the odds, ‘Lulu’ functions as the ultimate realisation of Reed’s aesthetic of *Metal Machine Music*: cruel, vulgar, half in love with power and pain but with a bruised, beating heart at its centre. I kept that line on my old site.
+
 [Robert Wilson’s production](https://robertwilson.com/lulu) premiered April 12, 2011. The [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu) documents the live ensemble; [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) documented the earlier Continuum-and-cello tapes in [*Rolling Stone*](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/). My account is from the Lulu page of my old WordPress site, and the November 2011 shows from my posts there.
 
 ## The record

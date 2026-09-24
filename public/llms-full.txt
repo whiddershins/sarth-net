@@ -87,7 +87,7 @@ Third Wall Studio · 2026
 Third Wall Studio makes animation with filmmakers and artists. We mix live action, animation, and generative AI in the same production, not as a gimmick, but as part of the craft. New tools for ancient magic. [The studio](/conspiracies/third-wall-studio/) · [The films](/work/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/)
 
 - [Watching Shadows · with Doron Lev](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Through the Brambles · a VR story, made in Burlap](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+- [Through the Brambles · directed by Jacob McCoy · a VR story, made in Burlap](https://www.youtube.com/watch?v=ttWqwhzE-yA)
 - [Pigeon Problems · with Doron Lev](https://www.youtube.com/watch?v=vs6KM7hFzxs)
 - [Truck Stop Love · with Doron Lev](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
 - [Meatsuitz Family Vacay · with Jacob McCoy](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
@@ -1893,10 +1893,11 @@ The credit: Sarth Calhoun founded Third Wall Studio in May 2025 and builds Burla
 ## The films
 
 - [Watching Shadows · with Doron Lev · April 2026](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Through the Brambles · May 2026](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+- [Through the Brambles · directed by Jacob McCoy · May 2026](https://www.youtube.com/watch?v=ttWqwhzE-yA)
 - [Pigeon Problems · with Doron Lev · February 2026](https://www.youtube.com/watch?v=vs6KM7hFzxs)
 - [Truck Stop Love · with Doron Lev · February 2026](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
 - [Meatsuitz Family Vacay · with Jacob McCoy · January 2026](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+- [Meatsuitz – Dare to be Delicious · directed by Jacob McCoy · December 2025](https://www.youtube.com/watch?v=VrtL59O1ps0)
 
 - **Dark Arts**, teaser. August 2026.
 
@@ -1910,7 +1911,7 @@ The credit: Sarth Calhoun founded Third Wall Studio in May 2025 and builds Burla
 
   [Full film on Vimeo](https://vimeo.com/1187032618/46e04bc8a5) · [Third Wall](https://www.thirdwallstudio.com/process)
 
-*Through the Brambles* is a VR story built entirely inside Burlap. Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. It is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles).
+*Through the Brambles*, directed by [Jacob McCoy](/conspirators/jacob-mccoy/), is a VR story built entirely inside Burlap. Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. It is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles).
 
 ## Conspiracies
 
@@ -2132,6 +2133,8 @@ Book of Sarth is an iPad app that runs a graphic novel and a concept album as on
 
 The story is about an ear worm. Tapping an image opens the director’s view, where the artwork fills the screen and the reader stands where the characters are.
 
+From the Book: “They were born into a boxy and barren world . . .”
+
 ![Artwork from The Book of Sarth, colour rain.](/images/book-of-sarth-color-rain.jpg)
 
 From The Book of Sarth.
@@ -2257,6 +2260,8 @@ The band was Stefan Rager on drums and musical direction; Ulrich Maiß on keyboa
 After I got back from Berlin, we took the project to San Francisco and recorded it with [Metallica](/conspirators/metallica/). What a blast. They completely reinterpreted all the stuff, of course. They were awesome. Of course.
 
 The first live performances of the material were in November 2011: *Later... with Jools Holland* in London, *Taratata* in Paris, and five songs in Cologne. I was on stage for those.
+
+The Wire wrote that against all the odds, ‘Lulu’ functions as the ultimate realisation of Reed’s aesthetic of *Metal Machine Music*: cruel, vulgar, half in love with power and pain but with a bruised, beating heart at its centre. I kept that line on my old site.
 
 [Robert Wilson’s production](https://robertwilson.com/lulu) premiered April 12, 2011. The [Festival d’Automne program](https://www.festival-automne.com/fr/edition-2011/berliner-ensemble-lou-reed-robert-wilson-lulu) documents the live ensemble; [David Fricke](https://en.wikipedia.org/wiki/David_Fricke) documented the earlier Continuum-and-cello tapes in [*Rolling Stone*](https://www.rollingstone.com/music/music-news/when-metallica-met-lou-reed-78019/). My account is from the Lulu page of my old WordPress site, and the November 2011 shows from my posts there.
 
@@ -2860,7 +2865,7 @@ People I have made things with.
 ## Third Wall Studio
 
 1. [**Savas**Designer and creative director, Head of Creation at Third Wall Studio. Kubler-Ross Model is his film.](/conspirators/savas/)
-2. [**Jacob McCoy**Filmmaker, Director, Production at Third Wall Studio. Book of Sarth, the For Lovers duet, Introspections, and Meatsuitz Family Vacay.](/conspirators/jacob-mccoy/)
+2. [**Jacob McCoy**Filmmaker, Director, Production at Third Wall Studio. Book of Sarth, the For Lovers duet, Introspections, and, as director, the Meatsuitz films and Through the Brambles.](/conspirators/jacob-mccoy/)
 3. [**Doron Lev**Drummer, MC and illustrator. The drums on my Christmas song, a Beautiful Tornado guest, and three Third Wall films in 2026.](/conspirators/doron-lev/)
 4. [**Jonathan Arons**The dancing trombonist, artist in residence at Third Wall Studio. The Trinary Matrix, fourteen minutes from his own book, is his film.](/conspirators/jonathan-arons/)
 5. [**Tetiana Khodakivska**Film director and editor, artist in residence at Third Wall Studio.](/conspirators/tetiana-khodakivska/)
@@ -2969,7 +2974,7 @@ Filmmaker, and Director, Production at Third Wall Studio. We have made things to
 
 [Jacob McCoy](https://jacobmccoy.com/) is a filmmaker and visual artist working across documentary, music video and site-specific installation, and Director, Production at [Third Wall Studio](https://www.thirdwallstudio.com/). He directed, shot and edited the documentary on *The Gauntlet*, the choral and movement work by [Sxip Shirey](/conspirators/sxip-shirey/) and Coco Karol, streamed by the Sydney Opera House in 2020, and made the archival film for their *We Don’t Need the Sea to Drown* at National Sawdust in 2025 and 2026. He plays Linnstrument and bass.
 
-[Embedded player](https://www.youtube.com/embed/nZ2LpA9P-LY)
+[Embedded player](https://www.youtube.com/embed/VrtL59O1ps0)
 
 > On March 2nd, 2015, Jacob and I got together to record some Linnstrument / Continuum Fingerboard duets. It was also Lou Reed's birthday, and this piece reminded me of things we explored together. Drones, close intervals, sum and difference frequencies. And Lou loved his Continuum Fingerboard. So this is dedicated to him.
 > 
@@ -2979,9 +2984,13 @@ Filmmaker, and Director, Production at Third Wall Studio. We have made things to
 
 He was one of the four people I thanked when [Book of Sarth](/conspiracies/book-of-sarth/) was finished in 2012: Jacob McCoy is unstoppable. On March 2, 2015, Lou Reed’s birthday, we recorded Linnstrument and Continuum duets; one became “[For Lovers](/transmissions/singles/),” dedicated to Lou, filmed that spring and released as a single in 2020. He plays the Linnstrument drones on the second [Introspections](/transmissions/introspections/) video, filmed and edited the two duets with [Sxip Shirey](/conspirators/sxip-shirey/) that same year, and plays bass on “[I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/).”
 
-At [Third Wall Studio](/conspiracies/third-wall-studio/) he is Director, Production. *Meatsuitz Family Vacay*, January 2026, is his film, made in [Burlap](/conspiracies/burlap/).
+At [Third Wall Studio](/conspiracies/third-wall-studio/) he is Director, Production, and he directed three of the studio’s films, all made in [Burlap](/conspiracies/burlap/): *Meatsuitz – Dare to be Delicious*, a meat-themed swimwear ad, December 2025; *Meatsuitz Family Vacay*, January 2026; and *Through the Brambles*, the studio’s 360° VR film, May 2026.
 
-The credit: Jacob McCoy and Sarth Calhoun: The Book of Sarth (2012), “For Lovers” (recorded March 2, 2015; single, 2020), Introspections (2015), “I Just Believe in Christmas” (2015, McCoy on bass), and Third Wall Studio, where McCoy is Director, Production and made Meatsuitz Family Vacay (2026).
+The credit: Jacob McCoy and Sarth Calhoun: The Book of Sarth (2012), “For Lovers” (recorded March 2, 2015; single, 2020), Introspections (2015), “I Just Believe in Christmas” (2015, McCoy on bass), and Third Wall Studio, where McCoy is Director, Production and directed Meatsuitz – Dare to be Delicious (2025), Meatsuitz Family Vacay (2026) and Through the Brambles (2026).
+
+[Embedded player](https://www.youtube.com/embed/ttWqwhzE-yA)
+
+His films at Third Wall: “[Meatsuitz – Dare to be Delicious](https://www.youtube.com/watch?v=VrtL59O1ps0),” December 25, 2025. “[Meatsuitz Family Vacay](https://www.youtube.com/watch?v=nZ2LpA9P-LY),” January 20, 2026. “[Through the Brambles](https://www.youtube.com/watch?v=ttWqwhzE-yA),” 360° VR, May 11, 2026; drag to look around, or open it in YouTube VR. All directed by Jacob McCoy, made in Burlap at Third Wall Studio.
 
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.
 
@@ -5041,6 +5050,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Pigeon Problems](https://www.youtube.com/watch?v=vs6KM7hFzxs)
 - [Truck Stop Love](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
 - [Meatsuitz Family Vacay](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+- [Meatsuitz – Dare to be Delicious](https://www.youtube.com/watch?v=VrtL59O1ps0)
 - [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
 - [Full film on Vimeo](https://vimeo.com/1187052948/25ddad82d9)
 - [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
@@ -5142,6 +5152,9 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Jacob McCoy](https://jacobmccoy.com/)
 - [Third Wall Studio](https://www.thirdwallstudio.com/)
 - [“For Lovers” on Vimeo, April 2015](https://vimeo.com/125323250)
+- [Meatsuitz – Dare to be Delicious](https://www.youtube.com/watch?v=VrtL59O1ps0)
+- [Meatsuitz Family Vacay](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+- [Through the Brambles](https://www.youtube.com/watch?v=ttWqwhzE-yA)
 
 ## [Joe Kelly](/conspirators/joe-kelly/)
 

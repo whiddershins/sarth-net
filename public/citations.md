@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (502 total)
+## Citations by page (506 total)
 
 ### Sarth Calhoun
 `/`
@@ -263,6 +263,7 @@ every page.
 - [Pigeon Problems](https://www.youtube.com/watch?v=vs6KM7hFzxs)
 - [Truck Stop Love](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
 - [Meatsuitz Family Vacay](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+- [Meatsuitz – Dare to be Delicious](https://www.youtube.com/watch?v=VrtL59O1ps0)
 - [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
 - [Full film on Vimeo](https://vimeo.com/1187052948/25ddad82d9)
 - [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
@@ -352,6 +353,9 @@ every page.
 - [Jacob McCoy](https://jacobmccoy.com/)
 - [Third Wall Studio](https://www.thirdwallstudio.com/)
 - [“For Lovers” on Vimeo, April 2015](https://vimeo.com/125323250)
+- [Meatsuitz – Dare to be Delicious](https://www.youtube.com/watch?v=VrtL59O1ps0)
+- [Meatsuitz Family Vacay](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+- [Through the Brambles](https://www.youtube.com/watch?v=ttWqwhzE-yA)
 
 ### Joe Kelly
 `/conspirators/joe-kelly/`

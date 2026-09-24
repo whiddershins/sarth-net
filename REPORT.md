@@ -8,6 +8,8 @@ Every `<div class="hole">` on the site and whether `content/holes/` has filled i
 Write the paragraph into the named file, in Sarth's words only, and run `npm run build`.
 
 - filled `content/holes/burlap--how-it-started.md` on https://www.sarth.net/conspiracies/burlap/
+- EMPTY  `content/holes/ingather--how-it-started.md` on https://www.sarth.net/conspiracies/ingather/
+  - wants: Sarth: how this job came to you, what the facility was like, and what the growers actually needed from the screens. Nothing here is yours yet.
 - EMPTY  `content/holes/conspiracies--poughkeepsie.md` on https://www.sarth.net/conspiracies/poughkeepsie/
   - wants: Sarth: how the melody found its way into the film, and what you scored.
 - EMPTY  `content/holes/third-wall-studio--how-it-started.md` on https://www.sarth.net/conspiracies/third-wall-studio/
@@ -33,7 +35,7 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
 - EMPTY  `content/holes/conspirators--doron-lev.md` on https://www.sarth.net/conspirators/doron-lev/
   - wants: Sarth: how you met Doron, and why the collaboration kept going.
 - EMPTY  `content/holes/conspirators--jacob-mccoy.md` on https://www.sarth.net/conspirators/jacob-mccoy/
-  - wants: Sarth: what Jacob did on Book of Sarth, and what Meatsuitz is.
+  - wants: Sarth: what Jacob did on Book of Sarth, and where Meatsuitz came from.
 - EMPTY  `content/holes/conspirators--joe-kelly.md` on https://www.sarth.net/conspirators/joe-kelly/
   - wants: Sarth: how you know Joe, and how the melody found its way into the film.
 - EMPTY  `content/holes/conspirators--john-zorn.md` on https://www.sarth.net/conspirators/john-zorn/
@@ -155,10 +157,11 @@ What each story page's narrow slots carry. Every slot is one attribution unit: a
 alt text and a caption, a pull quote with its cite, an embed with a title, or a labelled
 excerpt. The check fails a slot that lacks its attribution. Pages with no slots are the flat pages above.
 
-- https://www.sarth.net/conspiracies/book-of-sarth/: 6 · 4 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspiracies/book-of-sarth/: 7 · 4 photo · 1 quote · 2 excerpt
 - https://www.sarth.net/conspiracies/burlap/: 1 · 1 photo
 - https://www.sarth.net/conspiracies/gralbum-collective/: 6 · 3 photo · 2 quote · 1 excerpt
 - https://www.sarth.net/conspiracies/i-just-believe-in-christmas/: 2 · 1 embed · 1 excerpt
+- https://www.sarth.net/conspiracies/ingather/: 2 · 2 photo
 - https://www.sarth.net/conspiracies/junior-dad/: 4 · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/: 4 · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/lucibel-crater/: 6 · 3 photo · 1 quote · 1 embed · 1 excerpt
@@ -178,7 +181,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/carla-scaletti/: 3 · 1 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/dominic-bouffard/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/doron-lev/: 3 · 1 quote · 1 embed · 1 excerpt
-- https://www.sarth.net/conspirators/jacob-mccoy/: 3 · 1 quote · 1 embed · 1 excerpt
+- https://www.sarth.net/conspirators/jacob-mccoy/: 5 · 1 quote · 2 embed · 2 excerpt
 - https://www.sarth.net/conspirators/joe-kelly/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspirators/john-zorn/: 3 · 1 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/jonathan-arons/: 3 · 1 quote · 1 embed · 1 excerpt
@@ -209,7 +212,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/tom-hart/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/tony-thunder-smith/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspirators/ulrich-krieger/: 2 · 1 quote · 1 excerpt
-- https://www.sarth.net/contraptions/: 5 · 3 photo · 2 excerpt
+- https://www.sarth.net/contraptions/: 6 · 4 photo · 2 excerpt
 - https://www.sarth.net/transmissions/beautiful-tornado/: 4 · 2 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/transmissions/introspections/: 7 · 1 photo · 1 quote · 3 embed · 2 excerpt
 - https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/: 4 · 1 photo · 2 quote · 1 excerpt
@@ -226,4 +229,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 9 machine · 28 dream · 10 message
+- 10 machine · 28 dream · 10 message

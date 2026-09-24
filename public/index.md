@@ -9,7 +9,7 @@ Third Wall Studio · 2026
 Third Wall Studio makes animation with filmmakers and artists. We mix live action, animation, and generative AI in the same production, not as a gimmick, but as part of the craft. New tools for ancient magic. [The studio](/conspiracies/third-wall-studio/) · [The films](/work/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/)
 
 - [Watching Shadows · with Doron Lev](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Through the Brambles · a VR story, made in Burlap](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+- [Through the Brambles · directed by Jacob McCoy · a VR story, made in Burlap](https://www.youtube.com/watch?v=ttWqwhzE-yA)
 - [Pigeon Problems · with Doron Lev](https://www.youtube.com/watch?v=vs6KM7hFzxs)
 - [Truck Stop Love · with Doron Lev](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
 - [Meatsuitz Family Vacay · with Jacob McCoy](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
@@ -21,7 +21,7 @@ Third Wall Studio makes animation with filmmakers and artists. We mix live actio
 
 ### Machine
 
-[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Burlap](/conspiracies/burlap/) · [Devices](/devices/) · [Contraptions](/contraptions/)
+[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Burlap](/conspiracies/burlap/) · [Ingather](/conspiracies/ingather/) · [Devices](/devices/) · [Contraptions](/contraptions/)
 
 ### Dream
 

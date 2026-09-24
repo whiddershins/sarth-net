@@ -17,6 +17,8 @@ Book of Sarth is an iPad app that runs a graphic novel and a concept album as on
 
 The story is about an ear worm. Tapping an image opens the director’s view, where the artwork fills the screen and the reader stands where the characters are.
 
+From the Book: “They were born into a boxy and barren world . . .”
+
 ![Artwork from The Book of Sarth, colour rain.](/images/book-of-sarth-color-rain.jpg)
 
 From The Book of Sarth.

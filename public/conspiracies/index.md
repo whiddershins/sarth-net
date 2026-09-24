@@ -64,6 +64,10 @@ Two short European tours in 2009 with Lou Reed and Laurie Anderson, billed *The 
 
 Joe Kelly’s 2018 short film. Its main theme is the melody of my “Softly Questioning,” from *Reflections, Vol. 1*.
 
+## [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/)
+
+Lou Reed’s pavilion at the New York Photo Festival, May 2010, and its slideshow at St. Ann’s Warehouse. The festival’s upload names me.
+
 ## [Vivid LIVE 2010](/conspiracies/vivid-live/)
 
 The two week festival at the Sydney Opera House curated by Lou Reed and Laurie Anderson. Metal Machine Trio played it, along with a fifty person noise band at the opening and about a dozen unplanned jams.

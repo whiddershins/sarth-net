@@ -117,6 +117,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Medeski Martin & Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 
+## [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/)
+
+`/conspiracies/hidden-books-hidden-stories/`
+
+- [New York Photo Festival](https://en.wikipedia.org/wiki/New_York_Photo_Festival)
+
 ## [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/)
 
 `/conspiracies/i-just-believe-in-christmas/`

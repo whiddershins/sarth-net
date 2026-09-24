@@ -8,6 +8,8 @@ Every `<div class="hole">` on the site and whether `content/holes/` has filled i
 Write the paragraph into the named file, in Sarth's words only, and run `npm run build`.
 
 - filled `content/holes/burlap--how-it-started.md` on https://www.sarth.net/conspiracies/burlap/
+- EMPTY  `content/holes/conspiracies--hidden-books-hidden-stories.md` on https://www.sarth.net/conspiracies/hidden-books-hidden-stories/
+  - wants: Sarth: what you did on Hidden Books, Hidden Stories, and what the pavilion was like.
 - EMPTY  `content/holes/ingather--how-it-started.md` on https://www.sarth.net/conspiracies/ingather/
   - wants: Sarth: how this job came to you, what the facility was like, and what the growers actually needed from the screens. Nothing here is yours yet.
 - EMPTY  `content/holes/conspiracies--poughkeepsie.md` on https://www.sarth.net/conspiracies/poughkeepsie/
@@ -158,6 +160,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspiracies/book-of-sarth/: 7 · 4 photo · 1 quote · 2 excerpt
 - https://www.sarth.net/conspiracies/burlap/: 1 · 1 photo
 - https://www.sarth.net/conspiracies/gralbum-collective/: 6 · 3 photo · 2 quote · 1 excerpt
+- https://www.sarth.net/conspiracies/hidden-books-hidden-stories/: 2 · 1 embed · 1 excerpt
 - https://www.sarth.net/conspiracies/i-just-believe-in-christmas/: 2 · 1 embed · 1 excerpt
 - https://www.sarth.net/conspiracies/ingather/: 2 · 2 photo
 - https://www.sarth.net/conspiracies/junior-dad/: 4 · 1 quote · 1 embed · 2 excerpt
@@ -229,4 +232,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 10 machine · 28 dream · 10 message
+- 10 machine · 29 dream · 10 message

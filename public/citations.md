@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (507 total)
+## Citations by page (508 total)
 
 ### Sarth Calhoun
 `/`
@@ -131,6 +131,11 @@ every page.
 - [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
 - [Medeski Martin & Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
+
+### Hidden Books, Hidden Stories
+`/conspiracies/hidden-books-hidden-stories/`
+
+- [New York Photo Festival](https://en.wikipedia.org/wiki/New_York_Photo_Festival)
 
 ### I Just Believe in Christmas
 `/conspiracies/i-just-believe-in-christmas/`

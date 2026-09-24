@@ -2,6 +2,7 @@
 title: Number19
 description: Number19, the Brooklyn band Sarth Calhoun formed in 1999 with Leah Coloff, Tony Diodore and Mark Righter, and its album Suspension.
 url: https://www.sarth.net/conspiracies/number19/
+published: 2026-09-24
 facet: dream
 credit: Sarth Calhoun, bass and Yamaha EX5, in Number19 with Tony Diodore, Leah Coloff and Mark Righter, 1999 to 2005; on *Suspension*, Searching Eye Records, 2001.
 author: Sarth Calhoun

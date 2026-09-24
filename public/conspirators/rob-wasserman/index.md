@@ -2,6 +2,7 @@
 title: Rob Wasserman
 description: Sarth Calhoun on meeting bassist Rob Wasserman, touring together with Lou Reed, and the first Kyma session that became the basis of Junior Dad.
 url: https://www.sarth.net/conspirators/rob-wasserman/
+published: 2026-09-23
 credit: [*Lou Reed Live at Lollapalooza 2009*](/transmissions/lou-reed-live-at-lollapalooza-2009/), the official DVD, credits the band as Mike Rathke and Steve Hunter, guitars; Kevin Hearn, keyboards; Rob Wasserman, bass; Tony “Thunder” Smith, drums; Ulrich Krieger, saxophone; Sarth Calhoun, electronics and continuum. [loureed.com](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
 author: Sarth Calhoun
 ---

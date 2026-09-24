@@ -27,7 +27,7 @@ Metal Machine Trio in New York: Sarth Calhoun, Lou Reed, Ulrich Krieger.
 
 ## Before the noise
 
-Lou and I met through Tai Chi, and we decided to do an album of meditation music together. That stuff was drones and melodies combined with pure noise, and we had talked about doing some duet shows performing it.
+Lou and I met through Tai Chi, and we decided to do an album of meditation music together, which became [*Power and Serenity*](/conspiracies/power-and-serenity/). That stuff was drones and melodies combined with pure noise, and we had talked about doing some duet shows performing it.
 
 ## Lou’s imagination
 

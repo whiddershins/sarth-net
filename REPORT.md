@@ -14,6 +14,8 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
   - wants: Sarth: how this job came to you, what the facility was like, and what the growers actually needed from the screens. Nothing here is yours yet.
 - EMPTY  `content/holes/conspiracies--poughkeepsie.md` on https://www.sarth.net/conspiracies/poughkeepsie/
   - wants: Sarth: how the melody found its way into the film, and what you scored.
+- EMPTY  `content/holes/conspiracies--power-and-serenity.md` on https://www.sarth.net/conspiracies/power-and-serenity/
+  - wants: Sarth: how the meditation music began, and what four years of it actually involved.
 - EMPTY  `content/holes/third-wall-studio--how-it-started.md` on https://www.sarth.net/conspiracies/third-wall-studio/
   - wants: Sarth: why a studio, and how the first film with Doron came together. Only the two sentences above are yours so far.
 - EMPTY  `content/holes/conspirators--adam-matta.md` on https://www.sarth.net/conspirators/adam-matta/
@@ -171,6 +173,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspiracies/metal-machine-trio/: 7 · 1 photo · 4 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspiracies/number19/: 7 · 1 photo · 2 quote · 1 embed · 3 excerpt
 - https://www.sarth.net/conspiracies/poughkeepsie/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
+- https://www.sarth.net/conspiracies/power-and-serenity/: 3 · 1 quote · 2 excerpt
 - https://www.sarth.net/conspiracies/third-wall-studio/: 1 · 1 photo
 - https://www.sarth.net/conspiracies/vivid-live/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspiracies/yellow-pony/: 7 · 1 photo · 2 quote · 1 embed · 3 excerpt
@@ -232,4 +235,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 10 machine · 29 dream · 10 message
+- 10 machine · 30 dream · 10 message

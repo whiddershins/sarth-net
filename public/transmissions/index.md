@@ -68,6 +68,12 @@ Records and songs.
 
   2011. Lou Reed’s recording of the Buddy Holly song for *Rave On Buddy Holly*. I played bass on it, a Moog Little Phatty.
 
+- ## [Power and Serenity](/conspiracies/power-and-serenity/)
+
+  2010. Six pieces of tai chi meditation music composed and performed with Lou Reed for Master Ren Guangyi’s DVD. The first thing we worked on together.
+
+  [loureed.com, archived](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
+
 - ## [The Creation of the Universe](/transmissions/the-creation-of-the-universe/)
 
   2009. Lou Reed’s Metal Machine Trio, live. The two REDCAT nights nearly whole.

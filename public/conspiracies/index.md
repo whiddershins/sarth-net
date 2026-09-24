@@ -92,6 +92,10 @@ The touring group Lou Reed used for his song repertoire. I joined in 2008, playi
 
 Lou Reed’s United States tour of April and May 2008, running through the Northeast and then south by bus as far as Memphis. It was my first tour with Reed.
 
+## [Power and Serenity](/conspiracies/power-and-serenity/)
+
+Tai chi meditation music Lou Reed and I made together over four years, for Master Ren Guangyi’s DVD, on sale from July 2010. The first thing we ever worked on.
+
 ## [Lucibel Crater](/conspiracies/lucibel-crater/)
 
 The rock and electronic trio of Leah Coloff, Paul Chuffo and me. Its album *The Family Album* came out in 2008.

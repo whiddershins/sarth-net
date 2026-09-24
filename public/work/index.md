@@ -127,6 +127,10 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [The song band](/conspiracies/lou-reed-song-band/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
 
+- **Power and Serenity**, with Lou Reed. Six pieces of tai chi meditation music, composed and performed together over four years for Master Ren Guangyi’s DVD, on sale from July 2010. The first thing we worked on together; the same music ran under *Hidden Books, Hidden Stories* at the New York Photo Festival, May 2010.
+
+  [Power and Serenity](/conspiracies/power-and-serenity/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/)
+
 - **Metal Machine Trio**, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing. *The Creation of the Universe*, 2009.
 
   [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [Sightings](/sightings/)

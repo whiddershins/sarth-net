@@ -248,6 +248,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Apple Music](https://music.apple.com/us/album/1813001279)
 - [Reflections, Vol. 1](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
 
+## [Power and Serenity](/conspiracies/power-and-serenity/)
+
+`/conspiracies/power-and-serenity/`
+
+- [sarth.net, July 21, 2010](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
+- [loureed.com, 2010](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
+
 ## [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
 
 `/conspiracies/reflections-vol-1/`
@@ -767,6 +774,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Spotify](https://open.spotify.com/album/2AK3ADNcGHccdecSkjV43k)
 - [bookofsarth.com](https://bookofsarth.com)
 - [Apple Music](https://music.apple.com/us/album/junior-dad/467890760?i=467890784)
+- [loureed.com, archived](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)

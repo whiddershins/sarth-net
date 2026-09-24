@@ -74,7 +74,7 @@ Machine-readable companions:
 
 ## Pages
 
-104 pages follow, in reading order, separated by a horizontal rule.
+105 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -103,7 +103,7 @@ Third Wall Studio makes animation with filmmakers and artists. We mix live actio
 
 ### Dream
 
-[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
+[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Power and Serenity](/conspiracies/power-and-serenity/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
 
 ### Message
 
@@ -316,6 +316,10 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 - **Lou Reed’s touring band**, 2008 to 2011, on Continuum and Kyma, and **Yellow Pony** with Lou Reed and Laurie Anderson, 2009.
 
   [The song band](/conspiracies/lou-reed-song-band/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
+
+- **Power and Serenity**, with Lou Reed. Six pieces of tai chi meditation music, composed and performed together over four years for Master Ren Guangyi’s DVD, on sale from July 2010. The first thing we worked on together; the same music ran under *Hidden Books, Hidden Stories* at the New York Photo Festival, May 2010.
+
+  [Power and Serenity](/conspiracies/power-and-serenity/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/)
 
 - **Metal Machine Trio**, with Lou Reed and Ulrich Krieger. From the REDCAT premiere in October 2008 through São Paulo in 2010, on Continuum and live processing. *The Creation of the Universe*, 2009.
 
@@ -1305,6 +1309,10 @@ The touring group Lou Reed used for his song repertoire. I joined in 2008, playi
 
 Lou Reed’s United States tour of April and May 2008, running through the Northeast and then south by bus as far as Memphis. It was my first tour with Reed.
 
+## [Power and Serenity](/conspiracies/power-and-serenity/)
+
+Tai chi meditation music Lou Reed and I made together over four years, for Master Ren Guangyi’s DVD, on sale from July 2010. The first thing we ever worked on.
+
 ## [Lucibel Crater](/conspiracies/lucibel-crater/)
 
 The rock and electronic trio of Leah Coloff, Paul Chuffo and me. Its album *The Family Album* came out in 2008.
@@ -1783,21 +1791,21 @@ Conspiracy · Dream
 
 # Hidden Books, Hidden Stories
 
-Lou Reed’s pavilion at the New York Photo Festival, May 2010, and its slideshow.
+Lou Reed’s pavilion at the New York Photo Festival, May 2010. Under its slideshow, the tai chi meditation music Lou and I made together.
 
-*Hidden Books, Hidden Stories* was [Lou Reed](/conspirators/lou-reed/)’s pavilion at the [New York Photo Festival](https://en.wikipedia.org/wiki/New_York_Photo_Festival) in Dumbo, Brooklyn, May 12 to 16, 2010. Its slideshow ran at St. Ann’s Warehouse, mixed and authored by Daniel Power in FotoMagico, and the festival put it on Vimeo on May 19, 2010: fifteen and a half minutes. The upload’s tags name me alongside Lou, Daniel Power and St. Ann’s.
+*Hidden Books, Hidden Stories* was [Lou Reed](/conspirators/lou-reed/)’s pavilion at the [New York Photo Festival](https://en.wikipedia.org/wiki/New_York_Photo_Festival) in Dumbo, Brooklyn, May 12 to 16, 2010. Its slideshow ran at St. Ann’s Warehouse, mixed and authored by Daniel Power in FotoMagico, and the festival put it on Vimeo on May 19, 2010: fifteen and a half minutes. The upload’s tags name me alongside Lou, Daniel Power and St. Ann’s: the music under it is the tai chi meditation music Lou and I made together, the first thing we ever worked on, released that July as [*Power and Serenity*](/conspiracies/power-and-serenity/).
 
 It was two weeks before [Vivid LIVE](/conspiracies/vivid-live/) in Sydney, the festival Lou and Laurie Anderson curated that same spring.
 
 [Embedded player](https://player.vimeo.com/video/11875170)
 
-The credit: Hidden Books, Hidden Stories: Lou Reed’s pavilion at the New York Photo Festival, May 12 to 16, 2010; slideshow at St. Ann’s Warehouse, mixed and authored by Daniel Power. The festival’s Vimeo upload of the slideshow tags Sarth Calhoun.
+The credit: Hidden Books, Hidden Stories: Lou Reed’s pavilion at the New York Photo Festival, May 12 to 16, 2010; slideshow at St. Ann’s Warehouse, mixed and authored by Daniel Power. Music: the tai chi meditation music of Lou Reed and Sarth Calhoun, their first collaboration, released in July 2010 as Power and Serenity; the festival’s Vimeo upload tags Calhoun.
 
 ## The slideshow
 
 Vogue Italia described the pavilion on May 17, 2010 as an installation of book boxes and beloved books. The slideshow is the part that survives online: the New York Photo Festival’s own upload, which the festival brought back in a 2012 post as a flashback to its 2010 edition, and which Boinx, the makers of FotoMagico, wrote up the week it went up.
 
-Dates, venue and credits are the festival’s own description on Vimeo, repeated by Boinx on May 20, 2010 and by the festival in February 2012.
+Dates, venue and credits are the festival’s own description on Vimeo, repeated by Boinx on May 20, 2010 and by the festival in February 2012. The music is as I said on September 23, 2026.
 
 ---
 
@@ -1953,6 +1961,40 @@ Rob was always one of my heroes. How he treated the new guy in the band is on [h
 We reached the Beale Street Music Festival in Memphis on May 3.
 
 The route is from the Lou Reed papers and contemporary listings: Northampton on April 20, Beale Street on May 3, New York on May 5, 2008. My recollection of it is from an interview on August 25, 2026.
+
+---
+
+# Power and Serenity
+
+https://www.sarth.net/conspiracies/power-and-serenity/
+
+[Conspiracies](/conspiracies/) / Power and Serenity
+
+Conspiracy · Dream
+
+# Power and Serenity
+
+Tai chi meditation music Lou Reed and I made together over four years, for Master Ren Guangyi’s DVD. The first thing we ever worked on.
+
+> It is interesting to me to reflect on the notion that this meditation music was the first thing I ever worked on with Lou. Really this was what started our collaborations, and I have always loved the music on this. It is in a similar vein, but of a different character, than the Creation of the Universe or Hudson Wind Meditations. The compositions were conceived of, improvised upon, reworked, edited, remixed and transformed over a period of 4 years.
+> 
+> Sarth Calhoun, [sarth.net, July 21, 2010](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
+
+*Power and Serenity* is the DVD of [Lou Reed](/conspirators/lou-reed/)’s tai chi teacher, Master Ren Guangyi, with six pieces of original music that Lou and I composed and performed: “The Power of Red,” “Cymbalism,” “Power and Serenity,” “Liquid,” “Metallic Opera,” and “Guitar Mountain.” Lou, Master Ren, Scott Richman and I produced it; Scott Richman directed; Matt Bockelman edited. Lou put it up for sale on his site in July 2010.
+
+Lou and I met through tai chi, and we decided to do an album of meditation music together. That stuff was drones and melodies combined with pure noise. It was the first thing I ever worked on with Lou, and it started everything after it: the [song band](/conspiracies/lou-reed-song-band/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Yellow Pony](/conspiracies/yellow-pony/) and [*Lulu*](/conspiracies/lulu/).
+
+## Four years, and a slideshow
+
+The compositions were conceived of, improvised upon, reworked, edited, remixed and transformed over a period of four years. The same music ran under the slideshow of Lou’s pavilion at the New York Photo Festival in May 2010, [*Hidden Books, Hidden Stories*](/conspiracies/hidden-books-hidden-stories/), two months before the DVD went on sale.
+
+It is not a Metal Machine Trio record, whatever the encyclopedias say. The trio’s record is [*The Creation of the Universe*](/transmissions/the-creation-of-the-universe/); Lou’s own earlier meditation record is *Hudson River Wind Meditations*, 2007. This is the third thing, the one the two of us made.
+
+The record: “Power and Serenity,” featuring Master Ren Guangyi. Original music composed and performed by Lou Reed and Sarth Calhoun: “The Power of Red,” “Cymbalism,” “Power and Serenity,” “Liquid,” “Metallic Opera,” “Guitar Mountain.” Produced by Lou Reed, Master Ren Guangyi, Sarth Calhoun and Scott Richman. Edited by Matt Bockelman. Directed by Scott Richman. [loureed.com, 2010](https://web.archive.org/web/20101230193716/http://loureed.com/power/).
+
+The credit: Sarth Calhoun composed and performed the six pieces of Power and Serenity with Lou Reed, and produced the DVD with Reed, Master Ren Guangyi and Scott Richman; on sale from July 2010. Their first collaboration.
+
+The credits are from Lou Reed’s own page for the DVD, archived December 2010. My paragraphs are from my post of July 21, 2010, my interview of August 25, 2026, and what I said on September 23, 2026.
 
 ---
 
@@ -2950,7 +2992,7 @@ Metal Machine Trio in New York: Sarth Calhoun, Lou Reed, Ulrich Krieger.
 
 ## Before the noise
 
-Lou and I met through Tai Chi, and we decided to do an album of meditation music together. That stuff was drones and melodies combined with pure noise, and we had talked about doing some duet shows performing it.
+Lou and I met through Tai Chi, and we decided to do an album of meditation music together, which became [*Power and Serenity*](/conspiracies/power-and-serenity/). That stuff was drones and melodies combined with pure noise, and we had talked about doing some duet shows performing it.
 
 ## Lou’s imagination
 
@@ -3833,6 +3875,12 @@ Records and songs.
 - ## [Peggy Sue](/transmissions/peggy-sue/)
 
   2011. Lou Reed’s recording of the Buddy Holly song for *Rave On Buddy Holly*. I played bass on it, a Moog Little Phatty.
+
+- ## [Power and Serenity](/conspiracies/power-and-serenity/)
+
+  2010. Six pieces of tai chi meditation music composed and performed with Lou Reed for Master Ren Guangyi’s DVD. The first thing we worked on together.
+
+  [loureed.com, archived](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
 
 - ## [The Creation of the Universe](/transmissions/the-creation-of-the-universe/)
 
@@ -5175,6 +5223,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Apple Music](https://music.apple.com/us/album/1813001279)
 - [Reflections, Vol. 1](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
 
+## [Power and Serenity](/conspiracies/power-and-serenity/)
+
+`/conspiracies/power-and-serenity/`
+
+- [sarth.net, July 21, 2010](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
+- [loureed.com, 2010](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
+
 ## [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
 
 `/conspiracies/reflections-vol-1/`
@@ -5694,6 +5749,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Spotify](https://open.spotify.com/album/2AK3ADNcGHccdecSkjV43k)
 - [bookofsarth.com](https://bookofsarth.com)
 - [Apple Music](https://music.apple.com/us/album/junior-dad/467890760?i=467890784)
+- [loureed.com, archived](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)

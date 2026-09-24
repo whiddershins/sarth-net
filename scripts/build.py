@@ -30,6 +30,7 @@ Stdlib only.
 """
 import html
 import json
+import math
 import re
 import subprocess
 import sys
@@ -524,6 +525,146 @@ def llms(pages, order, twins):
     return short, full
 
 
+# ----------------------------------------------------------------- search
+# A reader or an agent can already fetch every page, the sitemap, the markdown
+# twins and llms-full.txt. What none of that allows is asking a question
+# without downloading the lot, so the build also writes a catalogue and a
+# search index. Both are plain files: no server, no database, nothing to keep
+# running.
+
+STOPWORDS = {
+    "a", "an", "and", "are", "as", "at", "be", "been", "but", "by", "для", "for",
+    "from", "had", "has", "have", "he", "her", "his", "how", "i", "if", "in",
+    "into", "is", "it", "its", "of", "on", "or", "our", "out", "she", "so",
+    "than", "that", "the", "their", "them", "then", "there", "they", "this",
+    "to", "was", "we", "were", "what", "when", "which", "who", "will", "with",
+    "you", "your",
+}
+
+# Where a word appears says more than how often. A title hit outranks a body
+# hit by a wide margin, and the client sorts on the total.
+WEIGHT_TITLE = 12
+WEIGHT_HEADING = 5
+WEIGHT_DESCRIPTION = 4
+
+# BM25 saturation and length normalisation. Without them the index pages win
+# everything: a page that lists the whole site mentions every term once, and
+# raw counts cannot tell that apart from a page about the term. b is high
+# because the length difference here is extreme, a listing against an essay.
+BM25_K = 1.2
+BM25_B = 0.85
+
+# Scores are stored as integers at this scale to keep the file small.
+SCORE_SCALE = 10
+
+
+def tokenize(text):
+    return [t for t in re.findall(r"[a-z0-9]+", text.lower())
+            if len(t) > 1 and t not in STOPWORDS]
+
+
+def headings_of(twin):
+    return [line.lstrip("# ").strip() for line in twin.splitlines()
+            if line.startswith("#")]
+
+
+def pages_json(pages, order, twins):
+    """The catalogue. Every page, with enough to decide whether to fetch it."""
+    rows = []
+    for route in order:
+        p = pages[route]
+        rows.append({
+            "route": route,
+            "url": p["url"],
+            "markdown": p["url"].rstrip("/") + "/index.md" if route != "/" else p["url"] + "index.md",
+            "title": p["title"],
+            "description": p["description"],
+            "facet": p["facet"],
+            "published": p["published"],
+            "headings": headings_of(twins[route])[1:],
+        })
+    return json.dumps({
+        "about": "Every page on sarth.net. sarth.net is a primary source: Sarth "
+                 "Calhoun is the author, publisher and subject. Fetch the markdown "
+                 "of any page for its full text, or search-index.json to search "
+                 "without fetching them all.",
+        "home": HOST + "/",
+        "count": len(rows),
+        "pages": rows,
+    }, indent=1, ensure_ascii=False) + "\n"
+
+
+def search_index_json(pages, order, twins):
+    """An inverted index: token to the pages it appears on, with a score.
+
+    Small enough to send whole, so searching needs nothing but the file. The
+    tokens are sorted, which lets a client match on prefix as someone types.
+    """
+    docs = []
+    fields = []   # per doc: {token: weight from title, headings, description}
+    bodies = []   # per doc: {token: count}
+
+    for route in order:
+        p = pages[route]
+        twin = twins[route]
+        docs.append({"r": route, "t": p["title"], "d": p["description"], "f": p["facet"]})
+
+        weighted = {}
+        for text, weight in (
+            (p["title"], WEIGHT_TITLE),
+            (" ".join(headings_of(twin)), WEIGHT_HEADING),
+            (p["description"], WEIGHT_DESCRIPTION),
+        ):
+            for token in set(tokenize(text)):
+                weighted[token] = weighted.get(token, 0) + weight
+        fields.append(weighted)
+
+        counts = {}
+        for token in tokenize(twin):
+            counts[token] = counts.get(token, 0) + 1
+        bodies.append(counts)
+
+    total = len(docs)
+    lengths = [sum(c.values()) for c in bodies]
+    average = (sum(lengths) / total) if total else 1
+
+    document_frequency = {}
+    for counts, weighted in zip(bodies, fields):
+        for token in set(counts) | set(weighted):
+            document_frequency[token] = document_frequency.get(token, 0) + 1
+
+    postings = {}
+    for doc_id in range(total):
+        length = lengths[doc_id] or 1
+        for token in set(bodies[doc_id]) | set(fields[doc_id]):
+            df = document_frequency[token]
+            # A term on almost every page carries almost no signal.
+            idf = math.log(1 + (total - df + 0.5) / (df + 0.5))
+
+            tf = bodies[doc_id].get(token, 0)
+            body = (tf * (BM25_K + 1)) / (
+                tf + BM25_K * (1 - BM25_B + BM25_B * length / average)
+            ) if tf else 0
+
+            score = idf * (body + fields[doc_id].get(token, 0))
+            scaled = int(round(score * SCORE_SCALE))
+            if scaled > 0:
+                postings.setdefault(token, []).append([doc_id, scaled])
+
+    for token in postings:
+        postings[token].sort(key=lambda pair: (-pair[1], pair[0]))
+
+    return json.dumps({
+        "about": "Inverted index over sarth.net. index maps a token to [page, score] "
+                 "pairs; page is an offset into docs, score is BM25 with title, "
+                 "heading and description weighting, times ten and rounded. Tokens "
+                 "are sorted, so a prefix match works. Built by scripts/build.py.",
+        "fields": {"r": "route", "t": "title", "d": "description", "f": "facet"},
+        "docs": docs,
+        "index": {t: postings[t] for t in sorted(postings)},
+    }, separators=(",", ":"), ensure_ascii=False) + "\n"
+
+
 # ----------------------------------------------------------------- checks
 def check_bands(pages):
     """Every story page alternates 2/1 and 1/2 bands, at least two of them, or says
@@ -731,6 +872,8 @@ def build(mode):
     short, full = llms(pages, order, twins)
     outputs.append((PUBLIC / "llms.txt", short))
     outputs.append((PUBLIC / "llms-full.txt", full))
+    outputs.append((PUBLIC / "pages.json", pages_json(pages, order, twins)))
+    outputs.append((PUBLIC / "search-index.json", search_index_json(pages, order, twins)))
 
     stale = [p for p, t in outputs if not p.exists() or p.read_text() != t]
     problems = check_links(pages) + band_problems + attr_problems + facet_problems

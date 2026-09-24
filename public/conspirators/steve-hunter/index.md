@@ -29,4 +29,10 @@ He was in the band around Lou at the first rehearsals at SIR in April 2008 and o
 
 The credit: Steve Hunter and Sarth Calhoun played together in Lou Reed’s band on the spring 2008 U.S. tour, including the Highline Ballroom show of May 5, 2008, and at Lollapalooza 2009.
 
+![Lou Reed’s band on a club stage under red curtains, left to right: Rob Wasserman, Mike Rathke, Lou Reed, Sarth Calhoun, Tony “Thunder” Smith, John Zorn, Steve Hunter, Kevin Hearn.](/images/mwm-5113.jpg)
+
+Lou Reed’s band on the spring 2008 U.S. tour, the night John Zorn played with it. Photo: Mark McGauley.
+
+Left to right: Rob Wasserman, Mike Rathke, Lou Reed, Sarth Calhoun, Tony “Thunder” Smith, John Zorn, Steve Hunter, Kevin Hearn. Named by Sarth Calhoun, September 23, 2026. Photo: Mark McGauley.
+
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

@@ -17,9 +17,9 @@ spring 2008 U.S. tour
 
 It was my first tour with Lou. I played electronics and processed the other musicians live. The dates are listed on [Sightings](/sightings/).
 
-![Lou Reed’s band on a club stage under red curtains: an upright bass at the left, Lou Reed centre at the mic, Sarth Calhoun behind him at the laptops, drums, saxophone, guitar and keyboards to the right.](/images/mwm-5113.jpg)
+![Lou Reed’s band on a club stage under red curtains, left to right: Rob Wasserman, Mike Rathke, Lou Reed, Sarth Calhoun, Tony “Thunder” Smith, John Zorn, Steve Hunter, Kevin Hearn.](/images/mwm-5113.jpg)
 
-Lou Reed’s band on the spring 2008 U.S. tour: Lou Reed centre, Sarth Calhoun behind him at the laptops. Photo: Mark McGauley.
+Lou Reed’s band on the spring 2008 U.S. tour, the night John Zorn played with it. Left to right: Rob Wasserman, Mike Rathke, Lou Reed, Sarth Calhoun, Tony “Thunder” Smith, John Zorn, Steve Hunter, Kevin Hearn. Photo: Mark McGauley.
 
 The credit: Sarth Calhoun, electronics and live processing, in Lou Reed’s band on the spring 2008 U.S. tour, with Rob Wasserman, Kevin Hearn, Mike Rathke, Steve Hunter and Tony “Thunder” Smith. Jesse Jarnow, reviewing the last night for [The Village Voice](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party): “Sarth Calhoun’s invisible Macbookery.”
 

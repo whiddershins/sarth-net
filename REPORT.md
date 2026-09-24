@@ -183,9 +183,9 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/doron-lev/: 3 · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspirators/jacob-mccoy/: 5 · 1 quote · 2 embed · 2 excerpt
 - https://www.sarth.net/conspirators/joe-kelly/: 2 · 1 photo · 1 excerpt
-- https://www.sarth.net/conspirators/john-zorn/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/john-zorn/: 5 · 2 photo · 1 quote · 2 excerpt
 - https://www.sarth.net/conspirators/jonathan-arons/: 3 · 1 quote · 1 embed · 1 excerpt
-- https://www.sarth.net/conspirators/kevin-hearn/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/kevin-hearn/: 5 · 2 photo · 1 quote · 2 excerpt
 - https://www.sarth.net/conspirators/kurt-hebel/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/laurie-anderson/: 1 · 1 photo
 - https://www.sarth.net/conspirators/lippold-haken/: 2 · 1 quote · 1 excerpt
@@ -197,7 +197,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/metallica/: 3 · 1 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/michael-patrick-flanagan-smith/: 3 · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspirators/mike-acerbo/: 2 · 1 quote · 1 excerpt
-- https://www.sarth.net/conspirators/mike-rathke/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/mike-rathke/: 4 · 1 photo · 1 quote · 2 excerpt
 - https://www.sarth.net/conspirators/moldover/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspirators/phil-weinrobe/: 2 · 2 excerpt
 - https://www.sarth.net/conspirators/rich-kulsar/: 2 · 1 quote · 1 excerpt
@@ -206,11 +206,11 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/savas/: 3 · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspirators/scott-hampton/: 2 · 2 excerpt
 - https://www.sarth.net/conspirators/shahzad-ismaily/: 2 · 1 photo · 1 excerpt
-- https://www.sarth.net/conspirators/steve-hunter/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/steve-hunter/: 5 · 2 photo · 1 quote · 2 excerpt
 - https://www.sarth.net/conspirators/stewart-hurwood/: 2 · 2 excerpt
 - https://www.sarth.net/conspirators/sxip-shirey/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspirators/tom-hart/: 2 · 1 quote · 1 excerpt
-- https://www.sarth.net/conspirators/tony-thunder-smith/: 2 · 1 photo · 1 excerpt
+- https://www.sarth.net/conspirators/tony-thunder-smith/: 4 · 2 photo · 2 excerpt
 - https://www.sarth.net/conspirators/ulrich-krieger/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/contraptions/: 6 · 4 photo · 2 excerpt
 - https://www.sarth.net/transmissions/beautiful-tornado/: 4 · 2 photo · 1 quote · 1 excerpt

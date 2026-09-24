@@ -25,4 +25,10 @@ He was one of the two guitarists, with [Steve Hunter](/conspirators/steve-hunter
 
 The credit: Mike Rathke and Sarth Calhoun played together in Lou Reed’s band on the spring 2008 U.S. tour and at Lollapalooza 2009, as a trio with Reed at the Whitney Museum on June 23, 2009, and on Reed’s “Solsbury Hill” (Rathke, additional guitar; Calhoun, additional programming).
 
+Left to right: Rob Wasserman, Mike Rathke, Lou Reed, Sarth Calhoun, Tony “Thunder” Smith, John Zorn, Steve Hunter, Kevin Hearn. Named by Sarth Calhoun, September 23, 2026. Photo: Mark McGauley.
+
+![Lou Reed’s band on a club stage under red curtains, left to right: Rob Wasserman, Mike Rathke, Lou Reed, Sarth Calhoun, Tony “Thunder” Smith, John Zorn, Steve Hunter, Kevin Hearn.](/images/mwm-5113.jpg)
+
+Lou Reed’s band on the spring 2008 U.S. tour, the night John Zorn played with it. Photo: Mark McGauley.
+
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

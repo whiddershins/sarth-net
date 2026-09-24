@@ -31,4 +31,10 @@ His Aleph-Bet Sound Project at the Contemporary Jewish Museum in San Francisco, 
 
 The credit: John Zorn and Sarth Calhoun: the Highline Ballroom with Lou Reed’s band, May 5, 2008; Metal Machine Trio at the Blender Theater at Gramercy, April 24, 2009; Lou Reed Drones at the Cathedral of St. John the Divine, March 13, 2019, and the Prospect Park Bandshell, August 3, 2019.
 
+![Lou Reed’s band on a club stage under red curtains, left to right: Rob Wasserman, Mike Rathke, Lou Reed, Sarth Calhoun, Tony “Thunder” Smith, John Zorn, Steve Hunter, Kevin Hearn.](/images/mwm-5113.jpg)
+
+Lou Reed’s band on the spring 2008 U.S. tour, the night John Zorn played with it. Photo: Mark McGauley.
+
+Left to right: Rob Wasserman, Mike Rathke, Lou Reed, Sarth Calhoun, Tony “Thunder” Smith, John Zorn, Steve Hunter, Kevin Hearn. Named by Sarth Calhoun, September 23, 2026. Photo: Mark McGauley.
+
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

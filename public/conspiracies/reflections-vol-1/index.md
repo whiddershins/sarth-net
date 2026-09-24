@@ -23,15 +23,15 @@ My first release of improvised duets, named after a line in a review of a Metal 
 
 ## The absurdly long name
 
-The name came from my friend Scott Hampton, also known as Exaltron, who took it from a review of one of my [Metal Machine Trio](/conspiracies/metal-machine-trio/) performances. I love it, and I loved the idea of having a band with an absurdly long name.
+The name came from my friend [Scott Hampton](/conspirators/scott-hampton/), also known as Exaltron, who took it from a review of one of my [Metal Machine Trio](/conspiracies/metal-machine-trio/) performances. I love it, and I loved the idea of having a band with an absurdly long name.
 
 The reviewer was describing what I was doing with a Continuum. Exaltron is featured on the last track, playing trumpet, guitar, guitar-bass, and live looping madness.
 
 ## Softly Questioning
 
-The third track is called Softly Questioning. Its main melody is the one used in the film *Poughkeepsie*, written and directed by Joe Kelly.
+The third track is called Softly Questioning. Its main melody is the one used in the film [*Poughkeepsie*](/conspiracies/poughkeepsie/), written and directed by [Joe Kelly](/conspirators/joe-kelly/).
 
-It is one of my favorite tracks from the record. It was improvised and recorded in one take, with no editing. A duet with continuum fingerboard and Lou Petto on drums.
+It is one of my favorite tracks from the record. It was improvised and recorded in one take, with no editing. A duet with continuum fingerboard and [Lou Petto](/conspirators/lou-petto/) on drums.
 
 The credit: Sarth Calhoun, Continuum Fingerboard, on *Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat)*, released November 2015. Duets with Lou Petto, drums, on “Softly Questioning,” and with Exaltron, trumpet, guitar, guitar-bass and live looping, on the last track.
 

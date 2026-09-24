@@ -83,25 +83,25 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [Singles](/transmissions/singles/)
 
-- **Beautiful Tornado,** the podcast with Dom Bouffard. 2020 to 2021.
+- **Beautiful Tornado,** the podcast with [Dom Bouffard](/conspirators/dominic-bouffard/). 2020 to 2021.
 
   [Beautiful Tornado](/transmissions/beautiful-tornado/)
 
-- **A score for a film directed by Joe Kelly.** The main melody of “Softly Questioning.”
+- **A score for a film directed by [Joe Kelly](/conspirators/joe-kelly/).** The main melody of “Softly Questioning,” for [*Poughkeepsie*](/conspiracies/poughkeepsie/).
 
 - **Burned House Horizon.**
 
-- **A video with Moldover.**
+- **A video with [Moldover](/conspirators/moldover/).**
 
-- **I Just Believe in Christmas.** December 2015. It started as an argument with my neighbors about squirrels in the attic. Sung by Michael Patrick Flanagan Smith, words with Jesse Schoen, Virginia Piazza, and Doron Lev.
+- **I Just Believe in Christmas.** December 2015. It started as an argument with my neighbors about squirrels in the attic. Sung by [Michael Patrick Flanagan Smith](/conspirators/michael-patrick-flanagan-smith/), words with Jesse Schoen, Virginia Piazza, and [Doron Lev](/conspirators/doron-lev/).
 
   [The song](/conspiracies/i-just-believe-in-christmas/) · [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
 
-- **Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat).** November 2015. Improvised duets. The name came from Scott Hampton, who took it from a review of a Metal Machine Trio show.
+- **Reflections, Vol. 1 (A Noise Akin to a Flight of Deranged Swallows in Combat).** November 2015. Improvised duets. The name came from [Scott Hampton](/conspirators/scott-hampton/), who took it from a review of a Metal Machine Trio show.
 
   [The record](/conspiracies/reflections-vol-1/) · [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
 
-- **Introspections.** 2015. Improvised drone duets on Continuum and Kyma, with Jacob McCoy, Sxip Shirey and others.
+- **Introspections.** 2015. Improvised drone duets on Continuum and Kyma, with [Jacob McCoy](/conspirators/jacob-mccoy/), [Sxip Shirey](/conspirators/sxip-shirey/) and others.
 
   [Introspections](/transmissions/introspections/)
 
@@ -117,7 +117,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [Book of Sarth](/conspiracies/book-of-sarth/) · [bookofsarth.com](https://bookofsarth.com) · [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 
-- **Lulu.** Score composed with Lou Reed for Robert Wilson's Berliner Ensemble production, premiered April 2011; rehearsals directed in Berlin; then the Lou Reed and Metallica album, and its first live performances with Metallica in November 2011.
+- **Lulu.** Score composed with Lou Reed for [Robert Wilson](/conspirators/robert-wilson/)'s Berliner Ensemble production, premiered April 2011; rehearsals directed in Berlin; then the Lou Reed and [Metallica](/conspirators/metallica/) album, and its first live performances with Metallica in November 2011.
 
   [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/)
 

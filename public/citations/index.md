@@ -111,12 +111,9 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [gralbumcollective.com](https://gralbumcollective.com/)
 - [Laughing Squid, April 8, 2014](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
 - [Bora Yoon](https://www.borayoon.com/)
-- [Tom Hart](https://en.wikipedia.org/wiki/Tom_Hart_(cartoonist))
 - [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch)
 - [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
-- [Adam Matta](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops)
 - [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe)
-- [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
 - [Medeski Martin & Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood)
 - [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)
 
@@ -233,6 +230,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Puracane](https://en.wikipedia.org/wiki/Puracane)
 - [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
 
+## [Poughkeepsie](/conspiracies/poughkeepsie/)
+
+`/conspiracies/poughkeepsie/`
+
+- [Kickstarter](https://www.kickstarter.com/projects/1749833744/poughkeepsie-a-short-film)
+- [Apple Music](https://music.apple.com/us/album/1813001279)
+- [Reflections, Vol. 1](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
+
 ## [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
 
 `/conspiracies/reflections-vol-1/`
@@ -271,6 +276,118 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [loureed.com](https://loureed.com/news/lou-reed-and-laurie-anderson-tour-dates/)
 - [El Punt Avui, July 2009](https://www.elpuntavui.cat/cultura/article/19-cultura/59389-lou-reed-i-laurie-anderson-estrenen-el-seu-lmanifest-grocr-a-sant-feliu.html)
 
+## [Adam Matta](/conspirators/adam-matta/)
+
+`/conspirators/adam-matta/`
+
+- [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [Carolina Chocolate Drops](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops)
+
+## [Andrew Beck](/conspirators/andrew-beck/)
+
+`/conspirators/andrew-beck/`
+
+- [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+
+## [Aram Bajakian](/conspirators/aram-bajakian/)
+
+`/conspirators/aram-bajakian/`
+
+- [Aram Bajakian](https://en.wikipedia.org/wiki/Aram_Bajakian)
+- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aram_Bajakian_-_VancouverJazzFest-PhotoByFarhadGhaderi_9948.jpg)
+
+## [Billy Martin](/conspirators/billy-martin/)
+
+`/conspirators/billy-martin/`
+
+- [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist))
+- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Billy-Martin_DSC09238.jpg)
+- [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+
+## [Bora Yoon](/conspirators/bora-yoon/)
+
+`/conspirators/bora-yoon/`
+
+- [Bora Yoon](https://en.wikipedia.org/wiki/Bora_Yoon_(American_musician))
+- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TED_Bora_Fellows.jpg)
+
+## [Carla Scaletti](/conspirators/carla-scaletti/)
+
+`/conspirators/carla-scaletti/`
+
+- [Carla Scaletti](https://en.wikipedia.org/wiki/Carla_Scaletti)
+- [Kyma](https://kyma.symbolicsound.com/)
+- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CarlaScaletti.jpg)
+- [sarth.net, November 30, 2012](https://web.archive.org/web/20140906084650/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
+
+## [Dominic Bouffard](/conspirators/dominic-bouffard/)
+
+`/conspirators/dominic-bouffard/`
+
+- [Dom Bouffard](https://www.dombouffard.com/)
+
+## [Doron Lev](/conspirators/doron-lev/)
+
+`/conspirators/doron-lev/`
+
+- [Third Wall Studio](https://www.thirdwallstudio.com/)
+
+## [Elik Smith](/conspirators/elik-smith/)
+
+`/conspirators/elik-smith/`
+
+- [The Verge, January 3, 2013](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+
+## [Jacob McCoy](/conspirators/jacob-mccoy/)
+
+`/conspirators/jacob-mccoy/`
+
+- [Jacob McCoy](https://jacobmccoy.com/)
+- [Third Wall Studio](https://www.thirdwallstudio.com/)
+- [“For Lovers” on Vimeo, April 2015](https://vimeo.com/125323250)
+
+## [Joe Kelly](/conspirators/joe-kelly/)
+
+`/conspirators/joe-kelly/`
+
+- [Joe Kelly](https://en.wikipedia.org/wiki/Joe_Kelly_(comics_writer))
+- [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joe_Kelly_by_Gage_Skidmore.jpg)
+
+## [John Zorn](/conspirators/john-zorn/)
+
+`/conspirators/john-zorn/`
+
+- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
+- [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Zorn,_Newport_Jazz_Festival_2014.jpg)
+- [The Village Voice, May 6, 2008](https://www.villagevoice.com/live-lou-reed-at-the-highline-ballrooms-first-birthday-party/)
+
+## [Jonathan Arons](/conspirators/jonathan-arons/)
+
+`/conspirators/jonathan-arons/`
+
+- [Jonathan Arons](https://www.jonarons.com/)
+
+## [Kevin Hearn](/conspirators/kevin-hearn/)
+
+`/conspirators/kevin-hearn/`
+
+- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
+- [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KevinHearn3.jpg)
+- [The Village Voice, May 6, 2008](https://www.villagevoice.com/live-lou-reed-at-the-highline-ballrooms-first-birthday-party/)
+
+## [Kurt Hebel](/conspirators/kurt-hebel/)
+
+`/conspirators/kurt-hebel/`
+
+- [Symbolic Sound, the eighth nerve, July 26, 2011](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
+
 ## [Laurie Anderson](/conspirators/laurie-anderson/)
 
 `/conspirators/laurie-anderson/`
@@ -294,6 +411,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Joel Thome](https://en.wikipedia.org/wiki/Joel_Thome)
 - [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)
 
+## [Lippold Haken](/conspirators/lippold-haken/)
+
+`/conspirators/lippold-haken/`
+
+- [sarth.net, 2010](https://web.archive.org/web/20101030053745/http://www.sarth.net/category/bio/)
+- [Lippold Haken](https://www.hakenaudio.com/the-team)
+
 ## [Lou Reed](/conspirators/lou-reed/)
 
 `/conspirators/lou-reed/`
@@ -305,12 +429,83 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [“Unclassifiable”, The Wire, 2013](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
 - [loureed.com, June 25, 2009](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 
+## [Marc Ribot](/conspirators/marc-ribot/)
+
+`/conspirators/marc-ribot/`
+
+- [Marc Ribot](https://en.wikipedia.org/wiki/Marc_Ribot)
+- [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marc_Ribot_2007.jpg)
+
+## [Marc Urselli](/conspirators/marc-urselli/)
+
+`/conspirators/marc-urselli/`
+
+- [sarth.net, December 20, 2012](https://web.archive.org/web/20140909155440/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/)
+- [Marc Urselli](https://en.wikipedia.org/wiki/Marc_Urselli)
+- [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
+
+## [Mark Righter](/conspirators/mark-righter/)
+
+`/conspirators/mark-righter/`
+
+- [Mark Righter](https://cambiumstudio.com/mark-righter)
+
+## [Metallica](/conspirators/metallica/)
+
+`/conspirators/metallica/`
+
+- [Metallica](https://en.wikipedia.org/wiki/Metallica)
+- [Lulu](https://en.wikipedia.org/wiki/Lulu_(Lou_Reed_and_Metallica_album))
+- [sarth.net, November 6, 2011](https://web.archive.org/web/20140905192608/http://www.sarth.net/lulucd/)
+
+## [Michael Patrick Flanagan Smith](/conspirators/michael-patrick-flanagan-smith/)
+
+`/conspirators/michael-patrick-flanagan-smith/`
+
+- [Michael Patrick F. Smith](https://www.thegoodhand.org/)
+
+## [Mike Acerbo](/conspirators/mike-acerbo/)
+
+`/conspirators/mike-acerbo/`
+
+- [sarth.net, January 14, 2012](https://web.archive.org/web/20140905181543/http://www.sarth.net/category/conspiracies/mike-acerbo/)
+- [Mike Acerbo](https://mikeacerbo.bandcamp.com/)
+
+## [Mike Rathke](/conspirators/mike-rathke/)
+
+`/conspirators/mike-rathke/`
+
+- [loureed.com, June 25, 2009](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
+- [PBS American Masters interview](https://www.pbs.org/wnet/americanmasters/archive/interview/mike-rathke/)
+
+## [Moldover](/conspirators/moldover/)
+
+`/conspirators/moldover/`
+
+- [Moldover](https://en.wikipedia.org/wiki/Moldover)
+- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moldover_-_Step_From_Darkness_-_at_SHA2017_(by_Victor_Bart).jpg)
+
 ## [Paul Chuffo](/conspirators/paul-chuffo/)
 
 `/conspirators/paul-chuffo/`
 
 - [Gutbucket](https://en.wikipedia.org/wiki/Gutbucket_(band))
 - [Modern Drummer](https://en.wikipedia.org/wiki/Modern_Drummer)
+
+## [Phil Weinrobe](/conspirators/phil-weinrobe/)
+
+`/conspirators/phil-weinrobe/`
+
+- [Philip Weinrobe](https://www.philipweinrobe.com/)
+
+## [Rich Kulsar](/conspirators/rich-kulsar/)
+
+`/conspirators/rich-kulsar/`
+
+- [sarth.net, January 14, 2012](https://web.archive.org/web/20140905181543/http://www.sarth.net/category/conspiracies/mike-acerbo/)
+- [Rich Kulsar](https://www.monolisanyc.com/staff)
 
 ## [Rob Wasserman](/conspirators/rob-wasserman/)
 
@@ -324,6 +519,69 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [The Village Voice, May 6, 2008](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party)
 - [loureed.com](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
 
+## [Robert Wilson](/conspirators/robert-wilson/)
+
+`/conspirators/robert-wilson/`
+
+- [Robert Wilson](https://en.wikipedia.org/wiki/Robert_Wilson_(director))
+- [Lulu](https://robertwilson.com/lulu)
+- [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014-01-19_Luebeck_Wachter_Wilson_(cropped_-_Robert_Wilson).jpg)
+- [sarth.net, 2011](https://web.archive.org/web/20140905191203/http://www.sarth.net/category/conspiracies/lou-reed-metallica-project/)
+
+## [Savas](/conspirators/savas/)
+
+`/conspirators/savas/`
+
+- [Savaş Özay](https://savasozay.com/)
+- [Third Wall Studio](https://www.thirdwallstudio.com/)
+
+## [Scott Hampton](/conspirators/scott-hampton/)
+
+`/conspirators/scott-hampton/`
+
+- [Scott Hampton](https://www.scotthamptoncomposer.com/)
+
+## [Shahzad Ismaily](/conspirators/shahzad-ismaily/)
+
+`/conspirators/shahzad-ismaily/`
+
+- [Shahzad Ismaily](https://en.wikipedia.org/wiki/Shahzad_Ismaily)
+- [Figure 8 Recording](https://www.figure8recording.com/)
+- [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shahzad_Ismaily.JPG)
+
+## [Steve Hunter](/conspirators/steve-hunter/)
+
+`/conspirators/steve-hunter/`
+
+- [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter)
+- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Steve_Hunter_Guitar_Player.JPG)
+- [The Village Voice, May 6, 2008](https://www.villagevoice.com/live-lou-reed-at-the-highline-ballrooms-first-birthday-party/)
+
+## [Stewart Hurwood](/conspirators/stewart-hurwood/)
+
+`/conspirators/stewart-hurwood/`
+
+- [Brookfield Place Winter Garden, March 2, 2023](https://web.archive.org/web/20230319094915/https://bfplny.com/lou-reed/)
+- [Stewart Hurwood](https://newyorklivearts.org/artists/stewart-hurwood/)
+
+## [Sxip Shirey](/conspirators/sxip-shirey/)
+
+`/conspirators/sxip-shirey/`
+
+- [Sxip](https://en.wikipedia.org/wiki/Sxip_Shirey)
+- [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sxip_Shirey_performing_in_2010.jpg)
+- [YouTube, May 29, 2015](https://www.youtube.com/watch?v=V_ZinrLAl4I)
+
+## [Tetiana Khodakivska](/conspirators/tetiana-khodakivska/)
+
+`/conspirators/tetiana-khodakivska/`
+
+- [Tetiana Khodakivska](https://en.wikipedia.org/wiki/Tetiana_Khodakivska)
+
 ## [Tony Diodore](/conspirators/tony-diodore/)
 
 `/conspirators/tony-diodore/`
@@ -331,6 +589,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Number19](https://en.wikipedia.org/wiki/Number19)
 - [Puracane](https://en.wikipedia.org/wiki/Puracane)
 - [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
+
+## [Tony “Thunder” Smith](/conspirators/tony-thunder-smith/)
+
+`/conspirators/tony-thunder-smith/`
+
+- [Tony “Thunder” Smith](https://en.wikipedia.org/wiki/Tony_Thunder_Smith)
+- [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lou_Reed_and_Tony_Thunder_Smith.jpg)
 
 ## [Ulrich Krieger](/conspirators/ulrich-krieger/)
 
@@ -553,9 +819,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Vimeo](https://vimeo.com/125323250)
 - [Vimeo](https://vimeo.com/140015309)
-- [John Zorn](https://en.wikipedia.org/wiki/John_Zorn)
-- [Sxip Shirey](https://en.wikipedia.org/wiki/Sxip_Shirey)
-- [Marc Ribot](https://en.wikipedia.org/wiki/Marc_Ribot)
 - [Shruti box, with Sxip Shirey](https://www.youtube.com/watch?v=V_ZinrLAl4I)
 - [Prepared guitar, with Sxip Shirey](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
 

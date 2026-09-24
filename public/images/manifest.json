@@ -1,574 +1,714 @@
 [
- {
-  "file": "art-and-ill-scratch-yours.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/ec/dd/b1/ecddb117-53bc-d005-93b9-3dc6e190de4d/PG_AISY_2400x2400.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-christmas.jpg",
-  "width": 1500,
-  "height": 1500,
-  "bytes": 611246,
-  "source": "https://f4.bcbits.com/img/a2159798753_0.jpg",
-  "subject": "I Just Believe in Christmas, Bandcamp cover art"
- },
- {
-  "file": "art-creation-of-the-universe.jpg",
-  "width": "600",
-  "height": "600",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music/f5/e5/69/mzi.uawaryfx.jpg/1400x1400bb.jpg"
- },
- {
-  "file": "art-rave-on-buddy-holly.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/0d/d4/310dd4c9-d4e7-32e8-59ba-15117d1f3063/00888072330474.rgb.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-reflections.jpg",
-  "width": 1200,
-  "height": 1200,
-  "bytes": 610233,
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9d/18/df/9d18df1c-8b54-26ea-57f3-3db7fd1311b8/artwork.jpg/1200x1200bb.jpg",
-  "subject": "Reflections Vol 1, Apple Music cover art"
- },
- {
-  "file": "art-single-ego-streaked.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/16/8a/f9/168af97e-90df-bb09-42f1-9fd399c1f295/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-everyth-everything-sarth-mix.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/cc/79/d2cc79f2-4ad8-ebf1-bc0d-613dff5a97d4/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-everything-everything.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/01/67/c3/0167c3bc-3e59-a21c-5ce6-1ff69d7ee0fe/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-failure-is-ok.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/88/d8/0388d8bb-155b-3f27-c48e-4f3cb5e2a37d/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-for-lovers.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/b2/7b/0bb27b70-2688-33b4-23b0-fae7c8312125/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-my-empty-father.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/6d/dd/656dddd6-1e77-0d38-c1ae-0488b368606c/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-peanut-style.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/52/ba/6d/52ba6dab-1cc7-6a19-e3e5-459eb24f5110/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-shimmering-angels.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d8/2d/b2/d82db243-2a95-f39c-8f76-0856e62a1e16/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-softly-questioning-reprise.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/c3/4e/cec34ee3-24eb-6a25-8f3d-1be87eee7f00/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-sometimes-you-need-sun.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/84/86/7884868c-3d7d-8ba4-0aea-0209d106c0d5/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-single-squishy-bass.jpg",
-  "width": "1000",
-  "height": "1000",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bc/73/58/bc73586a-f6cc-7686-ef4a-b8751b1081da/artwork.jpg/1000x1000bb.jpg"
- },
- {
-  "file": "art-suspension.jpg",
-  "width": "600",
-  "height": "600",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Music/27/1c/b7/mzi.twanpnfn.tif/1400x1400bb.jpg"
- },
- {
-  "file": "art-the-family-album.jpg",
-  "width": "800",
-  "height": "800",
-  "source": "https://is1-ssl.mzstatic.com/image/thumb/Features/90/89/16/dj.neucqsim.tif/1400x1400bb.jpg"
- },
- {
-  "file": "art-transmissions-from-the-book-of-sarth.jpg",
-  "width": "640",
-  "height": "640",
-  "source": "https://i.scdn.co/image/ab67616d0000b27313a6e47186d0e715eeb677a6"
- },
- {
-  "file": "awakening-automation.png",
-  "width": "1154",
-  "height": "176",
-  "source": "https://images.squarespace-cdn.com/content/54d06e1ce4b04a9ce19907b7/1605952089642-20637AR0QZ1JBXPAHG16/Screen+Shot+2020-11-21+at+4.46.44+AM.png"
- },
- {
-  "file": "awakening-chain.png",
-  "width": "2500",
-  "height": "335",
-  "source": "https://images.squarespace-cdn.com/content/54d06e1ce4b04a9ce19907b7/1605950978905-T8DX2GB2TFI3SLX57T5S/Screen+Shot+2020-11-21+at+3.58.43+AM.png"
- },
- {
-  "file": "awakening-spacebirds.png",
-  "width": "408",
-  "height": "380",
-  "source": "https://images.squarespace-cdn.com/content/54d06e1ce4b04a9ce19907b7/1605951588704-79C0VJFN22SEY4N625KX/Screen+Shot+2020-11-21+at+4.35.38+AM.png"
- },
- {
-  "file": "beautiful-tornado-cover.jpg",
-  "width": 2100,
-  "height": 2100,
-  "bytes": 445828,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1613435898514-4AJ-9e5a2f77f2/live.png (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1613435898514-4AJB3GCPMVV5K8AZWT20/BeautifulTornadoCoverImage.png)",
-  "subject": "Beautiful Tornado, cover art"
- },
- {
-  "file": "beautiful-tornado-youtube-banner.jpg",
-  "width": 2500,
-  "height": 1406,
-  "bytes": 942216,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1605621106052-YO0-e3c7750925/live.jpg (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1605621106052-YO0XFYJT2W4ND6FE1YD9/beautifulTornadoYoutubeBanner.jpg)",
-  "subject": "Beautiful Tornado, YouTube banner"
- },
- {
-  "file": "book-cover-1.jpg",
-  "width": 768,
-  "height": 1024,
-  "bytes": 535525,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423523745345-IKW-9bc0cdc50c/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423523745345-IKWUNXFQJ4Y5SLQ7FO64/1_book_cover.jpg)",
-  "subject": "Book cover artwork"
- },
- {
-  "file": "book-of-sarth-color-rain.jpg",
-  "width": 1280,
-  "height": 1556,
-  "bytes": 1316932,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424151896974-EPA-0f22a4280d/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424151896974-EPA859RI3JFZYURVMMFR/BookOfSarthColorRain.jpg)",
-  "subject": "The Book of Sarth, colour rain artwork"
- },
- {
-  "file": "book-of-sarth-cover-wide.jpg",
-  "width": 1200,
-  "height": 627,
-  "bytes": 341866,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424153210484-IYD-20fb2322af/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424153210484-IYD33HC3J9I0U07XGU4F/BOS_cover_01_1220x627.jpg)",
-  "subject": "The Book of Sarth, wide cover crop"
- },
- {
-  "file": "book-of-sarth-fish.jpg",
-  "width": 550,
-  "height": 664,
-  "bytes": 191087,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152034703-GKX-487a78681b/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152034703-GKX5XHY8R0A4X8BQQQTO/BOS_fish.jpg)",
-  "subject": "The Book of Sarth, fish artwork"
- },
- {
-  "file": "boxy-barren-archie-art.jpg",
-  "width": 768,
-  "height": 1024,
-  "bytes": 211404,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152226695-CT8-85077b8f5b/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152226695-CT83HA46CKLALH526F6V/boxyBarrenArchieArt.jpg)",
-  "subject": "Boxy Barren, Archie artwork"
- },
- {
-  "file": "cover-this-tree.jpg",
-  "width": 768,
-  "height": 1024,
-  "bytes": 512826,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423523404223-YTF-2232a0f0f5/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423523404223-YTF23GJ1IZDJV3GR77JQ/Cover_ThisTree.png)",
-  "subject": "This Tree, cover art"
- },
- {
-  "file": "gr-album-launch.jpg",
-  "width": 956,
-  "height": 403,
-  "bytes": 85257,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423373352033-PDG-92e45da65a/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423373352033-PDGXSBEBTD142LLWB3FY/GralbumLaunch01274.png)",
-  "subject": "Gr album launch, live photograph"
- },
- {
-  "file": "heroes-on-horses-archie.jpg",
-  "width": 768,
-  "height": 1024,
-  "bytes": 184074,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152261472-XEJ-0ffd5869fa/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152261472-XEJ8GAK47IXIMZSC82DP/heroesOnHorsesArchie.jpg)",
-  "subject": "Heroes on Horses, Archie artwork"
- },
- {
-  "file": "l1000209.jpg",
-  "width": 2500,
-  "height": 1667,
-  "bytes": 1576642,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424145006518-EQ1-eb4ad2f1fd/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424145006518-EQ1YLYHHVK6LPM5629Z5/L1000209.JPG)",
-  "subject": "Live photograph, L1000209"
- },
- {
-  "file": "lolla-dvd-show.jpg",
-  "width": 900,
-  "height": 600,
-  "bytes": 85355,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1469148571468-MEM-1a3cd0c83b/live.jpg (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1469148571468-MEMK0Y8A9QE1Z8AA30TA/LollaDVD_show_0632.jpg)",
-  "subject": "Lollapalooza, still from the show DVD"
- },
- {
-  "file": "lucibel-crater-inside-panel.jpg",
-  "width": 1742,
-  "height": 1554,
-  "bytes": 796773,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424144987039-IXH-bbf918703f/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424144987039-IXH80NUK9OYY40A1XIMY/LBCinsidepanel.jpg)",
-  "subject": "Lucibel Crater, inside gatefold panel"
- },
- {
-  "file": "meditation-room.jpg",
-  "width": 768,
-  "height": 1024,
-  "bytes": 426081,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152481432-D79-e2472cbae0/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152481432-D79UUTFJIYY3X2K0I09R/meditationRoom_0006.png)",
-  "subject": "Meditation Room, artwork"
- },
- {
-  "file": "mm3-nyc-2011-banner.jpg",
-  "width": 1024,
-  "height": 404,
-  "bytes": 65025,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423372886458-KZL-b8410e10ab/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423372886458-KZLK28XZWF3X6MNWC1OJ/SARTH_MM3_NYC2011.png)",
-  "subject": "Sarth with MM3 in New York, 2011, banner crop"
- },
- {
-  "file": "mm3-nyc-325.jpg",
-  "width": 1280,
-  "height": 526,
-  "bytes": 152938,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424140130596-AHK-10053a6773/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424140130596-AHKFCOM1ZW0O4ANC154Y/MM3_NYC-325.png)",
-  "subject": "MM3 in New York, wide still"
- },
- {
-  "file": "mm3-nyc-wide.jpg",
-  "width": 1198,
-  "height": 577,
-  "bytes": 106272,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424140364006-W5L-636828dc8b/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424140364006-W5L6GCBPN786GXZHG63W/MM3_NYC.jpg)",
-  "subject": "MM3 in New York, wide still"
- },
- {
-  "file": "mwm-5113.jpg",
-  "width": 2500,
-  "height": 884,
-  "bytes": 821907,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424145659695-3RU-f51f5bb628/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424145659695-3RUB3WV52RPD5UT6Q0UD/_MWM5113---Version-3.png)",
-  "subject": "Live photograph, MWM 5113, wide crop"
- },
- {
-  "file": "mwm-5991.jpg",
-  "width": 640,
-  "height": 424,
-  "bytes": 179654,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424144975100-XFT-1859e244f1/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424144975100-XFT1B92BN3YV3Q6SZXYE/_MWM5991.jpg)",
-  "subject": "Live photograph, MWM 5991"
- },
- {
-  "file": "mwm-6816.jpg",
-  "width": 596,
-  "height": 480,
-  "bytes": 182406,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424144921044-9XG-06aead2c08/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424144921044-9XGJQGPOTUHSG1IUBBU4/_MWM6816.jpg)",
-  "subject": "Live photograph, MWM 6816"
- },
- {
-  "file": "pans-lullaby-cover.jpg",
-  "width": 1944,
-  "height": 1944,
-  "bytes": 603004,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1605916091427-LU5-2a4d22f115/live.jpg (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1605916091427-LU5GVUJ44IRZXP4IXPSX/pansLullabySoundCloudImage02.jpg)",
-  "subject": "Pan's Lullaby, SoundCloud cover art"
- },
- {
-  "file": "pp26-riot.jpg",
-  "width": 768,
-  "height": 1024,
-  "bytes": 378732,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152390337-4CN-a2a000fabb/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152390337-4CNMA441PN0G9G80BTMA/PP26Riot_attempted_trans_frontLayer.png)",
-  "subject": "PP26 Riot, front layer artwork"
- },
- {
-  "file": "pp44-frenzy.jpg",
-  "width": 768,
-  "height": 1024,
-  "bytes": 344552,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152580353-SCV-7cf08048de/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152580353-SCVPZK8IMID7FGECH0HL/pp44frenzy.jpg)",
-  "subject": "PP44 Frenzy, artwork"
- },
- {
-  "file": "sarth-1-full.jpg",
-  "width": 2500,
-  "height": 1875,
-  "bytes": 1038980,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424139032292-RJG-6121023603/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424139032292-RJGUNYIYIQJXLIPG0BFW/Sarth-1+copy.jpg)",
-  "subject": "Sarth portrait 1, full resolution"
- },
- {
-  "file": "sarth-7-full.jpg",
-  "width": 2500,
-  "height": 1667,
-  "bytes": 747549,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424139524527-U4H-f16bff87ed/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424139524527-U4H0E2CYEAYG7YPFR8RC/sarth-7.jpg)",
-  "subject": "Sarth portrait 7, full resolution"
- },
- {
-  "file": "sarth-home-image.jpg",
-  "width": 2152,
-  "height": 1429,
-  "bytes": 160763,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424149986161-Y3R-2778bef2de/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424149986161-Y3RP0ZNKJH7M8B5TPJ9L/sarth_home_image_black_LARGEFRAME_sharpened.jpg)",
-  "subject": "Sarth, home page image, black large frame"
- },
- {
-  "file": "sarth-prison-cell.jpg",
-  "width": 768,
-  "height": 1024,
-  "bytes": 347906,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152540046-G6S-1b69353019/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152540046-G6SRTB2P3UULRSN95ASK/08_Sarth-prison-cell-final.jpg)",
-  "subject": "Sarth, prison cell scene"
- },
- {
-  "file": "sarth-top-know-square.jpg",
-  "width": 990,
-  "height": 990,
-  "bytes": 239605,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1469462112871-GXT-4e1c8bf746/live.jpg (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1469462112871-GXT4Y87S0EWVV0V8TKP9/SarthTopKnowSquare.jpg)",
-  "subject": "Sarth, square portrait"
- },
- {
-  "file": "sunken-cathedral-cover.jpg",
-  "width": 768,
-  "height": 1024,
-  "bytes": 253868,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423523437370-JVO-5f1fcc7c4c/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423523437370-JVORIQ56CBKGPM5HI64D/SunkenCathedral_CoverImage_768x1024.png)",
-  "subject": "Sunken Cathedral, cover art"
- },
- {
-  "file": "tot-cover.jpg",
-  "width": 1536,
-  "height": 2048,
-  "bytes": 1873011,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423524014694-2OD-9fab6271bb/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423524014694-2OD3XTJZ93P18IQV10GI/TOT_cover.png)",
-  "subject": "TOT, cover art"
- },
- {
-  "file": "yellow-pony-madrid-2009.jpg",
-  "width": 1024,
-  "height": 404,
-  "bytes": 141731,
-  "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424151422110-MMS-4aebc65d60/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424151422110-MMS384EC7KLFNQBXGQP4/YellowPony_Madrid2009.jpg)",
-  "subject": "Yellow Pony, Madrid 2009"
- },
- {
-  "file": "yt--Sq3OSve1Ls.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 37233,
-  "source": "https://i.ytimg.com/vi/-Sq3OSve1Ls/maxresdefault.jpg",
-  "subject": "A Noise Akin to a Flight of Deranged Swallows in Combat"
- },
- {
-  "file": "yt-8MqhRQI84Os.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 26171,
-  "source": "https://i.ytimg.com/vi/8MqhRQI84Os/maxresdefault.jpg",
-  "subject": "Continuum vs Linnstrument Round 1"
- },
- {
-  "file": "yt-CP8939UdzSo.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 15304,
-  "source": "https://i.ytimg.com/vi/CP8939UdzSo/maxresdefault.jpg",
-  "subject": "Introducing Burlap"
- },
- {
-  "file": "yt-UOh4tKteFOs.jpg",
-  "width": 480,
-  "height": 360,
-  "bytes": 5273,
-  "source": "https://i.ytimg.com/vi/UOh4tKteFOs/hqdefault.jpg",
-  "subject": "Lucibel Crater, Holy Then Now, Berlin Live"
- },
- {
-  "file": "yt-UYN5ijezg3k.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 151173,
-  "source": "https://i.ytimg.com/vi/UYN5ijezg3k/maxresdefault.jpg",
-  "subject": "Burlap: The AI Canvas for Visual Storytellers"
- },
- {
-  "file": "yt-V_ZinrLAl4I.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 59042,
-  "source": "https://i.ytimg.com/vi/V_ZinrLAl4I/maxresdefault.jpg",
-  "subject": "Sxip Shirey & Sarth, Continuum vs Shruti Box"
- },
- {
-  "file": "yt-_8jgV_4Xqmc.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 49065,
-  "source": "https://i.ytimg.com/vi/_8jgV_4Xqmc/maxresdefault.jpg",
-  "subject": "Sxip Shirey & Sarth, Prepared Guitar and Continuum"
- },
- {
-  "file": "yt-dXqYHjmmev0.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 33980,
-  "source": "https://i.ytimg.com/vi/dXqYHjmmev0/maxresdefault.jpg",
-  "subject": "I Just Believe in Christmas, lyric video"
- },
- {
-  "file": "yt-fghXNj-HdBg.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 101726,
-  "source": "https://i.ytimg.com/vi/fghXNj-HdBg/maxresdefault.jpg",
-  "subject": "Watching Shadows, 2026 animated short (Third Wall / Burlap)"
- },
- {
-  "file": "yt-gx9jIWSoEDQ.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 63904,
-  "source": "https://i.ytimg.com/vi/gx9jIWSoEDQ/maxresdefault.jpg",
-  "subject": "Truck Stop Love, 2026 animated short (Third Wall / Burlap)"
- },
- {
-  "file": "yt-nZ2LpA9P-LY.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 70979,
-  "source": "https://i.ytimg.com/vi/nZ2LpA9P-LY/maxresdefault.jpg",
-  "subject": "Meatsuitz Family Vacay, 2026 animated short (Third Wall / Burlap)"
- },
- {
-  "file": "yt-nwfygEI3Mzs.jpg",
-  "width": 480,
-  "height": 360,
-  "bytes": 11668,
-  "source": "https://i.ytimg.com/vi/nwfygEI3Mzs/hqdefault.jpg",
-  "subject": "Lucibel Crater, Masticate"
- },
- {
-  "file": "yt-ttWqwhzE-yA.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 72713,
-  "source": "https://i.ytimg.com/vi/ttWqwhzE-yA/maxresdefault.jpg",
-  "subject": "Through the Brambles, 2026 animated short (Third Wall / Burlap)"
- },
- {
-  "file": "yt-v-u7Zmd6GSw.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 107536,
-  "source": "https://i.ytimg.com/vi/v-u7Zmd6GSw/maxresdefault.jpg",
-  "subject": "I Just Believe in Christmas, acoustic demo"
- },
- {
-  "file": "yt-vs6KM7hFzxs.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 157436,
-  "source": "https://i.ytimg.com/vi/vs6KM7hFzxs/maxresdefault.jpg",
-  "subject": "Pigeon Problems, 2026 animated short (Third Wall / Burlap)"
- },
- {
-  "file": "yt-wroKqbXfx5g.jpg",
-  "width": 1280,
-  "height": 720,
-  "bytes": 100214,
-  "source": "https://i.ytimg.com/vi/wroKqbXfx5g/maxresdefault.jpg",
-  "subject": "What is visual reference prompting (Frogs and Goblins)"
- },
- {
-  "file": "lou-reed-metallica-2011.jpg",
-  "width": 1000,
-  "height": 328,
-  "bytes": 77492,
-  "source": "Squarespace asset library, SARTH_METALLICA2011.jpg",
-  "subject": "Sarth Calhoun on stage with Metallica for the Lulu material, 2011: Kirk Hammett, Sarth Calhoun, Lars Ulrich, James Hetfield"
- },
- {
-  "file": "gralbum-launch-laurie-anderson.jpg",
-  "width": 790,
-  "height": 398,
-  "bytes": 28618,
-  "source": "Squarespace asset library, GralbumLaunch01002.jpg; photo by Andrzej Liguz / MOREimages",
-  "subject": "Laurie Anderson and Sarth Calhoun at the Gralbum launch, SOHO Gallery for Digital Arts, April 9, 2014"
- },
- {
-  "file": "gralbum-launch-continuum.jpg",
-  "width": 783,
-  "height": 466,
-  "bytes": 17330,
-  "source": "Squarespace asset library, GralbumLaunch01265.jpg; photo by Andrzej Liguz / MOREimages",
-  "subject": "Sarth Calhoun playing the Continuum Fingerboard at the Gralbum launch, April 9, 2014"
- },
- {
-  "file": "contraption-fm6.png",
-  "width": 1200,
-  "height": 630,
-  "bytes": 73251,
-  "source": "contraptions.bookofsarth.com/shots/fm6-og.png",
-  "subject": "FM / 6 synthesizer, Glass garden patch, in the browser"
- },
- {
-  "file": "contraption-image-compare-workbench.jpg",
-  "width": 1200,
-  "height": 630,
-  "bytes": 113759,
-  "source": "contraptions.bookofsarth.com/shots/image-compare-workbench-og.jpg",
-  "subject": "Image Compare Workbench, two rails and a wipe"
- },
- {
-  "file": "contraption-soundscape-one.jpg",
-  "width": 1200,
-  "height": 630,
-  "bytes": 43570,
-  "source": "contraptions.bookofsarth.com/shots/soundscape-one-og.jpg",
-  "subject": "Soundscape One, the field and the ball"
- },
- {
-  "file": "home-hero.jpg",
-  "width": 1536,
-  "height": 1024,
-  "source": "Squarespace asset library, ChatGPT Image Apr 22, 2025 at 04_15_36 PM.png; the hero of the 2025 Squarespace homepage",
-  "subject": "Two children on a road at sunset carrying a glowing television; art by Sarth Calhoun, April 2025"
- },
- {
-  "file": "yt-3HlamL5UfGE.jpg",
-  "source": "https://i.ytimg.com/vi/3HlamL5UfGE/maxresdefault.jpg",
-  "subject": "Lou Reed at Les Vieilles Charrues, Carhaix, July 17, 2011; YouTube thumbnail of the clip on the 2011 tour page"
- }
+  {
+    "file": "art-and-ill-scratch-yours.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/ec/dd/b1/ecddb117-53bc-d005-93b9-3dc6e190de4d/PG_AISY_2400x2400.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-christmas.jpg",
+    "width": 1500,
+    "height": 1500,
+    "bytes": 611246,
+    "source": "https://f4.bcbits.com/img/a2159798753_0.jpg",
+    "subject": "I Just Believe in Christmas, Bandcamp cover art"
+  },
+  {
+    "file": "art-creation-of-the-universe.jpg",
+    "width": "600",
+    "height": "600",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music/f5/e5/69/mzi.uawaryfx.jpg/1400x1400bb.jpg"
+  },
+  {
+    "file": "art-rave-on-buddy-holly.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/0d/d4/310dd4c9-d4e7-32e8-59ba-15117d1f3063/00888072330474.rgb.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-reflections.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 610233,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9d/18/df/9d18df1c-8b54-26ea-57f3-3db7fd1311b8/artwork.jpg/1200x1200bb.jpg",
+    "subject": "Reflections Vol 1, Apple Music cover art"
+  },
+  {
+    "file": "art-single-ego-streaked.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/16/8a/f9/168af97e-90df-bb09-42f1-9fd399c1f295/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-everyth-everything-sarth-mix.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/cc/79/d2cc79f2-4ad8-ebf1-bc0d-613dff5a97d4/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-everything-everything.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/01/67/c3/0167c3bc-3e59-a21c-5ce6-1ff69d7ee0fe/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-failure-is-ok.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/88/d8/0388d8bb-155b-3f27-c48e-4f3cb5e2a37d/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-for-lovers.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/b2/7b/0bb27b70-2688-33b4-23b0-fae7c8312125/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-my-empty-father.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/6d/dd/656dddd6-1e77-0d38-c1ae-0488b368606c/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-peanut-style.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/52/ba/6d/52ba6dab-1cc7-6a19-e3e5-459eb24f5110/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-shimmering-angels.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d8/2d/b2/d82db243-2a95-f39c-8f76-0856e62a1e16/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-softly-questioning-reprise.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/c3/4e/cec34ee3-24eb-6a25-8f3d-1be87eee7f00/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-sometimes-you-need-sun.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/84/86/7884868c-3d7d-8ba4-0aea-0209d106c0d5/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-single-squishy-bass.jpg",
+    "width": "1000",
+    "height": "1000",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bc/73/58/bc73586a-f6cc-7686-ef4a-b8751b1081da/artwork.jpg/1000x1000bb.jpg"
+  },
+  {
+    "file": "art-suspension.jpg",
+    "width": "600",
+    "height": "600",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Music/27/1c/b7/mzi.twanpnfn.tif/1400x1400bb.jpg"
+  },
+  {
+    "file": "art-the-family-album.jpg",
+    "width": "800",
+    "height": "800",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Features/90/89/16/dj.neucqsim.tif/1400x1400bb.jpg"
+  },
+  {
+    "file": "art-transmissions-from-the-book-of-sarth.jpg",
+    "width": "640",
+    "height": "640",
+    "source": "https://i.scdn.co/image/ab67616d0000b27313a6e47186d0e715eeb677a6"
+  },
+  {
+    "file": "awakening-automation.png",
+    "width": "1154",
+    "height": "176",
+    "source": "https://images.squarespace-cdn.com/content/54d06e1ce4b04a9ce19907b7/1605952089642-20637AR0QZ1JBXPAHG16/Screen+Shot+2020-11-21+at+4.46.44+AM.png"
+  },
+  {
+    "file": "awakening-chain.png",
+    "width": "2500",
+    "height": "335",
+    "source": "https://images.squarespace-cdn.com/content/54d06e1ce4b04a9ce19907b7/1605950978905-T8DX2GB2TFI3SLX57T5S/Screen+Shot+2020-11-21+at+3.58.43+AM.png"
+  },
+  {
+    "file": "awakening-spacebirds.png",
+    "width": "408",
+    "height": "380",
+    "source": "https://images.squarespace-cdn.com/content/54d06e1ce4b04a9ce19907b7/1605951588704-79C0VJFN22SEY4N625KX/Screen+Shot+2020-11-21+at+4.35.38+AM.png"
+  },
+  {
+    "file": "beautiful-tornado-cover.jpg",
+    "width": 2100,
+    "height": 2100,
+    "bytes": 445828,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1613435898514-4AJ-9e5a2f77f2/live.png (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1613435898514-4AJB3GCPMVV5K8AZWT20/BeautifulTornadoCoverImage.png)",
+    "subject": "Beautiful Tornado, cover art"
+  },
+  {
+    "file": "beautiful-tornado-youtube-banner.jpg",
+    "width": 2500,
+    "height": 1406,
+    "bytes": 942216,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1605621106052-YO0-e3c7750925/live.jpg (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1605621106052-YO0XFYJT2W4ND6FE1YD9/beautifulTornadoYoutubeBanner.jpg)",
+    "subject": "Beautiful Tornado, YouTube banner"
+  },
+  {
+    "file": "book-cover-1.jpg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 535525,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423523745345-IKW-9bc0cdc50c/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423523745345-IKWUNXFQJ4Y5SLQ7FO64/1_book_cover.jpg)",
+    "subject": "Book cover artwork"
+  },
+  {
+    "file": "book-of-sarth-color-rain.jpg",
+    "width": 1280,
+    "height": 1556,
+    "bytes": 1316932,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424151896974-EPA-0f22a4280d/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424151896974-EPA859RI3JFZYURVMMFR/BookOfSarthColorRain.jpg)",
+    "subject": "The Book of Sarth, colour rain artwork"
+  },
+  {
+    "file": "book-of-sarth-cover-wide.jpg",
+    "width": 1200,
+    "height": 627,
+    "bytes": 341866,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424153210484-IYD-20fb2322af/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424153210484-IYD33HC3J9I0U07XGU4F/BOS_cover_01_1220x627.jpg)",
+    "subject": "The Book of Sarth, wide cover crop"
+  },
+  {
+    "file": "book-of-sarth-fish.jpg",
+    "width": 550,
+    "height": 664,
+    "bytes": 191087,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152034703-GKX-487a78681b/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152034703-GKX5XHY8R0A4X8BQQQTO/BOS_fish.jpg)",
+    "subject": "The Book of Sarth, fish artwork"
+  },
+  {
+    "file": "boxy-barren-archie-art.jpg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 211404,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152226695-CT8-85077b8f5b/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152226695-CT83HA46CKLALH526F6V/boxyBarrenArchieArt.jpg)",
+    "subject": "Boxy Barren, Archie artwork"
+  },
+  {
+    "file": "cover-this-tree.jpg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 512826,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423523404223-YTF-2232a0f0f5/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423523404223-YTF23GJ1IZDJV3GR77JQ/Cover_ThisTree.png)",
+    "subject": "This Tree, cover art"
+  },
+  {
+    "file": "gr-album-launch.jpg",
+    "width": 956,
+    "height": 403,
+    "bytes": 85257,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423373352033-PDG-92e45da65a/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423373352033-PDGXSBEBTD142LLWB3FY/GralbumLaunch01274.png)",
+    "subject": "Gr album launch, live photograph"
+  },
+  {
+    "file": "heroes-on-horses-archie.jpg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 184074,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152261472-XEJ-0ffd5869fa/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152261472-XEJ8GAK47IXIMZSC82DP/heroesOnHorsesArchie.jpg)",
+    "subject": "Heroes on Horses, Archie artwork"
+  },
+  {
+    "file": "l1000209.jpg",
+    "width": 2500,
+    "height": 1667,
+    "bytes": 1576642,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424145006518-EQ1-eb4ad2f1fd/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424145006518-EQ1YLYHHVK6LPM5629Z5/L1000209.JPG)",
+    "subject": "Live photograph, L1000209"
+  },
+  {
+    "file": "lolla-dvd-show.jpg",
+    "width": 900,
+    "height": 600,
+    "bytes": 85355,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1469148571468-MEM-1a3cd0c83b/live.jpg (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1469148571468-MEMK0Y8A9QE1Z8AA30TA/LollaDVD_show_0632.jpg)",
+    "subject": "Lollapalooza, still from the show DVD"
+  },
+  {
+    "file": "lucibel-crater-inside-panel.jpg",
+    "width": 1742,
+    "height": 1554,
+    "bytes": 796773,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424144987039-IXH-bbf918703f/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424144987039-IXH80NUK9OYY40A1XIMY/LBCinsidepanel.jpg)",
+    "subject": "Lucibel Crater, inside gatefold panel"
+  },
+  {
+    "file": "meditation-room.jpg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 426081,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152481432-D79-e2472cbae0/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152481432-D79UUTFJIYY3X2K0I09R/meditationRoom_0006.png)",
+    "subject": "Meditation Room, artwork"
+  },
+  {
+    "file": "mm3-nyc-2011-banner.jpg",
+    "width": 1024,
+    "height": 404,
+    "bytes": 65025,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423372886458-KZL-b8410e10ab/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423372886458-KZLK28XZWF3X6MNWC1OJ/SARTH_MM3_NYC2011.png)",
+    "subject": "Sarth with MM3 in New York, 2011, banner crop"
+  },
+  {
+    "file": "mm3-nyc-325.jpg",
+    "width": 1280,
+    "height": 526,
+    "bytes": 152938,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424140130596-AHK-10053a6773/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424140130596-AHKFCOM1ZW0O4ANC154Y/MM3_NYC-325.png)",
+    "subject": "MM3 in New York, wide still"
+  },
+  {
+    "file": "mm3-nyc-wide.jpg",
+    "width": 1198,
+    "height": 577,
+    "bytes": 106272,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424140364006-W5L-636828dc8b/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424140364006-W5L6GCBPN786GXZHG63W/MM3_NYC.jpg)",
+    "subject": "MM3 in New York, wide still"
+  },
+  {
+    "file": "mwm-5113.jpg",
+    "width": 2500,
+    "height": 884,
+    "bytes": 821907,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424145659695-3RU-f51f5bb628/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424145659695-3RUB3WV52RPD5UT6Q0UD/_MWM5113---Version-3.png)",
+    "subject": "Live photograph, MWM 5113, wide crop"
+  },
+  {
+    "file": "mwm-5991.jpg",
+    "width": 640,
+    "height": 424,
+    "bytes": 179654,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424144975100-XFT-1859e244f1/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424144975100-XFT1B92BN3YV3Q6SZXYE/_MWM5991.jpg)",
+    "subject": "Live photograph, MWM 5991"
+  },
+  {
+    "file": "mwm-6816.jpg",
+    "width": 596,
+    "height": 480,
+    "bytes": 182406,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424144921044-9XG-06aead2c08/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424144921044-9XGJQGPOTUHSG1IUBBU4/_MWM6816.jpg)",
+    "subject": "Live photograph, MWM 6816"
+  },
+  {
+    "file": "pans-lullaby-cover.jpg",
+    "width": 1944,
+    "height": 1944,
+    "bytes": 603004,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1605916091427-LU5-2a4d22f115/live.jpg (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1605916091427-LU5GVUJ44IRZXP4IXPSX/pansLullabySoundCloudImage02.jpg)",
+    "subject": "Pan's Lullaby, SoundCloud cover art"
+  },
+  {
+    "file": "pp26-riot.jpg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 378732,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152390337-4CN-a2a000fabb/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152390337-4CNMA441PN0G9G80BTMA/PP26Riot_attempted_trans_frontLayer.png)",
+    "subject": "PP26 Riot, front layer artwork"
+  },
+  {
+    "file": "pp44-frenzy.jpg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 344552,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152580353-SCV-7cf08048de/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152580353-SCVPZK8IMID7FGECH0HL/pp44frenzy.jpg)",
+    "subject": "PP44 Frenzy, artwork"
+  },
+  {
+    "file": "sarth-1-full.jpg",
+    "width": 2500,
+    "height": 1875,
+    "bytes": 1038980,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424139032292-RJG-6121023603/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424139032292-RJGUNYIYIQJXLIPG0BFW/Sarth-1+copy.jpg)",
+    "subject": "Sarth portrait 1, full resolution"
+  },
+  {
+    "file": "sarth-7-full.jpg",
+    "width": 2500,
+    "height": 1667,
+    "bytes": 747549,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424139524527-U4H-f16bff87ed/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424139524527-U4H0E2CYEAYG7YPFR8RC/sarth-7.jpg)",
+    "subject": "Sarth portrait 7, full resolution"
+  },
+  {
+    "file": "sarth-home-image.jpg",
+    "width": 2152,
+    "height": 1429,
+    "bytes": 160763,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424149986161-Y3R-2778bef2de/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424149986161-Y3RP0ZNKJH7M8B5TPJ9L/sarth_home_image_black_LARGEFRAME_sharpened.jpg)",
+    "subject": "Sarth, home page image, black large frame"
+  },
+  {
+    "file": "sarth-prison-cell.jpg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 347906,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424152540046-G6S-1b69353019/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424152540046-G6SRTB2P3UULRSN95ASK/08_Sarth-prison-cell-final.jpg)",
+    "subject": "Sarth, prison cell scene"
+  },
+  {
+    "file": "sarth-top-know-square.jpg",
+    "width": 990,
+    "height": 990,
+    "bytes": 239605,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1469462112871-GXT-4e1c8bf746/live.jpg (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1469462112871-GXT4Y87S0EWVV0V8TKP9/SarthTopKnowSquare.jpg)",
+    "subject": "Sarth, square portrait"
+  },
+  {
+    "file": "sunken-cathedral-cover.jpg",
+    "width": 768,
+    "height": 1024,
+    "bytes": 253868,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423523437370-JVO-5f1fcc7c4c/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423523437370-JVORIQ56CBKGPM5HI64D/SunkenCathedral_CoverImage_768x1024.png)",
+    "subject": "Sunken Cathedral, cover art"
+  },
+  {
+    "file": "tot-cover.jpg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 1873011,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1423524014694-2OD-9fab6271bb/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1423524014694-2OD3XTJZ93P18IQV10GI/TOT_cover.png)",
+    "subject": "TOT, cover art"
+  },
+  {
+    "file": "yellow-pony-madrid-2009.jpg",
+    "width": 1024,
+    "height": 404,
+    "bytes": 141731,
+    "source": "/Users/burlapcalhoun/git_repos/sarth-research/citations-archive/sources/images.squarespace-cdn.com-content-v1-54d06e1ce4b04a9ce19907b7-1424151422110-MMS-4aebc65d60/live.webp (archived from https://images.squarespace-cdn.com/content/v1/54d06e1ce4b04a9ce19907b7/1424151422110-MMS384EC7KLFNQBXGQP4/YellowPony_Madrid2009.jpg)",
+    "subject": "Yellow Pony, Madrid 2009"
+  },
+  {
+    "file": "yt--Sq3OSve1Ls.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 37233,
+    "source": "https://i.ytimg.com/vi/-Sq3OSve1Ls/maxresdefault.jpg",
+    "subject": "A Noise Akin to a Flight of Deranged Swallows in Combat"
+  },
+  {
+    "file": "yt-8MqhRQI84Os.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 26171,
+    "source": "https://i.ytimg.com/vi/8MqhRQI84Os/maxresdefault.jpg",
+    "subject": "Continuum vs Linnstrument Round 1"
+  },
+  {
+    "file": "yt-CP8939UdzSo.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 15304,
+    "source": "https://i.ytimg.com/vi/CP8939UdzSo/maxresdefault.jpg",
+    "subject": "Introducing Burlap"
+  },
+  {
+    "file": "yt-UOh4tKteFOs.jpg",
+    "width": 480,
+    "height": 360,
+    "bytes": 5273,
+    "source": "https://i.ytimg.com/vi/UOh4tKteFOs/hqdefault.jpg",
+    "subject": "Lucibel Crater, Holy Then Now, Berlin Live"
+  },
+  {
+    "file": "yt-UYN5ijezg3k.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 151173,
+    "source": "https://i.ytimg.com/vi/UYN5ijezg3k/maxresdefault.jpg",
+    "subject": "Burlap: The AI Canvas for Visual Storytellers"
+  },
+  {
+    "file": "yt-V_ZinrLAl4I.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 59042,
+    "source": "https://i.ytimg.com/vi/V_ZinrLAl4I/maxresdefault.jpg",
+    "subject": "Sxip Shirey & Sarth, Continuum vs Shruti Box"
+  },
+  {
+    "file": "yt-_8jgV_4Xqmc.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 49065,
+    "source": "https://i.ytimg.com/vi/_8jgV_4Xqmc/maxresdefault.jpg",
+    "subject": "Sxip Shirey & Sarth, Prepared Guitar and Continuum"
+  },
+  {
+    "file": "yt-dXqYHjmmev0.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 33980,
+    "source": "https://i.ytimg.com/vi/dXqYHjmmev0/maxresdefault.jpg",
+    "subject": "I Just Believe in Christmas, lyric video"
+  },
+  {
+    "file": "yt-fghXNj-HdBg.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 101726,
+    "source": "https://i.ytimg.com/vi/fghXNj-HdBg/maxresdefault.jpg",
+    "subject": "Watching Shadows, 2026 animated short (Third Wall / Burlap)"
+  },
+  {
+    "file": "yt-gx9jIWSoEDQ.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 63904,
+    "source": "https://i.ytimg.com/vi/gx9jIWSoEDQ/maxresdefault.jpg",
+    "subject": "Truck Stop Love, 2026 animated short (Third Wall / Burlap)"
+  },
+  {
+    "file": "yt-nZ2LpA9P-LY.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 70979,
+    "source": "https://i.ytimg.com/vi/nZ2LpA9P-LY/maxresdefault.jpg",
+    "subject": "Meatsuitz Family Vacay, 2026 animated short (Third Wall / Burlap)"
+  },
+  {
+    "file": "yt-nwfygEI3Mzs.jpg",
+    "width": 480,
+    "height": 360,
+    "bytes": 11668,
+    "source": "https://i.ytimg.com/vi/nwfygEI3Mzs/hqdefault.jpg",
+    "subject": "Lucibel Crater, Masticate"
+  },
+  {
+    "file": "yt-ttWqwhzE-yA.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 72713,
+    "source": "https://i.ytimg.com/vi/ttWqwhzE-yA/maxresdefault.jpg",
+    "subject": "Through the Brambles, 2026 animated short (Third Wall / Burlap)"
+  },
+  {
+    "file": "yt-v-u7Zmd6GSw.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 107536,
+    "source": "https://i.ytimg.com/vi/v-u7Zmd6GSw/maxresdefault.jpg",
+    "subject": "I Just Believe in Christmas, acoustic demo"
+  },
+  {
+    "file": "yt-vs6KM7hFzxs.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 157436,
+    "source": "https://i.ytimg.com/vi/vs6KM7hFzxs/maxresdefault.jpg",
+    "subject": "Pigeon Problems, 2026 animated short (Third Wall / Burlap)"
+  },
+  {
+    "file": "yt-wroKqbXfx5g.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 100214,
+    "source": "https://i.ytimg.com/vi/wroKqbXfx5g/maxresdefault.jpg",
+    "subject": "What is visual reference prompting (Frogs and Goblins)"
+  },
+  {
+    "file": "lou-reed-metallica-2011.jpg",
+    "width": 1000,
+    "height": 328,
+    "bytes": 77492,
+    "source": "Squarespace asset library, SARTH_METALLICA2011.jpg",
+    "subject": "Sarth Calhoun on stage with Metallica for the Lulu material, 2011: Kirk Hammett, Sarth Calhoun, Lars Ulrich, James Hetfield"
+  },
+  {
+    "file": "gralbum-launch-laurie-anderson.jpg",
+    "width": 790,
+    "height": 398,
+    "bytes": 28618,
+    "source": "Squarespace asset library, GralbumLaunch01002.jpg; photo by Andrzej Liguz / MOREimages",
+    "subject": "Laurie Anderson and Sarth Calhoun at the Gralbum launch, SOHO Gallery for Digital Arts, April 9, 2014"
+  },
+  {
+    "file": "gralbum-launch-continuum.jpg",
+    "width": 783,
+    "height": 466,
+    "bytes": 17330,
+    "source": "Squarespace asset library, GralbumLaunch01265.jpg; photo by Andrzej Liguz / MOREimages",
+    "subject": "Sarth Calhoun playing the Continuum Fingerboard at the Gralbum launch, April 9, 2014"
+  },
+  {
+    "file": "contraption-fm6.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 73251,
+    "source": "contraptions.bookofsarth.com/shots/fm6-og.png",
+    "subject": "FM / 6 synthesizer, Glass garden patch, in the browser"
+  },
+  {
+    "file": "contraption-image-compare-workbench.jpg",
+    "width": 1200,
+    "height": 630,
+    "bytes": 113759,
+    "source": "contraptions.bookofsarth.com/shots/image-compare-workbench-og.jpg",
+    "subject": "Image Compare Workbench, two rails and a wipe"
+  },
+  {
+    "file": "contraption-soundscape-one.jpg",
+    "width": 1200,
+    "height": 630,
+    "bytes": 43570,
+    "source": "contraptions.bookofsarth.com/shots/soundscape-one-og.jpg",
+    "subject": "Soundscape One, the field and the ball"
+  },
+  {
+    "file": "home-hero.jpg",
+    "width": 1536,
+    "height": 1024,
+    "source": "Squarespace asset library, ChatGPT Image Apr 22, 2025 at 04_15_36 PM.png; the hero of the 2025 Squarespace homepage",
+    "subject": "Two children on a road at sunset carrying a glowing television; art by Sarth Calhoun, April 2025"
+  },
+  {
+    "file": "yt-3HlamL5UfGE.jpg",
+    "source": "https://i.ytimg.com/vi/3HlamL5UfGE/maxresdefault.jpg",
+    "subject": "Lou Reed at Les Vieilles Charrues, Carhaix, July 17, 2011; YouTube thumbnail of the clip on the 2011 tour page"
+  },
+  {
+    "file": "conspirator-sxip-shirey.jpg",
+    "width": 533,
+    "height": 800,
+    "bytes": 101979,
+    "source": "https://commons.wikimedia.org/wiki/File:Sxip_Shirey_performing_in_2010.jpg",
+    "subject": "Sxip Shirey performing, May 2010",
+    "license": "CC BY-SA 2.0",
+    "author": "Stacey~"
+  },
+  {
+    "file": "conspirator-joe-kelly.jpg",
+    "width": 1082,
+    "height": 1400,
+    "bytes": 364166,
+    "source": "https://commons.wikimedia.org/wiki/File:Joe_Kelly_by_Gage_Skidmore.jpg",
+    "subject": "Joe Kelly at WonderCon, Anaheim, March 16, 2012",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+  },
+  {
+    "file": "conspirator-moldover.jpg",
+    "width": 1050,
+    "height": 1400,
+    "bytes": 284939,
+    "source": "https://commons.wikimedia.org/wiki/File:Moldover_-_Step_From_Darkness_-_at_SHA2017_(by_Victor_Bart).jpg",
+    "subject": "Moldover performing Step From Darkness at SHA2017, August 2017",
+    "license": "CC BY-SA 4.0",
+    "author": "Victor Bart, uploaded by Moldover"
+  },
+  {
+    "file": "conspirator-kevin-hearn.jpg",
+    "width": 400,
+    "height": 546,
+    "bytes": 91019,
+    "source": "https://commons.wikimedia.org/wiki/File:KevinHearn3.jpg",
+    "subject": "Kevin Hearn, July 24, 2003",
+    "license": "CC BY-SA 3.0",
+    "author": "TheHYPO"
+  },
+  {
+    "file": "conspirator-steve-hunter.jpg",
+    "width": 800,
+    "height": 600,
+    "bytes": 162624,
+    "source": "https://commons.wikimedia.org/wiki/File:Steve_Hunter_Guitar_Player.JPG",
+    "subject": "Steve Hunter, March 2013",
+    "license": "CC BY-SA 4.0",
+    "author": "Nylongirl"
+  },
+  {
+    "file": "conspirator-tony-thunder-smith.jpg",
+    "width": 1400,
+    "height": 934,
+    "bytes": 270096,
+    "source": "https://commons.wikimedia.org/wiki/File:Lou_Reed_and_Tony_Thunder_Smith.jpg",
+    "subject": "Tony Thunder Smith with Lou Reed, Hop Farm Festival, 2011",
+    "license": "CC BY 2.0",
+    "author": "Man Alive!"
+  },
+  {
+    "file": "conspirator-aram-bajakian.jpg",
+    "width": 1400,
+    "height": 933,
+    "bytes": 331066,
+    "source": "https://commons.wikimedia.org/wiki/File:Aram_Bajakian_-_VancouverJazzFest-PhotoByFarhadGhaderi_9948.jpg",
+    "subject": "Aram Bajakian, Vancouver Jazz Festival, June 2017",
+    "license": "CC BY-SA 4.0",
+    "author": "Farhad Ghaderi (Shivaom108)"
+  },
+  {
+    "file": "conspirator-shahzad-ismaily.jpg",
+    "width": 1400,
+    "height": 1088,
+    "bytes": 463233,
+    "source": "https://commons.wikimedia.org/wiki/File:Shahzad_Ismaily.JPG",
+    "subject": "Shahzad Ismaily with Ceramic Dog, Innsbruck, October 2009",
+    "license": "CC BY-SA 3.0",
+    "author": "Svíčková"
+  },
+  {
+    "file": "conspirator-john-zorn.jpg",
+    "width": 1008,
+    "height": 1400,
+    "bytes": 296284,
+    "source": "https://commons.wikimedia.org/wiki/File:John_Zorn,_Newport_Jazz_Festival_2014.jpg",
+    "subject": "John Zorn at the Newport Jazz Festival, August 1, 2014",
+    "license": "CC BY 2.0",
+    "author": "digboston"
+  },
+  {
+    "file": "conspirator-marc-ribot.jpg",
+    "width": 1000,
+    "height": 669,
+    "bytes": 121678,
+    "source": "https://commons.wikimedia.org/wiki/File:Marc_Ribot_2007.jpg",
+    "subject": "Marc Ribot live in Carmignano, July 2007",
+    "license": "CC BY 2.0",
+    "author": "Andrea Mancini"
+  },
+  {
+    "file": "conspirator-bora-yoon.jpg",
+    "width": 640,
+    "height": 427,
+    "bytes": 130045,
+    "source": "https://commons.wikimedia.org/wiki/File:TED_Bora_Fellows.jpg",
+    "subject": "Bora Yoon performs at TED2014, March 2014",
+    "license": "CC BY-SA 4.0",
+    "author": "Borayoon"
+  },
+  {
+    "file": "conspirator-billy-martin.jpg",
+    "width": 480,
+    "height": 640,
+    "bytes": 103601,
+    "source": "https://commons.wikimedia.org/wiki/File:Billy-Martin_DSC09238.jpg",
+    "subject": "Billy Martin, July 10, 2007",
+    "license": "CC BY-SA 4.0",
+    "author": "Hreinn Gudlaugsson"
+  },
+  {
+    "file": "conspirator-robert-wilson.jpg",
+    "width": 601,
+    "height": 685,
+    "bytes": 159974,
+    "source": "https://commons.wikimedia.org/wiki/File:2014-01-19_Luebeck_Wachter_Wilson_(cropped_-_Robert_Wilson).jpg",
+    "subject": "Robert Wilson, Luebeck, January 2014 (cropped)",
+    "license": "CC BY-SA 3.0 de",
+    "author": "Cornel Wachter"
+  },
+  {
+    "file": "conspirator-carla-scaletti.jpg",
+    "width": 1050,
+    "height": 1400,
+    "bytes": 308902,
+    "source": "https://commons.wikimedia.org/wiki/File:CarlaScaletti.jpg",
+    "subject": "Carla Scaletti, April 2011",
+    "license": "CC BY-SA 4.0",
+    "author": "Kurt Hebel"
+  }
 ]

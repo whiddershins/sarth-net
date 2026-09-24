@@ -3,7 +3,7 @@ title: The Gralbum Collective
 description: The Gralbum Collective, founded by Sarth Calhoun in 2012 to publish gralbums: music released as interactive apps with art, animation and storytelling.
 url: https://www.sarth.net/conspiracies/gralbum-collective/
 facet: dream
-credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012, and built the app with lead programmer Andrew Beck. It launched on April 9, 2014 with *Book of Sarth* and four other titles.
+credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012, and built the app with lead programmer [Andrew Beck](/conspirators/andrew-beck/). It launched on April 9, 2014 with *Book of Sarth* and four other titles.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / The Gralbum Collective
@@ -32,9 +32,9 @@ The albums ship with no instructions. We deliberately publish Gralbums with no h
 
 ## The launch
 
-I wrote the announcement the week of the launch: I conceptualized (gr)album and founded The (Gr)album Collective in 2012. Needless to say I am thrilled to finally launch the app and share (gr)album with the world. The first wave of titles includes Sunken Cathedral by sound artist [Bora Yoon](https://www.borayoon.com/), Sketches by beatboxer Adam Matta, my own title, Book of Sarth, This Tree by [Leah Coloff](/conspirators/leah-coloff/), and Train O’ Thots, which matches sketch artist [Tom Hart](https://en.wikipedia.org/wiki/Tom_Hart_(cartoonist)) with the brass band [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch).
+I wrote the announcement the week of the launch: I conceptualized (gr)album and founded The (Gr)album Collective in 2012. Needless to say I am thrilled to finally launch the app and share (gr)album with the world. The first wave of titles includes Sunken Cathedral by sound artist [Bora Yoon](https://www.borayoon.com/), Sketches by beatboxer Adam Matta, my own title, Book of Sarth, This Tree by [Leah Coloff](/conspirators/leah-coloff/), and Train O’ Thots, which matches sketch artist [Tom Hart](/conspirators/tom-hart/) with the brass band [Moon Hooch](https://en.wikipedia.org/wiki/Moon_Hooch).
 
-I also thanked The (Gr)album Collective artists Bora Yoon and Adam Matta for joining me in rocking the party on the downstairs stage.
+I also thanked The (Gr)album Collective artists [Bora Yoon](/conspirators/bora-yoon/) and [Adam Matta](/conspirators/adam-matta/) for joining me in rocking the party on the downstairs stage.
 
 A year later, *Train O’ Thots* launched with a showing at the New York Transit Museum on April 1, 2015.
 
@@ -48,15 +48,15 @@ Laurie Anderson and Sarth Calhoun at the launch. Photo by Andrzej Liguz / MOREim
 
 ## The titles
 
-Five gralbums were in the store at launch. *Book of Sarth*, my own. *Sketches* by the beatboxer and animator [Adam Matta](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops), in which every sound is his unaltered voice and every image his own drawing. *Sunken Cathedral Trilogy* by the composer and vocalist Bora Yoon, set against the animated sculptures of the Seoul artist [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe). *This Tree*, three songs by Leah Coloff with her childhood home videos and animated oil paintings. And *Train O’ Thoughts*, the subway sketches Tom Hart drew live on his commute, under a brass soundtrack.
+Five gralbums were in the store at launch. *Book of Sarth*, my own. *Sketches* by the beatboxer and animator [Adam Matta](/conspirators/adam-matta/), in which every sound is his unaltered voice and every image his own drawing. *Sunken Cathedral Trilogy* by the composer and vocalist [Bora Yoon](/conspirators/bora-yoon/), set against the animated sculptures of the Seoul artist [U-Ram Choe](https://en.wikipedia.org/wiki/U-Ram_Choe). *This Tree*, three songs by Leah Coloff with her childhood home videos and animated oil paintings. And *Train O’ Thoughts*, the subway sketches Tom Hart drew live on his commute, under a brass soundtrack.
 
-The collective listed further titles as coming: *Omnisphere* by [Billy Martin](https://en.wikipedia.org/wiki/Billy_Martin_(percussionist)), the drummer of [Medeski Martin & Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood); an introductory gralbum by Eva Parker built on the artwork of [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel); and *Betty Goes Boom Boom*.
+The collective listed further titles as coming: *Omnisphere* by [Billy Martin](/conspirators/billy-martin/), the drummer of [Medeski Martin & Wood](https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood); an introductory gralbum by Eva Parker built on the artwork of [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel); and *Betty Goes Boom Boom*.
 
 ## The collective’s statement
 
 Art forms are born, and they die. In even these future-shocked days some ideas are unthinkable. Can you imagine a world without music? I can’t, and I won’t ask you to try. But as long as there has been music, it has warped and changed quite righteously with technology and the times. In recent years, our way of finding, sharing, and collecting music has expanded. How we make, compose, and record music has evolved. But is there a new way to experience music? Can you touch music? Get lost in a world of sound and light, immersed in the artist’s creation? Feel the story the music tells, privately, only to you? Of course you can, now. This was the future of music, but we’re here now. Put your headphones ON.
 
-The credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012, and built the app with lead programmer Andrew Beck. It launched on April 9, 2014 with *Book of Sarth* and four other titles.
+The credit: Sarth Calhoun conceptualized (gr)album and founded The (Gr)album Collective in 2012, and built the app with lead programmer [Andrew Beck](/conspirators/andrew-beck/). It launched on April 9, 2014 with *Book of Sarth* and four other titles.
 
 ![Sarth Calhoun playing a Haken Continuum Fingerboard under red light at the Gralbum launch.](/images/gralbum-launch-continuum.jpg)
 

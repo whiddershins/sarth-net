@@ -155,6 +155,15 @@ main {
 .cards .sub { margin: 0.5rem 0 0; color: var(--mute); font-size: 0.92rem; }
 .cards .sub a { display: inline; text-decoration: underline; }
 main.directory { width: min(94rem, calc(100% - 4rem)); }
+.cards.people { align-items: start; }
+.cards.people li { display: flex; flex-direction: column; }
+.cards.people a { display: flex; flex-direction: column; height: 100%; }
+.cards.people img { aspect-ratio: 1 / 1; object-position: 50% 22%; }
+.cards img.pos-l { object-position: 12% 50%; }
+.cards img.pos-r { object-position: 88% 50%; }
+.cards img.pos-c { object-position: 50% 50%; }
+.directory h2.group { margin: 3rem 0 1.1rem; font-size: 0.85rem; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mute); }
+.directory h2.group:first-of-type { margin-top: 2rem; }
 @media (min-width: 1200px) { .cards { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 719px) { .cards { grid-template-columns: 1fr; } main.directory { width: calc(100% - 2rem); } }
 section { margin: 0 0 3.4rem; }

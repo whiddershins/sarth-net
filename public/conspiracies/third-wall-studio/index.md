@@ -15,7 +15,7 @@ Conspiracy · Dream
 
 Third Wall Studio is the animation studio I founded in May 2025. It makes animation with filmmakers and artists, mixing live action, animation and generative AI in the same production, and it builds [Burlap](/conspiracies/burlap/), the app the films are made in. It is at [thirdwallstudio.com](https://thirdwallstudio.com).
 
-The first films came out in 2026: shorts with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, and *Through the Brambles*, a VR story built entirely inside Burlap.
+The first films came out in 2026: shorts with [Doron Lev](/conspirators/doron-lev/), [Jacob McCoy](/conspirators/jacob-mccoy/), [Savas](/conspirators/savas/) and [Jonathan Arons](/conspirators/jonathan-arons/), and *Through the Brambles*, a VR story built entirely inside Burlap.
 
 ![Watching Shadows, still.](/images/yt-fghXNj-HdBg.jpg)
 
@@ -47,11 +47,11 @@ The credit: Sarth Calhoun founded Third Wall Studio in May 2025 and builds Burla
 
   [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
 
-- **Kubler-Ross Model**, with Savas. Excerpt, August 2026.
+- **Kubler-Ross Model**, with [Savas](/conspirators/savas/). Excerpt, August 2026.
 
   [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
 
-- **The Trinary Matrix**, with Jonathan Arons.
+- **The Trinary Matrix**, with [Jonathan Arons](/conspirators/jonathan-arons/).
 
   [Third Wall](https://thirdwallstudio.com)
 

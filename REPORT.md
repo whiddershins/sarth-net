@@ -8,8 +8,86 @@ Every `<div class="hole">` on the site and whether `content/holes/` has filled i
 Write the paragraph into the named file, in Sarth's words only, and run `npm run build`.
 
 - filled `content/holes/burlap--how-it-started.md` on https://www.sarth.net/conspiracies/burlap/
+- EMPTY  `content/holes/conspiracies--poughkeepsie.md` on https://www.sarth.net/conspiracies/poughkeepsie/
+  - wants: Sarth: how the melody found its way into the film, and what you scored.
 - EMPTY  `content/holes/third-wall-studio--how-it-started.md` on https://www.sarth.net/conspiracies/third-wall-studio/
   - wants: Sarth: why a studio, and how the first film with Doron came together. Only the two sentences above are yours so far.
+- EMPTY  `content/holes/conspirators--adam-matta.md` on https://www.sarth.net/conspirators/adam-matta/
+  - wants: Sarth: how you met Adam, and what happened on the downstairs stage.
+- EMPTY  `content/holes/conspirators--andrew-beck.md` on https://www.sarth.net/conspirators/andrew-beck/
+  - wants: Sarth: how you met Andrew, and the best example of what he built.
+- EMPTY  `content/holes/conspirators--aram-bajakian.md` on https://www.sarth.net/conspirators/aram-bajakian/
+  - wants: Sarth: what Aram brought to the eight-piece, and how two guitars and your processing worked.
+- EMPTY  `content/holes/conspirators--archie-p-valdez.md` on https://www.sarth.net/conspirators/archie-p-valdez/
+  - wants: Sarth: what Archie drew, and which pages of the Book are his.
+- EMPTY  `content/holes/conspirators--billy-martin.md` on https://www.sarth.net/conspirators/billy-martin/
+  - wants: Sarth: how you met Billy, and what became of Omnisphere.
+- EMPTY  `content/holes/conspirators--bora-yoon.md` on https://www.sarth.net/conspirators/bora-yoon/
+  - wants: Sarth: what you, Bora and Adam played on the downstairs stage.
+- EMPTY  `content/holes/conspirators--carla-scaletti.md` on https://www.sarth.net/conspirators/carla-scaletti/
+  - wants: Sarth: when the beta testing started, and what you suggested that shipped.
+- EMPTY  `content/holes/conspirators--dominic-bouffard.md` on https://www.sarth.net/conspirators/dominic-bouffard/
+  - wants: Sarth: how you and Dom met, and how Beautiful Tornado started.
+- EMPTY  `content/holes/conspirators--doron-lev.md` on https://www.sarth.net/conspirators/doron-lev/
+  - wants: Sarth: how you met Doron, and why the collaboration kept going.
+- EMPTY  `content/holes/conspirators--elik-smith.md` on https://www.sarth.net/conspirators/elik-smith/
+  - wants: Sarth: which name Elik wants on this page, and what he understood about the world of the Book.
+- EMPTY  `content/holes/conspirators--jacob-mccoy.md` on https://www.sarth.net/conspirators/jacob-mccoy/
+  - wants: Sarth: what Jacob did on Book of Sarth, and what Meatsuitz is.
+- EMPTY  `content/holes/conspirators--joe-kelly.md` on https://www.sarth.net/conspirators/joe-kelly/
+  - wants: Sarth: how you know Joe, and how the melody found its way into the film.
+- EMPTY  `content/holes/conspirators--john-zorn.md` on https://www.sarth.net/conspirators/john-zorn/
+  - wants: Sarth: what changed in the trio’s sound when Zorn came on at Gramercy.
+- EMPTY  `content/holes/conspirators--jonathan-arons.md` on https://www.sarth.net/conspirators/jonathan-arons/
+  - wants: Sarth: how you met Jonathan, and what The Trinary Matrix is as a film.
+- EMPTY  `content/holes/conspirators--kevin-hearn.md` on https://www.sarth.net/conspirators/kevin-hearn/
+  - wants: Sarth: what Kevin did in a room, in rehearsal, on the bus.
+- EMPTY  `content/holes/conspirators--kurt-hebel.md` on https://www.sarth.net/conspirators/kurt-hebel/
+  - wants: Sarth: whether any of the beta testing was on the hardware side, and when you first met Kurt and Carla in person.
+- EMPTY  `content/holes/conspirators--lippold-haken.md` on https://www.sarth.net/conspirators/lippold-haken/
+  - wants: Sarth: when you got your first Continuum, and how you came to know Lippold.
+- EMPTY  `content/holes/conspirators--lou-petto.md` on https://www.sarth.net/conspirators/lou-petto/
+  - wants: Sarth: how you met Lou, and where the duet was recorded.
+- EMPTY  `content/holes/conspirators--marc-ribot.md` on https://www.sarth.net/conspirators/marc-ribot/
+  - wants: Sarth: what the ten-piece played that night, and whether you still have the photos.
+- EMPTY  `content/holes/conspirators--marc-urselli.md` on https://www.sarth.net/conspirators/marc-urselli/
+  - wants: Sarth: what else Marc has mixed for you since 2015.
+- EMPTY  `content/holes/conspirators--mark-righter.md` on https://www.sarth.net/conspirators/mark-righter/
+  - wants: Sarth: how you met Mark, and what he brought to Number19.
+- EMPTY  `content/holes/conspirators--metallica.md` on https://www.sarth.net/conspirators/metallica/
+  - wants: Sarth: the HQ sessions, and one memory each of James, Lars, Kirk and Robert.
+- EMPTY  `content/holes/conspirators--michael-patrick-flanagan-smith.md` on https://www.sarth.net/conspirators/michael-patrick-flanagan-smith/
+  - wants: Sarth: how you know Mike, and what you wanted his voice for.
+- EMPTY  `content/holes/conspirators--mike-acerbo.md` on https://www.sarth.net/conspirators/mike-acerbo/
+  - wants: Sarth: when and where the Trilby bass was recorded, and whether you played on anything else of Mike’s.
+- EMPTY  `content/holes/conspirators--mike-rathke.md` on https://www.sarth.net/conspirators/mike-rathke/
+  - wants: Sarth: the Whitney trio, and how Mike’s guitar and your processing met.
+- EMPTY  `content/holes/conspirators--moldover.md` on https://www.sarth.net/conspirators/moldover/
+  - wants: Sarth: the video with Moldover, and what the Jamboxes post was about.
+- EMPTY  `content/holes/conspirators--phil-weinrobe.md` on https://www.sarth.net/conspirators/phil-weinrobe/
+  - wants: Sarth: how you came to record at Figure 8 with Phil.
+- EMPTY  `content/holes/conspirators--rich-kulsar.md` on https://www.sarth.net/conspirators/rich-kulsar/
+  - wants: Sarth: how you met Rich, and the sessions you shared.
+- EMPTY  `content/holes/conspirators--robert-wilson.md` on https://www.sarth.net/conspirators/robert-wilson/
+  - wants: Sarth: whether you met Wilson in the room, and one thing you learned from his process.
+- EMPTY  `content/holes/conspirators--savas.md` on https://www.sarth.net/conspirators/savas/
+  - wants: Sarth: how you met Savas, and what is unmistakably his in Kubler-Ross Model.
+- EMPTY  `content/holes/conspirators--scott-hampton.md` on https://www.sarth.net/conspirators/scott-hampton/
+  - wants: Sarth: how you met Scott, and where the last track of Reflections was recorded.
+- EMPTY  `content/holes/conspirators--shahzad-ismaily.md` on https://www.sarth.net/conspirators/shahzad-ismaily/
+  - wants: Sarth: how you met Shahzad, and what passed between his bass and the Continuum.
+- EMPTY  `content/holes/conspirators--steve-hunter.md` on https://www.sarth.net/conspirators/steve-hunter/
+  - wants: Sarth: standing next to the guitarist of Rock ’n’ Roll Animal, and how your processing met his solos.
+- EMPTY  `content/holes/conspirators--stewart-hurwood.md` on https://www.sarth.net/conspirators/stewart-hurwood/
+  - wants: Sarth: the four-guitar feedback installation on the Metal Machine Trio tours, and what the Continuum does against seven feeding-back guitars.
+- EMPTY  `content/holes/conspirators--sxip-shirey.md` on https://www.sarth.net/conspirators/sxip-shirey/
+  - wants: Sarth: how you and Sxip met, and what the shruti box did to the room.
+- EMPTY  `content/holes/conspirators--tetiana-khodakivska.md` on https://www.sarth.net/conspirators/tetiana-khodakivska/
+  - wants: Sarth: how you met Tetiana, and what the residency is making.
+- EMPTY  `content/holes/conspirators--tom-hart.md` on https://www.sarth.net/conspirators/tom-hart/
+  - wants: Sarth: where Tom’s work is now, and who paired him with Moon Hooch.
+- EMPTY  `content/holes/conspirators--tony-thunder-smith.md` on https://www.sarth.net/conspirators/tony-thunder-smith/
+  - wants: Sarth: how the drums and the electronics locked in, and what Tony did for the band’s feel.
 - EMPTY  `content/holes/contraptions--earlier.md` on https://www.sarth.net/contraptions/
   - wants: Sarth: the Jamboxes with Moldover, the ConnecTable, and the five kinds of synthesis. What they were and where they went.
 - EMPTY  `content/holes/beautiful-tornado--thoughts.md` on https://www.sarth.net/transmissions/beautiful-tornado/
@@ -49,9 +127,11 @@ a pull quote with its source, an embed, or an excerpt of the record. No filler.
 - https://www.sarth.net/conspiracies/reflections-vol-1/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/third-wall-studio/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspiracies/vivid-live/ (0 bands): Not laid out yet.
+- https://www.sarth.net/conspirators/jonathan-arons/ (0 bands): No free photograph, quotation or embed yet.
 - https://www.sarth.net/conspirators/laurie-anderson/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspirators/leah-coloff/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspirators/paul-chuffo/ (0 bands): Not laid out yet.
+- https://www.sarth.net/conspirators/tetiana-khodakivska/ (0 bands): No free photograph, quotation or embed yet.
 - https://www.sarth.net/conspirators/tony-diodore/ (0 bands): Not laid out yet.
 - https://www.sarth.net/transmissions/miracles/ (0 bands): No cover, track list or store listing found; Sarth to supply.
 
@@ -86,11 +166,48 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspiracies/lulu/: 7 · 1 photo · 3 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/metal-machine-trio/: 7 · 1 photo · 4 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspiracies/number19/: 7 · 1 photo · 2 quote · 1 embed · 3 excerpt
+- https://www.sarth.net/conspiracies/poughkeepsie/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/third-wall-studio/: 1 · 1 photo
 - https://www.sarth.net/conspiracies/yellow-pony/: 5 · 1 photo · 2 quote · 2 excerpt
+- https://www.sarth.net/conspirators/adam-matta/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/andrew-beck/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/aram-bajakian/: 2 · 1 photo · 1 excerpt
+- https://www.sarth.net/conspirators/archie-p-valdez/: 3 · 2 photo · 1 excerpt
+- https://www.sarth.net/conspirators/billy-martin/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/bora-yoon/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/carla-scaletti/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/dominic-bouffard/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/doron-lev/: 3 · 1 quote · 1 embed · 1 excerpt
+- https://www.sarth.net/conspirators/elik-smith/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/jacob-mccoy/: 3 · 1 quote · 1 embed · 1 excerpt
+- https://www.sarth.net/conspirators/joe-kelly/: 2 · 1 photo · 1 excerpt
+- https://www.sarth.net/conspirators/john-zorn/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/kevin-hearn/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/kurt-hebel/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/laurie-anderson/: 1 · 1 photo
+- https://www.sarth.net/conspirators/lippold-haken/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/lou-petto/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/lou-reed/: 6 · 2 photo · 2 quote · 1 embed · 1 excerpt
+- https://www.sarth.net/conspirators/marc-ribot/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/marc-urselli/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/mark-righter/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/metallica/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/michael-patrick-flanagan-smith/: 3 · 1 quote · 1 embed · 1 excerpt
+- https://www.sarth.net/conspirators/mike-acerbo/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/mike-rathke/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/moldover/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/phil-weinrobe/: 2 · 2 excerpt
+- https://www.sarth.net/conspirators/rich-kulsar/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/rob-wasserman/: 4 · 1 photo · 1 quote · 1 embed · 1 excerpt
+- https://www.sarth.net/conspirators/robert-wilson/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/savas/: 2 · 1 embed · 1 excerpt
+- https://www.sarth.net/conspirators/scott-hampton/: 2 · 2 excerpt
+- https://www.sarth.net/conspirators/shahzad-ismaily/: 2 · 1 photo · 1 excerpt
+- https://www.sarth.net/conspirators/steve-hunter/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/stewart-hurwood/: 2 · 2 excerpt
+- https://www.sarth.net/conspirators/sxip-shirey/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/tom-hart/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/tony-thunder-smith/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspirators/ulrich-krieger/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/contraptions/: 5 · 3 photo · 2 excerpt
 - https://www.sarth.net/transmissions/beautiful-tornado/: 4 · 2 photo · 1 quote · 1 excerpt
@@ -109,4 +226,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 9 machine · 27 dream · 10 message
+- 9 machine · 28 dream · 10 message

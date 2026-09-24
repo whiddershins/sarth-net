@@ -26,7 +26,7 @@ Sarth Calhoun at the Continuum.
 
 ## Go over to Lou’s house
 
-I got a call from Lou one day to go over to his house and make some “interstitial” music for a theater production. Robert Wilson was staging *Lulu* with the Berliner Ensemble. This turned into co-writing 8 more songs with Lou Reed. Hells yeah.
+I got a call from Lou one day to go over to his house and make some “interstitial” music for a theater production. [Robert Wilson](/conspirators/robert-wilson/) was staging *Lulu* with the Berliner Ensemble. This turned into co-writing 8 more songs with Lou Reed. Hells yeah.
 
 The tapes we made before Berlin were Lou’s guitar, long cello drones and Continuum, which is what David Fricke describes in *Rolling Stone*. This was before [Metallica](https://en.wikipedia.org/wiki/Metallica).
 
@@ -34,7 +34,7 @@ The tapes we made before Berlin were Lou’s guitar, long cello drones and Conti
 
 Lou was not in Berlin for the rehearsals. I went, and directed the music with the theater’s band.
 
-The band was Stefan Rager on drums and musical direction; Ulrich Maiß on keyboards and cello; Dominic Bouffard on guitar; Friedrich Paravicini on bugle, cello, and harmonica; Andreas Walter on bass; and Joe Bauer on sound effects. Later programs list Ulf Borgwardt and Ofer Wetzler in the keyboard/cello and bass chairs.
+The band was Stefan Rager on drums and musical direction; Ulrich Maiß on keyboards and cello; [Dominic Bouffard](/conspirators/dominic-bouffard/) on guitar; Friedrich Paravicini on bugle, cello, and harmonica; Andreas Walter on bass; and Joe Bauer on sound effects. Later programs list Ulf Borgwardt and Ofer Wetzler in the keyboard/cello and bass chairs.
 
 *Lulu* premiered at the Berliner Ensemble on April 12, 2011 and stayed in its repertoire through 2014, with guest runs in Paris, Spoleto, and São Paulo.
 
@@ -48,7 +48,7 @@ The band was Stefan Rager on drums and musical direction; Ulrich Maiß on keyboa
 
 ## Then Metallica
 
-After I got back from Berlin, we took the project to San Francisco and recorded it with Metallica. What a blast. They completely reinterpreted all the stuff, of course. They were awesome. Of course.
+After I got back from Berlin, we took the project to San Francisco and recorded it with [Metallica](/conspirators/metallica/). What a blast. They completely reinterpreted all the stuff, of course. They were awesome. Of course.
 
 The first live performances of the material were in November 2011: *Later... with Jools Holland* in London, *Taratata* in Paris, and five songs in Cologne. I was on stage for those.
 

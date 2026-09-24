@@ -27,7 +27,7 @@ And then realized that is a song.
 
 Immediately I thought it should be sung by Michael Patrick Flanagan Smith. To finish the words I enlisted the help of some of my favorite creative people: Jesse Schoen, Virginia Piazza, and Doron Lev.
 
-In August of 2015 we all went in to the studio, along with a motley assortment of NYC instrumentalists, plus my good friend Dominic Bouffard who was visiting from London. It came out that December.
+In August of 2015 we all went in to the studio, along with a motley assortment of NYC instrumentalists, plus my good friend [Dominic Bouffard](/conspirators/dominic-bouffard/) who was visiting from London. It came out that December.
 
 [Embedded player](https://www.youtube.com/embed/dXqYHjmmev0)
 

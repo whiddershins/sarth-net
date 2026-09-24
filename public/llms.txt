@@ -80,8 +80,6 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Conspiracies https://www.sarth.net/conspiracies/
 - Third Wall Studio https://www.sarth.net/conspiracies/third-wall-studio/
 - Burlap https://www.sarth.net/conspiracies/burlap/
-- Ingather https://www.sarth.net/conspiracies/ingather/
-- Poughkeepsie https://www.sarth.net/conspiracies/poughkeepsie/
 - The Gralbum Collective https://www.sarth.net/conspiracies/gralbum-collective/
 - Book of Sarth https://www.sarth.net/conspiracies/book-of-sarth/
 - Awakening (To Blacklist) https://www.sarth.net/conspiracies/awakening-to-blacklist/
@@ -90,6 +88,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Metal Machine Trio https://www.sarth.net/conspiracies/metal-machine-trio/
 - The Creation of the Universe, ambisonic installation https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/
 - Yellow Pony https://www.sarth.net/conspiracies/yellow-pony/
+- Poughkeepsie https://www.sarth.net/conspiracies/poughkeepsie/
 - Vivid LIVE 2010 https://www.sarth.net/conspiracies/vivid-live/
 - Lou Reed’s 2011 European tour https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/
 - Lou Reed’s song band https://www.sarth.net/conspiracies/lou-reed-song-band/
@@ -97,6 +96,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Lucibel Crater https://www.sarth.net/conspiracies/lucibel-crater/
 - Number19 https://www.sarth.net/conspiracies/number19/
 - I Just Believe in Christmas https://www.sarth.net/conspiracies/i-just-believe-in-christmas/
+- Ingather https://www.sarth.net/conspiracies/ingather/
 - Reflections, Vol. 1 https://www.sarth.net/conspiracies/reflections-vol-1/
 - Conspirators https://www.sarth.net/conspirators/
 - Savas https://www.sarth.net/conspirators/savas/

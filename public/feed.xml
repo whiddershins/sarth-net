@@ -5,22 +5,11 @@
   <link rel="self" type="application/atom+xml" href="https://www.sarth.net/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://www.sarth.net/"/>
   <id>https://www.sarth.net/</id>
-  <updated>2026-09-24T00:00:00Z</updated>
+  <updated>2026-09-23T00:00:00Z</updated>
   <author>
     <name>Sarth Calhoun</name>
     <uri>https://www.sarth.net/</uri>
   </author>
-  <entry>
-    <title>Number19</title>
-    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/number19/"/>
-    <id>https://www.sarth.net/conspiracies/number19/</id>
-    <updated>2026-09-24T00:00:00Z</updated>
-    <published>2026-09-24T00:00:00Z</published>
-    <summary>Number19, the Brooklyn band Sarth Calhoun formed in 1999 with Leah Coloff, Tony Diodore and Mark Righter, and its album Suspension.</summary>
-    <author>
-      <name>Sarth Calhoun</name>
-    </author>
-  </entry>
   <entry>
     <title>Solsbury Hill</title>
     <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/solsbury-hill/"/>
@@ -385,6 +374,17 @@
     </author>
   </entry>
   <entry>
+    <title>Through the Brambles</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/through-the-brambles/"/>
+    <id>https://www.sarth.net/transmissions/through-the-brambles/</id>
+    <updated>2026-05-11T00:00:00Z</updated>
+    <published>2026-05-11T00:00:00Z</published>
+    <summary>Through the Brambles, the 360° VR film from Third Wall Studio directed by Jacob McCoy, May 2026, built inside Burlap from prompted 360° imagery.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
     <title>About Awakening (To Blacklist)</title>
     <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/about-awakening-to-blacklist/"/>
     <id>https://www.sarth.net/transmissions/about-awakening-to-blacklist/</id>
@@ -490,6 +490,17 @@
     <updated>2001T00:00:00Z</updated>
     <published>2001T00:00:00Z</published>
     <summary>Suspension, the 2001 album by Number19: Tony Diodore, Sarth Calhoun, Leah Coloff and Mark Righter. Nine songs on Searching Eye Records, paid for by mp3.com downloads.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>I Before E</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/i-before-e/"/>
+    <id>https://www.sarth.net/transmissions/i-before-e/</id>
+    <updated>2001T00:00:00Z</updated>
+    <published>2001T00:00:00Z</published>
+    <summary>I Before E, track six of Suspension by Number19, 2001, and Sarth Calhoun’s note ib4e and Robert Trujillo, written May 2022, as written.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>

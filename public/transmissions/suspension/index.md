@@ -19,11 +19,13 @@ Transmission · Dream
 
 Cover, *Suspension*, 2001.
 
-The songs: 1. Tuner/Escalator. 2. Cold Fish. 3. Water. 4. Wheelies. 5. Everyone’s Desire. 6. I Before E. 7. Light. 8. Blue. 9. Intro.
+The songs: 1. Tuner/Escalator. 2. Cold Fish. 3. Water. 4. Wheelies. 5. Everyone’s Desire. 6. [I Before E](/transmissions/i-before-e/). 7. Light. 8. Blue. 9. Intro.
 
 ## Paid for by downloads
 
-The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. From the biography on my old site: The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
+The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads, and the single that led them was “Water,” track three. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. From the biography on my old site: The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
+
+Nine songs, recorded with Diodore on guitar and violin, me on bass and a Yamaha EX5, Coloff on cello and voice, Righter on drums. The band’s site called the music Rhythm & Strings. Spotify dates the album 2007, the year it went up there; it came out in 2001. The sixth track, [“I Before E,”](/transmissions/i-before-e/) has its own page with the note I wrote about it in 2022.
 
 ## Listen
 
@@ -39,4 +41,4 @@ The credit: Sarth Calhoun, bass and Yamaha EX5, on *Suspension* by Number19, wit
 
 Made by [Number19](/conspiracies/number19/). It was the first record I made with [Leah Coloff](/conspirators/leah-coloff/) and with [Tony Diodore](/conspirators/tony-diodore/); the three of us went on to [Lucibel Crater](/conspiracies/lucibel-crater/) and [Lou Reed’s band](/conspiracies/lou-reed-song-band/).
 
-My lines are from my old WordPress site, recovered from the Wayback Machine. Track list from Apple Music.
+My lines are from my old WordPress site, recovered from the Wayback Machine. Track list from Apple Music. The single and Rhythm & Strings are from the band’s own site, numbernineteen.net, as captured in 2001.

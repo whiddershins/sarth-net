@@ -239,7 +239,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
 - [Puracane](https://en.wikipedia.org/wiki/Puracane)
 - [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
-- [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM)
 
 ## [Poughkeepsie](/conspiracies/poughkeepsie/)
 
@@ -758,9 +757,18 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [The recording](https://www.youtube.com/watch?v=Tn0FxV9NKns)
 - [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
+
+## [Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)
+
+`/sightings/reaktor-live-2023/`
+
+- [Reaktor](https://reaktor.com)
+- [Stone’s](https://www.linkedin.com/posts/michele-stone-8150784_reaktorlive-engineering-data-activity-7074460781097955328-Qtbo)
+- [Fosbery’s](https://www.linkedin.com/posts/ian-fosbery_very-excited-to-be-moderating-this-chat-with-activity-7074777948012105728-AzwC)
 
 ## [Transmissions](/transmissions/)
 
@@ -779,8 +787,11 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
+- [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM)
 - [Third Wall](https://thirdwallstudio.com)
 - [YouTube](https://www.youtube.com/@burlap_app)
+- [YouTube](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+- [Third Wall](https://www.thirdwallstudio.com/through-the-brambles)
 - [burlap.app](https://burlap.app)
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [Vimeo](https://vimeo.com/125323250)
@@ -853,6 +864,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/transmissions/external-tables/why-append-only/`
 
 - [external tables](https://docs.snowflake.com/en/user-guide/tables-external-intro)
+
+## [I Before E](/transmissions/i-before-e/)
+
+`/transmissions/i-before-e/`
+
+- [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM)
+- [Apple Music](https://music.apple.com/us/album/suspension/274828088)
 
 ## [Introspections](/transmissions/introspections/)
 
@@ -954,6 +972,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [awaken music, April 1, 2009](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html)
 - [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/)
 - [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/)
+
+## [Through the Brambles](/transmissions/through-the-brambles/)
+
+`/transmissions/through-the-brambles/`
+
+- [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles)
 
 ## [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/)
 

@@ -56,7 +56,7 @@ The credit: Sarth Calhoun founded Third Wall Studio in May 2025 and builds Burla
 
   [Full film on Vimeo](https://vimeo.com/1187032618/46e04bc8a5) · [Third Wall](https://www.thirdwallstudio.com/process)
 
-*Through the Brambles*, directed by [Jacob McCoy](/conspirators/jacob-mccoy/), is a VR story built entirely inside Burlap. Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. It is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles).
+[*Through the Brambles*](/transmissions/through-the-brambles/), directed by [Jacob McCoy](/conspirators/jacob-mccoy/), is a VR story built entirely inside Burlap. Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. It is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles).
 
 ## Conspiracies
 

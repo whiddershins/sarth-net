@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 106,
+ "count": 109,
  "pages": [
   {
    "route": "/",
@@ -12,8 +12,8 @@
    "facet": null,
    "published": null,
    "headings": [
-    "Dream (30)",
-    "Message (10)"
+    "Dream (32)",
+    "Message (11)"
    ]
   },
   {
@@ -521,12 +521,11 @@
    "title": "Number19",
    "description": "Number19, the Brooklyn band Sarth Calhoun formed in 1999 with Leah Coloff, Tony Diodore and Mark Righter, and its album Suspension.",
    "facet": "dream",
-   "published": "2026-09-24",
+   "published": null,
    "headings": [
     "How it began",
     "Suspension",
-    "Where everyone went next",
-    "ib4e and Robert Trujillo"
+    "Where everyone went next"
    ]
   },
   {
@@ -1069,8 +1068,7 @@
    "headings": [
     "Number19",
     "Puracane and BM LINX",
-    "Back in the same band",
-    "How I introduced him"
+    "Back in the same band"
    ]
   },
   {
@@ -1280,6 +1278,30 @@
    ]
   },
   {
+   "route": "/transmissions/i-before-e/",
+   "url": "https://www.sarth.net/transmissions/i-before-e/",
+   "markdown": "https://www.sarth.net/transmissions/i-before-e/index.md",
+   "title": "I Before E",
+   "description": "I Before E, track six of Suspension by Number19, 2001, and Sarth Calhoun’s note ib4e and Robert Trujillo, written May 2022, as written.",
+   "facet": "dream",
+   "published": "2001",
+   "headings": [
+    "The song"
+   ]
+  },
+  {
+   "route": "/transmissions/through-the-brambles/",
+   "url": "https://www.sarth.net/transmissions/through-the-brambles/",
+   "markdown": "https://www.sarth.net/transmissions/through-the-brambles/index.md",
+   "title": "Through the Brambles",
+   "description": "Through the Brambles, the 360° VR film from Third Wall Studio directed by Jacob McCoy, May 2026, built inside Burlap from prompted 360° imagery.",
+   "facet": "dream",
+   "published": "2026-05-11",
+   "headings": [
+    "How it was made"
+   ]
+  },
+  {
    "route": "/transmissions/introspections/",
    "url": "https://www.sarth.net/transmissions/introspections/",
    "markdown": "https://www.sarth.net/transmissions/introspections/index.md",
@@ -1337,8 +1359,21 @@
     "Lou Reed song band, 2011",
     "Lulu",
     "Later",
+    "Talks",
     "One-offs",
     "On record"
+   ]
+  },
+  {
+   "route": "/sightings/reaktor-live-2023/",
+   "url": "https://www.sarth.net/sightings/reaktor-live-2023/",
+   "markdown": "https://www.sarth.net/sightings/reaktor-live-2023/index.md",
+   "title": "Reaktor Live, June 27, 2023",
+   "description": "Reaktor Live, June 27, 2023: Maximizing Growth Through Accessible and Actionable Data. Sarth Calhoun of Reaktor with Michele Stone of Paramount, moderated by Ian Fosbery; the recording is on YouTube.",
+   "facet": "message",
+   "published": null,
+   "headings": [
+    "The panel"
    ]
   },
   {
@@ -1456,6 +1491,7 @@
     "[Devices](/devices/)",
     "[Rumors](/rumors/)",
     "[Sightings](/sightings/)",
+    "[Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)",
     "[Transmissions](/transmissions/)",
     "[Beautiful Tornado](/transmissions/beautiful-tornado/)",
     "[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)",
@@ -1465,6 +1501,7 @@
     "[Defending the boundary](/transmissions/external-tables/defending-the-boundary/)",
     "[Living with the code](/transmissions/external-tables/living-with-the-code/)",
     "[Why append-only](/transmissions/external-tables/why-append-only/)",
+    "[I Before E](/transmissions/i-before-e/)",
     "[Introspections](/transmissions/introspections/)",
     "[Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)",
     "[Peggy Sue](/transmissions/peggy-sue/)",
@@ -1474,6 +1511,7 @@
     "[Suspension](/transmissions/suspension/)",
     "[The Creation of the Universe](/transmissions/the-creation-of-the-universe/)",
     "[The Family Album](/transmissions/the-family-album/)",
+    "[Through the Brambles](/transmissions/through-the-brambles/)",
     "[Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/)",
     "[Visual Reference Prompting](/transmissions/visual-reference-prompting/)",
     "[Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/)",

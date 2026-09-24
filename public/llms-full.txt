@@ -74,7 +74,7 @@ Machine-readable companions:
 
 ## Pages
 
-106 pages follow, in reading order, separated by a horizontal rule.
+109 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -105,13 +105,13 @@ Burlap. Download at [burlap.app](https://burlap.app/download).
 
 [Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/)
 
-### Dream (30)
+### Dream (32)
 
-[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Power and Serenity](/conspiracies/power-and-serenity/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
+[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Power and Serenity](/conspiracies/power-and-serenity/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [I Before E](/transmissions/i-before-e/) · [Through the Brambles](/transmissions/through-the-brambles/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
 
-### Message (10)
+### Message (11)
 
-[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) · [Window functions, the mental model](/transmissions/window-functions/) · [SQL as the data language](/transmissions/sql-as-the-data-language/) · [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · [Modern Postgres is shockingly capable](/transmissions/modern-postgres/) · [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · [Beautiful Tornado](/transmissions/beautiful-tornado/) · [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)
+[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) · [Window functions, the mental model](/transmissions/window-functions/) · [SQL as the data language](/transmissions/sql-as-the-data-language/) · [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · [Modern Postgres is shockingly capable](/transmissions/modern-postgres/) · [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · [Beautiful Tornado](/transmissions/beautiful-tornado/) · [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/) · [Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)
 
 Earlier
 
@@ -209,7 +209,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
 - **[Third Wall Studio](/conspiracies/third-wall-studio/).** Founder, May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic. Seven films in 2026 with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, all made in Burlap.
 
-  [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [the films](/transmissions/#optical)
+  [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [the films](/transmissions/#optical) · [Through the Brambles](/transmissions/through-the-brambles/)
 
 - **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025.
 
@@ -236,6 +236,8 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 ## Data engineering
 
 - **Data engineer at [Reaktor](https://reaktor.com), embedded in Paramount’s Advanced Advertising data organization.** The team built and ran the advertising data pipeline: household ad delivery, attribution, and the warehouse behind Paramount’s convergent ad products.
+
+  [Reaktor Live, June 2023](/sightings/reaktor-live-2023/), a webinar with Michele Stone of Paramount
 
 - **Redshift to Snowflake.** Moving the advertising pipeline off Redshift. My work included QA and reload, making sure the data that moved was the data that arrived. The team later presented that re-architecture on the main stage at Snowflake Summit 2025.
 
@@ -392,7 +394,7 @@ The credit: Sarth Calhoun founded Third Wall Studio in May 2025 and builds Burla
 
   [Full film on Vimeo](https://vimeo.com/1187032618/46e04bc8a5) · [Third Wall](https://www.thirdwallstudio.com/process)
 
-*Through the Brambles*, directed by [Jacob McCoy](/conspirators/jacob-mccoy/), is a VR story built entirely inside Burlap. Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. It is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles).
+[*Through the Brambles*](/transmissions/through-the-brambles/), directed by [Jacob McCoy](/conspirators/jacob-mccoy/), is a VR story built entirely inside Burlap. Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. It is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles).
 
 ## Conspiracies
 
@@ -2080,9 +2082,9 @@ Conspiracy · Dream
 
 It was the first band I made with Coloff and with Diodore. I started [Lucibel Crater](/conspiracies/lucibel-crater/) with Coloff in 2005, and played in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) with Diodore from 2011.
 
-![Cover of Suspension by Number 19.](/images/art-suspension.jpg)
+![Number19 in 2001, four tinted panels around the band’s logo: Mark Righter at the drums, Tony Diodore with a guitar, Sarth Calhoun on bass, Leah Coloff at the cello.](/images/number19-2001.gif)
 
-Cover, *Suspension*, Searching Eye Records, 2001.
+Number19, 2001: Mark Righter, drums; Tony Diodore, violin and guitar; Sarth Calhoun, bass and synth; Leah Coloff, cello and vocals. From the band’s site, numbernineteen.net.
 
 > Along his musical journeys, he met cellist and songwriter Leah Coloff, who convinced him to combine computers with music. The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
 > 
@@ -2090,13 +2092,15 @@ Cover, *Suspension*, Searching Eye Records, 2001.
 
 ## How it began
 
-The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. *Suspension* came out on Searching Eye Records and was the band’s only album.
+I met Mark by joining his band, and Leah by trying out for hers, when she was promoting her album *Dark Sweet Heart*. Both of them played in Gebbeth, my electronica-improv group, before the four of us formed Number19. The band’s site billed the music as Rhythm & Strings.
+
+The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads, led by the single “Water.” Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. *Suspension* came out on Searching Eye Records and was the band’s only album.
 
 ## Suspension
 
 [Embedded player](https://embed.music.apple.com/us/album/suspension/274828088)
 
-The record: [*Suspension*](/transmissions/suspension/), 2001. Nine tracks. On [Apple Music](https://music.apple.com/us/album/suspension/274828088) and [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5), credited to Number 19.
+The record: [*Suspension*](/transmissions/suspension/), 2001. Nine tracks. On [Apple Music](https://music.apple.com/us/album/suspension/274828088) and [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5), credited to Number 19. Track six, [“I Before E”](/transmissions/i-before-e/), has its own page, with the note I wrote about it in 2022.
 
 On mp3.com: The band notably funded its first album, Suspension, from mp3.com downloads. At one point the band was ranked #18 overall on the site, and garnered over 90,000 downloads in 6 months. [Wikipedia](https://en.wikipedia.org/wiki/Number19)
 
@@ -2110,59 +2114,7 @@ The credit: Sarth Calhoun, bass and Yamaha EX5, in Number19 with Tony Diodore, L
 
 Diodore played guitar and violin on [Puracane](https://en.wikipedia.org/wiki/Puracane)’s *I’ve Been Here the Longest*, then formed [BM LINX](https://en.wikipedia.org/wiki/BM_Linx) in 2005. That same year I started Lucibel Crater with Coloff on cello and voice and [Paul Chuffo](/conspirators/paul-chuffo/) on drums. I joined [Lou Reed](/conspirators/lou-reed/)’s touring band in 2008; Diodore joined it in 2011, and the two of us spent the 2011 and 2012 European cycles in the same band again. Those dates are on [Sightings](/sightings/).
 
-I wrote the introduction and the biography quoted here for my old WordPress site, recovered from the Wayback Machine. The mp3.com figures are Wikipedia’s, citing CD Baby.
-
-## ib4e and Robert Trujillo
-
-I wrote this in May 2022, about the sixth track on *Suspension*. It is here as written.
-
-One of my regrets, if I were to have any, is I didn’t tell Robert Trujillo what he meant to me.
-
-I’ve had the absurd privilege to meet three of the bass players who had the most influence on me, and I handled each of them very differently.
-
-When I met Rob Wasserman, he was playing with Lou’s band, and I wasn’t - yet. I ran into him backstage before a show at St. Ann’s warehouse and just blurted out “Rob Wasserman!” I’m your biggest fan! This was probably an exaggeration, but directionally correct. Rob actually released an album of solo upright bass in a time where it was like “who even does that?.” When I approached him so enthusiastically Rob just chuckled and looked vaguely uncomfortable, then after a brief exchange, as I turned away he repeated “your biggest fan …” in a slightly chiding but appreciative manner. Rob was like that. And he was such a big awkward lunk, soft spoken and shy, it didn’t feel fraught to throw some enthusiasm his way. [shower him with enthusiasm]
-
-Much later, I met John Paul Jones at the Kyma Symposium in Busan, Korea. We ended up hitting it off and chatting a bunch over the course of several days. He told me cool stories about Led Zeppelin and I managed to convey how important he was to me. I told him about learning bass and frustratedly replaying “Communication Breakdown” over and over and over because I couldn’t get that descending lick. It’s fair to say no bass player had more influence me than JPJ, he was the one I learned from, and his lyrical style moving underneath structured guitar informed and shaped me to this day.
-
-When I met Robert Trujillo, I was in a bit of a different spot. I had been working with Lou for a while and this record with Metallica had me tied in knots. Much like Zeppelin, Metallica had shaped me permanently. I was just the right age when And Justice For All came out. And along with Master of Puppets, I think it is widely agreed Metallica fully defined an art form. Those records are a pinnacle of innovative accomplishment.
-
-All of that was done before they became arguably the largest touring band in history, and before Trujillo joined.
-
-But as a bass player it wasn’t Cliff Burton who I emulated. It was Robert Trujillo, with Suicidal Tendencies and Infectious Grooves, who introduced me to the concept of slap bass in metal, and I was sold. This flashy driving bass style - shout out to Flea and Les Claypool - was firewater in my veins. I had for whatever reason chosen an instrument which played a supporting role, and these guys showed me it could sing.
-
-So, when I met Robert Trujillo I of course … mentioned none of this. Man, I was wound tight during those recordings. It had become a pattern at that point. I don’t have a picture with Yoko Ono, with Peter Gabriel … I don’t have a picture with anyone from my time playing with Lou, because I was always trying so hard to seem cool, to seem like equals with these people. These giants.
-
-I think I believed if I didn’t act like these were once in a lifetime moments, they wouldn’t be. This is just normal for me going forward.
-
-I’m a giant too! I desperately claimed.
-
-On the first day of the Metallica recording all the guys were sitting around the breakfast table and Lou says to them “this is Sarth, he is your biggest fan.” No mention that I composed this music with him, not introducing me as a collaborator. The person I am now would take that as necessary ribbing. It was strange that I was there. Lars gave me shit too. But nothing I couldn’t handle, and that’s how guys denature that elephant in the room. But at the time it felt like I was deep, deep underwater, and if I thrashed about I would certainly drown.
-
-So I went what I call ‘full Brooklyn’ … put up all my armor and chutzpah and tried to collaborate with these men as equals … best I could.
-
-We proceeded to walk into the studio and the very first song we recorded was ‘Cheat on Me.” Yeah. The only one where the whole thing is built around a riff that I start by playing all by myself on the Moog. With everyone staring at me. Lou Reed and Metallica. Minute one of the first day of the recording.
-
-At the time I didn’t have the ability to raise and lower the drawbridge on command.
-
-Which led to the ridiculous scenario where much later I’m riding in a car to go see U2 with Rob, and he’s being the friendliest dude ever. So encouraging. And he’s playing me old unreleased Infectious Grooves stuff and other cool things and I say nothing about how much it means to me. He references maybe we could jam sometime and I make reserved interest noises. I mean, this was a ride where we got stuck in traffic and had to pull over on the side of the highway and take a piss. Typical bonding stuff. He also offered to teach me how to surf.
-
-The only walls here were put up by me.
-
-In retrospect it makes me laugh. I don’t know who I was trying to convince. I was delighted to be there, overjoyed and basically shell shocked to be working with these people, and gave it my absolute best. That’s all I needed to do or be, and I acquitted myself with honor. And they were all welcoming, friendly, and supportive. So what exactly was the issue here?
-
-Anyway, this song, ib4e, would never have existed if Robert Trujillo hadn’t existed. I’m not putting my playing in the same league as his, but rather identifying it as a bit of an homage. Shout out also to the Turtle Island String Quartet. Some technical notes: in the third break I do disrupt the momentum somewhat but I swear I had a purpose. The triplets might reference Marcus Miller’s assertion that any bass player who uses triplets when they shouldn’t gets a beat down. And the end of the break uses a technique called ‘tihai’… I was studying tabla at the time with Misha Masud, and this is a way a table player would signal their solo is over. You play a repeating phrase of 5 beats, 1 beat rest, 5 beats, one beat rest, 5 beats, which means that fifth beat land on the downbeat of the next measure which is the end of your solo.
-
-Rob: it was great to meet you, great to work with you, and thanks for the inspiration when I was just learning to slap and pop.
-
-— Sarth
-
-[Embedded player](https://open.spotify.com/embed/track/6FAiWQFsRHvN03n9py99wM)
-
-The song: *I Before E*, track six of *Suspension*, 3:41. On [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM) and [Apple Music](https://music.apple.com/us/album/suspension/274828088), credited to Number 19.
-
-The note: Sarth Calhoun, written May 5 to 8, 2022, in his notes; first published here, September 24, 2026.
-
-The note is from my own notes, dated by the app I wrote it in. Nothing in it has been changed.
+I wrote the introduction and the biography quoted here for my old WordPress site, recovered from the Wayback Machine. How we met, Gebbeth, Rhythm & Strings and the single are from the band’s own site, numbernineteen.net, as captured in 2001, and so is the photograph. The mp3.com figures are Wikipedia’s, citing CD Baby.
 
 ---
 
@@ -2428,7 +2380,7 @@ Filmmaker, and Director, Production at Third Wall Studio. We have made things to
 
 He was one of the four people I thanked when [Book of Sarth](/conspiracies/book-of-sarth/) was finished in 2012: Jacob McCoy is unstoppable. On March 2, 2015, Lou Reed’s birthday, we recorded Linnstrument and Continuum duets; one became “[For Lovers](/transmissions/singles/),” dedicated to Lou, filmed that spring and released as a single in 2020. He plays the Linnstrument drones on the second [Introspections](/transmissions/introspections/) video, filmed and edited the two duets with [Sxip Shirey](/conspirators/sxip-shirey/) that same year, and plays bass on “[I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/).”
 
-At [Third Wall Studio](/conspiracies/third-wall-studio/) he is Director, Production, and he directed three of the studio’s films, all made in [Burlap](/conspiracies/burlap/): *Meatsuitz – Dare to be Delicious*, a meat-themed swimwear ad, December 2025; *Meatsuitz Family Vacay*, January 2026; and *Through the Brambles*, the studio’s 360° VR film, May 2026.
+At [Third Wall Studio](/conspiracies/third-wall-studio/) he is Director, Production, and he directed three of the studio’s films, all made in [Burlap](/conspiracies/burlap/): *Meatsuitz – Dare to be Delicious*, a meat-themed swimwear ad, December 2025; *Meatsuitz Family Vacay*, January 2026; and [*Through the Brambles*](/transmissions/through-the-brambles/), the studio’s 360° VR film, May 2026.
 
 The credit: Jacob McCoy and Sarth Calhoun: The Book of Sarth (2012), “For Lovers” (recorded March 2, 2015; single, 2020), Introspections (2015), “I Just Believe in Christmas” (2015, McCoy on bass), and Third Wall Studio, where McCoy is Director, Production and directed Meatsuitz – Dare to be Delicious (2025), Meatsuitz Family Vacay (2026) and Through the Brambles (2026).
 
@@ -3596,11 +3548,17 @@ Conspirator
 
 She and I have made three things together: Number19, Lucibel Crater, and [Book of Sarth](/conspiracies/book-of-sarth/).
 
+![Leah Coloff at the cello, singing, in a black-and-white photograph from 2001.](/images/number19-leah-coloff-2001.jpg)
+
+Leah Coloff in 2001, from the Number19 site, numbernineteen.net.
+
+> Along his musical journeys, he met cellist and songwriter Leah Coloff, who convinced him to combine computers with music. The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
+> 
+> The biography on Sarth Calhoun’s old WordPress site
+
 ## Number19
 
-Coloff, [Tony Diodore](/conspirators/tony-diodore/), Mark Righter and I formed Number19 in 1999. The band put looped cello and voice over bass and drums, and paid for its first record, *Suspension*, out of mp3.com downloads.
-
-From the biography on my old site: Along his musical journeys, he met cellist and songwriter Leah Coloff, who convinced him to combine computers with music. The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
+Coloff, [Tony Diodore](/conspirators/tony-diodore/), [Mark Righter](/conspirators/mark-righter/) and I formed [Number19](/conspiracies/number19/) in 1999. I met her trying out for her band, when she was promoting *Dark Sweet Heart*, and she played in Gebbeth, my electronica-improv group, before Number19. The band put looped cello and voice over bass and drums, and paid for its first record, [*Suspension*](/transmissions/suspension/), out of mp3.com downloads.
 
 ## Lucibel Crater
 
@@ -3616,7 +3574,7 @@ The credit: Leah Coloff and Sarth Calhoun have played together since Number19 in
 
 > Leah Coloff is a Brooklyn-based cellist/singer/songwriter whose first album “Dark Sweet Heart” was greeted with critical praise and college radio play in the US. She tours and records as a solo act, cello and voice unaccompanied by other musicians or fancy machinery. She recently co-starred as Emily Dickinson in Ridge Theater’s “Lighting at Our Feet,” playing and singing music composed by [Michael Gordon](https://en.wikipedia.org/wiki/Michael_Gordon_(composer)). She’s contributed her cello to a long list of recording artists including [Ziggy Marley](https://en.wikipedia.org/wiki/Ziggy_Marley), [Rufus Wainwright](https://en.wikipedia.org/wiki/Rufus_Wainwright), [Dr. John](https://en.wikipedia.org/wiki/Dr._John), [Nancy Sinatra](https://en.wikipedia.org/wiki/Nancy_Sinatra), [Joel Thome](https://en.wikipedia.org/wiki/Joel_Thome), and [David Bowie](https://en.wikipedia.org/wiki/David_Bowie). When performing with Lucibel Crater, Leah takes on many roles, one minute she’s a beat poet and her cello becomes an upright bass, the next she’s a cello playing hendrix, soul singing and feedback soloing.
 
-I wrote that introduction for the conspirators section of my old WordPress site, recovered from the Wayback Machine.
+I wrote that introduction, and the biography quoted above, for my old WordPress site, recovered from the Wayback Machine. How we met is from the band’s own site, numbernineteen.net, as captured in 2001, and so is the photograph.
 
 ---
 
@@ -3662,9 +3620,9 @@ Drummer of Number19, and a furniture maker.
 
 [Mark Righter](https://cambiumstudio.com/mark-righter) is a drummer, percussionist and vocalist from New Haven, Connecticut, living in Brooklyn, and a founding member of the Harlem collective Casa Mantequilla. In 2004 he founded Cambium Studio, a furniture design and build firm now in the Brooklyn Navy Yard, and he teaches part-time at Parsons School of Design.
 
-![Cover of Suspension by Number19.](/images/art-suspension.jpg)
+![Mark Righter at the drums, in a black-and-white photograph from 2001.](/images/number19-mark-righter-2001.jpg)
 
-Cover of *Suspension*, Number19, 2001.
+Mark Righter in 2001, from the Number19 site, numbernineteen.net.
 
 > Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx.
 > 
@@ -3672,11 +3630,11 @@ Cover of *Suspension*, Number19, 2001.
 
 ## Number19
 
-He played drums in [Number19](/conspiracies/number19/), the band [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/) and I formed in Brooklyn in 1999, and on its one album, [*Suspension*](/transmissions/suspension/) (2001), which the band paid for out of mp3.com downloads.
+He played drums in [Number19](/conspiracies/number19/), the band [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/) and I formed in Brooklyn in 1999, and on its one album, [*Suspension*](/transmissions/suspension/) (2001), which the band paid for out of mp3.com downloads. I met him by joining his band; we had both played in Mother Heavy, a funk-rock band, and he played in Gebbeth, my electronica-improv group, before Number19.
 
 The credit: Mark Righter, drums, in Number19 with Sarth Calhoun, Leah Coloff and Tony Diodore, 1999 to 2005; Suspension, 2001.
 
-The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.
+The profile is from public sources, linked where they appear. Mother Heavy, Gebbeth and the photograph are from the band’s own site, numbernineteen.net, as captured in 2001. What we made is the record on this site and the sources cited above.
 
 ---
 
@@ -3692,9 +3650,17 @@ Conspirator
 
 Tony Diodore is a guitarist and violinist in Brooklyn. He has played in [Number19](https://en.wikipedia.org/wiki/Number19), [Puracane](https://en.wikipedia.org/wiki/Puracane) and [BM LINX](https://en.wikipedia.org/wiki/BM_Linx). From 2011 he played guitar and violin in [Lou Reed](/conspirators/lou-reed/)’s touring band, the same band I was already in.
 
+![Tony Diodore playing violin, in a black-and-white photograph from 2001.](/images/number19-tony-diodore-2001.jpg)
+
+Tony Diodore in 2001, from the Number19 site, numbernineteen.net.
+
+> Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
+> 
+> Sarth Calhoun, introducing the band on his old WordPress site
+
 ## Number19
 
-Diodore, [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and I formed Number19 in 1999, with Tony on guitar and violin. The band funded its first record, *Suspension*, out of mp3.com downloads, at one point sitting at number eighteen overall on the site.
+Diodore, [Leah Coloff](/conspirators/leah-coloff/), [Mark Righter](/conspirators/mark-righter/) and I formed [Number19](/conspiracies/number19/) in 1999, with Tony on guitar and violin. The band funded its first record, [*Suspension*](/transmissions/suspension/), out of mp3.com downloads, at one point sitting at number eighteen overall on the site.
 
 ## Puracane and BM LINX
 
@@ -3708,11 +3674,7 @@ Tony once said that I was Lou’s imagination, when Lou wanted to just have some
 
 The credit: Tony Diodore and Sarth Calhoun formed Number19 together in 1999 (*Suspension*, 2001) and played together in Lou Reed’s band on the 2011 and 2012 European tours, Diodore on guitar and violin, Calhoun on Continuum and Kyma.
 
-## How I introduced him
-
-> Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
-
-I wrote that introduction for the conspirators section of my old WordPress site, recovered from the Wayback Machine.
+I wrote the introduction quoted above for the conspirators section of my old WordPress site, recovered from the Wayback Machine. The photograph is from the band’s own site, as captured in 2001.
 
 ---
 
@@ -3956,6 +3918,12 @@ Records and songs.
 
   [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
 
+- ## [I Before E](/transmissions/i-before-e/)
+
+  2001. Track six of *Suspension*, with the note I wrote about it in May 2022.
+
+  [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM)
+
 ## Optical
 
 Films, apps and video.
@@ -3965,6 +3933,12 @@ Films, apps and video.
   Seven films made at Third Wall Studio with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, built in Burlap.
 
   [Third Wall](https://thirdwallstudio.com) · [YouTube](https://www.youtube.com/@burlap_app)
+
+- ## [Through the Brambles](/transmissions/through-the-brambles/)
+
+  2026. A 360° VR film from Third Wall Studio, directed by Jacob McCoy, built inside Burlap from prompted 360° imagery.
+
+  [YouTube](https://www.youtube.com/watch?v=ttWqwhzE-yA) · [Third Wall](https://www.thirdwallstudio.com/through-the-brambles)
 
 - ## [Burlap](/conspiracies/burlap/)
 
@@ -4496,11 +4470,13 @@ Transmission · Dream
 
 Cover, *Suspension*, 2001.
 
-The songs: 1. Tuner/Escalator. 2. Cold Fish. 3. Water. 4. Wheelies. 5. Everyone’s Desire. 6. I Before E. 7. Light. 8. Blue. 9. Intro.
+The songs: 1. Tuner/Escalator. 2. Cold Fish. 3. Water. 4. Wheelies. 5. Everyone’s Desire. 6. [I Before E](/transmissions/i-before-e/). 7. Light. 8. Blue. 9. Intro.
 
 ## Paid for by downloads
 
-The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. From the biography on my old site: The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
+The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads, and the single that led them was “Water,” track three. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. From the biography on my old site: The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
+
+Nine songs, recorded with Diodore on guitar and violin, me on bass and a Yamaha EX5, Coloff on cello and voice, Righter on drums. The band’s site called the music Rhythm & Strings. Spotify dates the album 2007, the year it went up there; it came out in 2001. The sixth track, [“I Before E,”](/transmissions/i-before-e/) has its own page with the note I wrote about it in 2022.
 
 ## Listen
 
@@ -4516,7 +4492,115 @@ The credit: Sarth Calhoun, bass and Yamaha EX5, on *Suspension* by Number19, wit
 
 Made by [Number19](/conspiracies/number19/). It was the first record I made with [Leah Coloff](/conspirators/leah-coloff/) and with [Tony Diodore](/conspirators/tony-diodore/); the three of us went on to [Lucibel Crater](/conspiracies/lucibel-crater/) and [Lou Reed’s band](/conspiracies/lou-reed-song-band/).
 
-My lines are from my old WordPress site, recovered from the Wayback Machine. Track list from Apple Music.
+My lines are from my old WordPress site, recovered from the Wayback Machine. Track list from Apple Music. The single and Rhythm & Strings are from the band’s own site, numbernineteen.net, as captured in 2001.
+
+---
+
+# I Before E
+
+https://www.sarth.net/transmissions/i-before-e/
+
+[Transmissions](/transmissions/) / [Suspension](/transmissions/suspension/) / I Before E
+
+Transmission · Dream
+
+# I Before E
+
+Track six of *Suspension*, and the note I wrote about it in May 2022.
+
+“I Before E,” which I call ib4e, is the sixth track on [*Suspension*](/transmissions/suspension/), the 2001 album by [Number19](/conspiracies/number19/): [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), [Mark Righter](/conspirators/mark-righter/) and me. Three minutes and forty-one seconds. I played bass on it. The slap style is an homage to Robert Trujillo, and the end of the third break is a tihai, a tabla player’s closing figure, which I was studying at the time with Misha Masud.
+
+In May 2022 I wrote a note about the song, about meeting Rob Wasserman, John Paul Jones and Robert Trujillo, and about the first day of the [*Lulu*](/conspiracies/lulu/) recording. It is below as written.
+
+[Embedded player](https://open.spotify.com/embed/track/6FAiWQFsRHvN03n9py99wM)
+
+ib4e and Robert Trujillo · May 5 to 8, 2022
+
+One of my regrets, if I were to have any, is I didn’t tell Robert Trujillo what he meant to me.
+
+I’ve had the absurd privilege to meet three of the bass players who had the most influence on me, and I handled each of them very differently.
+
+When I met Rob Wasserman, he was playing with Lou’s band, and I wasn’t - yet. I ran into him backstage before a show at St. Ann’s warehouse and just blurted out “Rob Wasserman!” I’m your biggest fan! This was probably an exaggeration, but directionally correct. Rob actually released an album of solo upright bass in a time where it was like “who even does that?.” When I approached him so enthusiastically Rob just chuckled and looked vaguely uncomfortable, then after a brief exchange, as I turned away he repeated “your biggest fan …” in a slightly chiding but appreciative manner. Rob was like that. And he was such a big awkward lunk, soft spoken and shy, it didn’t feel fraught to throw some enthusiasm his way. [shower him with enthusiasm]
+
+Much later, I met John Paul Jones at the Kyma Symposium in Busan, Korea. We ended up hitting it off and chatting a bunch over the course of several days. He told me cool stories about Led Zeppelin and I managed to convey how important he was to me. I told him about learning bass and frustratedly replaying “Communication Breakdown” over and over and over because I couldn’t get that descending lick. It’s fair to say no bass player had more influence me than JPJ, he was the one I learned from, and his lyrical style moving underneath structured guitar informed and shaped me to this day.
+
+When I met Robert Trujillo, I was in a bit of a different spot. I had been working with Lou for a while and this record with Metallica had me tied in knots. Much like Zeppelin, Metallica had shaped me permanently. I was just the right age when And Justice For All came out. And along with Master of Puppets, I think it is widely agreed Metallica fully defined an art form. Those records are a pinnacle of innovative accomplishment.
+
+All of that was done before they became arguably the largest touring band in history, and before Trujillo joined.
+
+But as a bass player it wasn’t Cliff Burton who I emulated. It was Robert Trujillo, with Suicidal Tendencies and Infectious Grooves, who introduced me to the concept of slap bass in metal, and I was sold. This flashy driving bass style - shout out to Flea and Les Claypool - was firewater in my veins. I had for whatever reason chosen an instrument which played a supporting role, and these guys showed me it could sing.
+
+So, when I met Robert Trujillo I of course … mentioned none of this. Man, I was wound tight during those recordings. It had become a pattern at that point. I don’t have a picture with Yoko Ono, with Peter Gabriel … I don’t have a picture with anyone from my time playing with Lou, because I was always trying so hard to seem cool, to seem like equals with these people. These giants.
+
+I think I believed if I didn’t act like these were once in a lifetime moments, they wouldn’t be. This is just normal for me going forward.
+
+I’m a giant too! I desperately claimed.
+
+On the first day of the Metallica recording all the guys were sitting around the breakfast table and Lou says to them “this is Sarth, he is your biggest fan.” No mention that I composed this music with him, not introducing me as a collaborator. The person I am now would take that as necessary ribbing. It was strange that I was there. Lars gave me shit too. But nothing I couldn’t handle, and that’s how guys denature that elephant in the room. But at the time it felt like I was deep, deep underwater, and if I thrashed about I would certainly drown.
+
+So I went what I call ‘full Brooklyn’ … put up all my armor and chutzpah and tried to collaborate with these men as equals … best I could.
+
+We proceeded to walk into the studio and the very first song we recorded was ‘Cheat on Me.” Yeah. The only one where the whole thing is built around a riff that I start by playing all by myself on the Moog. With everyone staring at me. Lou Reed and Metallica. Minute one of the first day of the recording.
+
+At the time I didn’t have the ability to raise and lower the drawbridge on command.
+
+Which led to the ridiculous scenario where much later I’m riding in a car to go see U2 with Rob, and he’s being the friendliest dude ever. So encouraging. And he’s playing me old unreleased Infectious Grooves stuff and other cool things and I say nothing about how much it means to me. He references maybe we could jam sometime and I make reserved interest noises. I mean, this was a ride where we got stuck in traffic and had to pull over on the side of the highway and take a piss. Typical bonding stuff. He also offered to teach me how to surf.
+
+The only walls here were put up by me.
+
+In retrospect it makes me laugh. I don’t know who I was trying to convince. I was delighted to be there, overjoyed and basically shell shocked to be working with these people, and gave it my absolute best. That’s all I needed to do or be, and I acquitted myself with honor. And they were all welcoming, friendly, and supportive. So what exactly was the issue here?
+
+Anyway, this song, ib4e, would never have existed if Robert Trujillo hadn’t existed. I’m not putting my playing in the same league as his, but rather identifying it as a bit of an homage. Shout out also to the Turtle Island String Quartet. Some technical notes: in the third break I do disrupt the momentum somewhat but I swear I had a purpose. The triplets might reference Marcus Miller’s assertion that any bass player who uses triplets when they shouldn’t gets a beat down. And the end of the break uses a technique called ‘tihai’… I was studying tabla at the time with Misha Masud, and this is a way a table player would signal their solo is over. You play a repeating phrase of 5 beats, 1 beat rest, 5 beats, one beat rest, 5 beats, which means that fifth beat land on the downbeat of the next measure which is the end of your solo.
+
+Rob: it was great to meet you, great to work with you, and thanks for the inspiration when I was just learning to slap and pop.
+
+— Sarth
+
+The note is from my own notes, dated by the app I wrote it in. Nothing in it has been changed. It went up on the Number19 page on September 24, 2026 and moved here the same day.
+
+![Sarth Calhoun at a keyboard, an upright bass beside him, in a black-and-white photograph from 2001.](/images/number19-sarth-calhoun-2001.jpg)
+
+Sarth Calhoun in 2001, from the Number19 site, numbernineteen.net.
+
+## The song
+
+Track six of nine, between “Everyone’s Desire” and “Light.” The album was paid for out of mp3.com downloads and came out on Searching Eye Records; the rest of it is on the [Suspension](/transmissions/suspension/) page. On [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM) and [Apple Music](https://music.apple.com/us/album/suspension/274828088) it is credited to Number 19.
+
+The credit: “I Before E” (ib4e), track six of *Suspension* by Number19, 2001, 3:41: Sarth Calhoun, bass and Yamaha EX5, with Tony Diodore, Leah Coloff and Mark Righter. The note *ib4e and Robert Trujillo* is by Sarth Calhoun, written May 5 to 8, 2022, first published September 24, 2026.
+
+---
+
+# Through the Brambles
+
+https://www.sarth.net/transmissions/through-the-brambles/
+
+[Transmissions](/transmissions/) / Through the Brambles
+
+Transmission · Dream
+
+# Through the Brambles
+
+A 360° VR film from Third Wall Studio, directed by Jacob McCoy and built inside Burlap.
+
+*Through the Brambles*, directed by [Jacob McCoy](/conspirators/jacob-mccoy/), is a VR story built entirely inside [Burlap](/conspiracies/burlap/). Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. [Third Wall Studio](/conspiracies/third-wall-studio/) put it on YouTube on May 11, 2026, and it is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles), with a case study.
+
+[Embedded player](https://www.youtube.com/embed/ttWqwhzE-yA)
+
+The credit: *Through the Brambles*, 2026: a 360° VR film from Third Wall Studio, directed by Jacob McCoy, made in Burlap, the app Sarth Calhoun created; Calhoun founded the studio. Stills by Gemini, motion by Veo, narration by ElevenLabs, edit and ambisonic mix in DaVinci Resolve.
+
+## How it was made
+
+The studio’s page on the film says:
+
+> Through the Brambles is a fully AI-generated VR narrative, designed for headset playback. Every frame and environment was created with Gemini’s image and video models, prompted as 360 degree equirectangular imagery and assembled into a continuous, immersive journey.
+> 
+> The piece came out of an ongoing exploration inside Burlap, an AI-native canvas workflow tool, where I was testing the edges of what current models could actually do. Equirectangular generation kept opening up — Nano Banana could produce consistent 360 stills, and Veo 3.1, with aggressive prompting, could hold that geometry together through motion. After some early experiments with shorter, gimmickier VR concepts, I wanted to see if the pipeline could carry a real narrative. A black rotary telephone on a table became the spatial anchor, holding the viewer’s orientation as the world shifts around them. ElevenLabs voiced the narration. Edit and ambisonics mix were finished in DaVinci Resolve.
+> 
+> Through the Brambles is an early attempt at narrative immersive work built entirely from prompts — a small proof that generative tools can carry storytelling weight inside a headset, not just spectacle.
+
+[thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles)
+
+The description is the one on this site’s Third Wall Studio page. The quoted paragraphs are the studio’s page on the film, as published. The date is the YouTube upload.
 
 ---
 
@@ -4846,6 +4930,12 @@ Electronics on *[Lulu](/conspiracies/lulu/)*, 2011, and Continuum drones on the 
 
 - **March 2, 2023** · Brookfield Place Winter Garden. Lou Reed’s 81st birthday. Guest performance with Kevin Hearn, Shahzad Ismaily, Laurie Anderson, against Lou Reed’s Musical Drones (Stewart Hurwood).
 
+## Talks
+
+- **June 27, 2023** · Reaktor Live, online. “Maximizing Growth Through Accessible and Actionable Data,” with Michele Stone of Paramount, moderated by Ian Fosbery. [The page](/sightings/reaktor-live-2023/).
+
+  [The recording](https://www.youtube.com/watch?v=Tn0FxV9NKns)
+
 ## One-offs
 
 - **June 23, 2009** · Whitney Museum of American Art, New York. Opening of the Persol “Incognito Design Exhibition.” A trio: Lou Reed, Mike Rathke on guitar, and me on electronic processing.
@@ -4863,6 +4953,34 @@ Electronics on *[Lulu](/conspiracies/lulu/)*, 2011, and Continuum drones on the 
 - ***The Creation of the Universe***, Lou Reed’s Metal Machine Trio, 2009. The two REDCAT nights, nearly whole.
 
   [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713) · [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
+
+---
+
+# Reaktor Live, June 27, 2023
+
+https://www.sarth.net/sightings/reaktor-live-2023/
+
+[Sightings](/sightings/) / Reaktor Live, 2023
+
+Sighting · Message
+
+# Reaktor Live, June 27, 2023
+
+Maximizing Growth Through Accessible and Actionable Data: a webinar with Michele Stone of Paramount, moderated by Ian Fosbery.
+
+Reaktor Live is [Reaktor](https://reaktor.com)’s webinar series. The session on June 27, 2023 was “Maximizing Growth Through Accessible and Actionable Data”: Michele Stone, VP of Advanced Advertising Product and Planning at Paramount, and me, Reaktor’s engineering lead and lead data architect on that account, with Ian Fosbery of Reaktor moderating. Reaktor put the recording on its YouTube channel on July 14, 2023.
+
+I was a data engineer at Reaktor, embedded in Paramount’s Advanced Advertising data organization; the team built and ran the advertising data pipeline. That work is on [Work](/work/), and the pattern behind it is written up in the [external-tables series](/transmissions/external-tables/).
+
+[Embedded player](https://www.youtube.com/embed/Tn0FxV9NKns)
+
+The credit: Reaktor Live, June 27, 2023, “Maximizing Growth Through Accessible and Actionable Data”: Sarth Calhoun, Reaktor engineering lead and lead data architect, with Michele Stone, VP Advanced Advertising Product and Planning, Paramount; Ian Fosbery, Reaktor, moderating. Recording on Reaktor’s YouTube channel, July 14, 2023.
+
+## The panel
+
+Michele Stone and Ian Fosbery each announced the session on LinkedIn in June 2023, and both posts are still up: [Stone’s](https://www.linkedin.com/posts/michele-stone-8150784_reaktorlive-engineering-data-activity-7074460781097955328-Qtbo) and [Fosbery’s](https://www.linkedin.com/posts/ian-fosbery_very-excited-to-be-moderating-this-chat-with-activity-7074777948012105728-AzwC). The registration page on Livestorm is gone. The recording is the record.
+
+Date, title and billing are from the recording on YouTube and the two LinkedIn posts. Titles are as the session billed them.
 
 ---
 
@@ -5268,7 +5386,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
 - [Puracane](https://en.wikipedia.org/wiki/Puracane)
 - [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
-- [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM)
 
 ## [Poughkeepsie](/conspiracies/poughkeepsie/)
 
@@ -5787,9 +5904,18 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [The recording](https://www.youtube.com/watch?v=Tn0FxV9NKns)
 - [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
+
+## [Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)
+
+`/sightings/reaktor-live-2023/`
+
+- [Reaktor](https://reaktor.com)
+- [Stone’s](https://www.linkedin.com/posts/michele-stone-8150784_reaktorlive-engineering-data-activity-7074460781097955328-Qtbo)
+- [Fosbery’s](https://www.linkedin.com/posts/ian-fosbery_very-excited-to-be-moderating-this-chat-with-activity-7074777948012105728-AzwC)
 
 ## [Transmissions](/transmissions/)
 
@@ -5808,8 +5934,11 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
 - [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
+- [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM)
 - [Third Wall](https://thirdwallstudio.com)
 - [YouTube](https://www.youtube.com/@burlap_app)
+- [YouTube](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+- [Third Wall](https://www.thirdwallstudio.com/through-the-brambles)
 - [burlap.app](https://burlap.app)
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [Vimeo](https://vimeo.com/125323250)
@@ -5882,6 +6011,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/transmissions/external-tables/why-append-only/`
 
 - [external tables](https://docs.snowflake.com/en/user-guide/tables-external-intro)
+
+## [I Before E](/transmissions/i-before-e/)
+
+`/transmissions/i-before-e/`
+
+- [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM)
+- [Apple Music](https://music.apple.com/us/album/suspension/274828088)
 
 ## [Introspections](/transmissions/introspections/)
 
@@ -5983,6 +6119,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [awaken music, April 1, 2009](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html)
 - [Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/)
 - [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/)
+
+## [Through the Brambles](/transmissions/through-the-brambles/)
+
+`/transmissions/through-the-brambles/`
+
+- [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles)
 
 ## [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/)
 

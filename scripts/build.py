@@ -784,7 +784,8 @@ def prose_paragraphs(main):
         for c in n.children:
             if isinstance(c, str):
                 continue
-            b = blocked or c.tag in ("blockquote", "figure", "figcaption", "cite", "dl", "table", "pre") or any(k in c.cls() for k in ("excerpt", "kicker", "breadcrumbs", "meta", "label", "hole", "credit"))
+            # a .letter is a piece of Sarth's own writing, run as written (PAGE-TEMPLATE, 24 Sep 2026): quoted text, never converted
+            b = blocked or c.tag in ("blockquote", "figure", "figcaption", "cite", "dl", "table", "pre") or any(k in c.cls() for k in ("excerpt", "kicker", "breadcrumbs", "meta", "label", "hole", "credit", "letter"))
             if (c.tag == "p" or (c.tag == "span" and not c.cls())) and not b:
                 out.append(c)
             walk(c, b)

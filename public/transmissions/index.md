@@ -96,6 +96,12 @@ Records and songs.
 
   [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
 
+- ## [I Before E](/transmissions/i-before-e/)
+
+  2001. Track six of *Suspension*, with the note I wrote about it in May 2022.
+
+  [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM)
+
 ## Optical
 
 Films, apps and video.
@@ -105,6 +111,12 @@ Films, apps and video.
   Seven films made at Third Wall Studio with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, built in Burlap.
 
   [Third Wall](https://thirdwallstudio.com) · [YouTube](https://www.youtube.com/@burlap_app)
+
+- ## [Through the Brambles](/transmissions/through-the-brambles/)
+
+  2026. A 360° VR film from Third Wall Studio, directed by Jacob McCoy, built inside Burlap from prompted 360° imagery.
+
+  [YouTube](https://www.youtube.com/watch?v=ttWqwhzE-yA) · [Third Wall](https://www.thirdwallstudio.com/through-the-brambles)
 
 - ## [Burlap](/conspiracies/burlap/)
 

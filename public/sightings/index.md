@@ -128,6 +128,12 @@ Electronics on *[Lulu](/conspiracies/lulu/)*, 2011, and Continuum drones on the 
 
 - **March 2, 2023** · Brookfield Place Winter Garden. Lou Reed’s 81st birthday. Guest performance with Kevin Hearn, Shahzad Ismaily, Laurie Anderson, against Lou Reed’s Musical Drones (Stewart Hurwood).
 
+## Talks
+
+- **June 27, 2023** · Reaktor Live, online. “Maximizing Growth Through Accessible and Actionable Data,” with Michele Stone of Paramount, moderated by Ian Fosbery. [The page](/sightings/reaktor-live-2023/).
+
+  [The recording](https://www.youtube.com/watch?v=Tn0FxV9NKns)
+
 ## One-offs
 
 - **June 23, 2009** · Whitney Museum of American Art, New York. Opening of the Persol “Incognito Design Exhibition.” A trio: Lou Reed, Mike Rathke on guitar, and me on electronic processing.

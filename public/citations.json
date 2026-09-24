@@ -2,8 +2,8 @@
   "about": "Outbound citations on sarth.net, listed per page. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. These links are here so a reader or an agent can follow a claim to further evidence, not because first-party statements require corroboration.",
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
-  "generated": "2026-09-24",
-  "citation_count": 512,
+  "generated": "2026-09-23",
+  "citation_count": 521,
   "pages": [
     {
       "path": "/",
@@ -625,10 +625,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/BM_Linx",
           "text": "BM LINX"
-        },
-        {
-          "url": "https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM",
-          "text": "Spotify"
         }
       ]
     },
@@ -1986,6 +1982,10 @@
           "text": "Stereophile"
         },
         {
+          "url": "https://www.youtube.com/watch?v=Tn0FxV9NKns",
+          "text": "The recording"
+        },
+        {
           "url": "https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php",
           "text": "loureed.com, Jun 25, 2009, archived news feed"
         },
@@ -1996,6 +1996,24 @@
         {
           "url": "https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe",
           "text": "Discogs"
+        }
+      ]
+    },
+    {
+      "path": "/sightings/reaktor-live-2023/",
+      "title": "Reaktor Live, June 27, 2023",
+      "citations": [
+        {
+          "url": "https://reaktor.com",
+          "text": "Reaktor"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/michele-stone-8150784_reaktorlive-engineering-data-activity-7074460781097955328-Qtbo",
+          "text": "Stone’s"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/ian-fosbery_very-excited-to-be-moderating-this-chat-with-activity-7074777948012105728-AzwC",
+          "text": "Fosbery’s"
         }
       ]
     },
@@ -2056,12 +2074,24 @@
           "text": "Spotify"
         },
         {
+          "url": "https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM",
+          "text": "Spotify"
+        },
+        {
           "url": "https://thirdwallstudio.com",
           "text": "Third Wall"
         },
         {
           "url": "https://www.youtube.com/@burlap_app",
           "text": "YouTube"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ttWqwhzE-yA",
+          "text": "YouTube"
+        },
+        {
+          "url": "https://www.thirdwallstudio.com/through-the-brambles",
+          "text": "Third Wall"
         },
         {
           "url": "https://burlap.app",
@@ -2243,6 +2273,20 @@
         {
           "url": "https://docs.snowflake.com/en/user-guide/tables-external-intro",
           "text": "external tables"
+        }
+      ]
+    },
+    {
+      "path": "/transmissions/i-before-e/",
+      "title": "I Before E",
+      "citations": [
+        {
+          "url": "https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM",
+          "text": "Spotify"
+        },
+        {
+          "url": "https://music.apple.com/us/album/suspension/274828088",
+          "text": "Apple Music"
         }
       ]
     },
@@ -2536,6 +2580,16 @@
         {
           "url": "http://lostinsound.org/lucibel-crater-not-your-dads-jazz/",
           "text": "Lost in Sound"
+        }
+      ]
+    },
+    {
+      "path": "/transmissions/through-the-brambles/",
+      "title": "Through the Brambles",
+      "citations": [
+        {
+          "url": "https://www.thirdwallstudio.com/through-the-brambles",
+          "text": "thirdwallstudio.com/through-the-brambles"
         }
       ]
     },

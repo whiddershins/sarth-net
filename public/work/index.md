@@ -15,7 +15,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
 - **[Third Wall Studio](/conspiracies/third-wall-studio/).** Founder, May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic. Seven films in 2026 with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, all made in Burlap.
 
-  [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [the films](/transmissions/#optical)
+  [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [the films](/transmissions/#optical) · [Through the Brambles](/transmissions/through-the-brambles/)
 
 - **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025.
 
@@ -42,6 +42,8 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 ## Data engineering
 
 - **Data engineer at [Reaktor](https://reaktor.com), embedded in Paramount’s Advanced Advertising data organization.** The team built and ran the advertising data pipeline: household ad delivery, attribution, and the warehouse behind Paramount’s convergent ad products.
+
+  [Reaktor Live, June 2023](/sightings/reaktor-live-2023/), a webinar with Michele Stone of Paramount
 
 - **Redshift to Snowflake.** Moving the advertising pipeline off Redshift. My work included QA and reload, making sure the data that moved was the data that arrived. The team later presented that re-architecture on the main stage at Snowflake Summit 2025.
 

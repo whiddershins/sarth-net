@@ -546,3 +546,81 @@ figure.audio figcaption { margin-top: 0.4rem; font-size: 0.82rem; color: var(--m
 .stagger-list .sub { color: var(--mute); font-size: 0.92rem; }
 .stagger-list a.w1 { display: block; }
 .stagger-list a.w1 img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: #000; }
+
+/* ---------------------------------------------------------------- search */
+/* The footer form is a plain GET to /search/ and works with scripting off.
+   search.js upgrades the search page and the index filters when it loads. */
+.site-search {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.site-search label,
+.search-form label,
+.list-filter label {
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+.site-search input,
+.search-form input,
+.list-filter input {
+  flex: 1 1 14rem;
+  min-width: 0;
+  font: inherit;
+  font-size: 0.95rem;
+  padding: 0.35rem 0.5rem;
+  border: 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.5);
+  background: transparent;
+  color: inherit;
+}
+.site-search input:focus,
+.search-form input:focus,
+.list-filter input:focus {
+  outline: none;
+  border-bottom-color: currentColor;
+}
+.site-search button,
+.search-form button {
+  font: inherit;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.8rem;
+  border: 1px solid rgba(128, 128, 128, 0.5);
+  border-radius: 0.2rem;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+.search-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin: 0 0 1.6rem;
+}
+.search-form input { font-size: 1.15rem; flex-basis: 20rem; }
+.search-count {
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+.list-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin: 0 0 1.4rem;
+}
+.list-filter-count {
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  opacity: 0.6;
+}
+[hidden] { display: none !important; }

@@ -8,6 +8,8 @@ Projects
 
 # Conspiracies
 
+Filter entries
+
 Bands, tours, records, theater pieces, films, and machines.
 
 ## [Third Wall Studio](/conspiracies/third-wall-studio/)

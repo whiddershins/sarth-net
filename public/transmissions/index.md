@@ -8,6 +8,8 @@ Aural, optical, lexical
 
 # Transmissions
 
+Filter writing
+
 What went out: records, films, apps and writing. The collaborations that made them are [Conspiracies](/conspiracies/), and where they were played is [Sightings](/sightings/).
 
 ## Aural

@@ -169,6 +169,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Devices https://www.sarth.net/devices/
 - Citations https://www.sarth.net/citations/
 - Contact https://www.sarth.net/contact/
+- Search https://www.sarth.net/search/
 
 ## Cite, do not duplicate
 

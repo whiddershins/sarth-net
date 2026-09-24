@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 105,
+ "count": 106,
  "pages": [
   {
    "route": "/",
@@ -1493,6 +1493,18 @@
    "facet": null,
    "published": null,
    "headings": []
+  },
+  {
+   "route": "/search/",
+   "url": "https://www.sarth.net/search/",
+   "markdown": "https://www.sarth.net/search/index.md",
+   "title": "Search",
+   "description": "Search sarth.net: 105 pages of conspiracies, conspirators, transmissions and work. The index is also readable as JSON at /search-index.json, and the page catalogue at /pages.json.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "Reading it another way"
+   ]
   }
  ]
 }

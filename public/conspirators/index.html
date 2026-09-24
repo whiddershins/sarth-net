@@ -148,12 +148,18 @@
       <a href="/contraptions/">Contraptions</a>
       <a href="/transmissions/">Transmissions</a>
       <a href="/contact/">Contact</a>
+      <a href="/search/">Search</a>
     </nav>
   </header>
 
   <main class="page directory">
     <p class="kicker">People</p>
     <h1>Conspirators</h1>
+    <div class="list-filter">
+      <label for="filter">Filter people</label>
+      <input type="search" id="filter" data-list-filter placeholder="a name, an instrument, a band" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <span class="list-filter-count" data-list-filter-status aria-live="polite"></span>
+    </div>
     <p class="lede">People I have made things with.</p>
     <h2 class="group">Third Wall Studio</h2>
     <ol class="cards people">
@@ -228,6 +234,11 @@
     <dl><dt>On this site</dt><dd><a href="/">Sarth Calhoun</a> · <a href="/conspiracies/">Conspiracies</a></dd><dt>What belongs here</dt><dd>People with whom Sarth made the work—not everyone who shared a bill.</dd></dl>
   </aside>
   <footer>
+    <form class="site-search" role="search" action="/search/" method="get">
+      <label for="site-q">Search</label>
+      <input type="search" id="site-q" name="q" placeholder="Search this site" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button type="submit">Go</button>
+    </form>
     <p>
       <a href="https://x.com/noisegroove">X</a>
       · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
@@ -250,5 +261,6 @@
     </p>
     <p class="host">All rights reserved</p>
   </footer>
+  <script src="/search.js" defer></script>
 </body>
 </html>

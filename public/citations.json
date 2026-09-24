@@ -1897,6 +1897,11 @@
       ]
     },
     {
+      "path": "/search/",
+      "title": "Search",
+      "citations": []
+    },
+    {
       "path": "/sightings/",
       "title": "Sightings",
       "citations": [

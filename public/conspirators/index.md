@@ -8,6 +8,8 @@ People
 
 # Conspirators
 
+Filter people
+
 People I have made things with.
 
 ## Third Wall Studio

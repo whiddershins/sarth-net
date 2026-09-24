@@ -154,12 +154,18 @@
       <a href="/contraptions/">Contraptions</a>
       <a href="/transmissions/" aria-current="page">Transmissions</a>
       <a href="/contact/">Contact</a>
+      <a href="/search/">Search</a>
     </nav>
   </header>
 
   <main class="page">
     <p class="kicker">Aural, optical, lexical</p>
     <h1>Transmissions</h1>
+    <div class="list-filter">
+      <label for="filter">Filter writing</label>
+      <input type="search" id="filter" data-list-filter placeholder="a title, a subject" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <span class="list-filter-count" data-list-filter-status aria-live="polite"></span>
+    </div>
     <p>What went out: records, films, apps and writing. The collaborations that made them are <a href="/conspiracies/">Conspiracies</a>, and where they were played is <a href="/sightings/">Sightings</a>.</p>
 
     <section>
@@ -327,6 +333,11 @@
     </dl>
   </aside>
   <footer>
+    <form class="site-search" role="search" action="/search/" method="get">
+      <label for="site-q">Search</label>
+      <input type="search" id="site-q" name="q" placeholder="Search this site" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button type="submit">Go</button>
+    </form>
     <p>
       <a href="https://x.com/noisegroove">X</a>
       · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
@@ -349,5 +360,6 @@
     </p>
     <p class="host">All rights reserved</p>
   </footer>
+  <script src="/search.js" defer></script>
 </body>
 </html>

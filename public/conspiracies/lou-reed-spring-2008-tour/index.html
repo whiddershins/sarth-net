@@ -165,6 +165,7 @@
       <a href="/contraptions/">Contraptions</a>
       <a href="/transmissions/">Transmissions</a>
       <a href="/contact/">Contact</a>
+      <a href="/search/">Search</a>
     </nav>
   </header>
 
@@ -221,6 +222,11 @@
     </dl>
   </aside>
   <footer>
+    <form class="site-search" role="search" action="/search/" method="get">
+      <label for="site-q">Search</label>
+      <input type="search" id="site-q" name="q" placeholder="Search this site" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button type="submit">Go</button>
+    </form>
     <p>
       <a href="https://x.com/noisegroove">X</a>
       · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
@@ -243,5 +249,6 @@
     </p>
     <p class="host">All rights reserved</p>
   </footer>
+  <script src="/search.js" defer></script>
 </body>
 </html>

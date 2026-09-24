@@ -74,7 +74,7 @@ Machine-readable companions:
 
 ## Pages
 
-105 pages follow, in reading order, separated by a horizontal rule.
+106 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -1225,6 +1225,8 @@ Projects
 
 # Conspiracies
 
+Filter entries
+
 Bands, tours, records, theater pieces, films, and machines.
 
 ## [Third Wall Studio](/conspiracies/third-wall-studio/)
@@ -2243,6 +2245,8 @@ https://www.sarth.net/conspirators/
 People
 
 # Conspirators
+
+Filter people
 
 People I have made things with.
 
@@ -3815,6 +3819,8 @@ https://www.sarth.net/transmissions/
 Aural, optical, lexical
 
 # Transmissions
+
+Filter writing
 
 What went out: records, films, apps and writing. The collaborations that made them are [Conspiracies](/conspiracies/), and where they were played is [Sightings](/sightings/).
 
@@ -6001,3 +6007,23 @@ Sarth Calhoun. Brooklyn.
 [github.com/whiddershins](https://github.com/whiddershins)
 
 Third Wall Studio: [studio@thirdwallstudio.com](mailto:studio@thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [YouTube](https://www.youtube.com/@burlap_app). Burlap: [burlap.app](https://burlap.app) · [Instagram](https://www.instagram.com/burlapapp/) · [YouTube](https://www.youtube.com/@burlap_app).
+
+---
+
+# Search
+
+https://www.sarth.net/search/
+
+Search
+
+# Search
+
+Search sarth.net
+
+Search
+
+## Reading it another way
+
+Everything the search box uses is a file you can fetch. [pages.json](/pages.json) is the catalogue: every page with its title, description, facet, date and headings, and a link to its markdown. [search-index.json](/search-index.json) is the index behind this box, scored so that a page about a thing outranks a page that merely mentions it.
+
+Every page has a markdown twin beside it, at its own address with `index.md` on the end. [llms.txt](/llms.txt) is the short version of the whole site and [llms-full.txt](/llms-full.txt) is all of it inlined. [citations.json](/citations.json) lists every outbound link, page by page. There is a [sitemap](/sitemap.xml) and a [feed](/feed.xml).

@@ -148,12 +148,18 @@
       <a href="/contraptions/">Contraptions</a>
       <a href="/transmissions/">Transmissions</a>
       <a href="/contact/">Contact</a>
+      <a href="/search/">Search</a>
     </nav>
   </header>
 
   <main class="page directory stagger">
     <p class="kicker">Projects</p>
     <h1>Conspiracies</h1>
+    <div class="list-filter">
+      <label for="filter">Filter entries</label>
+      <input type="search" id="filter" data-list-filter placeholder="a record, a band, a machine" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <span class="list-filter-count" data-list-filter-status aria-live="polite"></span>
+    </div>
     <p class="lede">Bands, tours, records, theater pieces, films, and machines.</p>
     <section class="stagger-list">
       <div class="row3 stag">
@@ -277,6 +283,11 @@
     <dl><dt>On this site</dt><dd><a href="/">Sarth Calhoun</a> · <a href="/conspirators/">Conspirators</a></dd><dt>What belongs here</dt><dd>Bands · tours · records · performances · theater · films · tools</dd></dl>
   </aside>
   <footer>
+    <form class="site-search" role="search" action="/search/" method="get">
+      <label for="site-q">Search</label>
+      <input type="search" id="site-q" name="q" placeholder="Search this site" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button type="submit">Go</button>
+    </form>
     <p>
       <a href="https://x.com/noisegroove">X</a>
       · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
@@ -299,5 +310,6 @@
     </p>
     <p class="host">All rights reserved</p>
   </footer>
+  <script src="/search.js" defer></script>
 </body>
 </html>

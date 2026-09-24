@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Sarth Calhoun</title>
-  <subtitle>Sarth Calhoun. Founder of Third Wall Studio, builder of the Burlap app.</subtitle>
+  <subtitle>Founder of Third Wall Studio, and creator of the Burlap app. Brooklyn. Data engineer, artist, and musician working in AI.</subtitle>
   <link rel="self" type="application/atom+xml" href="https://www.sarth.net/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://www.sarth.net/"/>
   <id>https://www.sarth.net/</id>

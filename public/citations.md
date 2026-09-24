@@ -108,7 +108,7 @@ every page.
 `/conspiracies/burlap/`
 
 - [burlap.app](https://burlap.app)
-- [!Burlap, infinite canvas for visual reference prompting.(/images/burlap.jpg)](https://burlap.app/download)
+- [Burlap, infinite canvas for visual reference prompting.](https://burlap.app/download)
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 - [Contraptions](https://contraptions.bookofsarth.com)

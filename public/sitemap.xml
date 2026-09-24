@@ -3,18 +3,10 @@
   <url><loc>https://www.sarth.net/</loc></url>
   <url><loc>https://www.sarth.net/about/</loc></url>
   <url><loc>https://www.sarth.net/work/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/singles/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/beautiful-tornado/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/solsbury-hill/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/peggy-sue/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/the-creation-of-the-universe/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/the-family-album/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/miracles/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/suspension/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/introspections/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/third-wall-studio/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/burlap/</loc></url>
+  <url><loc>https://www.sarth.net/contraptions/</loc></url>
+  <url><loc>https://www.sarth.net/conspiracies/ingather/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/external-tables/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/external-tables/why-append-only/</loc></url>
@@ -29,10 +21,7 @@
   <url><loc>https://www.sarth.net/transmissions/modern-postgres/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/node-vs-rails/</loc></url>
   <url><loc>https://www.sarth.net/transmissions/visual-reference-prompting/</loc></url>
-  <url><loc>https://www.sarth.net/transmissions/about-awakening-to-blacklist/</loc></url>
   <url><loc>https://www.sarth.net/conspiracies/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/third-wall-studio/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/burlap/</loc></url>
   <url><loc>https://www.sarth.net/conspiracies/gralbum-collective/</loc></url>
   <url><loc>https://www.sarth.net/conspiracies/book-of-sarth/</loc></url>
   <url><loc>https://www.sarth.net/conspiracies/awakening-to-blacklist/</loc></url>
@@ -49,7 +38,6 @@
   <url><loc>https://www.sarth.net/conspiracies/lucibel-crater/</loc></url>
   <url><loc>https://www.sarth.net/conspiracies/number19/</loc></url>
   <url><loc>https://www.sarth.net/conspiracies/i-just-believe-in-christmas/</loc></url>
-  <url><loc>https://www.sarth.net/conspiracies/ingather/</loc></url>
   <url><loc>https://www.sarth.net/conspiracies/reflections-vol-1/</loc></url>
   <url><loc>https://www.sarth.net/conspirators/</loc></url>
   <url><loc>https://www.sarth.net/conspirators/savas/</loc></url>
@@ -97,10 +85,22 @@
   <url><loc>https://www.sarth.net/conspirators/carla-scaletti/</loc></url>
   <url><loc>https://www.sarth.net/conspirators/kurt-hebel/</loc></url>
   <url><loc>https://www.sarth.net/conspirators/lippold-haken/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/singles/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/beautiful-tornado/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/solsbury-hill/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/peggy-sue/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/the-creation-of-the-universe/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/the-family-album/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/miracles/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/suspension/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/introspections/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/</loc></url>
+  <url><loc>https://www.sarth.net/transmissions/about-awakening-to-blacklist/</loc></url>
   <url><loc>https://www.sarth.net/sightings/</loc></url>
   <url><loc>https://www.sarth.net/rumors/</loc></url>
   <url><loc>https://www.sarth.net/devices/</loc></url>
-  <url><loc>https://www.sarth.net/contraptions/</loc></url>
   <url><loc>https://www.sarth.net/citations/</loc></url>
   <url><loc>https://www.sarth.net/contact/</loc></url>
 </urlset>

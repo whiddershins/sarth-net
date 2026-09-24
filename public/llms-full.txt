@@ -99,15 +99,15 @@ Third Wall Studio makes animation with filmmakers and artists. We mix live actio
 
 ### Machine
 
-[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Burlap](/conspiracies/burlap/) · [Ingather](/conspiracies/ingather/) · [Devices](/devices/) · [Contraptions](/contraptions/)
+[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/)
 
 ### Dream
 
-[Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/) · [Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
+[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
 
 ### Message
 
-[Beautiful Tornado](/transmissions/beautiful-tornado/) · [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) · [Window functions, the mental model](/transmissions/window-functions/) · [SQL as the data language](/transmissions/sql-as-the-data-language/) · [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · [Modern Postgres is shockingly capable](/transmissions/modern-postgres/) · [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)
+[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) · [Window functions, the mental model](/transmissions/window-functions/) · [SQL as the data language](/transmissions/sql-as-the-data-language/) · [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · [Modern Postgres is shockingly capable](/transmissions/modern-postgres/) · [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · [Beautiful Tornado](/transmissions/beautiful-tornado/) · [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)
 
 Earlier
 
@@ -166,10 +166,20 @@ Data engineer at [Reaktor](https://reaktor.com). Clients include Paramount Advan
 Founder of [Third Wall Studio](https://thirdwallstudio.com), and creator of the [Burlap](https://burlap.app) app. Brooklyn. Data engineer, artist, and musician working in AI.
 **Is Sarth Calhoun a musician?**
 Yes, and a data engineer and an artist, working in AI. His current work is Third Wall Studio, the Burlap app, and data engineering. The music includes [Metal Machine Trio](/conspiracies/metal-machine-trio/) with Lou Reed and Ulrich Krieger, the original [*Lulu*](/conspiracies/lulu/) score with Reed, [Lucibel Crater](/conspiracies/lucibel-crater/), and [*The Book of Sarth*](/conspiracies/book-of-sarth/).
-**What is Burlap?**
-Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. [burlap.app](https://burlap.app)
+**Is Sarth Calhoun an animator?**
+Yes. He founded [Third Wall Studio](https://thirdwallstudio.com) in May 2025, an animation studio that makes adult animation as drama with filmmakers and artists, mixing live action, animation, and generative AI. Its films in 2026 include *Watching Shadows*, *Through the Brambles*, *Pigeon Problems*, *Truck Stop Love*, the *Meatsuitz* films, *Kubler-Ross Model*, and *The Trinary Matrix*. [Work](/work/)
 **What is Third Wall Studio?**
 Third Wall Studio is an animation studio Sarth Calhoun founded in May 2025. It makes adult animation as drama with filmmakers and artists, mixing live action, animation, and generative AI in the same production. [thirdwallstudio.com](https://thirdwallstudio.com)
+**What is Burlap?**
+Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. [burlap.app](https://burlap.app)
+**What does Sarth Calhoun do in data engineering?**
+Sarth Calhoun is a data engineer. At [Reaktor](https://reaktor.com) he worked with Paramount’s Advanced Advertising organization. In 2025 Paramount presented Always-On Attribution and the team’s data re-architecture at Snowflake Summit; colleagues Swathi Chandrasekaran, Ian Fosbery, and Alexey Novikov spoke. He also worked for Viasat. He writes about append-only pipelines, external tables, window functions, SQL, and DuckDB on this site. [Work](/work/) · [External tables](/transmissions/external-tables/)
+**What is the external-tables series?**
+An append-only data pipeline tutorial in five parts: [Why append-only](/transmissions/external-tables/why-append-only/), [Building on external tables](/transmissions/external-tables/building-on-external-tables/), [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/), [Defending the boundary](/transmissions/external-tables/defending-the-boundary/), and [Living with the code](/transmissions/external-tables/living-with-the-code/). Related essays cover [window functions](/transmissions/window-functions/), [SQL as the data language](/transmissions/sql-as-the-data-language/), [Pandas](/transmissions/you-might-not-need-pandas/), [Python](/transmissions/why-python-is-the-default-for-data-work/), [Postgres](/transmissions/modern-postgres/), [Node vs Rails](/transmissions/node-vs-rails/), and [DuckDB](/transmissions/duckdb-where-have-you-been-all-my-life/). [The series](/transmissions/external-tables/)
+**What is Visual Reference Prompting?**
+Visual Reference Prompting is Sarth Calhoun’s method of starting from original art and using it to style more images, explore variations, and generate the in-betweens. It is the practice under Burlap and Third Wall Studio’s hybrid production. [Essay and video](/transmissions/visual-reference-prompting/)
+**What is Work on sarth.net?**
+[Work](/work/) is Sarth Calhoun’s CV, newest first: Third Wall Studio, Burlap, writing, data engineering (Reaktor with Paramount’s Advanced Advertising organization, [Ingather](/conspiracies/ingather/), Viasat), and the music.
 **What is Metal Machine Trio?**
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) was an improvising group of three equal members: [Lou Reed](/conspirators/lou-reed/), [Ulrich Krieger](/conspirators/ulrich-krieger/), and Sarth Calhoun. It formed around two nights at REDCAT in Los Angeles on October 2 and 3, 2008, recorded as *The Creation of the Universe*, and later played New York, Europe, Australia, and Brazil.
 **What did Sarth Calhoun do on *Lulu*?**
@@ -321,759 +331,248 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
 ---
 
-# Transmissions
+# Third Wall Studio
 
-https://www.sarth.net/transmissions/
+https://www.sarth.net/conspiracies/third-wall-studio/
 
-Aural, optical, lexical
+[Conspiracies](/conspiracies/) / Third Wall Studio
 
-# Transmissions
+Conspiracy · Dream
 
-What went out: records, films, apps and writing. The collaborations that made them are [Conspiracies](/conspiracies/), and where they were played is [Sightings](/sightings/).
+# Third Wall Studio
 
-## Aural
+Third Wall Studio is the animation studio I founded in May 2025. It makes animation with filmmakers and artists, mixing live action, animation and generative AI in the same production, and it builds [Burlap](/conspiracies/burlap/), the app the films are made in. It is at [thirdwallstudio.com](https://thirdwallstudio.com).
 
-Records and songs.
+The first films came out in 2026: shorts with [Doron Lev](/conspirators/doron-lev/), [Jacob McCoy](/conspirators/jacob-mccoy/), [Savas](/conspirators/savas/) and [Jonathan Arons](/conspirators/jonathan-arons/), and *Through the Brambles*, a VR story built entirely inside Burlap.
 
-- ## [Singles](/transmissions/singles/)
+![Watching Shadows, still.](/images/yt-fghXNj-HdBg.jpg)
 
-  2020 to 2025. Eleven singles as Sarth on Noise | Groove, from “Squishy | Bass” to “Softly Questioning (Reprise),” and one as Catfish Calhoun and Friends.
+*Watching Shadows*, with Doron Lev, April 2026.
 
-  [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9) · [Apple Music](https://music.apple.com/us/artist/sarth/1061852162)
+## What the studio says
 
-- ## [Beautiful Tornado](/transmissions/beautiful-tornado/)
+The homepage carries two lines. We make animations with filmmakers and artists. We build new tech for ancient magic.
 
-  2020 to 2021. The podcast with Dom Bouffard: six conversations with musicians and artists.
+The pitch to collaborators is longer. You have a story. We have the studio. Third Wall works with writers, animators, directors, and visual artists who want to push into new territory, where live action, animation, and generative AI collapse into something that didn’t exist before. You bring the vision. Projects are co-produced, credit is shared, and the work stays yours. What the studio offers is access to generative AI tools and production pipelines, creative direction and mentorship, co-production with shared credit and shared risk, and a studio environment to develop work that doesn’t fit anywhere else yet.
 
-  [YouTube](https://www.youtube.com/playlist?list=PLmXj9m6I5JooEjI2skmu1LdMlhlmYaTfb) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/beautiful-tornado/id1553841403)
+On this site I put it this way. We mix live action, animation, and generative AI in the same production, not as a gimmick, but as part of the craft. And: Writers, animators, directors, and visual artists bring their own worlds. Burlap is the canvas underneath it all.
 
-- ## [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/)
+## How it started
 
-  2015. A Christmas song sung by Michael Patrick Flanagan Smith, words finished with Jesse Schoen, Virginia Piazza and Doron Lev.
+I founded it in May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic.
 
-  [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
+The credit: Sarth Calhoun founded Third Wall Studio in May 2025 and builds Burlap, the app its films are made in.
 
-- ## [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
+## The films
 
-  2015. My first release of improvised duets, subtitled *A Noise Akin to a Flight of Deranged Swallows in Combat*.
+- [Watching Shadows · with Doron Lev · April 2026](https://www.youtube.com/watch?v=fghXNj-HdBg)
+- [Through the Brambles · directed by Jacob McCoy · May 2026](https://www.youtube.com/watch?v=ttWqwhzE-yA)
+- [Pigeon Problems · with Doron Lev · February 2026](https://www.youtube.com/watch?v=vs6KM7hFzxs)
+- [Truck Stop Love · with Doron Lev · February 2026](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
+- [Meatsuitz Family Vacay · with Jacob McCoy · January 2026](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
+- [Meatsuitz – Dare to be Delicious · directed by Jacob McCoy · December 2025](https://www.youtube.com/watch?v=VrtL59O1ps0)
 
-  [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
+- **Dark Arts**, teaser. August 2026.
 
-- ## [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/)
+  [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
 
-  2013. Four pieces from the music of *The Book of Sarth*, released as an EP a year after the app.
+- **Kubler-Ross Model**, with [Savas](/conspirators/savas/). 3:55. Built from his own concept art. On Vimeo since April 2026; an excerpt went out on YouTube in August 2026.
 
-  [Spotify](https://open.spotify.com/album/2AK3ADNcGHccdecSkjV43k)
+  [Full film on Vimeo](https://vimeo.com/1187052948/25ddad82d9) · [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8) · [Third Wall](https://www.thirdwallstudio.com/process)
 
-- ## [Solsbury Hill](/transmissions/solsbury-hill/)
+- **The Trinary Matrix**, with [Jonathan Arons](/conspirators/jonathan-arons/). 14:15. He animated his own book scene by scene in Burlap; the studio finished it in post. On Vimeo since April 2026.
 
-  2013. Lou Reed’s recording of the Peter Gabriel song for *And I’ll Scratch Yours*. I produced it and played electronics.
+  [Full film on Vimeo](https://vimeo.com/1187032618/46e04bc8a5) · [Third Wall](https://www.thirdwallstudio.com/process)
 
-- ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
-
-  2012. A track from *The Book of Sarth*. Its melody is made out of a recording of 60 cycle hum.
-
-  [bookofsarth.com](https://bookofsarth.com)
-
-- ## [Lulu](/conspiracies/lulu/)
-
-  2011. The Lou Reed and Metallica album, grown out of the score Lou Reed and I wrote for Robert Wilson’s Berliner Ensemble production.
-
-- ## [Junior Dad](/conspiracies/junior-dad/)
-
-  2011. The closing track of *Lulu*, nineteen and a half minutes. It began at Lou Reed’s apartment with Rob Wasserman’s bowed electric upright running through Kyma.
-
-  [Apple Music](https://music.apple.com/us/album/junior-dad/467890760?i=467890784)
-
-- ## [Peggy Sue](/transmissions/peggy-sue/)
-
-  2011. Lou Reed’s recording of the Buddy Holly song for *Rave On Buddy Holly*. I played bass on it, a Moog Little Phatty.
-
-- ## [The Creation of the Universe](/transmissions/the-creation-of-the-universe/)
-
-  2009. Lou Reed’s Metal Machine Trio, live. The two REDCAT nights nearly whole.
-
-  [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713) · [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
-
-- ## [The Family Album](/transmissions/the-family-album/)
-
-  2008. Lucibel Crater, the trio of Leah Coloff, Paul Chuffo and me.
-
-- ## [Miracles](/transmissions/miracles/)
-
-  2007. Lucibel Crater’s EP, the year before *The Family Album*.
-
-- ## [Suspension](/transmissions/suspension/)
-
-  2001. Number19, the band I formed in 1999 with Tony Diodore, Leah Coloff and Mark Righter.
-
-  [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
-
-## Optical
-
-Films, apps and video.
-
-- ## [The 2026 animated shorts](/work/)
-
-  Seven films made at Third Wall Studio with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, built in Burlap.
-
-  [Third Wall](https://thirdwallstudio.com) · [YouTube](https://www.youtube.com/@burlap_app)
-
-- ## [Burlap](/conspiracies/burlap/)
-
-  A native macOS infinite canvas for visual reference prompting.
-
-  [burlap.app](https://burlap.app) · [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
-
-- ## [Introspections](/transmissions/introspections/)
-
-  2015. Improvised drone pieces on Continuum and Kyma: “For Lovers” with Jacob McCoy, “Sunset Meditation,” a Warper Party clip.
-
-  [Vimeo](https://vimeo.com/125323250)
-
-- ## [The Book of Sarth](/conspiracies/book-of-sarth/)
-
-  2012. A graphic novel and concept album built as one iPad app. My first full-length solo release.
-
-  [bookofsarth.com](https://bookofsarth.com)
-
-- ## [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
-
-  2011. An official DVD of the festival set. The credits read Sarth Calhoun – electronics & continuum.
-
-  [Credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
-
-## Lexical
-
-Essays and writing.
-
-- ## [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
-
-  Sep 22, 2026. Asking Claude how much an artist spent on a project in Burlap, answered straight from JSON files with DuckDB. Plus the whole append-only pipeline pattern, on a laptop.
-
-- ## [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/)
-
-  Tutorial series, five parts. Building an append-only data pipeline on external tables, with window functions for the current truth and runtime type checking at the boundary.
-
-- ## [Window functions, the mental model](/transmissions/window-functions/)
-
-  SQL. Compare them to aggregates, PARTITION BY vs GROUP BY, ROW_NUMBER vs RANK, and why the window grows.
-
-- ## [SQL as the data language](/transmissions/sql-as-the-data-language/)
-
-  SQL. Views, CTEs, joins, and why everything is a table (which is also not true).
-
-- ## [You might not need Pandas](/transmissions/you-might-not-need-pandas/)
-
-  Essay. Most day to day Pandas work is better done in SQL, with a side by side example, and where Pandas still earns its place.
-
-- ## [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/)
-
-  Essay. It is what people know, plus an ecosystem written in C, C++ and CUDA. What that does and does not tell you about building pipelines.
-
-- ## [Modern Postgres is shockingly capable](/transmissions/modern-postgres/)
-
-  Essay. JSONB, horizontal scaling, and the rise and fall of MongoDB.
-
-- ## [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/)
-
-  Essay. The case that an agnostic server beats batteries included, and why I am not sure I believe it.
-
-- ## [Visual Reference Prompting](/transmissions/visual-reference-prompting/)
-
-  Jul 31, 2026. How original images can hold a subject together, bend a style, and open up stranger places to go next.
-
-- ## [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)
-
-  Nov 21, 2020. How the track’s melody came out of a recording of 60 cycle hum: a frequency shifter on the Spacebirds preset, wet/dry automation, and a happy accident with two frozen drum tracks. With the audio examples.
-
----
-
-# Singles
-
-https://www.sarth.net/transmissions/singles/
-
-[Transmissions](/transmissions/) / Singles
-
-Transmission · Dream
-
-# Singles
-
-Eleven singles I released as Sarth between January 2020 and May 2025 on my own Noise | Groove label, and one as Catfish Calhoun and Friends. All are on [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9) and [Apple Music](https://music.apple.com/us/artist/sarth/1061852162). Newest first.
-
-![Sarth Calhoun seated at a Continuum Fingerboard with rack gear and a laptop.](/images/sarth-1-full.jpg)
-
-Sarth Calhoun at his rig.
-
-![Cover of Softly Questioning (Reprise).](/images/art-single-softly-questioning-reprise.jpg)
-
-Cover, *Softly Questioning (Reprise)*, 2025.
-
-## Softly Questioning (Reprise)
-
-May 20, 2025. 4:19. A return to “Softly Questioning” from [*Reflections, Vol. 1*](/conspiracies/reflections-vol-1/), the piece whose melody became the main theme of Joe Kelly’s film *Poughkeepsie*. On [Spotify](https://open.spotify.com/album/6lONJ3i46bFv63k0RWm3GS) and [Apple Music](https://music.apple.com/us/album/1813001279).
-
-[Embedded player](https://open.spotify.com/embed/album/6lONJ3i46bFv63k0RWm3GS)
-
-## Ego Streaked
-
-November 28, 2022. 0:44. Forty-four seconds. On [Spotify](https://open.spotify.com/album/3ZrlFde54fNgEIEEOFBXc6) and [Apple Music](https://music.apple.com/us/album/1655897012).
-
-[Embedded player](https://open.spotify.com/embed/album/3ZrlFde54fNgEIEEOFBXc6)
-
-![Cover of Ego Streaked.](/images/art-single-ego-streaked.jpg)
-
-Cover, *Ego Streaked*, 2022.
-
-![Cover of Shimmering Angels (in 40 years).](/images/art-single-shimmering-angels.jpg)
-
-Cover, *Shimmering Angels (in 40 years)*, 2022.
-
-## Shimmering Angels (in 40 years)
-
-September 2, 2022. 4:02. Spoken word. On [Spotify](https://open.spotify.com/album/0x2TagoPi3CEotWliVpG47) and [Apple Music](https://music.apple.com/us/album/1641954519).
-
-[Embedded player](https://open.spotify.com/embed/album/0x2TagoPi3CEotWliVpG47)
-
-## Failure is OK
-
-May 16, 2022. 4:48. On [Spotify](https://open.spotify.com/album/0iQDgOcaru6B3AAieqbvFB) and [Apple Music](https://music.apple.com/us/album/1622580239).
-
-[Embedded player](https://open.spotify.com/embed/album/0iQDgOcaru6B3AAieqbvFB)
-
-![Cover of Failure is OK.](/images/art-single-failure-is-ok.jpg)
-
-Cover, *Failure is OK*, 2022.
-
-![Cover of Sometimes You Need Sun.](/images/art-single-sometimes-you-need-sun.jpg)
-
-Cover, *Sometimes You Need Sun*, 2022.
-
-## Sometimes You Need Sun
-
-May 3, 2022. 4:06. Released as Catfish Calhoun and Friends, with Doron Lev. On [Spotify](https://open.spotify.com/album/5RzhbxZWNBnAuL6xEd5Gb2) and [Apple Music](https://music.apple.com/us/album/1620005521).
-
-[Embedded player](https://open.spotify.com/embed/album/5RzhbxZWNBnAuL6xEd5Gb2)
-
-## My Empty Father
-
-January 6, 2022. 3:18. On [Spotify](https://open.spotify.com/album/3dwOtIoZoxaVEHidC07jJT) and [Apple Music](https://music.apple.com/us/album/1603727669).
-
-[Embedded player](https://open.spotify.com/embed/album/3dwOtIoZoxaVEHidC07jJT)
-
-![Cover of My Empty Father.](/images/art-single-my-empty-father.jpg)
-
-Cover, *My Empty Father*, 2022.
-
-![Cover of For Lovers.](/images/art-single-for-lovers.jpg)
-
-Cover, *For Lovers*, 2020.
-
-## For Lovers
-
-October 30, 2020. 8:32. With Jacob McCoy. The 2015 Linnstrument and Continuum duet from [Introspections](/transmissions/introspections/), released as a single five years later. On [Spotify](https://open.spotify.com/album/1eYowG2sDJhykbBMc1nk3g) and [Apple Music](https://music.apple.com/us/album/1537204819).
-
-On March 2nd, 2015, Jacob and I got together to record some Linnstrument / Continuum Fingerboard duets. It was also Lou Reed’s birthday, and this piece reminded me of things we explored together. Drones, close intervals, sum and difference frequencies. And Lou loved his Continuum Fingerboard. So this is dedicated to him.
-
-[Embedded player](https://open.spotify.com/embed/album/1eYowG2sDJhykbBMc1nk3g)
-
-## Everyth Everything (Sarth Mix)
-
-October 23, 2020. 4:25. My own mix of “Everything Everything.” On [Spotify](https://open.spotify.com/album/0ewgP3rrFB6BBp3Hiokexe) and [Apple Music](https://music.apple.com/us/album/1537110639).
-
-[Embedded player](https://open.spotify.com/embed/album/0ewgP3rrFB6BBp3Hiokexe)
-
-![Cover of Everyth Everything (Sarth Mix).](/images/art-single-everyth-everything-sarth-mix.jpg)
-
-Cover, *Everyth Everything (Sarth Mix)*, 2020.
-
-![Cover of Everything Everything.](/images/art-single-everything-everything.jpg)
-
-Cover, *Everything Everything*, 2020.
-
-## Everything Everything
-
-April 9, 2020. 4:33. On [Spotify](https://open.spotify.com/album/66RTaO6FHMIUqX3Y3xC9P7) and [Apple Music](https://music.apple.com/us/album/1505919693).
-
-I feel this might be the best thing I’ve ever made. I worked for a long time on this song, but I could never finish it. And then one day it was done.
-
-[Embedded player](https://open.spotify.com/embed/album/66RTaO6FHMIUqX3Y3xC9P7)
-
-## Peanut Style
-
-February 24, 2020. 2:47. On [Spotify](https://open.spotify.com/album/6XFLBI5drf9rC1NJyfKgS2) and [Apple Music](https://music.apple.com/us/album/1499153875).
-
-[Embedded player](https://open.spotify.com/embed/album/6XFLBI5drf9rC1NJyfKgS2)
-
-![Cover of Peanut Style.](/images/art-single-peanut-style.jpg)
-
-Cover, *Peanut Style*, 2020.
-
-![Cover of Squishy | Bass.](/images/art-single-squishy-bass.jpg)
-
-Cover, *Squishy | Bass*, 2020.
-
-## Squishy | Bass
-
-January 10, 2020. 2:17. On [Spotify](https://open.spotify.com/album/6iLXiDC12vd9dus7urREyk) and [Apple Music](https://music.apple.com/us/album/1494908396).
-
-[Embedded player](https://open.spotify.com/embed/album/6iLXiDC12vd9dus7urREyk)
-
-The credit: Singles by Sarth Calhoun, released as Sarth on Noise | Groove, 2020 to 2025. “Sometimes You Need Sun,” 2022, as Catfish Calhoun and Friends with Doron Lev. “For Lovers” with Jacob McCoy, Linnstrument.
-
-Dates and lengths from Apple Music. The For Lovers dedication is my Vimeo note from 2015; the Everything Everything line is from the Transmissions page of my old Squarespace site. Two releases on the Apple Music artist page, “Heartbeat” (2018) and “Moongrave!” (2025), are not mine.
-
----
-
-# Beautiful Tornado
-
-https://www.sarth.net/transmissions/beautiful-tornado/
-
-[Transmissions](/transmissions/) / Beautiful Tornado
-
-Transmission · Message
-
-# Beautiful Tornado
-
-*Beautiful Tornado* is the podcast Dom Bouffard and I made: six long conversations with musicians and artists, recorded in 2020 and 2021. It is on [YouTube](https://www.youtube.com/playlist?list=PLmXj9m6I5JooEjI2skmu1LdMlhlmYaTfb) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/beautiful-tornado/id1553841403).
-
-![Beautiful Tornado podcast cover: an abstract drawing in red, black and blue.](/images/beautiful-tornado-cover.jpg)
-
-Cover, *Beautiful Tornado*.
-
-> It’s like a dirty secret. A place where musicians and artists talk about the kind of stuff they love to talk about, but their girlfriends / boyfriends don’t. We’ll be chatting to amazing and original creators around the world about new releases, how they think about what they do, whether robots will kill us all and if peyote is as good on cornflakes as on Rice Crispies... that kinda thing..
-> 
-> The show’s own description
-
-## The episodes
-
-- **1. Waiting for Doron.** Dom and Sarth grapple with technical issues, talk about latest releases, and wonder when Doron might show up. March 30, 2020. 34 min.
-
-  [YouTube](https://www.youtube.com/watch?v=rBXxj085FSk)
-
-- **2. More Egg than Egg.** With Doron Lev. 1 h 34 min.
-
-  [YouTube](https://www.youtube.com/watch?v=qgnKGljOBRE)
-
-- **3. I Was Ready.** With Glen Brady, DJ, producer and former Irish DMC scratch champion, aka The Glass, DJ Wool and Blackwater Hardware, on his career from New York, Berlin and California to musician and survivalist in the Irish countryside. 1 h 25 min.
-
-  [YouTube](https://www.youtube.com/watch?v=MkGrvP7A1dA)
-
-- **4. Richard Naviasky’s Positivity Mission.** Songwriter, poet, firefighter, transatlantic sailor, dad. Rich Nav on round bottoms, why music’s better than art, and crapping off the side of boats. November 17, 2020. 42 min.
-
-  [YouTube](https://www.youtube.com/watch?v=GxIDY9XvvaA)
-
-- **5. Bryan Senti.** A musician, composer and producer from New York, now working in Hollywood. Platonic ideals, metric modulation, beta blockers and the joy of performance. 1 h 45 min.
-
-  [YouTube](https://www.youtube.com/watch?v=SkvCEhxo4-g)
-
-- **6. The Re-Enchantment of the World.** With Michael Patrick Flanagan Smith, singer-songwriter, playwright and novelist, from New York to Kentucky via a North Dakota oil town, with covid-era songs performed live. February 15, 2021. 2 h 26 min.
-
-  [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho)
+*Through the Brambles*, directed by [Jacob McCoy](/conspirators/jacob-mccoy/), is a VR story built entirely inside Burlap. Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. It is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles).
 
 ## Conspiracies
 
-Dom Bouffard played guitar in the Berliner Ensemble band for [*Lulu*](/conspiracies/lulu/) and on [“I Just Believe in Christmas”](/conspiracies/i-just-believe-in-christmas/). Doron Lev, of episode two, drums on that song and makes films at [Third Wall Studio](/conspiracies/third-wall-studio/). Michael Patrick Flanagan Smith, of episode six, sings it.
+[Burlap](/conspiracies/burlap/) is the studio’s own tool and has its own page. The films are on [Work](/work/) and under Optical on [Transmissions](/transmissions/). How the studio prompts is written up in [Visual Reference Prompting](/transmissions/visual-reference-prompting/). The studio is on [Instagram](https://www.instagram.com/3rdwallstudio/) and [YouTube](https://www.youtube.com/@burlap_app).
 
-The credit: *Beautiful Tornado* was made by Sarth Calhoun and Dom Bouffard: six episodes, March 2020 to February 2021.
-
-![Beautiful Tornado YouTube banner.](/images/beautiful-tornado-youtube-banner.jpg)
-
-The YouTube banner.
-
-Episode list and lengths from the YouTube playlist; dates from the podcast feeds where they carry them. The description is the show’s own.
+The studio’s copy is from [thirdwallstudio.com](https://thirdwallstudio.com) and the sarth.net homepage. The film list is the one on [Work](/work/).
 
 ---
 
-# Transmissions from the Book of Sarth
+# Burlap
 
-https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/
+https://www.sarth.net/conspiracies/burlap/
 
-[Transmissions](/transmissions/) / Transmissions from the Book of Sarth
+[Conspiracies](/conspiracies/) / Burlap
 
-Transmission · Dream
+Conspiracy · Machine
 
-# *Transmissions from the Book of Sarth*
+# Burlap
 
-*Transmissions from the Book of Sarth* is a four-track EP I released in 2013 from the music of [*The Book of Sarth*](/conspiracies/book-of-sarth/), the graphic novel and concept album I built as an iPad app the year before. The score was made with [Kyma](/devices/).
+Burlap is a native Mac app for visual creation and context management, made by [Third Wall Studio](/conspiracies/third-wall-studio/). It is an infinite canvas with asset management and connections to AI models built in, so the images, the videos and the workflow live in one place. It connects to the latest models from OpenAI, Google, Runway, ByteDance and more, and when a user brings their own API keys, their data never touches Burlap’s server. It is at [burlap.app](https://burlap.app).
 
-![Cover of Transmissions from the Book of Sarth.](/images/art-transmissions-from-the-book-of-sarth.jpg)
+It is the tool the studio works in. The 2026 shorts and *Through the Brambles* were made in it.
 
-Cover, *Transmissions from the Book of Sarth*, 2013.
+![Burlap, infinite canvas for visual reference prompting.](/images/burlap.jpg)
 
-[Embedded player](https://open.spotify.com/embed/album/2AK3ADNcGHccdecSkjV43k)
+Burlap. Download at [burlap.app](https://burlap.app/download).
 
-## Listen
+## What it does
 
-Four pieces: “Awakening (To Blacklist),” “Table (If I Can),” “Primary Defenestration (Deforestation)” and “For Valentina (To Your Rescue).” The first has [its own page](/conspiracies/awakening-to-blacklist/): its melody is made out of a recording of 60 cycle hum. On [Spotify](https://open.spotify.com/album/2AK3ADNcGHccdecSkjV43k).
+From burlap.app. Burlap takes your creative process out of little GenAI cubicles and lets you roam free. Burlap isn’t just an infinite canvas. Asset management and connections to AI are included under the hood. This allows you to see the images and videos and manage the workflow all in one place.
 
-## The hum
+- **More freedom, less downtime.** Run multiple prompts at the same time and keep building while the AI generates results in the background.
+- **Flexible multi-model workflow.** Use Runway and OpenAI side-by-side in the same project. Mix text, images, and video generation, and fine tune the style and composition with reference-based prompting.
+- **Visual reference prompting.** Steer AI outputs with sketches, imported images, or captured canvas elements.
 
-One of my favorite things about this track is the morph from the hum to a rhythmic/pitched pattern. There’s a scene in ‘Book of Sarth’ where the office workers are coming out of a daze, they are transitioning back in to reality, and the hum transforming really ended up matching this perfectly. (I don’t know which idea came first.)
+This is a creative production tool, and it is also a context engineering tool. We are empowering users to provide context to LLMs to shape their results.
 
-I start with a recording of typical 60 cycle hum. This was pretty straightforward, I probably just messed with a 1/4” cable partially plugged into my Marshall amp, or something similar. I wanted to see if I could transform that sound into something.
+Two walkthroughs on YouTube: [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo) and [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k).
 
-The whole of that, with the audio examples, is on its own page: [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/).
+## How it started
 
-![Artwork from The Book of Sarth: koi in three panels.](/images/book-of-sarth-fish.jpg)
+Burlap is made by Third Wall Studio as our workflow tool for animation and visual design. It is available now for Mac, and it is the canvas underneath [visual reference prompting](/transmissions/visual-reference-prompting/).
 
-From *The Book of Sarth*.
+The credit: Burlap is made by Sarth Calhoun at Third Wall Studio. He started it after Runway’s 48-hour film competition in the spring of 2025.
 
-> Calhoun’s music is no doubt experimental, but his tracks and the artwork play nimbly off one another.
-> 
-> Bryan Bishop, [The Verge, January 3, 2013](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+I made Burlap after entering the runway 48 hours sprint competition, you're supposed to make a short film in 48 hours, like Saturday morning to Monday morning, Saturday morning at 9:00 a.m. to Monday to be mighty, but uh... it was brutal. I realized the models had arrived this was like April of 2025, but the toolchain was just unworkable, just completely unworked for anything I wanted to do or how I thought a professional workspace should be.
 
 ## Conspiracies
 
-The music of [*The Book of Sarth*](/conspiracies/book-of-sarth/), released as a record a year after the app. Published through [The Gralbum Collective](/conspiracies/gralbum-collective/). The app is at [bookofsarth.com](https://bookofsarth.com).
+[Third Wall Studio](/conspiracies/third-wall-studio/) builds it and makes its films in it; they are on [Work](/work/). [Visual Reference Prompting](/transmissions/visual-reference-prompting/) is the method the canvas is built around. [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) is Claude driving DuckDB over Burlap’s JSON records of every genAI call. The small tools at [Contraptions](https://contraptions.bookofsarth.com) sit beside it: Burlap is the main machine; these are the odd little ones beside it.
 
-The credit: *Transmissions from the Book of Sarth*, 2013: four pieces by Sarth Calhoun from the music of *The Book of Sarth*, made with Kyma, published through The Gralbum Collective.
+[Burlap on Instagram](https://www.instagram.com/burlapapp/) · [Burlap on YouTube](https://www.youtube.com/@burlap_app)
 
-My paragraphs on the hum are from “About Awakening (To Blacklist)” on my site, November 21, 2020. Track list from Spotify.
+Burlap’s copy is from [burlap.app](https://burlap.app) and the sarth.net homepage.
 
 ---
 
-# Solsbury Hill
+# Contraptions
 
-https://www.sarth.net/transmissions/solsbury-hill/
+https://www.sarth.net/contraptions/
 
-[Transmissions](/transmissions/) / Solsbury Hill
+Small machines · Machine
 
-Transmission · Dream
+# Contraptions
 
-# “Solsbury Hill”
+Contraptions is my shelf of small machines, used at [Third Wall Studio](/conspiracies/third-wall-studio/). Most live at their own path on [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com), with source, a text guide and a release record beside them. All of them run in the browser with nothing leaving it. [Burlap](/conspiracies/burlap/) is the main machine; these are the odd little ones beside it.
 
-“Solsbury Hill” is [Lou Reed](/conspirators/lou-reed/)’s recording of the Peter Gabriel song for *And I’ll Scratch Yours*, the companion to Gabriel’s *Scratch My Back*, released on Real World Records in September 2013. Gabriel had covered Reed’s “The Power of the Heart” on his side of the exchange; Reed returned Gabriel’s 1977 song. I produced it and played electronics on it. Track eleven, five minutes twenty-four.
+The physical instruments are on [Devices](/devices/).
 
-![Cover of Peter Gabriel: And I'll Scratch Yours.](/images/art-and-ill-scratch-yours.jpg)
+![FM / 6 in the browser: three of its six operators with wave, ratio, detune, level and envelope controls, and the signal routing diagram.](/images/contraption-fm6.png)
 
-Cover, *And I’ll Scratch Yours*, 2013.
+FM / 6, the Glass garden patch.
 
-The credit: Production and electronics, Sarth Calhoun. Discogs, [release 4938695](https://www.discogs.com/release/4938695), track 11, lists additional programming. On [Apple Music](https://music.apple.com/us/album/987512394) and [Spotify](https://open.spotify.com/track/1PO2HeYYaAm5GDoqQsuRQz).
+The record: Published September 8, 2026. Six operators, four FM routings, two touch keyboards with sustain latches, MIDI and MPE input, ten starting patches, patch URLs, JSON import and export. The C++ engine runs in the browser through WebAssembly and the Web Audio API. [Play](https://contraptions.bookofsarth.com/fm6/) · [Guide](https://contraptions.bookofsarth.com/fm6.md) · [Release record](https://contraptions.bookofsarth.com/fm6.json)
 
-## Listen
+## FM / 6
 
-[Embedded player](https://www.youtube.com/embed/CGvZN3N_L_c)
+Six operators. Two keyboards. A sound you can take apart.
 
-## Conspiracies
+A six-operator synthesizer. Start with a bell, a bass or a slowly moving chord. Change the operators and hear how the sound is made.
 
-Made in the years I was in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) and working with him on [*Lulu*](/conspiracies/lulu/). The electronics are the same work I did on stage, through [Kyma](/devices/).
+Why: to make the relationships inside a sound playable and understandable. Each operator explains its role in the current patch and suggests a useful change to try.
 
-The exchange: Gabriel’s *Scratch My Back*, 2010, covered twelve artists including Reed. Each was invited to cover Gabriel in return; the returns became *And I’ll Scratch Yours*, 2013.
+## Image Compare Workbench
 
-The credit is mine. Discogs lists the track and its length.
+One folder of gens. Two click-rails on the same pool. Lock A, walk B. Camera and wipe stay put. Nothing leaves the browser.
 
-Lou's approach to the song was amazing, super simple, guitar and voice with a minimal beat he programmed first. He brought me in help with the mix and the percussion crescendo at the end.
+Drop a folder of images. Click a reference on one rail, click candidates on the other. The camera stays put. Local, in the browser. Svelte 5, Vite, TypeScript. Images stay as File objects and blob URLs.
 
----
+Sat with [imgsli](https://imgsli.com/) and [Improve ImgSLI](https://github.com/Loganavter/Improve-ImgSLI). One local pool, two independent click-rails.
 
-# Peggy Sue
+[Use it](https://contraptions.bookofsarth.com/image-compare-workbench) · [Source](https://github.com/whiddershins/image-compare-workbench)
 
-https://www.sarth.net/transmissions/peggy-sue/
+![Image Compare Workbench: two rails of thumbnails either side of a wipe between two versions of a drawing of children walking away.](/images/contraption-image-compare-workbench.jpg)
 
-[Transmissions](/transmissions/) / Peggy Sue
+Image Compare Workbench: two rails, one pool, a wipe between A and B.
 
-Transmission · Dream
+![Soundscape One: a volume slider, movement controls and a black ball in a grey field.](/images/contraption-soundscape-one.jpg)
 
-# “Peggy Sue”
+Soundscape One. The ball is you.
 
-“Peggy Sue” is [Lou Reed](/conspirators/lou-reed/)’s recording of the Buddy Holly song for *Rave On Buddy Holly*, the tribute compilation released by Fantasy and Concord in June 2011, alongside Paul McCartney, Patti Smith, Florence and the Machine and the Black Keys. I play bass on it, a Moog Little Phatty. Three minutes nineteen.
+## Soundscape One
 
-![Cover of Rave On Buddy Holly.](/images/art-rave-on-buddy-holly.jpg)
+A 2D field of sound. You walk; the mix follows. Position is the instrument.
 
-Cover, *Rave On Buddy Holly*, 2011.
+A playable space, not a playlist. Sound is placed in the plane. Your position is the mix. Why: to be inside a sound, not in front of a track.
 
-The credit: Discogs, [release 2948749](https://www.discogs.com/release/2948749), track 17: Lou Reed, “Peggy Sue.” Sarth Calhoun, bass, Little Phatty. On [Apple Music](https://music.apple.com/us/album/rave-on-buddy-holly-bonus-track-version/1440953567).
+Three versions: [Soundscape One A](https://contraptions.bookofsarth.com/soundscape-one/one-a.html), four voice, the denser one; [Soundscape Two A](https://contraptions.bookofsarth.com/soundscape-one/officeSoundscape_01.html), offices; and [Soundscape One B](https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html), two voice, the original, simpler one. First published February 23, 2021.
 
-## Listen
+[Walk it](https://contraptions.bookofsarth.com/soundscape-one) · [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
 
-[Embedded player](https://www.youtube.com/embed/jvyzMkaY5xQ)
+## Ingather
 
-## What was written about it
+A whole facility, in a browser tab. Four rooms, thirteen zones, and a day every forty eight seconds.
 
-Apple Music’s note on the album calls Reed’s take the sound of a cement mixer grinding the tune to a nub. Far Out remembers it as raw, punky. It sits at track seventeen of nineteen.
+The control system I built for a cannabis cultivation facility, from August 2021 to March 2022, rebuilt as something you can click through. The facility is gone and the API went with it, so the data is invented and lives in your own browser: change a routine and it is yours, and it is gone when you clear it.
 
-> Lou Reed tackles Buddy Holly’s classic hit ‘Peggy Sue’ the best way he knows how -- with distortion, fuzz and feedback.
-> 
-> [Ultimate Classic Rock](https://ultimateclassicrock.com/lou-reed-peggy-sue-song-review/), song review, 2011
+It is the biggest thing on this shelf and the only one that was a job first. It has its own page at [Ingather](/conspiracies/ingather/).
 
-The compilation: Nineteen acts on Buddy Holly songs, 2011. Fantasy Records with MPL. Reed’s is the only track Sarth plays on.
+[Try it](https://ingather-demo.marshy-runner.workers.dev) · [The conspiracy](/conspiracies/ingather/)
 
-## Conspiracies
+![Ingather, a room overview: room phase, light level, zones and their fertigation programs, air handler readings.](/images/ingather.jpg)
 
-Recorded while I was in [Lou Reed’s band](/conspiracies/lou-reed-song-band/), which I joined in 2008. The bass here is a Moog synthesizer, not the electric upright [Rob Wasserman](/conspirators/rob-wasserman/) played on stage.
+Ingather. A room, read from outside its door.
 
-Credit from Discogs. Label and line-up from the release and its press.
+The credit: Contraptions is Sarth Calhoun’s shelf of small machines. FM / 6 (2026), Image Compare Workbench (2026), Burlap (2025), Ingather (2021) and Soundscape One (2021) are his. Paint with JavaScript and Kick with Reverb are other people’s, kept on the shelf.
 
----
+## Other people’s machines
 
-# The Creation of the Universe
+Two things on the shelf are not mine. [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript): Surya Narreddi and Cameron Franz RL’d Qwen to paint in p5.js. The sketch is the painting. You edit the code, not the prompt. They rated 1,664 gens by hand and judged new rollouts pairwise against a love pool. That pool is a folder of gens. Image Compare Workbench is the local set-workbench for that job.
 
-https://www.sarth.net/transmissions/the-creation-of-the-universe/
+[Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb): Zach Hill’s kick sequencer. Kick, noise, reverb layers, then a mastering chain. Diffusion kicks behind a login.
 
-[Transmissions](/transmissions/) / The Creation of the Universe
+## Earlier machines
 
-Transmission · Dream
+The Contraptions category of my old WordPress site listed Jamboxes, with Moldover, in July 2012; ConnecTable carpentry in July 2013; and Brain melt, a double FireWire 800 scare, in October 2011. Only the titles survive there. SeqOSC, a relative of AM synthesis, was built in Kyma and is on [Devices](/devices/).
 
-# *The Creation of the Universe*
-
-*The Creation of the Universe* is a double live album by Lou Reed’s Metal Machine Trio: [Lou Reed](/conspirators/lou-reed/), [Ulrich Krieger](/conspirators/ulrich-krieger/) and me. It was recorded over two nights at REDCAT in Los Angeles, October 2 and 3, 2008, the concerts that became [Metal Machine Trio](/conspiracies/metal-machine-trio/), and released in May 2009 on Reed’s Sister Ray Recordings under the Best Seat in the House banner.
-
-Two tracks, *Night 1* and *Night 2*, each about fifty-five minutes.
-
-![Cover of The Creation of the Universe by Lou Reed's Metal Machine Trio.](/images/art-creation-of-the-universe.jpg)
-
-Cover, *The Creation of the Universe*, 2009.
-
-> We have formed a recording unit called BEST SEAT IN THE HOUSE. We intend to put out different types of my music - from industrial to meditative to songs and all subway stops in between. CREATE!
-> 
-> Lou Reed, as quoted on Sarth’s site
-
-## How it was recorded
-
-We recorded the sets with a matched pair of Schoeps and a stereo Royer, and released them as they were -- pure ambient microphone tracks with no direct lines. That stuff was released as a double live CD, “Creation of the Universe.” This was the start of the group which was eventually renamed The Metal Machine Trio, and we went on to play in Europe, Brazil, and Australia.
-
-We called the music “Deep Noise” because that’s what it was. At times though, it felt almost like improvised classical music, or something which didn’t have a name.
-
-## Listen
-
-[Embedded player](https://embed.music.apple.com/us/album/the-creation-of-the-universe/315196713)
-
-The record: Night 1, fifty-five minutes. Night 2, fifty-six. On [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713) and [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe).
-
-> The REDCAT stage looked like a rehearsal room Friday night when Lou Reed, Ulrich Krieger and Sarth Calhoun took the stage.
-> 
-> Ann Powers, [Los Angeles Times, October 4, 2008](https://web.archive.org/web/20110312081628/http://latimesblogs.latimes.com/soundboard/2008/10/lou-reed-and-ul.html)
-
-## The nights
-
-The album is the two REDCAT nights billed as *Unclassified: Lou Reed and Ulrich Krieger*, the shows that sold out inside a day and had a late set added. [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) heard me seated behind a desk with computers and mixers adding chunky layers of sub-frequency bass vibrations to the mix.
-
-The later [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) of the same name uses a different recording, from the Gramercy show of April 24, 2009, not this album. The dates are on [Sightings](/sightings/).
-
-## Conspiracies
-
-Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/); the instrument was the Continuum. The press on the record and the shows is on [Rumors](/rumors/).
-
-Who played what: Lou Reed, guitar, electronics and a small Continuum. Ulrich Krieger, tenor saxophone and live electronics. Sarth Calhoun, Continuum, and the whole field processed through Kyma.
-
-My account and the Lou Reed line are from the Conspiracies page of my old Squarespace site. Release data from Apple Music and Discogs.
+The copy for each machine is mine, from its page on contraptions.bookofsarth.com; the screenshots are the shelf’s own.
 
 ---
 
-# The Family Album
+# Ingather
 
-https://www.sarth.net/transmissions/the-family-album/
+https://www.sarth.net/conspiracies/ingather/
 
-[Transmissions](/transmissions/) / The Family Album
+[Conspiracies](/conspiracies/) / Ingather
 
-Transmission · Dream
+Conspiracy · Machine
 
-# *The Family Album*
+# Ingather
 
-*The Family Album* is the only full-length by [Lucibel Crater](/conspiracies/lucibel-crater/), the Brooklyn trio of [Leah Coloff](/conspirators/leah-coloff/), [Paul Chuffo](/conspirators/paul-chuffo/) and me. Ten songs, released February 12, 2008 on Searching Eye Records and mixed by [Bryce Goggin](https://en.wikipedia.org/wiki/Bryce_Goggin).
+Ingather is an integrated control system for a cannabis cultivation facility, built between August 2021 and March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest.
 
-[Lou Reed](/conspirators/lou-reed/) plays guitar on “Threadbare Funeral.” It is the only guitar on the record.
+The screens ran on monitors outside the rooms and on small touch panels, one per room, which is why the numbers are large and the controls are thumb-sized. A grower walking past a door could read the room without stopping.
 
-![Cover of The Family Album by Lucibel Crater.](/images/art-the-family-album.jpg)
+The facility is gone and the API went with it. [The demo runs anyway](https://ingather-demo.marshy-runner.workers.dev).
 
-Cover, *The Family Album*, 2008.
+![Ingather, a room overview: room phase, light level, zones and their fertigation programs, air handler readings.](/images/ingather.jpg)
 
-The songs: 1. There Was a Time. 2. Your Mean Mouth. 3. Into the Bushes. 4. Threadbare Funeral, featuring Lou Reed. 5. Next of Kin. 6. Blue Stationwagon. 7. Where You Are. 8. Bones. 9. Swimmers. 10. Could_i.
+A room overview. [Try it](https://ingather-demo.marshy-runner.workers.dev).
 
-## The songs
+![Ingather, a zone: strain and batch, plant count and emitters, the lighting routine and the nutrient recipe with its numbered pumps.](/images/ingather-zone.jpg)
 
-Ross Christopher at awaken music picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” MP3 Troll noted the Lou Reed guitar in May 2008, before the reviews. Coloff sings and plays cello; Chuffo plays drums; I play keys, bass, loops, [Kyma and the Continuum](/devices/).
+A zone. Its strain, its lighting routine, its recipe.
 
-Vogue Italia, January 2009: Ten muscular tracks and only one guitar, Lou Reed’s.
+## What it controlled
 
-## Listen
+A room holds zones; a zone holds a plant group of one strain. Each zone carries its own lighting routine, fertigation routine and nutrient recipe, so two zones in the same room can run differently.
 
-[Embedded player](https://open.spotify.com/embed/album/5GWIntdZRNl8zc9rAsIrKD)
+- **Environment.** Temperature, humidity, vapour pressure deficit, CO2 and light level, each with a reading and a set point. VPD is the one a grower actually tunes, and it sits in the list beside the two measurements it is calculated from.
+- **Fertigation.** Routines of timed cycles, expressed either as minutes of run time or as a share of the day’s target volume per plant, with the other derived from emitter flow rate and emitters per plant.
+- **Dosing.** Machines of twelve pumps, each pump assigned a role and a mix group, dosing millilitres per gallon against a target pH and conductivity. A recipe is viable on a machine only if that machine carries every ingredient the recipe calls for.
 
-The credit: *The Family Album*, Searching Eye Records, 2008, by Lucibel Crater: Leah Coloff, cello and voice; Paul Chuffo, drums; Sarth Calhoun, keys, bass, loops, Kyma and Continuum. Lou Reed, guitar, on “Threadbare Funeral.” Mixed by Bryce Goggin. On [Spotify](https://open.spotify.com/album/5GWIntdZRNl8zc9rAsIrKD) and [Apple Music](https://music.apple.com/us/album/the-family-album/274792742).
+## The demo
 
-> I can’t begin to express how rare and nice it is to hear a band doing something angular and different! Lucibel Crater’s, The Family Album is just that - angular and clearly unique.
-> 
-> Ross Christopher, [awaken music, April 1, 2009](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html), five stars of five
+The system it controlled no longer exists, so the demo is the app with invented data behind it: four rooms, thirteen zones, nine strains, twelve plant groups, five recipes, four dosing machines. Everything runs in the browser and nothing is stored anywhere but the visitor’s own machine, so anything changed belongs to whoever changed it and is gone when they clear it.
 
-## What was written about it
+Time runs at 1800 times real speed, a full light cycle every forty eight seconds, because a grow room only shows what it is doing across a day. The readings are generated rather than replayed, and generated the way a room behaves rather than as five unrelated waves: the lamps drive everything, temperature follows them late, humidity runs against temperature, CO2 is injected only under the lights, and vapour pressure deficit is calculated from the other two. The two flower rooms run opposite schedules, so they read as opposites at any moment you look.
 
-[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed it in July 2008: this is totally music to get high to. Simone Tempia wrote it up twice in Italy, in *Urban* in February 2009, where the Björk and White Stripes comparison comes from (Ci si può sentire qualcosa di Björk e magari dei White Stripes. Ma la verità è che il loro sound è unico e difficilmente incasellabile.), and in *Vogue Italia* that January. [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. The rest is on [Rumors](/rumors/).
+[ingather-demo.marshy-runner.workers.dev](https://ingather-demo.marshy-runner.workers.dev)
 
-## Conspiracies
+## How it started
 
-Made by [Lucibel Crater](/conspiracies/lucibel-crater/), with [Leah Coloff](/conspirators/leah-coloff/), [Paul Chuffo](/conspirators/paul-chuffo/) and [Lou Reed](/conspirators/lou-reed/). The band’s earlier EP is [*Miracles*](/transmissions/miracles/), 2007. My tools on it are on [Devices](/devices/).
-
-![Lucibel Crater at a table: Leah Coloff, Sarth Calhoun, Paul Chuffo.](/images/mwm-6816.jpg)
-
-Lucibel Crater: Leah Coloff, Sarth Calhoun, Paul Chuffo.
-
-Track list and dates from Apple Music. The Vogue Italia and Urban quotes are from the band’s own reprints, archived.
-
----
-
-# Miracles
-
-https://www.sarth.net/transmissions/miracles/
-
-[Transmissions](/transmissions/) / Miracles
-
-Transmission · Dream
-
-# *Miracles*
-
-*Miracles* is an EP by [Lucibel Crater](/conspiracies/lucibel-crater/), the Brooklyn trio of [Leah Coloff](/conspirators/leah-coloff/), [Paul Chuffo](/conspirators/paul-chuffo/) and me, released in 2007, the year before [*The Family Album*](/transmissions/the-family-album/).
+The credit: Ingather was built by Sarth Calhoun between August 2021 and March 2022.
 
 ## Conspiracies
 
-Made by [Lucibel Crater](/conspiracies/lucibel-crater/). The band’s full-length is [*The Family Album*](/transmissions/the-family-album/).
-
-The credit: *Miracles*, 2007, by Lucibel Crater: Leah Coloff, Paul Chuffo and Sarth Calhoun.
-
----
-
-# Suspension
-
-https://www.sarth.net/transmissions/suspension/
-
-[Transmissions](/transmissions/) / Suspension
-
-Transmission · Dream
-
-# *Suspension*
-
-*Suspension* is the only album by [Number19](/conspiracies/number19/), the Brooklyn band of [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and me. Nine songs, released in 2001 on Searching Eye Records and credited to Number 19. Diodore on guitar and violin, me on bass and a Yamaha EX5, Coloff on cello and voice, Righter on drums.
-
-![Cover of Suspension by Number 19.](/images/art-suspension.jpg)
-
-Cover, *Suspension*, 2001.
-
-The songs: 1. Tuner/Escalator. 2. Cold Fish. 3. Water. 4. Wheelies. 5. Everyone’s Desire. 6. I Before E. 7. Light. 8. Blue. 9. Intro.
-
-## Paid for by downloads
-
-The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. From the biography on my old site: The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
-
-## Listen
-
-[Embedded player](https://embed.music.apple.com/us/album/suspension/274828088)
-
-The credit: Sarth Calhoun, bass and Yamaha EX5, on *Suspension* by Number19, with Tony Diodore, Leah Coloff and Mark Righter. Searching Eye Records, 2001. On [Apple Music](https://music.apple.com/us/album/suspension/274828088) and [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5), credited to Number 19.
-
-> Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
-> 
-> Sarth Calhoun, introducing the band on his old site
-
-## Conspiracies
-
-Made by [Number19](/conspiracies/number19/). It was the first record I made with [Leah Coloff](/conspirators/leah-coloff/) and with [Tony Diodore](/conspirators/tony-diodore/); the three of us went on to [Lucibel Crater](/conspiracies/lucibel-crater/) and [Lou Reed’s band](/conspiracies/lou-reed-song-band/).
-
-My lines are from my old WordPress site, recovered from the Wayback Machine. Track list from Apple Music.
-
----
-
-# Introspections
-
-https://www.sarth.net/transmissions/introspections/
-
-[Transmissions](/transmissions/) / Introspections
-
-Transmission · Dream
-
-# Introspections
-
-*Introspections* is a series of improvised drone pieces I recorded and filmed from 2015, on Continuum and Kyma, with duet partners. Three are public: “For Lovers,” with [Jacob McCoy](/conspirators/jacob-mccoy/), filmed on March 2, 2015; “Sunset Meditation,” on SoundCloud; and a clip from the Warper Party in New York, September 2015.
-
-Musical explorations that build on the Tai Chi and Meditation tracks I did with Lou Reed, and the shows we did with Ulrich Krieger as The Metal Machine Trio. Drones, improvised transformation, and hypnotic symbols create a collaborative sound field. I’ve explored these ideas in venues ranging from Lolapalooza, The Royal Festival Hall in London, and The Sydney Opera house ... to some of my favorite performances at intimate events.
-
-![Sarth Calhoun bent over a Continuum Fingerboard, black and white.](/images/sarth-top-know-square.jpg)
-
-Sarth Calhoun at the Continuum.
-
-For Lovers: On March 2nd, 2015, Jacob and I got together to record some Linnstrument / Continuum Fingerboard duets. It was also Lou Reed’s birthday, and this piece reminded me of things we explored together. Drones, close intervals, sum and difference frequencies. And Lou loved his Continuum Fingerboard. So this is dedicated to him.
-
-## For Lovers
-
-Eight minutes thirteen, with Jacob McCoy on Linnstrument. Released as a [single](/transmissions/singles/) in 2020. On [Vimeo](https://vimeo.com/125323250).
-
-[Embedded player](https://player.vimeo.com/video/125323250)
-
-## Sunset Meditation
-
-A solo piece, on SoundCloud under the name noisegroove.
-
-[Embedded player](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201344917&color=%23111111&auto_play=false&show_artwork=true)
-
-> Imagine stillness moving through space. If Energy flows where attention goes, where does it take you? What shall we make of it? Who Are You? Who Am I? What really Matters?
-> 
-> Sarth Calhoun, the Introspections page of his own site
-
-[Embedded player](https://player.vimeo.com/video/140015309)
-
-## Warper Party, 2015
-
-Forty-one seconds from a Warper Party set in New York, September 2015. On [Vimeo](https://vimeo.com/140015309).
-
-## Reflections
-
-I have been fortunate enough to explore these ideas with great improvisers, including [Laurie Anderson](/conspirators/laurie-anderson/), [Moldover](/conspirators/moldover/), [John Zorn](/conspirators/john-zorn/), [Sxip Shirey](/conspirators/sxip-shirey/), [Marc Ribot](/conspirators/marc-ribot/) and [Rob Wasserman](/conspirators/rob-wasserman/). In the first video, Sxip is creating the drones and structure using an amplified shruti box, while I play continuum. In the second, Jacob McCoy creates drones on the Linnstrument. I worked with sound artist Michael Clemow on a project called “The Drost Effect” ... named for the phenomenon known also as mise en abyme, two mirrors face each other and create endless reflections ... in our process we each sampled and transformed the other’s sound creating realtime infinite recursion.
-
-[Shruti box, with Sxip Shirey](https://www.youtube.com/watch?v=V_ZinrLAl4I) · [Prepared guitar, with Sxip Shirey](https://www.youtube.com/watch?v=_8jgV_4Xqmc) · [Linnstrument, with Jacob McCoy](https://vimeo.com/125323250)
-
-## Contemplations
-
-What is the dialogue between sound and consciousness? I worked with Jeremiah Brimlau to bring this work to retreat centers and yoga studios. His guided meditations helped the audience to move through the sound experience.
-
-## Conspiracies
-
-It builds on the meditation music I made with [Lou Reed](/conspirators/lou-reed/) and on [Metal Machine Trio](/conspiracies/metal-machine-trio/) with [Ulrich Krieger](/conspirators/ulrich-krieger/). The instruments are on [Devices](/devices/).
-
-The credit: Introspections: Sarth Calhoun, Continuum Fingerboard and Kyma, improvised drone duets from 2015 with Jacob McCoy, Linnstrument; Sxip Shirey, shruti box and prepared guitar; and others.
-
-My paragraphs are from the Introspections pages of my old Squarespace site, put in the past tense, and my Vimeo note for For Lovers.
-
----
-
-# Lou Reed Live at Lollapalooza 2009
-
-https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/
-
-[Transmissions](/transmissions/) / Lou Reed Live at Lollapalooza 2009
-
-Transmission · Dream
-
-# *Lou Reed Live at Lollapalooza 2009*
-
-*Lou Reed Live at Lollapalooza 2009* is the official DVD of [Lou Reed](/conspirators/lou-reed/)’s set at Lollapalooza in Grant Park, Chicago, on Sunday, August 9, 2009, released July 19, 2011. The band was Mike Rathke and Steve Hunter on guitars, Kevin Hearn on keyboards, [Rob Wasserman](/conspirators/rob-wasserman/) on bass, Tony “Thunder” Smith on drums, [Ulrich Krieger](/conspirators/ulrich-krieger/) on saxophone, and me on electronics and Continuum.
-
-![Sarth Calhoun performing at Lollapalooza, a bass headstock in the foreground.](/images/lolla-dvd-show.jpg)
-
-Sarth Calhoun at Lollapalooza, August 9, 2009.
-
-> Reed, on the other hand, brought the weekend’s most audacious music, a set laced with bile, violence and feedback, never more so than when he threaded a raging “Paranoia Key of E” into a pile-driving “Waiting for the Man.”
-> 
-> Greg Kot, [Chicago Tribune, August 10, 2009](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
-
-## The set
-
-Day three, to a capacity crowd of forty thousand. [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/) noted Reed ran fifteen minutes over. Inside the set, [Metal Machine Trio](/conspiracies/metal-machine-trio/) played a ten minute noise interlude between the songs. The date is on [Sightings](/sightings/).
-
-## The interlude
-
-Ulrich Krieger, writing after Reed died: At 2009’s Lollapalooza MM3 played a ten minute noise interlude between well known Reed songs to the frantic cheers of a large audience. And of the tours that followed: On subsequent tours with his newly revised rock group, including Sarth and me, he would play MM3 recordings before and after shows.
-
-Credits: From [loureed.com](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/): Mike Rathke, guitar. Steve Hunter, guitar. Kevin Hearn, keyboards. Rob Wasserman, bass. Tony “Thunder” Smith, drums. Ulrich Krieger, saxophone. Sarth Calhoun, electronics and continuum. [Discogs](https://www.discogs.com/release/15272070) lists it on Sister Ray Enterprises, Sarth credited for Continuum fingerboard and processing.
-
-> Rob Wasserman’s upright electric bass, Kevin Hearn’s string/horn patches, Sarth Calhoun’s invisible Macbookery, and guitarist Steve Hunter’s fiery if decidedly inside-the-box solos.
-> 
-> Jesse Jarnow on the same band a year earlier, [The Village Voice, May 6, 2008](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party)
-
-## Conspiracies
-
-This is [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) on film, with [Metal Machine Trio](/conspiracies/metal-machine-trio/) inside it. [Rob Wasserman](/conspirators/rob-wasserman/) and [Ulrich Krieger](/conspirators/ulrich-krieger/) have their own pages. My rig that day was the Continuum and [Kyma](/devices/).
-
-Credits verbatim from loureed.com. The Krieger lines are from “Unclassifiable,” [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable), 2013.
+It sits with the rest of the data and systems work on [Work](/work/). The pipeline writing is in [External tables](/transmissions/external-tables/) and [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/).
 
 ---
 
@@ -1714,100 +1213,6 @@ Because the default Burlap interface isn’t a chat mode, to implement chat you 
 
 ---
 
-# About Awakening (To Blacklist)
-
-https://www.sarth.net/transmissions/about-awakening-to-blacklist/
-
-Nov 21, 2020 · Message
-
-# About Awakening (To Blacklist)
-
-One of my favorite things about this track is the morph from the hum to a rhythmic/pitched pattern.
-
-There’s a scene in ‘Book of Sarth’ where the office workers are coming out of a daze, they are transitioning back in to reality, and the hum transforming really ended up matching this perfectly. (I don’t know which idea came first.)
-
-Here’s how I did it:
-
-I start with a recording of typical 60 cycle hum. This was pretty straightforward, I probably just messed with a 1/4” cable partially plugged into my Marshall amp, or something similar.
-
-[Listen](/audio/hum-plain.m4a)
-
-Plain 60 cycle hum.
-
-I wanted to see if I could transform that sound into something.
-
-I started playback and threw various Ableton plug-ins on the track.
-
-![Ableton device chain: Delay, EQ Eight, Compressor, Frequency Shifter.](/images/awakening-chain.png)
-
-The chain in Ableton: Delay, EQ Eight, Compressor, Frequency Shifter.
-
-I tried a Delay, an EQ, a compressor … and they all stayed, but what made the melody was the frequency shifter plug-in. I saw a preset called ‘Space Birds’ and with it on the track, I immediately got a cool melody.
-
-[Listen](/audio/hum-melody.m4a)
-
-The hum melody.
-
-![Ableton Frequency Shifter on the Spacebirds preset.](/images/awakening-spacebirds.png)
-
-The Frequency Shifter on the Spacebirds preset.
-
-It’s a pitch shifter with a random waveform modulating the pitch.
-
-It’s moving at a speed of one quarter note, or so it says, but I hear it as sixteenths (the file is at 88.00 BPM so …) I think maybe that has to do with the width control.
-
-Then it’s just a matter of automating the wet/dry control to ‘morph’ the track from plain hum to the melody.
-
-![An automation curve in Ableton rising and falling across the clip.](/images/awakening-automation.png)
-
-The wet/dry automation, from hum to melody.
-
-One of the great things about Ableton is the plugins, no matter what type, usually have some kind of wet/dry or ‘percent’ control. This allow for a lot of cool morphs and transitions, I’ll go deeper down that road in the next post.
-
----
-
-The other thing I love about this track is the drum sounds during this hum/intro section. There is the extremely clear track and a more … gnarly track. Here they are combined, but I put a bit of strong panning so you can more easily differentiate the two parts
-
-[Listen](/audio/hum-drums-combined.m4a)
-
-Both drum tracks, panned apart.
-
-Here’s just the 606 (clear) loop:
-
-[Listen](/audio/hum-606-loop.m4a)
-
-The 606 loop.
-
-And here is the sampled club kit with brushes:
-
-[Listen](/audio/hum-club-kit-brushes.m4a)
-
-The sampled club kit with brushes.
-
-And then the dramatic, almost military hits that come in and out have the gnarliness much more evident.
-
-[Listen](/audio/hum-military-hits.m4a)
-
-The military hits.
-
-This was a happy accident. The original piece (called Onamanopeia April Foolz) was an instrumental done at 176.10 BPM. At the time I was having issues with cpu power in that particular file, so I ‘froze’ a couple of the drum tracks.
-
-For whatever reason, when I started working on the hum piece, I halved the BPM to 88, and I forgot to unfreeze those two tracks.
-
-This meant that the beats played at the much slower tempo, but one track was just slowed via midi, maintaining the very clear pristine quality, and the other was audio-stretched, making it very gnarly. This was particularly awesome because it was an exaggeration of what I was going for. I often have two (or more) drum kits on a track, one pristine, one dirty. This was just more so.
-
-If you want to hear the entire track on Spotify, including it’s connection to the vocal track ‘Blacklist’ here it is:
-
-[Embedded player](https://open.spotify.com/embed/album/2AK3ADNcGHccdecSkjV43k)
-
-More about happy accidents and automated effect controls to morph sources in future posts. I hope you enjoy!
-
-— Sarth
-
-Posted on sarth.net on November 21, 2020, and reproduced here as written, with the audio examples and screenshots from that post. The track is [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), from [*The Book of Sarth*](/conspiracies/book-of-sarth/).
-
----
-
 # Conspiracies
 
 https://www.sarth.net/conspiracies/
@@ -1907,117 +1312,6 @@ The rock and electronic trio of Leah Coloff, Paul Chuffo and me. Its album *The 
 ## [Number19](/conspiracies/number19/)
 
 The band I formed in Brooklyn in 1999 with Tony Diodore, Leah Coloff and Mark Righter. Its album *Suspension* came out in 2001.
-
----
-
-# Third Wall Studio
-
-https://www.sarth.net/conspiracies/third-wall-studio/
-
-[Conspiracies](/conspiracies/) / Third Wall Studio
-
-Conspiracy · Dream
-
-# Third Wall Studio
-
-Third Wall Studio is the animation studio I founded in May 2025. It makes animation with filmmakers and artists, mixing live action, animation and generative AI in the same production, and it builds [Burlap](/conspiracies/burlap/), the app the films are made in. It is at [thirdwallstudio.com](https://thirdwallstudio.com).
-
-The first films came out in 2026: shorts with [Doron Lev](/conspirators/doron-lev/), [Jacob McCoy](/conspirators/jacob-mccoy/), [Savas](/conspirators/savas/) and [Jonathan Arons](/conspirators/jonathan-arons/), and *Through the Brambles*, a VR story built entirely inside Burlap.
-
-![Watching Shadows, still.](/images/yt-fghXNj-HdBg.jpg)
-
-*Watching Shadows*, with Doron Lev, April 2026.
-
-## What the studio says
-
-The homepage carries two lines. We make animations with filmmakers and artists. We build new tech for ancient magic.
-
-The pitch to collaborators is longer. You have a story. We have the studio. Third Wall works with writers, animators, directors, and visual artists who want to push into new territory, where live action, animation, and generative AI collapse into something that didn’t exist before. You bring the vision. Projects are co-produced, credit is shared, and the work stays yours. What the studio offers is access to generative AI tools and production pipelines, creative direction and mentorship, co-production with shared credit and shared risk, and a studio environment to develop work that doesn’t fit anywhere else yet.
-
-On this site I put it this way. We mix live action, animation, and generative AI in the same production, not as a gimmick, but as part of the craft. And: Writers, animators, directors, and visual artists bring their own worlds. Burlap is the canvas underneath it all.
-
-## How it started
-
-I founded it in May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic.
-
-The credit: Sarth Calhoun founded Third Wall Studio in May 2025 and builds Burlap, the app its films are made in.
-
-## The films
-
-- [Watching Shadows · with Doron Lev · April 2026](https://www.youtube.com/watch?v=fghXNj-HdBg)
-- [Through the Brambles · directed by Jacob McCoy · May 2026](https://www.youtube.com/watch?v=ttWqwhzE-yA)
-- [Pigeon Problems · with Doron Lev · February 2026](https://www.youtube.com/watch?v=vs6KM7hFzxs)
-- [Truck Stop Love · with Doron Lev · February 2026](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
-- [Meatsuitz Family Vacay · with Jacob McCoy · January 2026](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
-- [Meatsuitz – Dare to be Delicious · directed by Jacob McCoy · December 2025](https://www.youtube.com/watch?v=VrtL59O1ps0)
-
-- **Dark Arts**, teaser. August 2026.
-
-  [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
-
-- **Kubler-Ross Model**, with [Savas](/conspirators/savas/). 3:55. Built from his own concept art. On Vimeo since April 2026; an excerpt went out on YouTube in August 2026.
-
-  [Full film on Vimeo](https://vimeo.com/1187052948/25ddad82d9) · [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8) · [Third Wall](https://www.thirdwallstudio.com/process)
-
-- **The Trinary Matrix**, with [Jonathan Arons](/conspirators/jonathan-arons/). 14:15. He animated his own book scene by scene in Burlap; the studio finished it in post. On Vimeo since April 2026.
-
-  [Full film on Vimeo](https://vimeo.com/1187032618/46e04bc8a5) · [Third Wall](https://www.thirdwallstudio.com/process)
-
-*Through the Brambles*, directed by [Jacob McCoy](/conspirators/jacob-mccoy/), is a VR story built entirely inside Burlap. Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. It is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles).
-
-## Conspiracies
-
-[Burlap](/conspiracies/burlap/) is the studio’s own tool and has its own page. The films are on [Work](/work/) and under Optical on [Transmissions](/transmissions/). How the studio prompts is written up in [Visual Reference Prompting](/transmissions/visual-reference-prompting/). The studio is on [Instagram](https://www.instagram.com/3rdwallstudio/) and [YouTube](https://www.youtube.com/@burlap_app).
-
-The studio’s copy is from [thirdwallstudio.com](https://thirdwallstudio.com) and the sarth.net homepage. The film list is the one on [Work](/work/).
-
----
-
-# Burlap
-
-https://www.sarth.net/conspiracies/burlap/
-
-[Conspiracies](/conspiracies/) / Burlap
-
-Conspiracy · Machine
-
-# Burlap
-
-Burlap is a native Mac app for visual creation and context management, made by [Third Wall Studio](/conspiracies/third-wall-studio/). It is an infinite canvas with asset management and connections to AI models built in, so the images, the videos and the workflow live in one place. It connects to the latest models from OpenAI, Google, Runway, ByteDance and more, and when a user brings their own API keys, their data never touches Burlap’s server. It is at [burlap.app](https://burlap.app).
-
-It is the tool the studio works in. The 2026 shorts and *Through the Brambles* were made in it.
-
-![Burlap, infinite canvas for visual reference prompting.](/images/burlap.jpg)
-
-Burlap. Download at [burlap.app](https://burlap.app/download).
-
-## What it does
-
-From burlap.app. Burlap takes your creative process out of little GenAI cubicles and lets you roam free. Burlap isn’t just an infinite canvas. Asset management and connections to AI are included under the hood. This allows you to see the images and videos and manage the workflow all in one place.
-
-- **More freedom, less downtime.** Run multiple prompts at the same time and keep building while the AI generates results in the background.
-- **Flexible multi-model workflow.** Use Runway and OpenAI side-by-side in the same project. Mix text, images, and video generation, and fine tune the style and composition with reference-based prompting.
-- **Visual reference prompting.** Steer AI outputs with sketches, imported images, or captured canvas elements.
-
-This is a creative production tool, and it is also a context engineering tool. We are empowering users to provide context to LLMs to shape their results.
-
-Two walkthroughs on YouTube: [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo) and [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k).
-
-## How it started
-
-Burlap is made by Third Wall Studio as our workflow tool for animation and visual design. It is available now for Mac, and it is the canvas underneath [visual reference prompting](/transmissions/visual-reference-prompting/).
-
-The credit: Burlap is made by Sarth Calhoun at Third Wall Studio. He started it after Runway’s 48-hour film competition in the spring of 2025.
-
-I made Burlap after entering the runway 48 hours sprint competition, you're supposed to make a short film in 48 hours, like Saturday morning to Monday morning, Saturday morning at 9:00 a.m. to Monday to be mighty, but uh... it was brutal. I realized the models had arrived this was like April of 2025, but the toolchain was just unworkable, just completely unworked for anything I wanted to do or how I thought a professional workspace should be.
-
-## Conspiracies
-
-[Third Wall Studio](/conspiracies/third-wall-studio/) builds it and makes its films in it; they are on [Work](/work/). [Visual Reference Prompting](/transmissions/visual-reference-prompting/) is the method the canvas is built around. [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) is Claude driving DuckDB over Burlap’s JSON records of every genAI call. The small tools at [Contraptions](https://contraptions.bookofsarth.com) sit beside it: Burlap is the main machine; these are the odd little ones beside it.
-
-[Burlap on Instagram](https://www.instagram.com/burlapapp/) · [Burlap on YouTube](https://www.youtube.com/@burlap_app)
-
-Burlap’s copy is from [burlap.app](https://burlap.app) and the sarth.net homepage.
 
 ---
 
@@ -2829,56 +2123,6 @@ I got a bunch of friends getting Chinese food and going to the movies
 ```
 
 My account, the credits and the lyrics are from the song’s page on my old Squarespace site. The exchange with the neighbors was Christmas Eve 2014, the session was August 2015, the release was December 2015.
-
----
-
-# Ingather
-
-https://www.sarth.net/conspiracies/ingather/
-
-[Conspiracies](/conspiracies/) / Ingather
-
-Conspiracy · Machine
-
-# Ingather
-
-Ingather is an integrated control system for a cannabis cultivation facility, built between August 2021 and March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest.
-
-The screens ran on monitors outside the rooms and on small touch panels, one per room, which is why the numbers are large and the controls are thumb-sized. A grower walking past a door could read the room without stopping.
-
-The facility is gone and the API went with it. [The demo runs anyway](https://ingather-demo.marshy-runner.workers.dev).
-
-![Ingather, a room overview: room phase, light level, zones and their fertigation programs, air handler readings.](/images/ingather.jpg)
-
-A room overview. [Try it](https://ingather-demo.marshy-runner.workers.dev).
-
-![Ingather, a zone: strain and batch, plant count and emitters, the lighting routine and the nutrient recipe with its numbered pumps.](/images/ingather-zone.jpg)
-
-A zone. Its strain, its lighting routine, its recipe.
-
-## What it controlled
-
-A room holds zones; a zone holds a plant group of one strain. Each zone carries its own lighting routine, fertigation routine and nutrient recipe, so two zones in the same room can run differently.
-
-- **Environment.** Temperature, humidity, vapour pressure deficit, CO2 and light level, each with a reading and a set point. VPD is the one a grower actually tunes, and it sits in the list beside the two measurements it is calculated from.
-- **Fertigation.** Routines of timed cycles, expressed either as minutes of run time or as a share of the day’s target volume per plant, with the other derived from emitter flow rate and emitters per plant.
-- **Dosing.** Machines of twelve pumps, each pump assigned a role and a mix group, dosing millilitres per gallon against a target pH and conductivity. A recipe is viable on a machine only if that machine carries every ingredient the recipe calls for.
-
-## The demo
-
-The system it controlled no longer exists, so the demo is the app with invented data behind it: four rooms, thirteen zones, nine strains, twelve plant groups, five recipes, four dosing machines. Everything runs in the browser and nothing is stored anywhere but the visitor’s own machine, so anything changed belongs to whoever changed it and is gone when they clear it.
-
-Time runs at 1800 times real speed, a full light cycle every forty eight seconds, because a grow room only shows what it is doing across a day. The readings are generated rather than replayed, and generated the way a room behaves rather than as five unrelated waves: the lamps drive everything, temperature follows them late, humidity runs against temperature, CO2 is injected only under the lights, and vapour pressure deficit is calculated from the other two. The two flower rooms run opposite schedules, so they read as opposites at any moment you look.
-
-[ingather-demo.marshy-runner.workers.dev](https://ingather-demo.marshy-runner.workers.dev)
-
-## How it started
-
-The credit: Ingather was built by Sarth Calhoun between August 2021 and March 2022.
-
-## Conspiracies
-
-It sits with the rest of the data and systems work on [Work](/work/). The pipeline writing is in [External tables](/transmissions/external-tables/) and [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/).
 
 ---
 
@@ -4490,6 +3734,856 @@ The profile is from public sources, linked where they appear. What we made is th
 
 ---
 
+# Transmissions
+
+https://www.sarth.net/transmissions/
+
+Aural, optical, lexical
+
+# Transmissions
+
+What went out: records, films, apps and writing. The collaborations that made them are [Conspiracies](/conspiracies/), and where they were played is [Sightings](/sightings/).
+
+## Aural
+
+Records and songs.
+
+- ## [Singles](/transmissions/singles/)
+
+  2020 to 2025. Eleven singles as Sarth on Noise | Groove, from “Squishy | Bass” to “Softly Questioning (Reprise),” and one as Catfish Calhoun and Friends.
+
+  [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9) · [Apple Music](https://music.apple.com/us/artist/sarth/1061852162)
+
+- ## [Beautiful Tornado](/transmissions/beautiful-tornado/)
+
+  2020 to 2021. The podcast with Dom Bouffard: six conversations with musicians and artists.
+
+  [YouTube](https://www.youtube.com/playlist?list=PLmXj9m6I5JooEjI2skmu1LdMlhlmYaTfb) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/beautiful-tornado/id1553841403)
+
+- ## [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/)
+
+  2015. A Christmas song sung by Michael Patrick Flanagan Smith, words finished with Jesse Schoen, Virginia Piazza and Doron Lev.
+
+  [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)
+
+- ## [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
+
+  2015. My first release of improvised duets, subtitled *A Noise Akin to a Flight of Deranged Swallows in Combat*.
+
+  [Apple Music](https://music.apple.com/us/album/reflections-vol-1-a-noise-akin-to-a-flight/1061852160)
+
+- ## [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/)
+
+  2013. Four pieces from the music of *The Book of Sarth*, released as an EP a year after the app.
+
+  [Spotify](https://open.spotify.com/album/2AK3ADNcGHccdecSkjV43k)
+
+- ## [Solsbury Hill](/transmissions/solsbury-hill/)
+
+  2013. Lou Reed’s recording of the Peter Gabriel song for *And I’ll Scratch Yours*. I produced it and played electronics.
+
+- ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
+
+  2012. A track from *The Book of Sarth*. Its melody is made out of a recording of 60 cycle hum.
+
+  [bookofsarth.com](https://bookofsarth.com)
+
+- ## [Lulu](/conspiracies/lulu/)
+
+  2011. The Lou Reed and Metallica album, grown out of the score Lou Reed and I wrote for Robert Wilson’s Berliner Ensemble production.
+
+- ## [Junior Dad](/conspiracies/junior-dad/)
+
+  2011. The closing track of *Lulu*, nineteen and a half minutes. It began at Lou Reed’s apartment with Rob Wasserman’s bowed electric upright running through Kyma.
+
+  [Apple Music](https://music.apple.com/us/album/junior-dad/467890760?i=467890784)
+
+- ## [Peggy Sue](/transmissions/peggy-sue/)
+
+  2011. Lou Reed’s recording of the Buddy Holly song for *Rave On Buddy Holly*. I played bass on it, a Moog Little Phatty.
+
+- ## [The Creation of the Universe](/transmissions/the-creation-of-the-universe/)
+
+  2009. Lou Reed’s Metal Machine Trio, live. The two REDCAT nights nearly whole.
+
+  [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713) · [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe)
+
+- ## [The Family Album](/transmissions/the-family-album/)
+
+  2008. Lucibel Crater, the trio of Leah Coloff, Paul Chuffo and me.
+
+- ## [Miracles](/transmissions/miracles/)
+
+  2007. Lucibel Crater’s EP, the year before *The Family Album*.
+
+- ## [Suspension](/transmissions/suspension/)
+
+  2001. Number19, the band I formed in 1999 with Tony Diodore, Leah Coloff and Mark Righter.
+
+  [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
+
+## Optical
+
+Films, apps and video.
+
+- ## [The 2026 animated shorts](/work/)
+
+  Seven films made at Third Wall Studio with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, built in Burlap.
+
+  [Third Wall](https://thirdwallstudio.com) · [YouTube](https://www.youtube.com/@burlap_app)
+
+- ## [Burlap](/conspiracies/burlap/)
+
+  A native macOS infinite canvas for visual reference prompting.
+
+  [burlap.app](https://burlap.app) · [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
+
+- ## [Introspections](/transmissions/introspections/)
+
+  2015. Improvised drone pieces on Continuum and Kyma: “For Lovers” with Jacob McCoy, “Sunset Meditation,” a Warper Party clip.
+
+  [Vimeo](https://vimeo.com/125323250)
+
+- ## [The Book of Sarth](/conspiracies/book-of-sarth/)
+
+  2012. A graphic novel and concept album built as one iPad app. My first full-length solo release.
+
+  [bookofsarth.com](https://bookofsarth.com)
+
+- ## [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
+
+  2011. An official DVD of the festival set. The credits read Sarth Calhoun – electronics & continuum.
+
+  [Credits](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
+
+## Lexical
+
+Essays and writing.
+
+- ## [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
+
+  Sep 22, 2026. Asking Claude how much an artist spent on a project in Burlap, answered straight from JSON files with DuckDB. Plus the whole append-only pipeline pattern, on a laptop.
+
+- ## [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/)
+
+  Tutorial series, five parts. Building an append-only data pipeline on external tables, with window functions for the current truth and runtime type checking at the boundary.
+
+- ## [Window functions, the mental model](/transmissions/window-functions/)
+
+  SQL. Compare them to aggregates, PARTITION BY vs GROUP BY, ROW_NUMBER vs RANK, and why the window grows.
+
+- ## [SQL as the data language](/transmissions/sql-as-the-data-language/)
+
+  SQL. Views, CTEs, joins, and why everything is a table (which is also not true).
+
+- ## [You might not need Pandas](/transmissions/you-might-not-need-pandas/)
+
+  Essay. Most day to day Pandas work is better done in SQL, with a side by side example, and where Pandas still earns its place.
+
+- ## [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/)
+
+  Essay. It is what people know, plus an ecosystem written in C, C++ and CUDA. What that does and does not tell you about building pipelines.
+
+- ## [Modern Postgres is shockingly capable](/transmissions/modern-postgres/)
+
+  Essay. JSONB, horizontal scaling, and the rise and fall of MongoDB.
+
+- ## [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/)
+
+  Essay. The case that an agnostic server beats batteries included, and why I am not sure I believe it.
+
+- ## [Visual Reference Prompting](/transmissions/visual-reference-prompting/)
+
+  Jul 31, 2026. How original images can hold a subject together, bend a style, and open up stranger places to go next.
+
+- ## [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)
+
+  Nov 21, 2020. How the track’s melody came out of a recording of 60 cycle hum: a frequency shifter on the Spacebirds preset, wet/dry automation, and a happy accident with two frozen drum tracks. With the audio examples.
+
+---
+
+# Singles
+
+https://www.sarth.net/transmissions/singles/
+
+[Transmissions](/transmissions/) / Singles
+
+Transmission · Dream
+
+# Singles
+
+Eleven singles I released as Sarth between January 2020 and May 2025 on my own Noise | Groove label, and one as Catfish Calhoun and Friends. All are on [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9) and [Apple Music](https://music.apple.com/us/artist/sarth/1061852162). Newest first.
+
+![Sarth Calhoun seated at a Continuum Fingerboard with rack gear and a laptop.](/images/sarth-1-full.jpg)
+
+Sarth Calhoun at his rig.
+
+![Cover of Softly Questioning (Reprise).](/images/art-single-softly-questioning-reprise.jpg)
+
+Cover, *Softly Questioning (Reprise)*, 2025.
+
+## Softly Questioning (Reprise)
+
+May 20, 2025. 4:19. A return to “Softly Questioning” from [*Reflections, Vol. 1*](/conspiracies/reflections-vol-1/), the piece whose melody became the main theme of Joe Kelly’s film *Poughkeepsie*. On [Spotify](https://open.spotify.com/album/6lONJ3i46bFv63k0RWm3GS) and [Apple Music](https://music.apple.com/us/album/1813001279).
+
+[Embedded player](https://open.spotify.com/embed/album/6lONJ3i46bFv63k0RWm3GS)
+
+## Ego Streaked
+
+November 28, 2022. 0:44. Forty-four seconds. On [Spotify](https://open.spotify.com/album/3ZrlFde54fNgEIEEOFBXc6) and [Apple Music](https://music.apple.com/us/album/1655897012).
+
+[Embedded player](https://open.spotify.com/embed/album/3ZrlFde54fNgEIEEOFBXc6)
+
+![Cover of Ego Streaked.](/images/art-single-ego-streaked.jpg)
+
+Cover, *Ego Streaked*, 2022.
+
+![Cover of Shimmering Angels (in 40 years).](/images/art-single-shimmering-angels.jpg)
+
+Cover, *Shimmering Angels (in 40 years)*, 2022.
+
+## Shimmering Angels (in 40 years)
+
+September 2, 2022. 4:02. Spoken word. On [Spotify](https://open.spotify.com/album/0x2TagoPi3CEotWliVpG47) and [Apple Music](https://music.apple.com/us/album/1641954519).
+
+[Embedded player](https://open.spotify.com/embed/album/0x2TagoPi3CEotWliVpG47)
+
+## Failure is OK
+
+May 16, 2022. 4:48. On [Spotify](https://open.spotify.com/album/0iQDgOcaru6B3AAieqbvFB) and [Apple Music](https://music.apple.com/us/album/1622580239).
+
+[Embedded player](https://open.spotify.com/embed/album/0iQDgOcaru6B3AAieqbvFB)
+
+![Cover of Failure is OK.](/images/art-single-failure-is-ok.jpg)
+
+Cover, *Failure is OK*, 2022.
+
+![Cover of Sometimes You Need Sun.](/images/art-single-sometimes-you-need-sun.jpg)
+
+Cover, *Sometimes You Need Sun*, 2022.
+
+## Sometimes You Need Sun
+
+May 3, 2022. 4:06. Released as Catfish Calhoun and Friends, with Doron Lev. On [Spotify](https://open.spotify.com/album/5RzhbxZWNBnAuL6xEd5Gb2) and [Apple Music](https://music.apple.com/us/album/1620005521).
+
+[Embedded player](https://open.spotify.com/embed/album/5RzhbxZWNBnAuL6xEd5Gb2)
+
+## My Empty Father
+
+January 6, 2022. 3:18. On [Spotify](https://open.spotify.com/album/3dwOtIoZoxaVEHidC07jJT) and [Apple Music](https://music.apple.com/us/album/1603727669).
+
+[Embedded player](https://open.spotify.com/embed/album/3dwOtIoZoxaVEHidC07jJT)
+
+![Cover of My Empty Father.](/images/art-single-my-empty-father.jpg)
+
+Cover, *My Empty Father*, 2022.
+
+![Cover of For Lovers.](/images/art-single-for-lovers.jpg)
+
+Cover, *For Lovers*, 2020.
+
+## For Lovers
+
+October 30, 2020. 8:32. With Jacob McCoy. The 2015 Linnstrument and Continuum duet from [Introspections](/transmissions/introspections/), released as a single five years later. On [Spotify](https://open.spotify.com/album/1eYowG2sDJhykbBMc1nk3g) and [Apple Music](https://music.apple.com/us/album/1537204819).
+
+On March 2nd, 2015, Jacob and I got together to record some Linnstrument / Continuum Fingerboard duets. It was also Lou Reed’s birthday, and this piece reminded me of things we explored together. Drones, close intervals, sum and difference frequencies. And Lou loved his Continuum Fingerboard. So this is dedicated to him.
+
+[Embedded player](https://open.spotify.com/embed/album/1eYowG2sDJhykbBMc1nk3g)
+
+## Everyth Everything (Sarth Mix)
+
+October 23, 2020. 4:25. My own mix of “Everything Everything.” On [Spotify](https://open.spotify.com/album/0ewgP3rrFB6BBp3Hiokexe) and [Apple Music](https://music.apple.com/us/album/1537110639).
+
+[Embedded player](https://open.spotify.com/embed/album/0ewgP3rrFB6BBp3Hiokexe)
+
+![Cover of Everyth Everything (Sarth Mix).](/images/art-single-everyth-everything-sarth-mix.jpg)
+
+Cover, *Everyth Everything (Sarth Mix)*, 2020.
+
+![Cover of Everything Everything.](/images/art-single-everything-everything.jpg)
+
+Cover, *Everything Everything*, 2020.
+
+## Everything Everything
+
+April 9, 2020. 4:33. On [Spotify](https://open.spotify.com/album/66RTaO6FHMIUqX3Y3xC9P7) and [Apple Music](https://music.apple.com/us/album/1505919693).
+
+I feel this might be the best thing I’ve ever made. I worked for a long time on this song, but I could never finish it. And then one day it was done.
+
+[Embedded player](https://open.spotify.com/embed/album/66RTaO6FHMIUqX3Y3xC9P7)
+
+## Peanut Style
+
+February 24, 2020. 2:47. On [Spotify](https://open.spotify.com/album/6XFLBI5drf9rC1NJyfKgS2) and [Apple Music](https://music.apple.com/us/album/1499153875).
+
+[Embedded player](https://open.spotify.com/embed/album/6XFLBI5drf9rC1NJyfKgS2)
+
+![Cover of Peanut Style.](/images/art-single-peanut-style.jpg)
+
+Cover, *Peanut Style*, 2020.
+
+![Cover of Squishy | Bass.](/images/art-single-squishy-bass.jpg)
+
+Cover, *Squishy | Bass*, 2020.
+
+## Squishy | Bass
+
+January 10, 2020. 2:17. On [Spotify](https://open.spotify.com/album/6iLXiDC12vd9dus7urREyk) and [Apple Music](https://music.apple.com/us/album/1494908396).
+
+[Embedded player](https://open.spotify.com/embed/album/6iLXiDC12vd9dus7urREyk)
+
+The credit: Singles by Sarth Calhoun, released as Sarth on Noise | Groove, 2020 to 2025. “Sometimes You Need Sun,” 2022, as Catfish Calhoun and Friends with Doron Lev. “For Lovers” with Jacob McCoy, Linnstrument.
+
+Dates and lengths from Apple Music. The For Lovers dedication is my Vimeo note from 2015; the Everything Everything line is from the Transmissions page of my old Squarespace site. Two releases on the Apple Music artist page, “Heartbeat” (2018) and “Moongrave!” (2025), are not mine.
+
+---
+
+# Beautiful Tornado
+
+https://www.sarth.net/transmissions/beautiful-tornado/
+
+[Transmissions](/transmissions/) / Beautiful Tornado
+
+Transmission · Message
+
+# Beautiful Tornado
+
+*Beautiful Tornado* is the podcast Dom Bouffard and I made: six long conversations with musicians and artists, recorded in 2020 and 2021. It is on [YouTube](https://www.youtube.com/playlist?list=PLmXj9m6I5JooEjI2skmu1LdMlhlmYaTfb) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/beautiful-tornado/id1553841403).
+
+![Beautiful Tornado podcast cover: an abstract drawing in red, black and blue.](/images/beautiful-tornado-cover.jpg)
+
+Cover, *Beautiful Tornado*.
+
+> It’s like a dirty secret. A place where musicians and artists talk about the kind of stuff they love to talk about, but their girlfriends / boyfriends don’t. We’ll be chatting to amazing and original creators around the world about new releases, how they think about what they do, whether robots will kill us all and if peyote is as good on cornflakes as on Rice Crispies... that kinda thing..
+> 
+> The show’s own description
+
+## The episodes
+
+- **1. Waiting for Doron.** Dom and Sarth grapple with technical issues, talk about latest releases, and wonder when Doron might show up. March 30, 2020. 34 min.
+
+  [YouTube](https://www.youtube.com/watch?v=rBXxj085FSk)
+
+- **2. More Egg than Egg.** With Doron Lev. 1 h 34 min.
+
+  [YouTube](https://www.youtube.com/watch?v=qgnKGljOBRE)
+
+- **3. I Was Ready.** With Glen Brady, DJ, producer and former Irish DMC scratch champion, aka The Glass, DJ Wool and Blackwater Hardware, on his career from New York, Berlin and California to musician and survivalist in the Irish countryside. 1 h 25 min.
+
+  [YouTube](https://www.youtube.com/watch?v=MkGrvP7A1dA)
+
+- **4. Richard Naviasky’s Positivity Mission.** Songwriter, poet, firefighter, transatlantic sailor, dad. Rich Nav on round bottoms, why music’s better than art, and crapping off the side of boats. November 17, 2020. 42 min.
+
+  [YouTube](https://www.youtube.com/watch?v=GxIDY9XvvaA)
+
+- **5. Bryan Senti.** A musician, composer and producer from New York, now working in Hollywood. Platonic ideals, metric modulation, beta blockers and the joy of performance. 1 h 45 min.
+
+  [YouTube](https://www.youtube.com/watch?v=SkvCEhxo4-g)
+
+- **6. The Re-Enchantment of the World.** With Michael Patrick Flanagan Smith, singer-songwriter, playwright and novelist, from New York to Kentucky via a North Dakota oil town, with covid-era songs performed live. February 15, 2021. 2 h 26 min.
+
+  [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho)
+
+## Conspiracies
+
+Dom Bouffard played guitar in the Berliner Ensemble band for [*Lulu*](/conspiracies/lulu/) and on [“I Just Believe in Christmas”](/conspiracies/i-just-believe-in-christmas/). Doron Lev, of episode two, drums on that song and makes films at [Third Wall Studio](/conspiracies/third-wall-studio/). Michael Patrick Flanagan Smith, of episode six, sings it.
+
+The credit: *Beautiful Tornado* was made by Sarth Calhoun and Dom Bouffard: six episodes, March 2020 to February 2021.
+
+![Beautiful Tornado YouTube banner.](/images/beautiful-tornado-youtube-banner.jpg)
+
+The YouTube banner.
+
+Episode list and lengths from the YouTube playlist; dates from the podcast feeds where they carry them. The description is the show’s own.
+
+---
+
+# Transmissions from the Book of Sarth
+
+https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/
+
+[Transmissions](/transmissions/) / Transmissions from the Book of Sarth
+
+Transmission · Dream
+
+# *Transmissions from the Book of Sarth*
+
+*Transmissions from the Book of Sarth* is a four-track EP I released in 2013 from the music of [*The Book of Sarth*](/conspiracies/book-of-sarth/), the graphic novel and concept album I built as an iPad app the year before. The score was made with [Kyma](/devices/).
+
+![Cover of Transmissions from the Book of Sarth.](/images/art-transmissions-from-the-book-of-sarth.jpg)
+
+Cover, *Transmissions from the Book of Sarth*, 2013.
+
+[Embedded player](https://open.spotify.com/embed/album/2AK3ADNcGHccdecSkjV43k)
+
+## Listen
+
+Four pieces: “Awakening (To Blacklist),” “Table (If I Can),” “Primary Defenestration (Deforestation)” and “For Valentina (To Your Rescue).” The first has [its own page](/conspiracies/awakening-to-blacklist/): its melody is made out of a recording of 60 cycle hum. On [Spotify](https://open.spotify.com/album/2AK3ADNcGHccdecSkjV43k).
+
+## The hum
+
+One of my favorite things about this track is the morph from the hum to a rhythmic/pitched pattern. There’s a scene in ‘Book of Sarth’ where the office workers are coming out of a daze, they are transitioning back in to reality, and the hum transforming really ended up matching this perfectly. (I don’t know which idea came first.)
+
+I start with a recording of typical 60 cycle hum. This was pretty straightforward, I probably just messed with a 1/4” cable partially plugged into my Marshall amp, or something similar. I wanted to see if I could transform that sound into something.
+
+The whole of that, with the audio examples, is on its own page: [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/).
+
+![Artwork from The Book of Sarth: koi in three panels.](/images/book-of-sarth-fish.jpg)
+
+From *The Book of Sarth*.
+
+> Calhoun’s music is no doubt experimental, but his tracks and the artwork play nimbly off one another.
+> 
+> Bryan Bishop, [The Verge, January 3, 2013](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+
+## Conspiracies
+
+The music of [*The Book of Sarth*](/conspiracies/book-of-sarth/), released as a record a year after the app. Published through [The Gralbum Collective](/conspiracies/gralbum-collective/). The app is at [bookofsarth.com](https://bookofsarth.com).
+
+The credit: *Transmissions from the Book of Sarth*, 2013: four pieces by Sarth Calhoun from the music of *The Book of Sarth*, made with Kyma, published through The Gralbum Collective.
+
+My paragraphs on the hum are from “About Awakening (To Blacklist)” on my site, November 21, 2020. Track list from Spotify.
+
+---
+
+# Solsbury Hill
+
+https://www.sarth.net/transmissions/solsbury-hill/
+
+[Transmissions](/transmissions/) / Solsbury Hill
+
+Transmission · Dream
+
+# “Solsbury Hill”
+
+“Solsbury Hill” is [Lou Reed](/conspirators/lou-reed/)’s recording of the Peter Gabriel song for *And I’ll Scratch Yours*, the companion to Gabriel’s *Scratch My Back*, released on Real World Records in September 2013. Gabriel had covered Reed’s “The Power of the Heart” on his side of the exchange; Reed returned Gabriel’s 1977 song. I produced it and played electronics on it. Track eleven, five minutes twenty-four.
+
+![Cover of Peter Gabriel: And I'll Scratch Yours.](/images/art-and-ill-scratch-yours.jpg)
+
+Cover, *And I’ll Scratch Yours*, 2013.
+
+The credit: Production and electronics, Sarth Calhoun. Discogs, [release 4938695](https://www.discogs.com/release/4938695), track 11, lists additional programming. On [Apple Music](https://music.apple.com/us/album/987512394) and [Spotify](https://open.spotify.com/track/1PO2HeYYaAm5GDoqQsuRQz).
+
+## Listen
+
+[Embedded player](https://www.youtube.com/embed/CGvZN3N_L_c)
+
+## Conspiracies
+
+Made in the years I was in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) and working with him on [*Lulu*](/conspiracies/lulu/). The electronics are the same work I did on stage, through [Kyma](/devices/).
+
+The exchange: Gabriel’s *Scratch My Back*, 2010, covered twelve artists including Reed. Each was invited to cover Gabriel in return; the returns became *And I’ll Scratch Yours*, 2013.
+
+The credit is mine. Discogs lists the track and its length.
+
+Lou's approach to the song was amazing, super simple, guitar and voice with a minimal beat he programmed first. He brought me in help with the mix and the percussion crescendo at the end.
+
+---
+
+# Peggy Sue
+
+https://www.sarth.net/transmissions/peggy-sue/
+
+[Transmissions](/transmissions/) / Peggy Sue
+
+Transmission · Dream
+
+# “Peggy Sue”
+
+“Peggy Sue” is [Lou Reed](/conspirators/lou-reed/)’s recording of the Buddy Holly song for *Rave On Buddy Holly*, the tribute compilation released by Fantasy and Concord in June 2011, alongside Paul McCartney, Patti Smith, Florence and the Machine and the Black Keys. I play bass on it, a Moog Little Phatty. Three minutes nineteen.
+
+![Cover of Rave On Buddy Holly.](/images/art-rave-on-buddy-holly.jpg)
+
+Cover, *Rave On Buddy Holly*, 2011.
+
+The credit: Discogs, [release 2948749](https://www.discogs.com/release/2948749), track 17: Lou Reed, “Peggy Sue.” Sarth Calhoun, bass, Little Phatty. On [Apple Music](https://music.apple.com/us/album/rave-on-buddy-holly-bonus-track-version/1440953567).
+
+## Listen
+
+[Embedded player](https://www.youtube.com/embed/jvyzMkaY5xQ)
+
+## What was written about it
+
+Apple Music’s note on the album calls Reed’s take the sound of a cement mixer grinding the tune to a nub. Far Out remembers it as raw, punky. It sits at track seventeen of nineteen.
+
+> Lou Reed tackles Buddy Holly’s classic hit ‘Peggy Sue’ the best way he knows how -- with distortion, fuzz and feedback.
+> 
+> [Ultimate Classic Rock](https://ultimateclassicrock.com/lou-reed-peggy-sue-song-review/), song review, 2011
+
+The compilation: Nineteen acts on Buddy Holly songs, 2011. Fantasy Records with MPL. Reed’s is the only track Sarth plays on.
+
+## Conspiracies
+
+Recorded while I was in [Lou Reed’s band](/conspiracies/lou-reed-song-band/), which I joined in 2008. The bass here is a Moog synthesizer, not the electric upright [Rob Wasserman](/conspirators/rob-wasserman/) played on stage.
+
+Credit from Discogs. Label and line-up from the release and its press.
+
+---
+
+# The Creation of the Universe
+
+https://www.sarth.net/transmissions/the-creation-of-the-universe/
+
+[Transmissions](/transmissions/) / The Creation of the Universe
+
+Transmission · Dream
+
+# *The Creation of the Universe*
+
+*The Creation of the Universe* is a double live album by Lou Reed’s Metal Machine Trio: [Lou Reed](/conspirators/lou-reed/), [Ulrich Krieger](/conspirators/ulrich-krieger/) and me. It was recorded over two nights at REDCAT in Los Angeles, October 2 and 3, 2008, the concerts that became [Metal Machine Trio](/conspiracies/metal-machine-trio/), and released in May 2009 on Reed’s Sister Ray Recordings under the Best Seat in the House banner.
+
+Two tracks, *Night 1* and *Night 2*, each about fifty-five minutes.
+
+![Cover of The Creation of the Universe by Lou Reed's Metal Machine Trio.](/images/art-creation-of-the-universe.jpg)
+
+Cover, *The Creation of the Universe*, 2009.
+
+> We have formed a recording unit called BEST SEAT IN THE HOUSE. We intend to put out different types of my music - from industrial to meditative to songs and all subway stops in between. CREATE!
+> 
+> Lou Reed, as quoted on Sarth’s site
+
+## How it was recorded
+
+We recorded the sets with a matched pair of Schoeps and a stereo Royer, and released them as they were -- pure ambient microphone tracks with no direct lines. That stuff was released as a double live CD, “Creation of the Universe.” This was the start of the group which was eventually renamed The Metal Machine Trio, and we went on to play in Europe, Brazil, and Australia.
+
+We called the music “Deep Noise” because that’s what it was. At times though, it felt almost like improvised classical music, or something which didn’t have a name.
+
+## Listen
+
+[Embedded player](https://embed.music.apple.com/us/album/the-creation-of-the-universe/315196713)
+
+The record: Night 1, fifty-five minutes. Night 2, fifty-six. On [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713) and [Discogs](https://www.discogs.com/release/1583151-Lou-Reed-s-Metal-Machine-Trio-The-Creation-Of-The-Universe).
+
+> The REDCAT stage looked like a rehearsal room Friday night when Lou Reed, Ulrich Krieger and Sarth Calhoun took the stage.
+> 
+> Ann Powers, [Los Angeles Times, October 4, 2008](https://web.archive.org/web/20110312081628/http://latimesblogs.latimes.com/soundboard/2008/10/lou-reed-and-ul.html)
+
+## The nights
+
+The album is the two REDCAT nights billed as *Unclassified: Lou Reed and Ulrich Krieger*, the shows that sold out inside a day and had a late set added. [Billboard](https://www.billboard.com/music/music-news/lou-reed-oct-3-2008-los-angeles-redcatcalarts-theater-1043833/) heard me seated behind a desk with computers and mixers adding chunky layers of sub-frequency bass vibrations to the mix.
+
+The later [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) of the same name uses a different recording, from the Gramercy show of April 24, 2009, not this album. The dates are on [Sightings](/sightings/).
+
+## Conspiracies
+
+Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/); the instrument was the Continuum. The press on the record and the shows is on [Rumors](/rumors/).
+
+Who played what: Lou Reed, guitar, electronics and a small Continuum. Ulrich Krieger, tenor saxophone and live electronics. Sarth Calhoun, Continuum, and the whole field processed through Kyma.
+
+My account and the Lou Reed line are from the Conspiracies page of my old Squarespace site. Release data from Apple Music and Discogs.
+
+---
+
+# The Family Album
+
+https://www.sarth.net/transmissions/the-family-album/
+
+[Transmissions](/transmissions/) / The Family Album
+
+Transmission · Dream
+
+# *The Family Album*
+
+*The Family Album* is the only full-length by [Lucibel Crater](/conspiracies/lucibel-crater/), the Brooklyn trio of [Leah Coloff](/conspirators/leah-coloff/), [Paul Chuffo](/conspirators/paul-chuffo/) and me. Ten songs, released February 12, 2008 on Searching Eye Records and mixed by [Bryce Goggin](https://en.wikipedia.org/wiki/Bryce_Goggin).
+
+[Lou Reed](/conspirators/lou-reed/) plays guitar on “Threadbare Funeral.” It is the only guitar on the record.
+
+![Cover of The Family Album by Lucibel Crater.](/images/art-the-family-album.jpg)
+
+Cover, *The Family Album*, 2008.
+
+The songs: 1. There Was a Time. 2. Your Mean Mouth. 3. Into the Bushes. 4. Threadbare Funeral, featuring Lou Reed. 5. Next of Kin. 6. Blue Stationwagon. 7. Where You Are. 8. Bones. 9. Swimmers. 10. Could_i.
+
+## The songs
+
+Ross Christopher at awaken music picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” MP3 Troll noted the Lou Reed guitar in May 2008, before the reviews. Coloff sings and plays cello; Chuffo plays drums; I play keys, bass, loops, [Kyma and the Continuum](/devices/).
+
+Vogue Italia, January 2009: Ten muscular tracks and only one guitar, Lou Reed’s.
+
+## Listen
+
+[Embedded player](https://open.spotify.com/embed/album/5GWIntdZRNl8zc9rAsIrKD)
+
+The credit: *The Family Album*, Searching Eye Records, 2008, by Lucibel Crater: Leah Coloff, cello and voice; Paul Chuffo, drums; Sarth Calhoun, keys, bass, loops, Kyma and Continuum. Lou Reed, guitar, on “Threadbare Funeral.” Mixed by Bryce Goggin. On [Spotify](https://open.spotify.com/album/5GWIntdZRNl8zc9rAsIrKD) and [Apple Music](https://music.apple.com/us/album/the-family-album/274792742).
+
+> I can’t begin to express how rare and nice it is to hear a band doing something angular and different! Lucibel Crater’s, The Family Album is just that - angular and clearly unique.
+> 
+> Ross Christopher, [awaken music, April 1, 2009](http://awakenmusic.blogspot.com/2009/04/family-album-lucibel-crater.html), five stars of five
+
+## What was written about it
+
+[Buzzbin Magazine](https://web.archive.org/web/20110621012417/http://www.buzzbinmagazine.com/home/2008/07/02/lucibel-crater-the-family-album/) reviewed it in July 2008: this is totally music to get high to. Simone Tempia wrote it up twice in Italy, in *Urban* in February 2009, where the Björk and White Stripes comparison comes from (Ci si può sentire qualcosa di Björk e magari dei White Stripes. Ma la verità è che il loro sound è unico e difficilmente incasellabile.), and in *Vogue Italia* that January. [Lost in Sound](http://lostinsound.org/lucibel-crater-not-your-dads-jazz/) interviewed the band in February 2010. The rest is on [Rumors](/rumors/).
+
+## Conspiracies
+
+Made by [Lucibel Crater](/conspiracies/lucibel-crater/), with [Leah Coloff](/conspirators/leah-coloff/), [Paul Chuffo](/conspirators/paul-chuffo/) and [Lou Reed](/conspirators/lou-reed/). The band’s earlier EP is [*Miracles*](/transmissions/miracles/), 2007. My tools on it are on [Devices](/devices/).
+
+![Lucibel Crater at a table: Leah Coloff, Sarth Calhoun, Paul Chuffo.](/images/mwm-6816.jpg)
+
+Lucibel Crater: Leah Coloff, Sarth Calhoun, Paul Chuffo.
+
+Track list and dates from Apple Music. The Vogue Italia and Urban quotes are from the band’s own reprints, archived.
+
+---
+
+# Miracles
+
+https://www.sarth.net/transmissions/miracles/
+
+[Transmissions](/transmissions/) / Miracles
+
+Transmission · Dream
+
+# *Miracles*
+
+*Miracles* is an EP by [Lucibel Crater](/conspiracies/lucibel-crater/), the Brooklyn trio of [Leah Coloff](/conspirators/leah-coloff/), [Paul Chuffo](/conspirators/paul-chuffo/) and me, released in 2007, the year before [*The Family Album*](/transmissions/the-family-album/).
+
+## Conspiracies
+
+Made by [Lucibel Crater](/conspiracies/lucibel-crater/). The band’s full-length is [*The Family Album*](/transmissions/the-family-album/).
+
+The credit: *Miracles*, 2007, by Lucibel Crater: Leah Coloff, Paul Chuffo and Sarth Calhoun.
+
+---
+
+# Suspension
+
+https://www.sarth.net/transmissions/suspension/
+
+[Transmissions](/transmissions/) / Suspension
+
+Transmission · Dream
+
+# *Suspension*
+
+*Suspension* is the only album by [Number19](/conspiracies/number19/), the Brooklyn band of [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and me. Nine songs, released in 2001 on Searching Eye Records and credited to Number 19. Diodore on guitar and violin, me on bass and a Yamaha EX5, Coloff on cello and voice, Righter on drums.
+
+![Cover of Suspension by Number 19.](/images/art-suspension.jpg)
+
+Cover, *Suspension*, 2001.
+
+The songs: 1. Tuner/Escalator. 2. Cold Fish. 3. Water. 4. Wheelies. 5. Everyone’s Desire. 6. I Before E. 7. Light. 8. Blue. 9. Intro.
+
+## Paid for by downloads
+
+The record was paid for out of [mp3.com](https://en.wikipedia.org/wiki/Mp3.com) downloads. Number19 reached number eighteen overall on that site and took more than ninety thousand downloads in six months. From the biography on my old site: The band they established, Number19, funded its first record with downloads from mp3.com in 2001.
+
+## Listen
+
+[Embedded player](https://embed.music.apple.com/us/album/suspension/274828088)
+
+The credit: Sarth Calhoun, bass and Yamaha EX5, on *Suspension* by Number19, with Tony Diodore, Leah Coloff and Mark Righter. Searching Eye Records, 2001. On [Apple Music](https://music.apple.com/us/album/suspension/274828088) and [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5), credited to Number 19.
+
+> Tony, Sarth, Leah Coloff, and Mark Righter formed Number19 in 1999. After we released Suspension, Tony went on to play with Puracane, and eventually form BM Linx. Now, Tony and Sarth have joined forces again, playing with Lou Reed.
+> 
+> Sarth Calhoun, introducing the band on his old site
+
+## Conspiracies
+
+Made by [Number19](/conspiracies/number19/). It was the first record I made with [Leah Coloff](/conspirators/leah-coloff/) and with [Tony Diodore](/conspirators/tony-diodore/); the three of us went on to [Lucibel Crater](/conspiracies/lucibel-crater/) and [Lou Reed’s band](/conspiracies/lou-reed-song-band/).
+
+My lines are from my old WordPress site, recovered from the Wayback Machine. Track list from Apple Music.
+
+---
+
+# Introspections
+
+https://www.sarth.net/transmissions/introspections/
+
+[Transmissions](/transmissions/) / Introspections
+
+Transmission · Dream
+
+# Introspections
+
+*Introspections* is a series of improvised drone pieces I recorded and filmed from 2015, on Continuum and Kyma, with duet partners. Three are public: “For Lovers,” with [Jacob McCoy](/conspirators/jacob-mccoy/), filmed on March 2, 2015; “Sunset Meditation,” on SoundCloud; and a clip from the Warper Party in New York, September 2015.
+
+Musical explorations that build on the Tai Chi and Meditation tracks I did with Lou Reed, and the shows we did with Ulrich Krieger as The Metal Machine Trio. Drones, improvised transformation, and hypnotic symbols create a collaborative sound field. I’ve explored these ideas in venues ranging from Lolapalooza, The Royal Festival Hall in London, and The Sydney Opera house ... to some of my favorite performances at intimate events.
+
+![Sarth Calhoun bent over a Continuum Fingerboard, black and white.](/images/sarth-top-know-square.jpg)
+
+Sarth Calhoun at the Continuum.
+
+For Lovers: On March 2nd, 2015, Jacob and I got together to record some Linnstrument / Continuum Fingerboard duets. It was also Lou Reed’s birthday, and this piece reminded me of things we explored together. Drones, close intervals, sum and difference frequencies. And Lou loved his Continuum Fingerboard. So this is dedicated to him.
+
+## For Lovers
+
+Eight minutes thirteen, with Jacob McCoy on Linnstrument. Released as a [single](/transmissions/singles/) in 2020. On [Vimeo](https://vimeo.com/125323250).
+
+[Embedded player](https://player.vimeo.com/video/125323250)
+
+## Sunset Meditation
+
+A solo piece, on SoundCloud under the name noisegroove.
+
+[Embedded player](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201344917&color=%23111111&auto_play=false&show_artwork=true)
+
+> Imagine stillness moving through space. If Energy flows where attention goes, where does it take you? What shall we make of it? Who Are You? Who Am I? What really Matters?
+> 
+> Sarth Calhoun, the Introspections page of his own site
+
+[Embedded player](https://player.vimeo.com/video/140015309)
+
+## Warper Party, 2015
+
+Forty-one seconds from a Warper Party set in New York, September 2015. On [Vimeo](https://vimeo.com/140015309).
+
+## Reflections
+
+I have been fortunate enough to explore these ideas with great improvisers, including [Laurie Anderson](/conspirators/laurie-anderson/), [Moldover](/conspirators/moldover/), [John Zorn](/conspirators/john-zorn/), [Sxip Shirey](/conspirators/sxip-shirey/), [Marc Ribot](/conspirators/marc-ribot/) and [Rob Wasserman](/conspirators/rob-wasserman/). In the first video, Sxip is creating the drones and structure using an amplified shruti box, while I play continuum. In the second, Jacob McCoy creates drones on the Linnstrument. I worked with sound artist Michael Clemow on a project called “The Drost Effect” ... named for the phenomenon known also as mise en abyme, two mirrors face each other and create endless reflections ... in our process we each sampled and transformed the other’s sound creating realtime infinite recursion.
+
+[Shruti box, with Sxip Shirey](https://www.youtube.com/watch?v=V_ZinrLAl4I) · [Prepared guitar, with Sxip Shirey](https://www.youtube.com/watch?v=_8jgV_4Xqmc) · [Linnstrument, with Jacob McCoy](https://vimeo.com/125323250)
+
+## Contemplations
+
+What is the dialogue between sound and consciousness? I worked with Jeremiah Brimlau to bring this work to retreat centers and yoga studios. His guided meditations helped the audience to move through the sound experience.
+
+## Conspiracies
+
+It builds on the meditation music I made with [Lou Reed](/conspirators/lou-reed/) and on [Metal Machine Trio](/conspiracies/metal-machine-trio/) with [Ulrich Krieger](/conspirators/ulrich-krieger/). The instruments are on [Devices](/devices/).
+
+The credit: Introspections: Sarth Calhoun, Continuum Fingerboard and Kyma, improvised drone duets from 2015 with Jacob McCoy, Linnstrument; Sxip Shirey, shruti box and prepared guitar; and others.
+
+My paragraphs are from the Introspections pages of my old Squarespace site, put in the past tense, and my Vimeo note for For Lovers.
+
+---
+
+# Lou Reed Live at Lollapalooza 2009
+
+https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/
+
+[Transmissions](/transmissions/) / Lou Reed Live at Lollapalooza 2009
+
+Transmission · Dream
+
+# *Lou Reed Live at Lollapalooza 2009*
+
+*Lou Reed Live at Lollapalooza 2009* is the official DVD of [Lou Reed](/conspirators/lou-reed/)’s set at Lollapalooza in Grant Park, Chicago, on Sunday, August 9, 2009, released July 19, 2011. The band was Mike Rathke and Steve Hunter on guitars, Kevin Hearn on keyboards, [Rob Wasserman](/conspirators/rob-wasserman/) on bass, Tony “Thunder” Smith on drums, [Ulrich Krieger](/conspirators/ulrich-krieger/) on saxophone, and me on electronics and Continuum.
+
+![Sarth Calhoun performing at Lollapalooza, a bass headstock in the foreground.](/images/lolla-dvd-show.jpg)
+
+Sarth Calhoun at Lollapalooza, August 9, 2009.
+
+> Reed, on the other hand, brought the weekend’s most audacious music, a set laced with bile, violence and feedback, never more so than when he threaded a raging “Paranoia Key of E” into a pile-driving “Waiting for the Man.”
+> 
+> Greg Kot, [Chicago Tribune, August 10, 2009](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
+
+## The set
+
+Day three, to a capacity crowd of forty thousand. [Rolling Stone](https://www.rollingstone.com/music/music-news/lou-reed-snarls-vampire-weekend-bounce-on-eclectic-lollapalooza-day-three-2-65494/) noted Reed ran fifteen minutes over. Inside the set, [Metal Machine Trio](/conspiracies/metal-machine-trio/) played a ten minute noise interlude between the songs. The date is on [Sightings](/sightings/).
+
+## The interlude
+
+Ulrich Krieger, writing after Reed died: At 2009’s Lollapalooza MM3 played a ten minute noise interlude between well known Reed songs to the frantic cheers of a large audience. And of the tours that followed: On subsequent tours with his newly revised rock group, including Sarth and me, he would play MM3 recordings before and after shows.
+
+Credits: From [loureed.com](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/): Mike Rathke, guitar. Steve Hunter, guitar. Kevin Hearn, keyboards. Rob Wasserman, bass. Tony “Thunder” Smith, drums. Ulrich Krieger, saxophone. Sarth Calhoun, electronics and continuum. [Discogs](https://www.discogs.com/release/15272070) lists it on Sister Ray Enterprises, Sarth credited for Continuum fingerboard and processing.
+
+> Rob Wasserman’s upright electric bass, Kevin Hearn’s string/horn patches, Sarth Calhoun’s invisible Macbookery, and guitarist Steve Hunter’s fiery if decidedly inside-the-box solos.
+> 
+> Jesse Jarnow on the same band a year earlier, [The Village Voice, May 6, 2008](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party)
+
+## Conspiracies
+
+This is [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) on film, with [Metal Machine Trio](/conspiracies/metal-machine-trio/) inside it. [Rob Wasserman](/conspirators/rob-wasserman/) and [Ulrich Krieger](/conspirators/ulrich-krieger/) have their own pages. My rig that day was the Continuum and [Kyma](/devices/).
+
+Credits verbatim from loureed.com. The Krieger lines are from “Unclassifiable,” [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable), 2013.
+
+---
+
+# About Awakening (To Blacklist)
+
+https://www.sarth.net/transmissions/about-awakening-to-blacklist/
+
+Nov 21, 2020 · Message
+
+# About Awakening (To Blacklist)
+
+One of my favorite things about this track is the morph from the hum to a rhythmic/pitched pattern.
+
+There’s a scene in ‘Book of Sarth’ where the office workers are coming out of a daze, they are transitioning back in to reality, and the hum transforming really ended up matching this perfectly. (I don’t know which idea came first.)
+
+Here’s how I did it:
+
+I start with a recording of typical 60 cycle hum. This was pretty straightforward, I probably just messed with a 1/4” cable partially plugged into my Marshall amp, or something similar.
+
+[Listen](/audio/hum-plain.m4a)
+
+Plain 60 cycle hum.
+
+I wanted to see if I could transform that sound into something.
+
+I started playback and threw various Ableton plug-ins on the track.
+
+![Ableton device chain: Delay, EQ Eight, Compressor, Frequency Shifter.](/images/awakening-chain.png)
+
+The chain in Ableton: Delay, EQ Eight, Compressor, Frequency Shifter.
+
+I tried a Delay, an EQ, a compressor … and they all stayed, but what made the melody was the frequency shifter plug-in. I saw a preset called ‘Space Birds’ and with it on the track, I immediately got a cool melody.
+
+[Listen](/audio/hum-melody.m4a)
+
+The hum melody.
+
+![Ableton Frequency Shifter on the Spacebirds preset.](/images/awakening-spacebirds.png)
+
+The Frequency Shifter on the Spacebirds preset.
+
+It’s a pitch shifter with a random waveform modulating the pitch.
+
+It’s moving at a speed of one quarter note, or so it says, but I hear it as sixteenths (the file is at 88.00 BPM so …) I think maybe that has to do with the width control.
+
+Then it’s just a matter of automating the wet/dry control to ‘morph’ the track from plain hum to the melody.
+
+![An automation curve in Ableton rising and falling across the clip.](/images/awakening-automation.png)
+
+The wet/dry automation, from hum to melody.
+
+One of the great things about Ableton is the plugins, no matter what type, usually have some kind of wet/dry or ‘percent’ control. This allow for a lot of cool morphs and transitions, I’ll go deeper down that road in the next post.
+
+---
+
+The other thing I love about this track is the drum sounds during this hum/intro section. There is the extremely clear track and a more … gnarly track. Here they are combined, but I put a bit of strong panning so you can more easily differentiate the two parts
+
+[Listen](/audio/hum-drums-combined.m4a)
+
+Both drum tracks, panned apart.
+
+Here’s just the 606 (clear) loop:
+
+[Listen](/audio/hum-606-loop.m4a)
+
+The 606 loop.
+
+And here is the sampled club kit with brushes:
+
+[Listen](/audio/hum-club-kit-brushes.m4a)
+
+The sampled club kit with brushes.
+
+And then the dramatic, almost military hits that come in and out have the gnarliness much more evident.
+
+[Listen](/audio/hum-military-hits.m4a)
+
+The military hits.
+
+This was a happy accident. The original piece (called Onamanopeia April Foolz) was an instrumental done at 176.10 BPM. At the time I was having issues with cpu power in that particular file, so I ‘froze’ a couple of the drum tracks.
+
+For whatever reason, when I started working on the hum piece, I halved the BPM to 88, and I forgot to unfreeze those two tracks.
+
+This meant that the beats played at the much slower tempo, but one track was just slowed via midi, maintaining the very clear pristine quality, and the other was audio-stretched, making it very gnarly. This was particularly awesome because it was an exaggeration of what I was going for. I often have two (or more) drum kits on a track, one pristine, one dirty. This was just more so.
+
+If you want to hear the entire track on Spotify, including it’s connection to the vocal track ‘Blacklist’ here it is:
+
+[Embedded player](https://open.spotify.com/embed/album/2AK3ADNcGHccdecSkjV43k)
+
+More about happy accidents and automated effect controls to morph sources in future posts. I hope you enjoy!
+
+— Sarth
+
+Posted on sarth.net on November 21, 2020, and reproduced here as written, with the audio examples and screenshots from that post. The track is [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), from [*The Book of Sarth*](/conspiracies/book-of-sarth/).
+
+---
+
 # Sightings
 
 https://www.sarth.net/sightings/
@@ -4799,90 +4893,6 @@ Burlap connects to Runway. I entered Runway’s 48-hour film competition in the 
 ## Bass
 
 My first instrument. In my teens I stopped buying comic books to save up for my first bass guitar. Number19: bass and keys. Lucibel Crater: keys, bass, loops. Reed’s [“Peggy Sue”](/transmissions/peggy-sue/) (*Rave On Buddy Holly*): bass, a Moog Little Phatty.
-
----
-
-# Contraptions
-
-https://www.sarth.net/contraptions/
-
-Small machines · Machine
-
-# Contraptions
-
-Contraptions is my shelf of small machines, used at [Third Wall Studio](/conspiracies/third-wall-studio/). Most live at their own path on [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com), with source, a text guide and a release record beside them. All of them run in the browser with nothing leaving it. [Burlap](/conspiracies/burlap/) is the main machine; these are the odd little ones beside it.
-
-The physical instruments are on [Devices](/devices/).
-
-![FM / 6 in the browser: three of its six operators with wave, ratio, detune, level and envelope controls, and the signal routing diagram.](/images/contraption-fm6.png)
-
-FM / 6, the Glass garden patch.
-
-The record: Published September 8, 2026. Six operators, four FM routings, two touch keyboards with sustain latches, MIDI and MPE input, ten starting patches, patch URLs, JSON import and export. The C++ engine runs in the browser through WebAssembly and the Web Audio API. [Play](https://contraptions.bookofsarth.com/fm6/) · [Guide](https://contraptions.bookofsarth.com/fm6.md) · [Release record](https://contraptions.bookofsarth.com/fm6.json)
-
-## FM / 6
-
-Six operators. Two keyboards. A sound you can take apart.
-
-A six-operator synthesizer. Start with a bell, a bass or a slowly moving chord. Change the operators and hear how the sound is made.
-
-Why: to make the relationships inside a sound playable and understandable. Each operator explains its role in the current patch and suggests a useful change to try.
-
-## Image Compare Workbench
-
-One folder of gens. Two click-rails on the same pool. Lock A, walk B. Camera and wipe stay put. Nothing leaves the browser.
-
-Drop a folder of images. Click a reference on one rail, click candidates on the other. The camera stays put. Local, in the browser. Svelte 5, Vite, TypeScript. Images stay as File objects and blob URLs.
-
-Sat with [imgsli](https://imgsli.com/) and [Improve ImgSLI](https://github.com/Loganavter/Improve-ImgSLI). One local pool, two independent click-rails.
-
-[Use it](https://contraptions.bookofsarth.com/image-compare-workbench) · [Source](https://github.com/whiddershins/image-compare-workbench)
-
-![Image Compare Workbench: two rails of thumbnails either side of a wipe between two versions of a drawing of children walking away.](/images/contraption-image-compare-workbench.jpg)
-
-Image Compare Workbench: two rails, one pool, a wipe between A and B.
-
-![Soundscape One: a volume slider, movement controls and a black ball in a grey field.](/images/contraption-soundscape-one.jpg)
-
-Soundscape One. The ball is you.
-
-## Soundscape One
-
-A 2D field of sound. You walk; the mix follows. Position is the instrument.
-
-A playable space, not a playlist. Sound is placed in the plane. Your position is the mix. Why: to be inside a sound, not in front of a track.
-
-Three versions: [Soundscape One A](https://contraptions.bookofsarth.com/soundscape-one/one-a.html), four voice, the denser one; [Soundscape Two A](https://contraptions.bookofsarth.com/soundscape-one/officeSoundscape_01.html), offices; and [Soundscape One B](https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html), two voice, the original, simpler one. First published February 23, 2021.
-
-[Walk it](https://contraptions.bookofsarth.com/soundscape-one) · [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
-
-## Ingather
-
-A whole facility, in a browser tab. Four rooms, thirteen zones, and a day every forty eight seconds.
-
-The control system I built for a cannabis cultivation facility, from August 2021 to March 2022, rebuilt as something you can click through. The facility is gone and the API went with it, so the data is invented and lives in your own browser: change a routine and it is yours, and it is gone when you clear it.
-
-It is the biggest thing on this shelf and the only one that was a job first. It has its own page at [Ingather](/conspiracies/ingather/).
-
-[Try it](https://ingather-demo.marshy-runner.workers.dev) · [The conspiracy](/conspiracies/ingather/)
-
-![Ingather, a room overview: room phase, light level, zones and their fertigation programs, air handler readings.](/images/ingather.jpg)
-
-Ingather. A room, read from outside its door.
-
-The credit: Contraptions is Sarth Calhoun’s shelf of small machines. FM / 6 (2026), Image Compare Workbench (2026), Burlap (2025), Ingather (2021) and Soundscape One (2021) are his. Paint with JavaScript and Kick with Reverb are other people’s, kept on the shelf.
-
-## Other people’s machines
-
-Two things on the shelf are not mine. [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript): Surya Narreddi and Cameron Franz RL’d Qwen to paint in p5.js. The sketch is the painting. You edit the code, not the prompt. They rated 1,664 gens by hand and judged new rollouts pairwise against a love pool. That pool is a folder of gens. Image Compare Workbench is the local set-workbench for that job.
-
-[Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb): Zach Hill’s kick sequencer. Kick, noise, reverb layers, then a mastering chain. Diffusion kicks behind a login.
-
-## Earlier machines
-
-The Contraptions category of my old WordPress site listed Jamboxes, with Moldover, in July 2012; ConnecTable carpentry in July 2013; and Brain melt, a double FireWire 800 scare, in October 2011. Only the titles survive there. SeqOSC, a relative of AM synthesis, was built in Kyma and is on [Devices](/devices/).
-
-The copy for each machine is mine, from its page on contraptions.bookofsarth.com; the screenshots are the shelf’s own.
 
 ---
 

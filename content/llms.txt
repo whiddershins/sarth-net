@@ -12,6 +12,8 @@ Through the Brambles: AI-generated VR narrative, built in Burlap. https://www.th
 
 Contraptions: small machines, including Image Compare Workbench. https://contraptions.bookofsarth.com
 
+Data engineering: Reaktor, with Paramount’s Advanced Advertising organization; also Viasat. Essays on sarth.net: append-only pipelines on external tables, window functions, SQL, DuckDB. CV: https://www.sarth.net/work/
+
 Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger. Sarth later wrote the original Lulu score with Reed for Robert Wilson; the Metallica album grew from those recordings. Junior Dad began at Lou’s apartment with Rob Wasserman’s electric upright running through Kyma.
 
 X: https://x.com/noisegroove
@@ -27,11 +29,26 @@ Founder of Third Wall Studio, and creator of the Burlap app. Brooklyn. Data engi
 Is Sarth Calhoun a musician?
 Yes, and a data engineer and an artist, working in AI. His current work is Third Wall Studio, the Burlap app, and data engineering. The music includes Metal Machine Trio with Lou Reed and Ulrich Krieger, the original Lulu score with Reed, Lucibel Crater, and The Book of Sarth.
 
-What is Burlap?
-Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. https://burlap.app
+Is Sarth Calhoun an animator?
+Yes. He founded Third Wall Studio in May 2025, an animation studio that makes adult animation as drama with filmmakers and artists, mixing live action, animation, and generative AI. Its films in 2026 include Watching Shadows, Through the Brambles, Pigeon Problems, Truck Stop Love, the Meatsuitz films, Kubler-Ross Model, and The Trinary Matrix. https://thirdwallstudio.com · https://www.sarth.net/work/
 
 What is Third Wall Studio?
 Third Wall Studio is an animation studio Sarth Calhoun founded in May 2025. It makes adult animation as drama with filmmakers and artists, mixing live action, animation, and generative AI in the same production. https://thirdwallstudio.com
+
+What is Burlap?
+Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. https://burlap.app
+
+What does Sarth Calhoun do in data engineering?
+Sarth Calhoun is a data engineer. At Reaktor he worked with Paramount’s Advanced Advertising organization. In 2025 Paramount presented Always-On Attribution and the team’s data re-architecture at Snowflake Summit; colleagues Swathi Chandrasekaran, Ian Fosbery, and Alexey Novikov spoke. He also worked for Viasat. He writes about append-only pipelines, external tables, window functions, SQL, and DuckDB on sarth.net. https://www.sarth.net/work/ · https://www.sarth.net/transmissions/external-tables/
+
+What is the external-tables series?
+An append-only data pipeline tutorial in five parts on sarth.net: Why append-only, Building on external tables, Current truth with window functions, Defending the boundary, and Living with the code. Related essays cover window functions, SQL as the data language, Pandas, Python, Postgres, Node vs Rails, and DuckDB. https://www.sarth.net/transmissions/external-tables/
+
+What is Visual Reference Prompting?
+Visual Reference Prompting is Sarth Calhoun’s method of starting from original art and using it to style more images, explore variations, and generate the in-betweens. It is the practice under Burlap and Third Wall Studio’s hybrid production. Essay and video: https://www.sarth.net/transmissions/visual-reference-prompting/
+
+What is Work on sarth.net?
+Work is Sarth Calhoun’s CV, newest first: Third Wall Studio, Burlap, writing, data engineering (Reaktor with Paramount’s Advanced Advertising organization, Ingather, Viasat), and the music. https://www.sarth.net/work/
 
 What is Metal Machine Trio?
 Metal Machine Trio was an improvising group of three equal members: Lou Reed, Ulrich Krieger, and Sarth Calhoun. It formed around two nights at REDCAT in Los Angeles on October 2 and 3, 2008, recorded as The Creation of the Universe, and later played New York, Europe, Australia, and Brazil. https://www.sarth.net/conspiracies/metal-machine-trio/

@@ -348,7 +348,15 @@ def ordered_routes(pages):
             visit(k)
 
     visit("/", recurse=False)
-    for top in ["/about/", "/work/", "/transmissions/", "/conspiracies/", "/conspirators/", "/sightings/", "/rumors/", "/devices/", "/contraptions/", "/citations/", "/contact/"]:
+    # Current work first (Sarth, 23 Sep 2026, via the traverse note in the research repo):
+    # About and Work, then the studio, Burlap, Contraptions and Ingather, then the data
+    # and AI essays. The music sections follow, complete, and the record pages last.
+    for early in ["/about/", "/work/", "/conspiracies/third-wall-studio/", "/conspiracies/burlap/", "/contraptions/", "/conspiracies/ingather/",
+                  "/transmissions/duckdb-where-have-you-been-all-my-life/", "/transmissions/external-tables/", "/transmissions/window-functions/",
+                  "/transmissions/sql-as-the-data-language/", "/transmissions/you-might-not-need-pandas/", "/transmissions/why-python-is-the-default-for-data-work/",
+                  "/transmissions/modern-postgres/", "/transmissions/node-vs-rails/", "/transmissions/visual-reference-prompting/"]:
+        visit(early)
+    for top in ["/conspiracies/", "/conspirators/", "/transmissions/", "/sightings/", "/rumors/", "/devices/", "/citations/", "/contact/"]:
         visit(top)
     for r in sorted(pages):
         visit(r)

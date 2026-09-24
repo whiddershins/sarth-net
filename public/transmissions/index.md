@@ -165,7 +165,3 @@ Essays and writing.
 - ## [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)
 
   Nov 21, 2020. How the track’s melody came out of a recording of 60 cycle hum: a frequency shifter on the Spacebirds preset, wet/dry automation, and a happy accident with two frozen drum tracks. With the audio examples.
-
-- ## [Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/)
-
-  Apr 18, 2022. A day with the Elementary Audio JavaScript library in a SvelteKit project, and the one thing that mattered about why there was no sound.

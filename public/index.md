@@ -21,7 +21,7 @@ Third Wall Studio makes animation with filmmakers and artists. We mix live actio
 
 ### Machine
 
-[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/) · [Burlap](/conspiracies/burlap/) · [Ingather](/conspiracies/ingather/) · [Devices](/devices/) · [Contraptions](/contraptions/)
+[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Burlap](/conspiracies/burlap/) · [Ingather](/conspiracies/ingather/) · [Devices](/devices/) · [Contraptions](/contraptions/)
 
 ### Dream
 

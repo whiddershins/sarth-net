@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (507 total)
+## Citations by page (506 total)
 
 ### Sarth Calhoun
 `/`
@@ -739,11 +739,6 @@ every page.
 
 - [DuckDB](https://duckdb.org/)
 - [set up credentials](https://duckdb.org/docs/current/core_extensions/httpfs/s3api)
-
-### Elementary Audio, Day 1
-`/transmissions/elementary-audio-day-1/`
-
-- [Elementary Audio](https://www.elementary.audio)
 
 ### External Tables, Partitions, CTEs, Window Functions, and Partitions
 `/transmissions/external-tables/`

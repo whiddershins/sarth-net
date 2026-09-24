@@ -790,6 +790,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [DuckDB](https://duckdb.org/)
 - [set up credentials](https://duckdb.org/docs/current/core_extensions/httpfs/s3api)
 
+## [Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/)
+
+`/transmissions/elementary-audio-day-1/`
+
+- [Elementary Audio](https://www.elementary.audio)
+
 ## [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/)
 
 `/transmissions/external-tables/`

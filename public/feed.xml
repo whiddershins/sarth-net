@@ -363,6 +363,17 @@
     </author>
   </entry>
   <entry>
+    <title>Elementary Audio, Day 1</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/elementary-audio-day-1/"/>
+    <id>https://www.sarth.net/transmissions/elementary-audio-day-1/</id>
+    <updated>2022-04-18T00:00:00Z</updated>
+    <published>2022-04-18T00:00:00Z</published>
+    <summary>Sarth Calhoun’s post of April 18, 2022: a day with the Elementary Audio JavaScript library in a SvelteKit project, and the one thing that mattered about why there was no sound.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
     <title>About Awakening (To Blacklist)</title>
     <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/about-awakening-to-blacklist/"/>
     <id>https://www.sarth.net/transmissions/about-awakening-to-blacklist/</id>

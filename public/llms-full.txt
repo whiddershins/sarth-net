@@ -74,7 +74,7 @@ Machine-readable companions:
 
 ## Pages
 
-103 pages follow, in reading order, separated by a horizontal rule.
+104 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -99,7 +99,7 @@ Third Wall Studio makes animation with filmmakers and artists. We mix live actio
 
 ### Machine
 
-[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Burlap](/conspiracies/burlap/) · [Ingather](/conspiracies/ingather/) · [Devices](/devices/) · [Contraptions](/contraptions/)
+[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/) · [Burlap](/conspiracies/burlap/) · [Ingather](/conspiracies/ingather/) · [Devices](/devices/) · [Contraptions](/contraptions/)
 
 ### Dream
 
@@ -486,6 +486,10 @@ Essays and writing.
 - ## [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)
 
   Nov 21, 2020. How the track’s melody came out of a recording of 60 cycle hum: a frequency shifter on the Spacebirds preset, wet/dry automation, and a happy accident with two frozen drum tracks. With the audio examples.
+
+- ## [Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/)
+
+  Apr 18, 2022. A day with the Elementary Audio JavaScript library in a SvelteKit project, and the one thing that mattered about why there was no sound.
 
 ---
 
@@ -1805,6 +1809,30 @@ More about happy accidents and automated effect controls to morph sources in fut
 — Sarth
 
 Posted on sarth.net on November 21, 2020, and reproduced here as written, with the audio examples and screenshots from that post. The track is [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), from [*The Book of Sarth*](/conspiracies/book-of-sarth/).
+
+---
+
+# Elementary Audio, Day 1
+
+https://www.sarth.net/transmissions/elementary-audio-day-1/
+
+18 Apr 2022 · Machine
+
+# Elementary Audio, Day 1
+
+Day 1 with [Elementary Audio](https://www.elementary.audio) JS Library.
+
+I set out to get something cool happening in an hour or two. ended up burning the better part of the day. I started with an empty SvelteKit project because that’s what I had been using, and then messed around for a little while … aI mean several hours, troubleshooting why I had no sound.
+
+Although the tutorials and examples could be more fully featured, the real TL;DR is:
+
+Right. Most browser won’t allow sound to start automatically without user interaction.
+
+OK!
+
+Will try again later this week.
+
+Posted on my old site under Rumors on April 18, 2022, and moved here as written.
 
 ---
 
@@ -5578,6 +5606,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [DuckDB](https://duckdb.org/)
 - [set up credentials](https://duckdb.org/docs/current/core_extensions/httpfs/s3api)
+
+## [Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/)
+
+`/transmissions/elementary-audio-day-1/`
+
+- [Elementary Audio](https://www.elementary.audio)
 
 ## [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/)
 

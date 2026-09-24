@@ -77,6 +77,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Node vs Rails: agnostic vs batteries included https://www.sarth.net/transmissions/node-vs-rails/
 - Visual Reference Prompting https://www.sarth.net/transmissions/visual-reference-prompting/
 - About Awakening (To Blacklist) https://www.sarth.net/transmissions/about-awakening-to-blacklist/
+- Elementary Audio, Day 1 https://www.sarth.net/transmissions/elementary-audio-day-1/
 - Conspiracies https://www.sarth.net/conspiracies/
 - Third Wall Studio https://www.sarth.net/conspiracies/third-wall-studio/
 - Burlap https://www.sarth.net/conspiracies/burlap/

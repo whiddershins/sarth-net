@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (509 total)
+## Citations by page (507 total)
 
 ### Sarth Calhoun
 `/`
@@ -180,8 +180,6 @@ every page.
 ### Lou Reed spring 2008 U.S. tour
 `/conspiracies/lou-reed-spring-2008-tour/`
 
-- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
-- [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter)
 - [The Village Voice](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party)
 
 ### Lucibel Crater

@@ -171,8 +171,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/conspiracies/lou-reed-spring-2008-tour/`
 
-- [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
-- [Steve Hunter](https://en.wikipedia.org/wiki/Steve_Hunter)
 - [The Village Voice](https://villagevoice.com/2008/05/06/live-lou-reed-at-the-highline-ballrooms-first-birthday-party)
 
 ## [Lucibel Crater](/conspiracies/lucibel-crater/)

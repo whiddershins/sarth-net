@@ -125,7 +125,6 @@ a pull quote with its source, an embed, or an excerpt of the record. No filler.
 - https://www.sarth.net/conspiracies/creation-of-the-universe-ambisonic/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/i-just-believe-in-christmas/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspiracies/lou-reed-song-band/ (0 bands): Not laid out yet.
-- https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/reflections-vol-1/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/third-wall-studio/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspirators/laurie-anderson/ (1 band): Not laid out yet.
@@ -163,6 +162,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspiracies/ingather/: 2 · 2 photo
 - https://www.sarth.net/conspiracies/junior-dad/: 4 · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/lou-reed-2011-european-tour/: 4 · 1 quote · 1 embed · 2 excerpt
+- https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspiracies/lucibel-crater/: 6 · 3 photo · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspiracies/lulu/: 7 · 1 photo · 3 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/metal-machine-trio/: 7 · 1 photo · 4 quote · 1 embed · 1 excerpt

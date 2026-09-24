@@ -82,18 +82,20 @@ The touring group Lou Reed used for his song repertoire. I joined in 2008, playi
 
 [![Sarth Calhoun performing at Lollapalooza with Lou Reed’s band.](/images/lolla.jpg)](/conspiracies/lou-reed-song-band/)
 
+[![Lou Reed’s band on the spring 2008 U.S. tour, on a club stage under red curtains.](/images/mwm-5113.jpg)](/conspiracies/lou-reed-spring-2008-tour/)
+
 ## [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/)
 
 Lou Reed’s United States tour of April and May 2008, running through the Northeast and then south by bus as far as Memphis. It was my first tour with Reed.
-
-[![Lucibel Crater on stage: Sarth Calhoun, Leah Coloff, Paul Chuffo.](/images/mwm-5991.jpg)](/conspiracies/lucibel-crater/)
 
 ## [Lucibel Crater](/conspiracies/lucibel-crater/)
 
 The rock and electronic trio of Leah Coloff, Paul Chuffo and me. Its album *The Family Album* came out in 2008.
 
+[![Lucibel Crater on stage: Sarth Calhoun, Leah Coloff, Paul Chuffo.](/images/mwm-5991.jpg)](/conspiracies/lucibel-crater/)
+
+[![Cover of Suspension by Number 19.](/images/art-suspension.jpg)](/conspiracies/number19/)
+
 ## [Number19](/conspiracies/number19/)
 
 The band I formed in Brooklyn in 1999 with Tony Diodore, Leah Coloff and Mark Righter. Its album *Suspension* came out in 2001.
-
-[![Cover of Suspension by Number 19.](/images/art-suspension.jpg)](/conspiracies/number19/)

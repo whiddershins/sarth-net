@@ -96,6 +96,8 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
   - wants: Sarth: how the drums and the electronics locked in, and what Tony did for the band’s feel.
 - EMPTY  `content/holes/contraptions--earlier.md` on https://www.sarth.net/contraptions/
   - wants: Sarth: the Jamboxes with Moldover, the ConnecTable, and the five kinds of synthesis. What they were and where they went.
+- EMPTY  `content/holes/sightings--reaktor-live-2023.md` on https://www.sarth.net/sightings/reaktor-live-2023/
+  - wants: Sarth: what you said on the panel, and what accessible data meant on that account.
 - EMPTY  `content/holes/beautiful-tornado--thoughts.md` on https://www.sarth.net/transmissions/beautiful-tornado/
   - wants: Sarth: how the podcast started with Dom, and whether it is coming back.
 - EMPTY  `content/holes/introspections--thoughts.md` on https://www.sarth.net/transmissions/introspections/
@@ -115,6 +117,8 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
   - wants: Sarth: what you hear on it now, and what the two nights felt like from behind the desk.
 - EMPTY  `content/holes/the-family-album--thoughts.md` on https://www.sarth.net/transmissions/the-family-album/
   - wants: Sarth: how the record was made, and which song you would play someone first.
+- EMPTY  `content/holes/transmissions--through-the-brambles.md` on https://www.sarth.net/transmissions/through-the-brambles/
+  - wants: Sarth: your part in Through the Brambles, and what only worked in the headset.
 - EMPTY  `content/holes/transmissions-from-the-book-of-sarth--thoughts.md` on https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/
   - wants: Sarth: why these four, and what the EP is that the app is not.
 
@@ -132,10 +136,8 @@ a pull quote with its source, an embed, or an excerpt of the record. No filler.
 - https://www.sarth.net/conspiracies/reflections-vol-1/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/third-wall-studio/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspirators/laurie-anderson/ (1 band): Not laid out yet.
-- https://www.sarth.net/conspirators/leah-coloff/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspirators/paul-chuffo/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspirators/tetiana-khodakivska/ (0 bands): No free photograph, quotation or embed yet.
-- https://www.sarth.net/conspirators/tony-diodore/ (0 bands): Not laid out yet.
 - https://www.sarth.net/transmissions/miracles/ (0 bands): No cover, track list or store listing found; Sarth to supply.
 
 ## Credits
@@ -151,7 +153,6 @@ None.
 Sentences say I (Sarth's rule, 23 Sep 2026). Sentences that still name Sarth, outside quotes,
 captions, labels and data, with the first one on each page. About and Citations are exempt.
 
-- https://www.sarth.net/conspiracies/number19/ (1): On the first day of the Metallica recording all the guys were sitting around the breakfast table and Lou says to them “t
 - https://www.sarth.net/conspirators/moldover/ (1): On December 30, 2025 his channel posted “Sarth plays Moldover’s Voice Crusher,” two and a half minutes of me on the Voic
 
 ## Attribution
@@ -172,7 +173,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspiracies/lucibel-crater/: 6 · 3 photo · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspiracies/lulu/: 7 · 1 photo · 3 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/metal-machine-trio/: 7 · 1 photo · 4 quote · 1 embed · 1 excerpt
-- https://www.sarth.net/conspiracies/number19/: 10 · 1 photo · 2 quote · 2 embed · 5 excerpt
+- https://www.sarth.net/conspiracies/number19/: 7 · 1 photo · 2 quote · 1 embed · 3 excerpt
 - https://www.sarth.net/conspiracies/poughkeepsie/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/power-and-serenity/: 3 · 1 quote · 2 excerpt
 - https://www.sarth.net/conspiracies/third-wall-studio/: 1 · 1 photo
@@ -195,6 +196,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/kevin-hearn/: 5 · 2 photo · 1 quote · 2 excerpt
 - https://www.sarth.net/conspirators/kurt-hebel/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/laurie-anderson/: 1 · 1 photo
+- https://www.sarth.net/conspirators/leah-coloff/: 2 · 1 photo · 1 quote
 - https://www.sarth.net/conspirators/lippold-haken/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/lou-petto/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/lou-reed/: 6 · 2 photo · 2 quote · 1 embed · 1 excerpt
@@ -217,10 +219,13 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/stewart-hurwood/: 2 · 2 excerpt
 - https://www.sarth.net/conspirators/sxip-shirey/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspirators/tom-hart/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/tony-diodore/: 2 · 1 photo · 1 quote
 - https://www.sarth.net/conspirators/tony-thunder-smith/: 4 · 2 photo · 2 excerpt
 - https://www.sarth.net/conspirators/ulrich-krieger/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/contraptions/: 6 · 4 photo · 2 excerpt
+- https://www.sarth.net/sightings/reaktor-live-2023/: 2 · 1 embed · 1 excerpt
 - https://www.sarth.net/transmissions/beautiful-tornado/: 4 · 2 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/transmissions/i-before-e/: 3 · 1 photo · 1 embed · 1 excerpt
 - https://www.sarth.net/transmissions/introspections/: 7 · 1 photo · 1 quote · 3 embed · 2 excerpt
 - https://www.sarth.net/transmissions/lou-reed-live-at-lollapalooza-2009/: 4 · 1 photo · 2 quote · 1 excerpt
 - https://www.sarth.net/transmissions/peggy-sue/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
@@ -229,6 +234,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/transmissions/suspension/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/transmissions/the-creation-of-the-universe/: 6 · 1 photo · 2 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/transmissions/the-family-album/: 6 · 2 photo · 1 quote · 1 embed · 2 excerpt
+- https://www.sarth.net/transmissions/through-the-brambles/: 2 · 1 embed · 1 excerpt
 - https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/: 5 · 2 photo · 1 quote · 1 embed · 1 excerpt
 
 ## Facets
@@ -236,4 +242,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 10 machine · 30 dream · 10 message
+- 10 machine · 32 dream · 11 message

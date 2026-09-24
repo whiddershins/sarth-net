@@ -5,11 +5,22 @@
   <link rel="self" type="application/atom+xml" href="https://www.sarth.net/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://www.sarth.net/"/>
   <id>https://www.sarth.net/</id>
-  <updated>2026-09-23T00:00:00Z</updated>
+  <updated>2026-09-24T00:00:00Z</updated>
   <author>
     <name>Sarth Calhoun</name>
     <uri>https://www.sarth.net/</uri>
   </author>
+  <entry>
+    <title>Number19</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspiracies/number19/"/>
+    <id>https://www.sarth.net/conspiracies/number19/</id>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <published>2026-09-24T00:00:00Z</published>
+    <summary>Number19, the Brooklyn band Sarth Calhoun formed in 1999 with Leah Coloff, Tony Diodore and Mark Righter, and its album Suspension.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
   <entry>
     <title>Solsbury Hill</title>
     <link rel="alternate" type="text/html" href="https://www.sarth.net/transmissions/solsbury-hill/"/>
@@ -61,6 +72,17 @@
     <updated>2026-09-23T00:00:00Z</updated>
     <published>2026-09-23T00:00:00Z</published>
     <summary>Beautiful Tornado, the podcast by Sarth Calhoun and Dom Bouffard: six conversations with musicians and artists, 2020 to 2021, with Doron Lev, Glen Brady, Richard Naviasky, Bryan Senti and Michael Patrick Flanagan Smith.</summary>
+    <author>
+      <name>Sarth Calhoun</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rob Wasserman</title>
+    <link rel="alternate" type="text/html" href="https://www.sarth.net/conspirators/rob-wasserman/"/>
+    <id>https://www.sarth.net/conspirators/rob-wasserman/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <published>2026-09-23T00:00:00Z</published>
+    <summary>Sarth Calhoun on meeting bassist Rob Wasserman, touring together with Lou Reed, and the first Kyma session that became the basis of Junior Dad.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>

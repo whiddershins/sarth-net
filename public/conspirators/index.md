@@ -15,7 +15,7 @@ People I have made things with.
 1. [**Savas**Designer and creative director, Head of Creation at Third Wall Studio. Kubler-Ross Model is his film.](/conspirators/savas/)
 2. [**Jacob McCoy**Filmmaker, Director, Production at Third Wall Studio. Book of Sarth, the For Lovers duet, Introspections, and Meatsuitz Family Vacay.](/conspirators/jacob-mccoy/)
 3. [**Doron Lev**Drummer, MC and illustrator. The drums on my Christmas song, a Beautiful Tornado guest, and three Third Wall films in 2026.](/conspirators/doron-lev/)
-4. [**Jonathan Arons**The dancing trombonist, artist in residence at Third Wall Studio. The Trinary Matrix is his film.](/conspirators/jonathan-arons/)
+4. [**Jonathan Arons**The dancing trombonist, artist in residence at Third Wall Studio. The Trinary Matrix, fourteen minutes from his own book, is his film.](/conspirators/jonathan-arons/)
 5. [**Tetiana Khodakivska**Film director and editor, artist in residence at Third Wall Studio.](/conspirators/tetiana-khodakivska/)
 
 ## Book of Sarth and the Gralbum Collective
@@ -24,7 +24,7 @@ People I have made things with.
 2. [![Bora Yoon performing at TED2014.](/images/conspirator-bora-yoon.jpg)**Bora Yoon**Composer, vocalist and sound artist. Sunken Cathedral was one of the first gralbums, and she played the launch with me.](/conspirators/bora-yoon/)
 3. [![Billy Martin, 2007.](/images/conspirator-billy-martin.jpg)**Billy Martin**Drummer of Medeski Martin & Wood, and a visual artist. His Omnisphere was a gralbum in the making.](/conspirators/billy-martin/)
 4. [**Andrew Beck**Lead programmer of the (gr)album app. Three years of work together on Book of Sarth and the platform.](/conspirators/andrew-beck/)
-5. [**Elik Smith**The artist of The Book of Sarth, credited as Alex Smith.](/conspirators/elik-smith/)
+5. [**Alex Wyly**The artist of The Book of Sarth, credited as Alex Smith and thanked as Elik Smith. Now a textile and home furnishings designer.](/conspirators/alex-wyly/)
 6. [**Adam Matta**Beatboxer, visual artist and animator. Sketches was one of the first gralbums, every sound his own voice.](/conspirators/adam-matta/)
 7. [**Tom Hart**The artist of Train O’ Thots, drawn on the subway, with music by Moon Hooch and then by Exaltron and me.](/conspirators/tom-hart/)
 

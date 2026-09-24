@@ -17,7 +17,7 @@ Lead programmer of the (gr)album app. We worked on it for three years.
 > 
 > Ariel Bitran, [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
-Andrew Beck was the lead programmer of (gr)album, the iPad and iPhone app platform built to publish *The Book of Sarth* in October 2012 and, from April 2014, other artists’ gralbums. Stereophile, reporting from the launch, introduced him as “Lead Programmer Andrew Beck.”
+[Andrew Beck](https://www.linkedin.com/in/abeck99/) was the lead programmer of (gr)album, the iPad and iPhone app platform built to publish *The Book of Sarth* in October 2012 and, from April 2014, other artists’ gralbums. Stereophile, reporting from the launch, introduced him as “Lead Programmer Andrew Beck.” His later work is on his LinkedIn and [GitHub](https://github.com/abeck99).
 
 ## Book of Sarth and (gr)album
 

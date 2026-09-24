@@ -23,7 +23,7 @@ Filmmaker, and Director, Production at Third Wall Studio. We have made things to
 
 ## From Book of Sarth to Third Wall
 
-He was one of the four people I thanked when [Book of Sarth](/conspiracies/book-of-sarth/) was finished in 2012: Jacob McCoy is unstoppable. On March 2, 2015, Lou Reed’s birthday, we recorded Linnstrument and Continuum duets; one became “[For Lovers](/transmissions/singles/),” dedicated to Lou, filmed that spring and released as a single in 2020. He plays the Linnstrument drones on the second [Introspections](/transmissions/introspections/) video, and bass on “[I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/).”
+He was one of the four people I thanked when [Book of Sarth](/conspiracies/book-of-sarth/) was finished in 2012: Jacob McCoy is unstoppable. On March 2, 2015, Lou Reed’s birthday, we recorded Linnstrument and Continuum duets; one became “[For Lovers](/transmissions/singles/),” dedicated to Lou, filmed that spring and released as a single in 2020. He plays the Linnstrument drones on the second [Introspections](/transmissions/introspections/) video, filmed and edited the two duets with [Sxip Shirey](/conspirators/sxip-shirey/) that same year, and plays bass on “[I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/).”
 
 At [Third Wall Studio](/conspiracies/third-wall-studio/) he is Director, Production. *Meatsuitz Family Vacay*, January 2026, is his film, made in [Burlap](/conspiracies/burlap/).
 

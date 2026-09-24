@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 485,
+  "citation_count": 499,
   "pages": [
     {
       "path": "/",
@@ -681,8 +681,20 @@
           "text": "Teaser"
         },
         {
+          "url": "https://vimeo.com/1187052948/25ddad82d9",
+          "text": "Full film on Vimeo"
+        },
+        {
           "url": "https://www.youtube.com/shorts/yxCoeTg-qR8",
           "text": "Excerpt"
+        },
+        {
+          "url": "https://www.thirdwallstudio.com/process",
+          "text": "Third Wall"
+        },
+        {
+          "url": "https://vimeo.com/1187032618/46e04bc8a5",
+          "text": "Full film on Vimeo"
         },
         {
           "url": "https://www.thirdwallstudio.com/through-the-brambles",
@@ -750,12 +762,38 @@
       ]
     },
     {
+      "path": "/conspirators/alex-wyly/",
+      "title": "Alex Wyly",
+      "citations": [
+        {
+          "url": "https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album",
+          "text": "The Verge, January 3, 2013"
+        },
+        {
+          "url": "https://www.alexwyly.com",
+          "text": "Alexander Wyly"
+        },
+        {
+          "url": "https://www.wayfair.com/brand/bnd/alwy-b42123.html",
+          "text": "ALWY"
+        }
+      ]
+    },
+    {
       "path": "/conspirators/andrew-beck/",
       "title": "Andrew Beck",
       "citations": [
         {
           "url": "https://www.stereophile.com/content/gralbum-re-thinking-concept-album",
           "text": "Stereophile, April 23, 2014"
+        },
+        {
+          "url": "https://www.linkedin.com/in/abeck99/",
+          "text": "Andrew Beck"
+        },
+        {
+          "url": "https://github.com/abeck99",
+          "text": "GitHub"
         }
       ]
     },
@@ -869,16 +907,6 @@
       ]
     },
     {
-      "path": "/conspirators/elik-smith/",
-      "title": "Elik Smith",
-      "citations": [
-        {
-          "url": "https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album",
-          "text": "The Verge, January 3, 2013"
-        }
-      ]
-    },
-    {
       "path": "/conspirators/jacob-mccoy/",
       "title": "Jacob McCoy",
       "citations": [
@@ -943,6 +971,14 @@
         {
           "url": "https://www.jonarons.com/",
           "text": "Jonathan Arons"
+        },
+        {
+          "url": "https://www.thirdwallstudio.com/process",
+          "text": "Process"
+        },
+        {
+          "url": "https://www.thirdwallstudio.com/",
+          "text": "studio site"
         }
       ]
     },
@@ -1208,6 +1244,14 @@
         {
           "url": "https://commons.wikimedia.org/wiki/File:Moldover_-_Step_From_Darkness_-_at_SHA2017_(by_Victor_Bart).jpg",
           "text": "Wikimedia Commons"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=DBrarrD8n_g",
+          "text": "Sarth plays Moldover’s Voice Crusher"
+        },
+        {
+          "url": "https://moldover.bandcamp.com/album/four-track",
+          "text": "Four Track"
         }
       ]
     },
@@ -1320,6 +1364,14 @@
         {
           "url": "https://www.thirdwallstudio.com/",
           "text": "Third Wall Studio"
+        },
+        {
+          "url": "https://www.thirdwallstudio.com/process",
+          "text": "Process"
+        },
+        {
+          "url": "https://www.youtube.com/shorts/yxCoeTg-qR8",
+          "text": "excerpt"
         }
       ]
     },
@@ -1410,6 +1462,10 @@
         {
           "url": "https://www.youtube.com/watch?v=V_ZinrLAl4I",
           "text": "YouTube, May 29, 2015"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_8jgV_4Xqmc",
+          "text": "Prepared Guitar and Continuum Fingerboard"
         }
       ]
     },

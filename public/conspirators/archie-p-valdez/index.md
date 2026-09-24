@@ -25,7 +25,7 @@ Boxy Barren, by Archie P. Valdez, for The Book of Sarth.
 
 ## Book of Sarth
 
-His illustrations are part of [Book of Sarth](/conspiracies/book-of-sarth/), the graphic novel and concept album I released as an iPad app in October 2012, drawn with [Elik Smith](/conspirators/elik-smith/) and Tom Hall.
+His illustrations are part of [Book of Sarth](/conspiracies/book-of-sarth/), the graphic novel and concept album I released as an iPad app in October 2012, drawn with [Alex Wyly](/conspirators/alex-wyly/) and Tom Hall.
 
 The credit: Archie P. Valdez, illustrations (with Tom Hall), on Sarth Calhoun’s The Book of Sarth, 2012.
 

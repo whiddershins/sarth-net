@@ -27,6 +27,12 @@ Moldover performing “Step From Darkness,” SHA2017, the Netherlands, August 2
 
 We were on the same bill at the Warper Party at The Delancey in New York on March 4, 2009, and Clocktower’s Warper Party Radio Extravaganza lists us both among its performers. On July 9, 2012 I posted about his Jamboxes on my old site, under [Contraptions](/contraptions/); only the title survives. I have named him among the improvisers I explored the [Introspections](/transmissions/introspections/) ideas with, and my [CV](/work/) lists a video with him.
 
+On December 30, 2025 his channel posted “Sarth plays Moldover’s Voice Crusher,” two and a half minutes of me on the Voice Crusher, the playable packaging of his album *Four Track*: a musical instrument that comes with the physical copy of the record.
+
 The credit: Moldover and Sarth Calhoun shared Warper Party bills in New York in 2009; Calhoun names him among the improvisers behind Introspections, and lists a video with him.
+
+[Embedded player](https://www.youtube.com/embed/DBrarrD8n_g)
+
+The video: “[Sarth plays Moldover’s Voice Crusher](https://www.youtube.com/watch?v=DBrarrD8n_g),” Moldover’s channel, December 30, 2025. The Voice Crusher is the playable packaging for [Four Track](https://moldover.bandcamp.com/album/four-track).
 
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.

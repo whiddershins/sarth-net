@@ -14,6 +14,8 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
   - wants: Sarth: why a studio, and how the first film with Doron came together. Only the two sentences above are yours so far.
 - EMPTY  `content/holes/conspirators--adam-matta.md` on https://www.sarth.net/conspirators/adam-matta/
   - wants: Sarth: how you met Adam, and what happened on the downstairs stage.
+- EMPTY  `content/holes/conspirators--alex-wyly.md` on https://www.sarth.net/conspirators/alex-wyly/
+  - wants: Sarth: what Elik understood about the world of the Book, and how the two of you worked.
 - EMPTY  `content/holes/conspirators--andrew-beck.md` on https://www.sarth.net/conspirators/andrew-beck/
   - wants: Sarth: how you met Andrew, and the best example of what he built.
 - EMPTY  `content/holes/conspirators--aram-bajakian.md` on https://www.sarth.net/conspirators/aram-bajakian/
@@ -30,8 +32,6 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
   - wants: Sarth: how you and Dom met, and how Beautiful Tornado started.
 - EMPTY  `content/holes/conspirators--doron-lev.md` on https://www.sarth.net/conspirators/doron-lev/
   - wants: Sarth: how you met Doron, and why the collaboration kept going.
-- EMPTY  `content/holes/conspirators--elik-smith.md` on https://www.sarth.net/conspirators/elik-smith/
-  - wants: Sarth: which name Elik wants on this page, and what he understood about the world of the Book.
 - EMPTY  `content/holes/conspirators--jacob-mccoy.md` on https://www.sarth.net/conspirators/jacob-mccoy/
   - wants: Sarth: what Jacob did on Book of Sarth, and what Meatsuitz is.
 - EMPTY  `content/holes/conspirators--joe-kelly.md` on https://www.sarth.net/conspirators/joe-kelly/
@@ -127,7 +127,6 @@ a pull quote with its source, an embed, or an excerpt of the record. No filler.
 - https://www.sarth.net/conspiracies/reflections-vol-1/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/third-wall-studio/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspiracies/vivid-live/ (0 bands): Not laid out yet.
-- https://www.sarth.net/conspirators/jonathan-arons/ (0 bands): No free photograph, quotation or embed yet.
 - https://www.sarth.net/conspirators/laurie-anderson/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspirators/leah-coloff/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspirators/paul-chuffo/ (0 bands): Not laid out yet.
@@ -148,7 +147,7 @@ None.
 Sentences say I (Sarth's rule, 23 Sep 2026). Sentences that still name Sarth, outside quotes,
 captions, labels and data, with the first one on each page. About and Citations are exempt.
 
-None.
+- https://www.sarth.net/conspirators/moldover/ (1): On December 30, 2025 his channel posted “Sarth plays Moldover’s Voice Crusher,” two and a half minutes of me on the Voic
 
 ## Attribution
 
@@ -170,6 +169,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspiracies/third-wall-studio/: 1 · 1 photo
 - https://www.sarth.net/conspiracies/yellow-pony/: 5 · 1 photo · 2 quote · 2 excerpt
 - https://www.sarth.net/conspirators/adam-matta/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/alex-wyly/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/andrew-beck/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/aram-bajakian/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspirators/archie-p-valdez/: 3 · 2 photo · 1 excerpt
@@ -178,10 +178,10 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/carla-scaletti/: 3 · 1 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/dominic-bouffard/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/doron-lev/: 3 · 1 quote · 1 embed · 1 excerpt
-- https://www.sarth.net/conspirators/elik-smith/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/jacob-mccoy/: 3 · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspirators/joe-kelly/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspirators/john-zorn/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/jonathan-arons/: 3 · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspirators/kevin-hearn/: 3 · 1 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/kurt-hebel/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/laurie-anderson/: 1 · 1 photo
@@ -195,17 +195,17 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/michael-patrick-flanagan-smith/: 3 · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspirators/mike-acerbo/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/mike-rathke/: 2 · 1 quote · 1 excerpt
-- https://www.sarth.net/conspirators/moldover/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/moldover/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspirators/phil-weinrobe/: 2 · 2 excerpt
 - https://www.sarth.net/conspirators/rich-kulsar/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/rob-wasserman/: 4 · 1 photo · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspirators/robert-wilson/: 3 · 1 photo · 1 quote · 1 excerpt
-- https://www.sarth.net/conspirators/savas/: 2 · 1 embed · 1 excerpt
+- https://www.sarth.net/conspirators/savas/: 3 · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspirators/scott-hampton/: 2 · 2 excerpt
 - https://www.sarth.net/conspirators/shahzad-ismaily/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspirators/steve-hunter/: 3 · 1 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/stewart-hurwood/: 2 · 2 excerpt
-- https://www.sarth.net/conspirators/sxip-shirey/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/conspirators/sxip-shirey/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspirators/tom-hart/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/tony-thunder-smith/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspirators/ulrich-krieger/: 2 · 1 quote · 1 excerpt

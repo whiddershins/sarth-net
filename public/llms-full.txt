@@ -1896,13 +1896,13 @@ The credit: Sarth Calhoun founded Third Wall Studio in May 2025 and builds Burla
 
   [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
 
-- **Kubler-Ross Model**, with [Savas](/conspirators/savas/). Excerpt, August 2026.
+- **Kubler-Ross Model**, with [Savas](/conspirators/savas/). 3:55. Built from his own concept art. On Vimeo since April 2026; an excerpt went out on YouTube in August 2026.
 
-  [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
+  [Full film on Vimeo](https://vimeo.com/1187052948/25ddad82d9) · [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8) · [Third Wall](https://www.thirdwallstudio.com/process)
 
-- **The Trinary Matrix**, with [Jonathan Arons](/conspirators/jonathan-arons/).
+- **The Trinary Matrix**, with [Jonathan Arons](/conspirators/jonathan-arons/). 14:15. He animated his own book scene by scene in Burlap; the studio finished it in post. On Vimeo since April 2026.
 
-  [Third Wall](https://thirdwallstudio.com)
+  [Full film on Vimeo](https://vimeo.com/1187032618/46e04bc8a5) · [Third Wall](https://www.thirdwallstudio.com/process)
 
 *Through the Brambles* is a VR story built entirely inside Burlap. Every scene began as a prompted 360° image, then became part of a single journey for headset playback. Gemini made the stills, Veo brought them to life, ElevenLabs handled narration, and Resolve held the edit and ambisonic mix. It is also at [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles).
 
@@ -2806,7 +2806,7 @@ People I have made things with.
 1. [**Savas**Designer and creative director, Head of Creation at Third Wall Studio. Kubler-Ross Model is his film.](/conspirators/savas/)
 2. [**Jacob McCoy**Filmmaker, Director, Production at Third Wall Studio. Book of Sarth, the For Lovers duet, Introspections, and Meatsuitz Family Vacay.](/conspirators/jacob-mccoy/)
 3. [**Doron Lev**Drummer, MC and illustrator. The drums on my Christmas song, a Beautiful Tornado guest, and three Third Wall films in 2026.](/conspirators/doron-lev/)
-4. [**Jonathan Arons**The dancing trombonist, artist in residence at Third Wall Studio. The Trinary Matrix is his film.](/conspirators/jonathan-arons/)
+4. [**Jonathan Arons**The dancing trombonist, artist in residence at Third Wall Studio. The Trinary Matrix, fourteen minutes from his own book, is his film.](/conspirators/jonathan-arons/)
 5. [**Tetiana Khodakivska**Film director and editor, artist in residence at Third Wall Studio.](/conspirators/tetiana-khodakivska/)
 
 ## Book of Sarth and the Gralbum Collective
@@ -2815,7 +2815,7 @@ People I have made things with.
 2. [![Bora Yoon performing at TED2014.](/images/conspirator-bora-yoon.jpg)**Bora Yoon**Composer, vocalist and sound artist. Sunken Cathedral was one of the first gralbums, and she played the launch with me.](/conspirators/bora-yoon/)
 3. [![Billy Martin, 2007.](/images/conspirator-billy-martin.jpg)**Billy Martin**Drummer of Medeski Martin & Wood, and a visual artist. His Omnisphere was a gralbum in the making.](/conspirators/billy-martin/)
 4. [**Andrew Beck**Lead programmer of the (gr)album app. Three years of work together on Book of Sarth and the platform.](/conspirators/andrew-beck/)
-5. [**Elik Smith**The artist of The Book of Sarth, credited as Alex Smith.](/conspirators/elik-smith/)
+5. [**Alex Wyly**The artist of The Book of Sarth, credited as Alex Smith and thanked as Elik Smith. Now a textile and home furnishings designer.](/conspirators/alex-wyly/)
 6. [**Adam Matta**Beatboxer, visual artist and animator. Sketches was one of the first gralbums, every sound his own voice.](/conspirators/adam-matta/)
 7. [**Tom Hart**The artist of Train O’ Thots, drawn on the subway, with music by Moon Hooch and then by Exaltron and me.](/conspirators/tom-hart/)
 
@@ -2883,13 +2883,17 @@ Designer, creative director and artist, Head of Creation at Third Wall Studio. *
 
 [Savaş Özay](https://savasozay.com/), credited at Third Wall Studio as Savas, is a designer, creative director and artist based in Amsterdam with over twenty years of practice across identity, product design, art direction and image-making, for clients in fashion, sport, automotive and electronic music. He is Head of Creation at [Third Wall Studio](https://www.thirdwallstudio.com/).
 
-[Embedded player](https://www.youtube.com/embed/yxCoeTg-qR8)
+[Embedded player](https://player.vimeo.com/video/1187052948?h=25ddad82d9)
 
-The credit: Savas (Savaş Özay) is Head of Creation at Third Wall Studio, founded by Sarth Calhoun in 2025; Kubler-Ross Model (2026) is his film.
+> Savas brought us a world the generative tools had no idea what to do with. Creatures, environments, a visual language outside any reference set. The default approach failed early. So we worked backward from his art direction and broke the world into parts the tools could actually hold: figures, plates, gestures, atmosphere. We composited those parts back into shots that kept his hand visible in every frame.
+> 
+> Third Wall Studio, [Process](https://www.thirdwallstudio.com/process)
 
 ## Third Wall Studio
 
-He is Head of Creation at [Third Wall Studio](/conspiracies/third-wall-studio/), the studio I founded in May 2025. *Kubler-Ross Model*, made in [Burlap](/conspiracies/burlap/), is his film; the first excerpt went out in August 2026.
+He is Head of Creation at [Third Wall Studio](/conspiracies/third-wall-studio/), the studio I founded in May 2025. *Kubler-Ross Model*, made in [Burlap](/conspiracies/burlap/), is his film: three minutes fifty-five, built from his own concept art, and the full film is above and on the [studio site](https://www.thirdwallstudio.com/). An [excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8) went out on the Burlap YouTube channel in August 2026.
+
+The credit: Savas (Savaş Özay) is Head of Creation at Third Wall Studio, founded by Sarth Calhoun in 2025; Kubler-Ross Model (2026, 3:55), built from his concept art in Burlap, is his film.
 
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.
 
@@ -2917,7 +2921,7 @@ Filmmaker, and Director, Production at Third Wall Studio. We have made things to
 
 ## From Book of Sarth to Third Wall
 
-He was one of the four people I thanked when [Book of Sarth](/conspiracies/book-of-sarth/) was finished in 2012: Jacob McCoy is unstoppable. On March 2, 2015, Lou Reed’s birthday, we recorded Linnstrument and Continuum duets; one became “[For Lovers](/transmissions/singles/),” dedicated to Lou, filmed that spring and released as a single in 2020. He plays the Linnstrument drones on the second [Introspections](/transmissions/introspections/) video, and bass on “[I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/).”
+He was one of the four people I thanked when [Book of Sarth](/conspiracies/book-of-sarth/) was finished in 2012: Jacob McCoy is unstoppable. On March 2, 2015, Lou Reed’s birthday, we recorded Linnstrument and Continuum duets; one became “[For Lovers](/transmissions/singles/),” dedicated to Lou, filmed that spring and released as a single in 2020. He plays the Linnstrument drones on the second [Introspections](/transmissions/introspections/) video, filmed and edited the two duets with [Sxip Shirey](/conspirators/sxip-shirey/) that same year, and plays bass on “[I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/).”
 
 At [Third Wall Studio](/conspiracies/third-wall-studio/) he is Director, Production. *Meatsuitz Family Vacay*, January 2026, is his film, made in [Burlap](/conspiracies/burlap/).
 
@@ -2973,11 +2977,17 @@ The dancing trombonist, artist in residence at Third Wall Studio. *The Trinary M
 
 [Jonathan Arons](https://www.jonarons.com/) is a New York trombonist, dancer and entertainer known as the dancing trombonist, a member of the Chops Horns who has backed Alicia Keys, Aretha Franklin, Stevie Wonder and Mariah Carey and played in the *Dancing with the Stars* orchestra under Ray Chew; he played on the Dave Holland Big Band’s Grammy-winning *Overtime* (2005). He competed on *America’s Got Talent* in 2008 and 2025, holds degrees in jazz trombone and biochemistry from Oberlin, and wrote the memoir *Novelty Act* and *The Trinary Matrix*, a prequel to *The Matrix*. He tours with Gloria Gaynor.
 
+[Embedded player](https://player.vimeo.com/video/1187032618?h=46e04bc8a5)
+
+> Jonathan came in with a finished book. His own illustrations, his own story, all of it already on the page. What he needed was a way to bring it into motion without losing his hand in a pipeline. We set him up inside Burlap and showed him the canvas. He animated the book himself, scene by scene, the way a director works with a storyboard artist except he was both. We took it into post for editing, sound design, and finishing, and gave him back a film that still reads as his.
+> 
+> Third Wall Studio, [Process](https://www.thirdwallstudio.com/process)
+
 ## Third Wall Studio
 
-He is an artist in residence at [Third Wall Studio](/conspiracies/third-wall-studio/), and *The Trinary Matrix*, from his book, is his film there, one of the 2026 shorts made in [Burlap](/conspiracies/burlap/).
+He is an artist in residence at [Third Wall Studio](/conspiracies/third-wall-studio/), and *The Trinary Matrix*, from his book, is his film there: fourteen minutes fifteen, animated by him inside [Burlap](/conspiracies/burlap/) scene by scene, finished in post by the studio. The full film is above and on the [studio site](https://www.thirdwallstudio.com/).
 
-The credit: Jonathan Arons is artist in residence at Third Wall Studio, founded by Sarth Calhoun; The Trinary Matrix (2026) is his film.
+The credit: Jonathan Arons is artist in residence at Third Wall Studio, founded by Sarth Calhoun; The Trinary Matrix (2026, 14:15), animated by Arons in Burlap and finished by the studio, is his film.
 
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.
 
@@ -3031,7 +3041,7 @@ Boxy Barren, by Archie P. Valdez, for The Book of Sarth.
 
 ## Book of Sarth
 
-His illustrations are part of [Book of Sarth](/conspiracies/book-of-sarth/), the graphic novel and concept album I released as an iPad app in October 2012, drawn with [Elik Smith](/conspirators/elik-smith/) and Tom Hall.
+His illustrations are part of [Book of Sarth](/conspiracies/book-of-sarth/), the graphic novel and concept album I released as an iPad app in October 2012, drawn with [Alex Wyly](/conspirators/alex-wyly/) and Tom Hall.
 
 The credit: Archie P. Valdez, illustrations (with Tom Hall), on Sarth Calhoun’s The Book of Sarth, 2012.
 
@@ -3119,7 +3129,7 @@ Lead programmer of the (gr)album app. We worked on it for three years.
 > 
 > Ariel Bitran, [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 
-Andrew Beck was the lead programmer of (gr)album, the iPad and iPhone app platform built to publish *The Book of Sarth* in October 2012 and, from April 2014, other artists’ gralbums. Stereophile, reporting from the launch, introduced him as “Lead Programmer Andrew Beck.”
+[Andrew Beck](https://www.linkedin.com/in/abeck99/) was the lead programmer of (gr)album, the iPad and iPhone app platform built to publish *The Book of Sarth* in October 2012 and, from April 2014, other artists’ gralbums. Stereophile, reporting from the launch, introduced him as “Lead Programmer Andrew Beck.” His later work is on his LinkedIn and [GitHub](https://github.com/abeck99).
 
 ## Book of Sarth and (gr)album
 
@@ -3131,29 +3141,29 @@ The profile is from public sources, linked where they appear. What we made is th
 
 ---
 
-# Elik Smith
+# Alex Wyly
 
-https://www.sarth.net/conspirators/elik-smith/
+https://www.sarth.net/conspirators/alex-wyly/
 
-[Conspirators](/conspirators/) / Elik Smith
+[Conspirators](/conspirators/) / Alex Wyly
 
 Conspirator
 
-# Elik Smith
+# Alex Wyly
 
-The artist of *The Book of Sarth*. Credited as Alex Smith.
+The artist of *The Book of Sarth*, credited as Alex Smith and thanked as Elik Smith. Now a designer of textiles and home furnishings.
 
 > the art is beautiful unto itself, each page filled with inset images that shift, fade, or change.
 > 
 > Bryan Bishop, [The Verge, January 3, 2013](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 
-Elik Smith, credited on The Gralbum Collective’s title page as Alex Smith, is the artist of *The Book of Sarth* (2012): “Art and Story: Alex Smith,” alongside illustrations by Tom Hall and [Archie P. Valdez](/conspirators/archie-p-valdez/). [Marc Urselli](/conspirators/marc-urselli/)’s review in Chain D.L.K. described the artwork as passing through several styles, from soft cartoon images to stylised vector work, treated black-and-white photographs and, by the epilogue, pixellated, almost art deco paintings.
+[Alexander Wyly](https://www.alexwyly.com) is the artist of *The Book of Sarth* (2012), credited on The Gralbum Collective’s title page as Alex Smith: “Art and Story: Alex Smith,” alongside illustrations by Tom Hall and [Archie P. Valdez](/conspirators/archie-p-valdez/). [Marc Urselli](/conspirators/marc-urselli/)’s review in Chain D.L.K. described the artwork as passing through several styles, from soft cartoon images to stylised vector work, treated black-and-white photographs and, by the epilogue, pixellated, almost art deco paintings. He now designs textiles and home furnishings, pillows, rugs, fabrics and wallcoverings, under his own name and as the brand [ALWY](https://www.wayfair.com/brand/bnd/alwy-b42123.html).
 
 ## Book of Sarth
 
-He drew [Book of Sarth](/conspiracies/book-of-sarth/), my first full-length solo release, two and a half years in the making. He is the second of the four people I thanked when it was finished: Elik Smith is a genius.
+He drew [Book of Sarth](/conspiracies/book-of-sarth/), my first full-length solo release, two and a half years in the making. He is the second of the four people I thanked when it was finished, by the name I knew him by then: Elik Smith is a genius.
 
-The credit: Elik Smith (credited as Alex Smith), art and story, and Sarth Calhoun, music, on The Book of Sarth, The Gralbum Collective, October 2012.
+The credit: Alex Wyly (credited as Alex Smith, thanked as Elik Smith), art and story, and Sarth Calhoun, music, on The Book of Sarth, The Gralbum Collective, October 2012.
 
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.
 
@@ -3265,17 +3275,39 @@ He was composer and music director of the circus production *LIMBO*, which toure
 
 Sxip Shirey performing, May 2010. Photo: Stacey~, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sxip_Shirey_performing_in_2010.jpg).
 
-> Sxip Shirey visited (Gr)album World Headquarters last week with an idea for a really cool piece. This is based on his Shruti Box, which is a traditional Indian drone instrument working on bellows, similar to a harmonium ... or similar to an accordion.
+> Sxip opens up a chord using levers on the Shruti Box, then uses his trusty SM 58 to mic highlight different notes within the chord, creating a melody within the drone.
 > 
 > Sarth Calhoun, [YouTube, May 29, 2015](https://www.youtube.com/watch?v=V_ZinrLAl4I)
 
 ## Introspections
 
-In 2015 he came to (Gr)album World Headquarters and we recorded improvised duets, released on my YouTube channel: “Continuum Fingerboard vs. Shruti Box” on May 29, 2015, and “Prepared Guitar and Continuum Fingerboard” on June 30, 2015. In the first, he creates the drones and structure with an amplified shruti box while I play Continuum. Both are part of [Introspections](/transmissions/introspections/), and I have named him among the improvisers I explored those ideas with, alongside Laurie Anderson, Moldover, John Zorn, Marc Ribot and Rob Wasserman.
+In 2015 he came to (Gr)album World Headquarters with an idea for a piece built on his shruti box, and in one day we recorded improvised duets at !N’Douglass Studios, filmed and edited by [Jacob McCoy](/conspirators/jacob-mccoy/) and mixed by Tim Knowlton. Two are on my YouTube channel: “Continuum Fingerboard vs. Shruti Box,” May 29, 2015, his amplified shruti box against the Continuum’s plucked-string model through a Sparkle Drive and a Marshall 4x10; and “Prepared Guitar and Continuum Fingerboard,” June 30, 2015, his guitar with paper clips on the strings and a harmonica to vibrate them, against a pulse code cello in Kyma. Both are part of [Introspections](/transmissions/introspections/), and I have named him among the improvisers I explored those ideas with, alongside Laurie Anderson, Moldover, John Zorn, Marc Ribot and Rob Wasserman.
 
-[Jacob McCoy](/conspirators/jacob-mccoy/), who plays the Linnstrument drones on the other Introspections duet, directed, shot and edited the documentary on *The Gauntlet*.
+Jacob McCoy, who also plays the Linnstrument drones on the other Introspections duet, later directed, shot and edited the documentary on *The Gauntlet*.
 
 The credit: Sxip Shirey, shruti box and prepared guitar, and Sarth Calhoun, Continuum Fingerboard: two improvised duets recorded at (Gr)album World Headquarters in 2015, part of Introspections.
+
+[Embedded player](https://www.youtube.com/embed/V_ZinrLAl4I)
+
+The two videos: “[Continuum Fingerboard vs. Shruti Box](https://www.youtube.com/watch?v=V_ZinrLAl4I),” May 29, 2015, and “[Prepared Guitar and Continuum Fingerboard](https://www.youtube.com/watch?v=_8jgV_4Xqmc),” June 30, 2015. Sxip Shirey and Sarth Calhoun. Filmed and edited by Jacob McCoy; recorded and mixed by Tim Knowlton at !N’Douglass Studios.
+
+## What I wrote under the videos
+
+> Sxip Shirey visited (Gr)album World Headquarters last week with an idea for a really cool piece. This is based on his Shruti Box, which is a traditional Indian drone instrument working on bellows, similar to a harmonium ... or similar to an accordion.
+> 
+> Sxip opens up a chord using levers on the Shruti Box, then uses his trusty SM 58 to mic highlight different notes within the chord, creating a melody within the drone. The 58 is tun through an Electro-Harmonix Micro POG to add depth to the melody.
+> 
+> Sarth is playing the Haken Continuum Fingerboard, using an internal sound called Plucked String, a Karplus Strong physical model of a plectrum. The patch has an unusual property where it plucks more quickly the more you push. Moving forward and back on the continuum changes the length of the notes, allowing them to be distinct or blur together.
+> 
+> To have more control over the volume and timbre of the plectrum the continuum was routed through a Voodoo Lab Sparkle Drive and in to a Marshall 4x10 guitar amp.
+
+> On the same day as our shruti/continuum duet, we played a few more pieces using different combinations of instruments.
+> 
+> This one was built around a pulse code cello sound in Kyma, controlled by the Continuum Fingerboard. Sxip thought the prepared guitar with reverb and pitch shifter would match the sound, and it really did!
+> 
+> The guitar has paper clips and such on the strings, and Sxip uses a harmonica to vibrate the strings.
+
+My descriptions under the two videos on YouTube, May 29 and June 30, 2015, without the gear lists and credits.
 
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.
 
@@ -3307,7 +3339,13 @@ Moldover performing “Step From Darkness,” SHA2017, the Netherlands, August 2
 
 We were on the same bill at the Warper Party at The Delancey in New York on March 4, 2009, and Clocktower’s Warper Party Radio Extravaganza lists us both among its performers. On July 9, 2012 I posted about his Jamboxes on my old site, under [Contraptions](/contraptions/); only the title survives. I have named him among the improvisers I explored the [Introspections](/transmissions/introspections/) ideas with, and my [CV](/work/) lists a video with him.
 
+On December 30, 2025 his channel posted “Sarth plays Moldover’s Voice Crusher,” two and a half minutes of me on the Voice Crusher, the playable packaging of his album *Four Track*: a musical instrument that comes with the physical copy of the record.
+
 The credit: Moldover and Sarth Calhoun shared Warper Party bills in New York in 2009; Calhoun names him among the improvisers behind Introspections, and lists a video with him.
+
+[Embedded player](https://www.youtube.com/embed/DBrarrD8n_g)
+
+The video: “[Sarth plays Moldover’s Voice Crusher](https://www.youtube.com/watch?v=DBrarrD8n_g),” Moldover’s channel, December 30, 2025. The Voice Crusher is the playable packaging for [Four Track](https://moldover.bandcamp.com/album/four-track).
 
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.
 
@@ -4928,7 +4966,10 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Truck Stop Love](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
 - [Meatsuitz Family Vacay](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
 - [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
+- [Full film on Vimeo](https://vimeo.com/1187052948/25ddad82d9)
 - [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
+- [Third Wall](https://www.thirdwallstudio.com/process)
+- [Full film on Vimeo](https://vimeo.com/1187032618/46e04bc8a5)
 - [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles)
 - [Instagram](https://www.instagram.com/3rdwallstudio/)
 - [YouTube](https://www.youtube.com/@burlap_app)
@@ -4955,11 +4996,21 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 - [Carolina Chocolate Drops](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops)
 
+## [Alex Wyly](/conspirators/alex-wyly/)
+
+`/conspirators/alex-wyly/`
+
+- [The Verge, January 3, 2013](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+- [Alexander Wyly](https://www.alexwyly.com)
+- [ALWY](https://www.wayfair.com/brand/bnd/alwy-b42123.html)
+
 ## [Andrew Beck](/conspirators/andrew-beck/)
 
 `/conspirators/andrew-beck/`
 
 - [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [Andrew Beck](https://www.linkedin.com/in/abeck99/)
+- [GitHub](https://github.com/abeck99)
 
 ## [Aram Bajakian](/conspirators/aram-bajakian/)
 
@@ -5008,12 +5059,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Third Wall Studio](https://www.thirdwallstudio.com/)
 
-## [Elik Smith](/conspirators/elik-smith/)
-
-`/conspirators/elik-smith/`
-
-- [The Verge, January 3, 2013](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
-
 ## [Jacob McCoy](/conspirators/jacob-mccoy/)
 
 `/conspirators/jacob-mccoy/`
@@ -5044,6 +5089,8 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/conspirators/jonathan-arons/`
 
 - [Jonathan Arons](https://www.jonarons.com/)
+- [Process](https://www.thirdwallstudio.com/process)
+- [studio site](https://www.thirdwallstudio.com/)
 
 ## [Kevin Hearn](/conspirators/kevin-hearn/)
 
@@ -5158,6 +5205,8 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Moldover](https://en.wikipedia.org/wiki/Moldover)
 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moldover_-_Step_From_Darkness_-_at_SHA2017_(by_Victor_Bart).jpg)
+- [Sarth plays Moldover’s Voice Crusher](https://www.youtube.com/watch?v=DBrarrD8n_g)
+- [Four Track](https://moldover.bandcamp.com/album/four-track)
 
 ## [Paul Chuffo](/conspirators/paul-chuffo/)
 
@@ -5207,6 +5256,8 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Savaş Özay](https://savasozay.com/)
 - [Third Wall Studio](https://www.thirdwallstudio.com/)
+- [Process](https://www.thirdwallstudio.com/process)
+- [excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
 
 ## [Scott Hampton](/conspirators/scott-hampton/)
 
@@ -5247,6 +5298,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sxip_Shirey_performing_in_2010.jpg)
 - [YouTube, May 29, 2015](https://www.youtube.com/watch?v=V_ZinrLAl4I)
+- [Prepared Guitar and Continuum Fingerboard](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
 
 ## [Tetiana Khodakivska](/conspirators/tetiana-khodakivska/)
 

@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (485 total)
+## Citations by page (502 total)
 
 ### Sarth Calhoun
 `/`
@@ -139,6 +139,11 @@ every page.
 - [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)
 - [Flanagan Smith acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
 - [Alternate version](https://www.youtube.com/watch?v=4oPZjuz1vwQ)
+
+### Ingather
+`/conspiracies/ingather/`
+
+- [The demo runs anyway](https://ingather-demo.marshy-runner.workers.dev)
 
 ### Junior Dad
 `/conspiracies/junior-dad/`
@@ -259,7 +264,10 @@ every page.
 - [Truck Stop Love](https://www.youtube.com/watch?v=gx9jIWSoEDQ)
 - [Meatsuitz Family Vacay](https://www.youtube.com/watch?v=nZ2LpA9P-LY)
 - [Teaser](https://www.youtube.com/shorts/v5ttYqHIbI8)
+- [Full film on Vimeo](https://vimeo.com/1187052948/25ddad82d9)
 - [Excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
+- [Third Wall](https://www.thirdwallstudio.com/process)
+- [Full film on Vimeo](https://vimeo.com/1187032618/46e04bc8a5)
 - [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles)
 - [Instagram](https://www.instagram.com/3rdwallstudio/)
 - [YouTube](https://www.youtube.com/@burlap_app)
@@ -283,10 +291,19 @@ every page.
 - [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 - [Carolina Chocolate Drops](https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops)
 
+### Alex Wyly
+`/conspirators/alex-wyly/`
+
+- [The Verge, January 3, 2013](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+- [Alexander Wyly](https://www.alexwyly.com)
+- [ALWY](https://www.wayfair.com/brand/bnd/alwy-b42123.html)
+
 ### Andrew Beck
 `/conspirators/andrew-beck/`
 
 - [Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [Andrew Beck](https://www.linkedin.com/in/abeck99/)
+- [GitHub](https://github.com/abeck99)
 
 ### Aram Bajakian
 `/conspirators/aram-bajakian/`
@@ -329,11 +346,6 @@ every page.
 
 - [Third Wall Studio](https://www.thirdwallstudio.com/)
 
-### Elik Smith
-`/conspirators/elik-smith/`
-
-- [The Verge, January 3, 2013](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
-
 ### Jacob McCoy
 `/conspirators/jacob-mccoy/`
 
@@ -360,6 +372,8 @@ every page.
 `/conspirators/jonathan-arons/`
 
 - [Jonathan Arons](https://www.jonarons.com/)
+- [Process](https://www.thirdwallstudio.com/process)
+- [studio site](https://www.thirdwallstudio.com/)
 
 ### Kevin Hearn
 `/conspirators/kevin-hearn/`
@@ -460,6 +474,8 @@ every page.
 - [Moldover](https://en.wikipedia.org/wiki/Moldover)
 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moldover_-_Step_From_Darkness_-_at_SHA2017_(by_Victor_Bart).jpg)
+- [Sarth plays Moldover’s Voice Crusher](https://www.youtube.com/watch?v=DBrarrD8n_g)
+- [Four Track](https://moldover.bandcamp.com/album/four-track)
 
 ### Paul Chuffo
 `/conspirators/paul-chuffo/`
@@ -503,6 +519,8 @@ every page.
 
 - [Savaş Özay](https://savasozay.com/)
 - [Third Wall Studio](https://www.thirdwallstudio.com/)
+- [Process](https://www.thirdwallstudio.com/process)
+- [excerpt](https://www.youtube.com/shorts/yxCoeTg-qR8)
 
 ### Scott Hampton
 `/conspirators/scott-hampton/`
@@ -538,6 +556,7 @@ every page.
 - [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sxip_Shirey_performing_in_2010.jpg)
 - [YouTube, May 29, 2015](https://www.youtube.com/watch?v=V_ZinrLAl4I)
+- [Prepared Guitar and Continuum Fingerboard](https://www.youtube.com/watch?v=_8jgV_4Xqmc)
 
 ### Tetiana Khodakivska
 `/conspirators/tetiana-khodakivska/`
@@ -603,6 +622,7 @@ every page.
 - [Soundscape One B](https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html)
 - [Walk it](https://contraptions.bookofsarth.com/soundscape-one)
 - [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
+- [Try it](https://ingather-demo.marshy-runner.workers.dev)
 - [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript)
 - [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb)
 
@@ -887,6 +907,7 @@ every page.
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
 - [Reaktor](https://reaktor.com)
 - [Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
+- [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
 - [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
 - [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 - [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)

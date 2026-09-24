@@ -3,14 +3,14 @@ title: Contraptions
 description: Sarth Calhoun’s small software machines: FM / 6, a six-operator synthesizer; Image Compare Workbench; Soundscape One; and Burlap. Used at Third Wall Studio.
 url: https://www.sarth.net/contraptions/
 facet: machine
-credit: Contraptions is Sarth Calhoun’s shelf of small machines. FM / 6 (2026), Image Compare Workbench (2026), Soundscape One (2021) and Burlap (2025) are his. Paint with JavaScript and Kick with Reverb are other people’s, kept on the shelf.
+credit: Contraptions is Sarth Calhoun’s shelf of small machines. FM / 6 (2026), Image Compare Workbench (2026), Burlap (2025), Ingather (2021) and Soundscape One (2021) are his. Paint with JavaScript and Kick with Reverb are other people’s, kept on the shelf.
 author: Sarth Calhoun
 ---
 Small machines · Machine
 
 # Contraptions
 
-Contraptions is my shelf of small machines, used at [Third Wall Studio](/conspiracies/third-wall-studio/). Each one lives at its own path on [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com), with its source, a text guide and a release record beside it, and each runs in the browser with nothing leaving it. [Burlap](/conspiracies/burlap/) is the main machine; these are the odd little ones beside it.
+Contraptions is my shelf of small machines, used at [Third Wall Studio](/conspiracies/third-wall-studio/). Most live at their own path on [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com), with source, a text guide and a release record beside them. All of them run in the browser with nothing leaving it. [Burlap](/conspiracies/burlap/) is the main machine; these are the odd little ones beside it.
 
 The physical instruments are on [Devices](/devices/).
 
@@ -56,13 +56,27 @@ Three versions: [Soundscape One A](https://contraptions.bookofsarth.com/soundsca
 
 [Walk it](https://contraptions.bookofsarth.com/soundscape-one) · [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
 
+## Ingather
+
+A whole facility, in a browser tab. Four rooms, thirteen zones, and a day every forty eight seconds.
+
+The control system I built for a cannabis cultivation facility, from August 2021 to March 2022, rebuilt as something you can click through. The facility is gone and the API went with it, so the data is invented and lives in your own browser: change a routine and it is yours, and it is gone when you clear it.
+
+It is the biggest thing on this shelf and the only one that was a job first. It has its own page at [Ingather](/conspiracies/ingather/).
+
+[Try it](https://ingather-demo.marshy-runner.workers.dev) · [The conspiracy](/conspiracies/ingather/)
+
+![Ingather, a room overview: room phase, light level, zones and their fertigation programs, air handler readings.](/images/ingather.jpg)
+
+Ingather. A room, read from outside its door.
+
+The credit: Contraptions is Sarth Calhoun’s shelf of small machines. FM / 6 (2026), Image Compare Workbench (2026), Burlap (2025), Ingather (2021) and Soundscape One (2021) are his. Paint with JavaScript and Kick with Reverb are other people’s, kept on the shelf.
+
 ## Other people’s machines
 
 Two things on the shelf are not mine. [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript): Surya Narreddi and Cameron Franz RL’d Qwen to paint in p5.js. The sketch is the painting. You edit the code, not the prompt. They rated 1,664 gens by hand and judged new rollouts pairwise against a love pool. That pool is a folder of gens. Image Compare Workbench is the local set-workbench for that job.
 
 [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb): Zach Hill’s kick sequencer. Kick, noise, reverb layers, then a mastering chain. Diffusion kicks behind a login.
-
-The credit: Contraptions is Sarth Calhoun’s shelf of small machines. FM / 6 (2026), Image Compare Workbench (2026), Soundscape One (2021) and Burlap (2025) are his. Paint with JavaScript and Kick with Reverb are other people’s, kept on the shelf.
 
 ## Earlier machines
 

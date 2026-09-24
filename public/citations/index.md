@@ -126,6 +126,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Flanagan Smith acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
 - [Alternate version](https://www.youtube.com/watch?v=4oPZjuz1vwQ)
 
+## [Ingather](/conspiracies/ingather/)
+
+`/conspiracies/ingather/`
+
+- [The demo runs anyway](https://ingather-demo.marshy-runner.workers.dev)
+
 ## [Junior Dad](/conspiracies/junior-dad/)
 
 `/conspiracies/junior-dad/`
@@ -660,6 +666,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Soundscape One B](https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html)
 - [Walk it](https://contraptions.bookofsarth.com/soundscape-one)
 - [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
+- [Try it](https://ingather-demo.marshy-runner.workers.dev)
 - [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript)
 - [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb)
 
@@ -970,6 +977,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
 - [Reaktor](https://reaktor.com)
 - [Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
+- [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
 - [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
 - [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 - [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)

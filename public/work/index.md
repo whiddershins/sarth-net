@@ -55,6 +55,8 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
 - **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest.
 
+  [Ingather](/conspiracies/ingather/) · [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
+
 - **Viasat.** Engineering work.
 
 - **blacktonature.org.** I built the website. The domain no longer resolves.

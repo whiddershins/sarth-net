@@ -74,7 +74,7 @@ Machine-readable companions:
 
 ## Pages
 
-102 pages follow, in reading order, separated by a horizontal rule.
+103 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -99,7 +99,7 @@ Third Wall Studio makes animation with filmmakers and artists. We mix live actio
 
 ### Machine
 
-[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Burlap](/conspiracies/burlap/) · [Devices](/devices/) · [Contraptions](/contraptions/)
+[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Burlap](/conspiracies/burlap/) · [Ingather](/conspiracies/ingather/) · [Devices](/devices/) · [Contraptions](/contraptions/)
 
 ### Dream
 
@@ -234,6 +234,8 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 - **Snowflake Summit 2025**, Moscone Center, June 2–5. Swathi Chandrasekaran presented Paramount’s Always-On Attribution product; Ian Fosbery and Alexey Novikov presented the team’s data re-architecture.
 
 - **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest.
+
+  [Ingather](/conspiracies/ingather/) · [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
 
 - **Viasat.** Engineering work.
 
@@ -1820,35 +1822,39 @@ Bands, tours, records, theater pieces, films, and machines.
 
 2. [![Burlap, infinite canvas for visual reference prompting.](/images/burlap.jpg)**Burlap**The native Mac app Third Wall builds and works in: an infinite canvas for visual creation and context management, connected to models from OpenAI, Google, Runway and ByteDance. The canvas under the 2026 shorts.](/conspiracies/burlap/)
 
-3. [![Cover of Softly Questioning (Reprise).](/images/art-single-softly-questioning-reprise.jpg)***Poughkeepsie***Joe Kelly’s 2018 short film. Its main theme is the melody of my “Softly Questioning,” from *Reflections, Vol. 1*.](/conspiracies/poughkeepsie/)
+3. [![Ingather, a room overview: room phase, light level, zones and their fertigation programs, air handler readings.](/images/ingather.jpg)**Ingather**The control system I built for a cannabis cultivation facility, 2021 to 2022. Rooms and zones, fertigation and lighting routines, dosing recipes and machines. The facility is gone; the demo still runs.](/conspiracies/ingather/)
 
-4. [![Sarth Calhoun playing a laptop and a Continuum at the Gralbum launch.](/images/gr-album-launch.jpg)**The Gralbum Collective**The group I founded to publish music and interactive art as apps, releasing work by Bora Yoon, Adam Matta, Leah Coloff and Moon Hooch.](/conspiracies/gralbum-collective/)
+   It is also on the [Contraptions](/contraptions/) shelf.
 
-5. [![Cover art of The Book of Sarth.](/images/book-of-sarth-cover-wide.jpg)**Book of Sarth**My first full-length solo release, 2012, built as an iPad app combining a graphic novel and a concept album.](/conspiracies/book-of-sarth/)
+4. [![Cover of Softly Questioning (Reprise).](/images/art-single-softly-questioning-reprise.jpg)***Poughkeepsie***Joe Kelly’s 2018 short film. Its main theme is the melody of my “Softly Questioning,” from *Reflections, Vol. 1*.](/conspiracies/poughkeepsie/)
+
+5. [![Sarth Calhoun playing a laptop and a Continuum at the Gralbum launch.](/images/gr-album-launch.jpg)**The Gralbum Collective**The group I founded to publish music and interactive art as apps, releasing work by Bora Yoon, Adam Matta, Leah Coloff and Moon Hooch.](/conspiracies/gralbum-collective/)
+
+6. [![Cover art of The Book of Sarth.](/images/book-of-sarth-cover-wide.jpg)**Book of Sarth**My first full-length solo release, 2012, built as an iPad app combining a graphic novel and a concept album.](/conspiracies/book-of-sarth/)
 
    One track, [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), has its own page.
 
-6. [![On a television stage: Kirk Hammett, Sarth Calhoun, Lars Ulrich, James Hetfield.](/images/lou-reed-metallica-2011.jpg)***Lulu***The 2011 album by Lou Reed and Metallica. Its songs began as the score Lou Reed and I wrote for Robert Wilson’s staging of Frank Wedekind’s Lulu plays at the Berliner Ensemble.](/conspiracies/lulu/)
+7. [![On a television stage: Kirk Hammett, Sarth Calhoun, Lars Ulrich, James Hetfield.](/images/lou-reed-metallica-2011.jpg)***Lulu***The 2011 album by Lou Reed and Metallica. Its songs began as the score Lou Reed and I wrote for Robert Wilson’s staging of Frank Wedekind’s Lulu plays at the Berliner Ensemble.](/conspiracies/lulu/)
 
    Its closing track, [“Junior Dad”](/conspiracies/junior-dad/), has its own page.
 
-7. [![Metal Machine Trio on stage: Sarth Calhoun at his laptops, Lou Reed seated with guitar, Ulrich Krieger on saxophone.](/images/mm3-nyc-wide.jpg)**Metal Machine Trio**The improvising trio of Lou Reed, Ulrich Krieger and me, formed at REDCAT in Los Angeles in October 2008. Its live album *The Creation of the Universe* came out in 2009.](/conspiracies/metal-machine-trio/)
+8. [![Metal Machine Trio on stage: Sarth Calhoun at his laptops, Lou Reed seated with guitar, Ulrich Krieger on saxophone.](/images/mm3-nyc-wide.jpg)**Metal Machine Trio**The improvising trio of Lou Reed, Ulrich Krieger and me, formed at REDCAT in Los Angeles in October 2008. Its live album *The Creation of the Universe* came out in 2009.](/conspiracies/metal-machine-trio/)
 
    A later recording became [*The Creation of the Universe*, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/).
 
-8. [![Yellow Pony on stage in Madrid: Laurie Anderson, Sarth Calhoun, Lou Reed.](/images/yellow-pony-madrid-2009.jpg)**Yellow Pony**Two short European tours in 2009 with Lou Reed and Laurie Anderson, billed *The Yellow Pony and Other Songs and Stories*. I played Continuum Fingerboard and resampled their voices live.](/conspiracies/yellow-pony/)
+9. [![Yellow Pony on stage in Madrid: Laurie Anderson, Sarth Calhoun, Lou Reed.](/images/yellow-pony-madrid-2009.jpg)**Yellow Pony**Two short European tours in 2009 with Lou Reed and Laurie Anderson, billed *The Yellow Pony and Other Songs and Stories*. I played Continuum Fingerboard and resampled their voices live.](/conspiracies/yellow-pony/)
 
-9. [**Vivid LIVE 2010**The two week festival at the Sydney Opera House curated by Lou Reed and Laurie Anderson. Metal Machine Trio played it, along with a fifty person noise band at the opening and about a dozen unplanned jams.](/conspiracies/vivid-live/)
+10. [**Vivid LIVE 2010**The two week festival at the Sydney Opera House curated by Lou Reed and Laurie Anderson. Metal Machine Trio played it, along with a fifty person noise band at the opening and about a dozen unplanned jams.](/conspiracies/vivid-live/)
 
-10. [![Lou Reed on stage at Les Vieilles Charrues, Carhaix, 2011.](/images/yt-3HlamL5UfGE.jpg)**Lou Reed’s 2011 European tour**Lou Reed’s run through the European festival circuit in the summer of 2011, with an eight-piece band. I posted twice from the road.](/conspiracies/lou-reed-2011-european-tour/)
+11. [![Lou Reed on stage at Les Vieilles Charrues, Carhaix, 2011.](/images/yt-3HlamL5UfGE.jpg)**Lou Reed’s 2011 European tour**Lou Reed’s run through the European festival circuit in the summer of 2011, with an eight-piece band. I posted twice from the road.](/conspiracies/lou-reed-2011-european-tour/)
 
-11. [![Sarth Calhoun performing at Lollapalooza with Lou Reed’s band.](/images/lolla.jpg)**Lou Reed’s song band**The touring group Lou Reed used for his song repertoire. I joined in 2008, playing Continuum Fingerboard and processing the other musicians live.](/conspiracies/lou-reed-song-band/)
+12. [![Sarth Calhoun performing at Lollapalooza with Lou Reed’s band.](/images/lolla.jpg)**Lou Reed’s song band**The touring group Lou Reed used for his song repertoire. I joined in 2008, playing Continuum Fingerboard and processing the other musicians live.](/conspiracies/lou-reed-song-band/)
 
-12. [**Lou Reed spring 2008 U.S. tour**Lou Reed’s United States tour of April and May 2008, running through the Northeast and then south by bus as far as Memphis. It was my first tour with Reed.](/conspiracies/lou-reed-spring-2008-tour/)
+13. [**Lou Reed spring 2008 U.S. tour**Lou Reed’s United States tour of April and May 2008, running through the Northeast and then south by bus as far as Memphis. It was my first tour with Reed.](/conspiracies/lou-reed-spring-2008-tour/)
 
-13. [![Lucibel Crater on stage: Sarth Calhoun, Leah Coloff, Paul Chuffo.](/images/mwm-5991.jpg)**Lucibel Crater**The rock and electronic trio of Leah Coloff, Paul Chuffo and me. Its album *The Family Album* came out in 2008.](/conspiracies/lucibel-crater/)
+14. [![Lucibel Crater on stage: Sarth Calhoun, Leah Coloff, Paul Chuffo.](/images/mwm-5991.jpg)**Lucibel Crater**The rock and electronic trio of Leah Coloff, Paul Chuffo and me. Its album *The Family Album* came out in 2008.](/conspiracies/lucibel-crater/)
 
-14. [![Cover of Suspension by Number 19.](/images/art-suspension.jpg)**Number19**The band I formed in Brooklyn in 1999 with Tony Diodore, Leah Coloff and Mark Righter. Its album *Suspension* came out in 2001.](/conspiracies/number19/)
+15. [![Cover of Suspension by Number 19.](/images/art-suspension.jpg)**Number19**The band I formed in Brooklyn in 1999 with Tony Diodore, Leah Coloff and Mark Righter. Its album *Suspension* came out in 2001.](/conspiracies/number19/)
 
 ---
 
@@ -1959,6 +1965,56 @@ I made Burlap after entering the runway 48 hours sprint competition, you're supp
 [Burlap on Instagram](https://www.instagram.com/burlapapp/) · [Burlap on YouTube](https://www.youtube.com/@burlap_app)
 
 Burlap’s copy is from [burlap.app](https://burlap.app) and the sarth.net homepage.
+
+---
+
+# Ingather
+
+https://www.sarth.net/conspiracies/ingather/
+
+[Conspiracies](/conspiracies/) / Ingather
+
+Conspiracy · Machine
+
+# Ingather
+
+Ingather is an integrated control system for a cannabis cultivation facility, built between August 2021 and March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest.
+
+The screens ran on monitors outside the rooms and on small touch panels, one per room, which is why the numbers are large and the controls are thumb-sized. A grower walking past a door could read the room without stopping.
+
+The facility is gone and the API went with it. [The demo runs anyway](https://ingather-demo.marshy-runner.workers.dev).
+
+![Ingather, a room overview: room phase, light level, zones and their fertigation programs, air handler readings.](/images/ingather.jpg)
+
+A room overview. [Try it](https://ingather-demo.marshy-runner.workers.dev).
+
+![Ingather, a zone: strain and batch, plant count and emitters, the lighting routine and the nutrient recipe with its numbered pumps.](/images/ingather-zone.jpg)
+
+A zone. Its strain, its lighting routine, its recipe.
+
+## What it controlled
+
+A room holds zones; a zone holds a plant group of one strain. Each zone carries its own lighting routine, fertigation routine and nutrient recipe, so two zones in the same room can run differently.
+
+- **Environment.** Temperature, humidity, vapour pressure deficit, CO2 and light level, each with a reading and a set point. VPD is the one a grower actually tunes, and it sits in the list beside the two measurements it is calculated from.
+- **Fertigation.** Routines of timed cycles, expressed either as minutes of run time or as a share of the day’s target volume per plant, with the other derived from emitter flow rate and emitters per plant.
+- **Dosing.** Machines of twelve pumps, each pump assigned a role and a mix group, dosing millilitres per gallon against a target pH and conductivity. A recipe is viable on a machine only if that machine carries every ingredient the recipe calls for.
+
+## The demo
+
+The system it controlled no longer exists, so the demo is the app with invented data behind it: four rooms, thirteen zones, nine strains, twelve plant groups, five recipes, four dosing machines. Everything runs in the browser and nothing is stored anywhere but the visitor’s own machine, so anything changed belongs to whoever changed it and is gone when they clear it.
+
+Time runs at 1800 times real speed, a full light cycle every forty eight seconds, because a grow room only shows what it is doing across a day. The readings are generated rather than replayed, and generated the way a room behaves rather than as five unrelated waves: the lamps drive everything, temperature follows them late, humidity runs against temperature, CO2 is injected only under the lights, and vapour pressure deficit is calculated from the other two. The two flower rooms run opposite schedules, so they read as opposites at any moment you look.
+
+[ingather-demo.marshy-runner.workers.dev](https://ingather-demo.marshy-runner.workers.dev)
+
+## How it started
+
+The credit: Ingather was built by Sarth Calhoun between August 2021 and March 2022.
+
+## Conspiracies
+
+It sits with the rest of the data and systems work on [Work](/work/). The pipeline writing is in [External tables](/transmissions/external-tables/) and [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/).
 
 ---
 
@@ -4649,7 +4705,7 @@ Small machines · Machine
 
 # Contraptions
 
-Contraptions is my shelf of small machines, used at [Third Wall Studio](/conspiracies/third-wall-studio/). Each one lives at its own path on [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com), with its source, a text guide and a release record beside it, and each runs in the browser with nothing leaving it. [Burlap](/conspiracies/burlap/) is the main machine; these are the odd little ones beside it.
+Contraptions is my shelf of small machines, used at [Third Wall Studio](/conspiracies/third-wall-studio/). Most live at their own path on [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com), with source, a text guide and a release record beside them. All of them run in the browser with nothing leaving it. [Burlap](/conspiracies/burlap/) is the main machine; these are the odd little ones beside it.
 
 The physical instruments are on [Devices](/devices/).
 
@@ -4695,13 +4751,27 @@ Three versions: [Soundscape One A](https://contraptions.bookofsarth.com/soundsca
 
 [Walk it](https://contraptions.bookofsarth.com/soundscape-one) · [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
 
+## Ingather
+
+A whole facility, in a browser tab. Four rooms, thirteen zones, and a day every forty eight seconds.
+
+The control system I built for a cannabis cultivation facility, from August 2021 to March 2022, rebuilt as something you can click through. The facility is gone and the API went with it, so the data is invented and lives in your own browser: change a routine and it is yours, and it is gone when you clear it.
+
+It is the biggest thing on this shelf and the only one that was a job first. It has its own page at [Ingather](/conspiracies/ingather/).
+
+[Try it](https://ingather-demo.marshy-runner.workers.dev) · [The conspiracy](/conspiracies/ingather/)
+
+![Ingather, a room overview: room phase, light level, zones and their fertigation programs, air handler readings.](/images/ingather.jpg)
+
+Ingather. A room, read from outside its door.
+
+The credit: Contraptions is Sarth Calhoun’s shelf of small machines. FM / 6 (2026), Image Compare Workbench (2026), Burlap (2025), Ingather (2021) and Soundscape One (2021) are his. Paint with JavaScript and Kick with Reverb are other people’s, kept on the shelf.
+
 ## Other people’s machines
 
 Two things on the shelf are not mine. [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript): Surya Narreddi and Cameron Franz RL’d Qwen to paint in p5.js. The sketch is the painting. You edit the code, not the prompt. They rated 1,664 gens by hand and judged new rollouts pairwise against a love pool. That pool is a folder of gens. Image Compare Workbench is the local set-workbench for that job.
 
 [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb): Zach Hill’s kick sequencer. Kick, noise, reverb layers, then a mastering chain. Diffusion kicks behind a login.
-
-The credit: Contraptions is Sarth Calhoun’s shelf of small machines. FM / 6 (2026), Image Compare Workbench (2026), Soundscape One (2021) and Burlap (2025) are his. Paint with JavaScript and Kick with Reverb are other people’s, kept on the shelf.
 
 ## Earlier machines
 
@@ -4835,6 +4905,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Lyric video](https://www.youtube.com/watch?v=dXqYHjmmev0)
 - [Flanagan Smith acoustic demo](https://www.youtube.com/watch?v=v-u7Zmd6GSw)
 - [Alternate version](https://www.youtube.com/watch?v=4oPZjuz1vwQ)
+
+## [Ingather](/conspiracies/ingather/)
+
+`/conspiracies/ingather/`
+
+- [The demo runs anyway](https://ingather-demo.marshy-runner.workers.dev)
 
 ## [Junior Dad](/conspiracies/junior-dad/)
 
@@ -5370,6 +5446,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Soundscape One B](https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html)
 - [Walk it](https://contraptions.bookofsarth.com/soundscape-one)
 - [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
+- [Try it](https://ingather-demo.marshy-runner.workers.dev)
 - [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript)
 - [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb)
 
@@ -5680,6 +5757,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
 - [Reaktor](https://reaktor.com)
 - [Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
+- [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
 - [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
 - [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 - [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)

@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (506 total)
+## Citations by page (507 total)
 
 ### Sarth Calhoun
 `/`
@@ -285,6 +285,7 @@ every page.
 - [The Guardian, July 20, 2009](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
 - [loureed.com](https://loureed.com/news/lou-reed-and-laurie-anderson-tour-dates/)
 - [El Punt Avui, July 2009](https://www.elpuntavui.cat/cultura/article/19-cultura/59389-lou-reed-i-laurie-anderson-estrenen-el-seu-lmanifest-grocr-a-sant-feliu.html)
+- [YouTube](https://www.youtube.com/watch?v=IX48CU0ACA4)
 
 ### Adam Matta
 `/conspirators/adam-matta/`

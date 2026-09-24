@@ -48,3 +48,9 @@ The credit: Sarth Calhoun, Continuum Fingerboard and live resampling of Lou Reed
 The first tour opened at the Festival de la Porta Ferrada in Sant Feliu de Guíxols on July 10, 2009. That morning the three of us sat a press conference at the Curhotel Hipócrates. El Punt Avui noted me beside them, saying nothing.
 
 My account is from the Yellow Pony page of my old WordPress site, recovered from the Wayback Machine, and from what I added on September 23, 2026. The dates are Lou Reed’s own announcement.
+
+## Santiago de Compostela
+
+[Embedded player](https://www.youtube.com/embed/IX48CU0ACA4)
+
+The clip: “Halloween Parade” in the Plaza del Obradoiro, Santiago de Compostela, July 12, 2009, the second night of the first tour: Lou Reed, Laurie Anderson and Sarth Calhoun. Five minutes, filmed from the audience and posted to [YouTube](https://www.youtube.com/watch?v=IX48CU0ACA4) by 1713cristina1713.

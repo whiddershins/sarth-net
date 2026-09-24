@@ -170,7 +170,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspiracies/number19/: 7 · 1 photo · 2 quote · 1 embed · 3 excerpt
 - https://www.sarth.net/conspiracies/poughkeepsie/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/third-wall-studio/: 1 · 1 photo
-- https://www.sarth.net/conspiracies/yellow-pony/: 5 · 1 photo · 2 quote · 2 excerpt
+- https://www.sarth.net/conspiracies/yellow-pony/: 7 · 1 photo · 2 quote · 1 embed · 3 excerpt
 - https://www.sarth.net/conspirators/adam-matta/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/alex-wyly/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/andrew-beck/: 2 · 1 quote · 1 excerpt

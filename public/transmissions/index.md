@@ -70,7 +70,7 @@ Records and songs.
 
 - ## [Power and Serenity](/conspiracies/power-and-serenity/)
 
-  2010. Six pieces of tai chi meditation music composed and performed with Lou Reed for Master Ren Guangyi’s DVD. The first thing we worked on together.
+  2010. Six pieces of tai chi meditation music composed and performed with Lou Reed for Master Ren Guangyi’s DVD, and only there: no CD was ever released. The first thing we worked on together.
 
   [loureed.com, archived](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
 

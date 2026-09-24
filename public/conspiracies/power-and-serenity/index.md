@@ -4,7 +4,7 @@ description: Power and Serenity: six pieces of tai chi meditation music composed
 url: https://www.sarth.net/conspiracies/power-and-serenity/
 published: 2010-07
 facet: dream
-credit: Sarth Calhoun composed and performed the six pieces of Power and Serenity with Lou Reed, and produced the DVD with Reed, Master Ren Guangyi and Scott Richman; on sale from July 2010. Their first collaboration.
+credit: Sarth Calhoun composed and performed the six pieces of Power and Serenity with Lou Reed, and produced the DVD with Reed, Master Ren Guangyi and Scott Richman; on sale from July 2010, DVD only. Their first collaboration.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Power and Serenity
@@ -27,10 +27,10 @@ Lou and I met through tai chi, and we decided to do an album of meditation music
 
 The compositions were conceived of, improvised upon, reworked, edited, remixed and transformed over a period of four years. The same music ran under the slideshow of Lou’s pavilion at the New York Photo Festival in May 2010, [*Hidden Books, Hidden Stories*](/conspiracies/hidden-books-hidden-stories/), two months before the DVD went on sale.
 
-Three records sit near each other. [Metal Machine Trio](/conspiracies/metal-machine-trio/)’s is [*The Creation of the Universe*](/transmissions/the-creation-of-the-universe/), 2009. Lou’s own meditation record is *Hudson River Wind Meditations*, 2007. *Power and Serenity* is the one Lou and I made together.
+The music exists only on the DVD. My post at the time promised an unabridged CD, and none was ever released. Three sets of music sit near each other: [Metal Machine Trio](/conspiracies/metal-machine-trio/)’s [*The Creation of the Universe*](/transmissions/the-creation-of-the-universe/), 2009; Lou’s own meditation record, *Hudson River Wind Meditations*, 2007; and *Power and Serenity*, the one Lou and I made together.
 
-The record: “Power and Serenity,” featuring Master Ren Guangyi. Original music composed and performed by Lou Reed and Sarth Calhoun: “The Power of Red,” “Cymbalism,” “Power and Serenity,” “Liquid,” “Metallic Opera,” “Guitar Mountain.” Produced by Lou Reed, Master Ren Guangyi, Sarth Calhoun and Scott Richman. Edited by Matt Bockelman. Directed by Scott Richman. [loureed.com, 2010](https://web.archive.org/web/20101230193716/http://loureed.com/power/).
+The DVD: “Power and Serenity,” featuring Master Ren Guangyi. Original music composed and performed by Lou Reed and Sarth Calhoun: “The Power of Red,” “Cymbalism,” “Power and Serenity,” “Liquid,” “Metallic Opera,” “Guitar Mountain.” Produced by Lou Reed, Master Ren Guangyi, Sarth Calhoun and Scott Richman. Edited by Matt Bockelman. Directed by Scott Richman. [loureed.com, 2010](https://web.archive.org/web/20101230193716/http://loureed.com/power/).
 
-The credit: Sarth Calhoun composed and performed the six pieces of Power and Serenity with Lou Reed, and produced the DVD with Reed, Master Ren Guangyi and Scott Richman; on sale from July 2010. Their first collaboration.
+The credit: Sarth Calhoun composed and performed the six pieces of Power and Serenity with Lou Reed, and produced the DVD with Reed, Master Ren Guangyi and Scott Richman; on sale from July 2010, DVD only. Their first collaboration.
 
 The credits are from Lou Reed’s own page for the DVD, archived December 2010. My paragraphs are from my post of July 21, 2010, my interview of August 25, 2026, and what I said on September 23, 2026.

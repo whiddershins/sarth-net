@@ -128,7 +128,6 @@ a pull quote with its source, an embed, or an excerpt of the record. No filler.
 - https://www.sarth.net/conspiracies/lou-reed-spring-2008-tour/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/reflections-vol-1/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/third-wall-studio/ (1 band): Not laid out yet.
-- https://www.sarth.net/conspiracies/vivid-live/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspirators/laurie-anderson/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspirators/leah-coloff/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspirators/paul-chuffo/ (0 bands): Not laid out yet.
@@ -170,6 +169,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspiracies/number19/: 7 · 1 photo · 2 quote · 1 embed · 3 excerpt
 - https://www.sarth.net/conspiracies/poughkeepsie/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/third-wall-studio/: 1 · 1 photo
+- https://www.sarth.net/conspiracies/vivid-live/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspiracies/yellow-pony/: 7 · 1 photo · 2 quote · 1 embed · 3 excerpt
 - https://www.sarth.net/conspirators/adam-matta/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/alex-wyly/: 2 · 1 quote · 1 excerpt

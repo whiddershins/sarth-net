@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (507 total)
+## Citations by page (509 total)
 
 ### Sarth Calhoun
 `/`
@@ -278,6 +278,8 @@ every page.
 
 - [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House)
 - [ABC News reported the curation](https://www.abc.net.au/news/2010-03-03/lou-reed-laurie-anderson-to-curate-vivid/349100)
+- [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Opera_House_Vivid_Sydney_2010_(4900499551).jpg)
 
 ### Yellow Pony
 `/conspiracies/yellow-pony/`

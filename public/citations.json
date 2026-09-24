@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 507,
+  "citation_count": 509,
   "pages": [
     {
       "path": "/",
@@ -735,6 +735,14 @@
         {
           "url": "https://www.abc.net.au/news/2010-03-03/lou-reed-laurie-anderson-to-curate-vivid/349100",
           "text": "ABC News reported the curation"
+        },
+        {
+          "url": "https://creativecommons.org/licenses/by/2.0/",
+          "text": "CC BY 2.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Opera_House_Vivid_Sydney_2010_(4900499551).jpg",
+          "text": "Wikimedia Commons"
         }
       ]
     },

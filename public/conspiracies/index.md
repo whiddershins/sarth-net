@@ -68,6 +68,8 @@ Joe Kelly’s 2018 short film. Its main theme is the melody of my “Softly Ques
 
 The two week festival at the Sydney Opera House curated by Lou Reed and Laurie Anderson. Metal Machine Trio played it, along with a fifty person noise band at the opening and about a dozen unplanned jams.
 
+[![The Sydney Opera House lit for Vivid Sydney, May 2010.](/images/vivid-sydney-2010.jpg)](/conspiracies/vivid-live/)
+
 [![Lou Reed on stage at Les Vieilles Charrues, Carhaix, 2011.](/images/yt-3HlamL5UfGE.jpg)](/conspiracies/lou-reed-2011-european-tour/)
 
 ## [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/)

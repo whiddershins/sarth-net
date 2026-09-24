@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (511 total)
+## Citations by page (512 total)
 
 ### Sarth Calhoun
 `/`
@@ -243,6 +243,7 @@ every page.
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
 - [Puracane](https://en.wikipedia.org/wiki/Puracane)
 - [BM LINX](https://en.wikipedia.org/wiki/BM_Linx)
+- [Spotify](https://open.spotify.com/track/6FAiWQFsRHvN03n9py99wM)
 
 ### Poughkeepsie
 `/conspiracies/poughkeepsie/`

@@ -151,6 +151,7 @@ None.
 Sentences say I (Sarth's rule, 23 Sep 2026). Sentences that still name Sarth, outside quotes,
 captions, labels and data, with the first one on each page. About and Citations are exempt.
 
+- https://www.sarth.net/conspiracies/number19/ (1): On the first day of the Metallica recording all the guys were sitting around the breakfast table and Lou says to them “t
 - https://www.sarth.net/conspirators/moldover/ (1): On December 30, 2025 his channel posted “Sarth plays Moldover’s Voice Crusher,” two and a half minutes of me on the Voic
 
 ## Attribution
@@ -171,7 +172,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspiracies/lucibel-crater/: 6 · 3 photo · 1 quote · 1 embed · 1 excerpt
 - https://www.sarth.net/conspiracies/lulu/: 7 · 1 photo · 3 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/metal-machine-trio/: 7 · 1 photo · 4 quote · 1 embed · 1 excerpt
-- https://www.sarth.net/conspiracies/number19/: 7 · 1 photo · 2 quote · 1 embed · 3 excerpt
+- https://www.sarth.net/conspiracies/number19/: 10 · 1 photo · 2 quote · 2 embed · 5 excerpt
 - https://www.sarth.net/conspiracies/poughkeepsie/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
 - https://www.sarth.net/conspiracies/power-and-serenity/: 3 · 1 quote · 2 excerpt
 - https://www.sarth.net/conspiracies/third-wall-studio/: 1 · 1 photo

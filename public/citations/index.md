@@ -758,6 +758,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Moog Music](https://en.wikipedia.org/wiki/Moog_Music)
 - [moogmusic.com](https://www.moogmusic.com/)
+- [Moogerfoogers](https://en.wikipedia.org/wiki/Moogerfooger)
 - [Moog Guitar](https://en.wikipedia.org/wiki/Moog_Guitar)
 
 ## [Runway](/devices/runway/)

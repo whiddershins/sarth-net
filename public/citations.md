@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (547 total)
+## Citations by page (548 total)
 
 ### Sarth Calhoun
 `/`
@@ -697,13 +697,18 @@ every page.
 - [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
 - [The Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
 
+### Moog Guitar
+`/devices/moog-guitar/`
+
+- [Moog Guitar](https://en.wikipedia.org/wiki/Moog_Guitar)
+- [Moog Music](https://www.moogmusic.com/)
+
 ### Moog
 `/devices/moog/`
 
 - [Moog Music](https://en.wikipedia.org/wiki/Moog_Music)
 - [moogmusic.com](https://www.moogmusic.com/)
 - [Moogerfoogers](https://en.wikipedia.org/wiki/Moogerfooger)
-- [Moog Guitar](https://en.wikipedia.org/wiki/Moog_Guitar)
 
 ### Runway
 `/devices/runway/`

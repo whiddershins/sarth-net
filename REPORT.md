@@ -116,6 +116,8 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
   - wants: Sarth: what the Mo-FX does in your chain, and where it sits.
 - EMPTY  `content/holes/devices--kyma.md` on https://www.sarth.net/devices/kyma/
   - wants: Sarth: what Kyma does that nothing else does, and what SeqOSC is.
+- EMPTY  `content/holes/devices--moog-guitar.md` on https://www.sarth.net/devices/moog-guitar/
+  - wants: Sarth: the shows where the Moog Guitar mattered most, what it did to the band’s sound, and what you did with it in Kyma.
 - EMPTY  `content/holes/devices--moog.md` on https://www.sarth.net/devices/moog/
   - wants: Sarth: what the two pedals and the theremin do on your table now.
 - EMPTY  `content/holes/devices--runway.md` on https://www.sarth.net/devices/runway/
@@ -259,7 +261,8 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/devices/electrix-filter-queen/: 3 · 1 quote · 2 excerpt
 - https://www.sarth.net/devices/electrix-mo-fx/: 3 · 1 quote · 2 excerpt
 - https://www.sarth.net/devices/kyma/: 2 · 2 excerpt
-- https://www.sarth.net/devices/moog/: 3 · 2 quote · 1 excerpt
+- https://www.sarth.net/devices/moog-guitar/: 3 · 1 quote · 1 embed · 1 excerpt
+- https://www.sarth.net/devices/moog/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/devices/runway/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/devices/yamaha-ex5/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/sightings/reaktor-live-2023/: 2 · 1 embed · 1 excerpt
@@ -281,4 +284,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 21 machine · 32 dream · 11 message
+- 22 machine · 32 dream · 11 message

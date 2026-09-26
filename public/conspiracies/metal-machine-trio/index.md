@@ -48,7 +48,7 @@ He also records what the trio became at scale. At Lollapalooza in 2009 they play
 
 ## Who played what
 
-Lou had guitar, electronics and a small Continuum. Ulrich had tenor saxophone and live electronics. I played Continuum and processed the band through Kyma. The shows could go from pure unrelenting noise to what [Laurie](/conspirators/laurie-anderson/) described as almost improvised classical music.
+Lou had guitar, including the [Moog Guitar](/devices/moog-guitar/) he had bought that spring, whose sustain lets a note start with no pluck to hear, electronics and a small Continuum. Ulrich had tenor saxophone and live electronics. I played Continuum and processed the band through Kyma. The shows could go from pure unrelenting noise to what [Laurie](/conspirators/laurie-anderson/) described as almost improvised classical music.
 
 We recorded the sets with a matched pair of Schoeps and a stereo Royer, and released them as they were, pure ambient microphone tracks with no direct lines. That stuff was released as a double live CD, “Creation of the Universe.” This was the start of the group which was eventually renamed The Metal Machine Trio, and we went on to play in Europe, Brazil, and Australia.
 

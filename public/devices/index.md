@@ -1,6 +1,6 @@
 ---
 title: Devices
-description: The instruments and tools Sarth Calhoun uses, one page each: Kyma, the Continuum, Ableton Live, Runway, basses, the Yamaha EX5, Moog, the three Electrix filters, DaVinci Resolve.
+description: The instruments and tools Sarth Calhoun uses, one page each: Kyma, the Continuum, Ableton Live, Runway, basses, the Yamaha EX5, Moog, the Moog Guitar, the three Electrix filters, DaVinci Resolve.
 url: https://www.sarth.net/devices/
 facet: machine
 author: Sarth Calhoun
@@ -38,6 +38,10 @@ Yamaha’s 1998 workstation synthesizer. The keyboard on *Suspension*.
 ## [Moog](/devices/moog/)
 
 The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” and the pedals and the theremin I brought back from the factory.
+
+## [Moog Guitar](/devices/moog-guitar/)
+
+Lou Reed’s guitar from 2008, first tried at the factory the day after the Orange Peel. A feedback loop into the pickups; the notes seem to start out of nowhere.
 
 ## [Electrix Filter Queen](/devices/electrix-filter-queen/), [Filter Factory](/devices/electrix-filter-factory/) and [Mo-FX](/devices/electrix-mo-fx/)
 

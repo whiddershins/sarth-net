@@ -74,7 +74,7 @@ Machine-readable companions:
 
 ## Pages
 
-122 pages follow, in reading order, separated by a horizontal rule.
+123 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -103,9 +103,9 @@ I also write about data engineering: [an append-only pipeline on external tables
 
 Burlap. Download at [burlap.app](https://burlap.app/download).
 
-### Machine (21)
+### Machine (22)
 
-[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [Electrix Filter Queen](/devices/electrix-filter-queen/) · [Electrix Filter Factory](/devices/electrix-filter-factory/) · [Electrix Mo-FX](/devices/electrix-mo-fx/) · [DaVinci Resolve](/devices/davinci-resolve/)
+[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [Moog Guitar](/devices/moog-guitar/) · [Electrix Filter Queen](/devices/electrix-filter-queen/) · [Electrix Filter Factory](/devices/electrix-filter-factory/) · [Electrix Mo-FX](/devices/electrix-mo-fx/) · [DaVinci Resolve](/devices/davinci-resolve/)
 
 ### Dream (32)
 
@@ -1691,7 +1691,7 @@ He also records what the trio became at scale. At Lollapalooza in 2009 they play
 
 ## Who played what
 
-Lou had guitar, electronics and a small Continuum. Ulrich had tenor saxophone and live electronics. I played Continuum and processed the band through Kyma. The shows could go from pure unrelenting noise to what [Laurie](/conspirators/laurie-anderson/) described as almost improvised classical music.
+Lou had guitar, including the [Moog Guitar](/devices/moog-guitar/) he had bought that spring, whose sustain lets a note start with no pluck to hear, electronics and a small Continuum. Ulrich had tenor saxophone and live electronics. I played Continuum and processed the band through Kyma. The shows could go from pure unrelenting noise to what [Laurie](/conspirators/laurie-anderson/) described as almost improvised classical music.
 
 We recorded the sets with a matched pair of Schoeps and a stereo Royer, and released them as they were, pure ambient microphone tracks with no direct lines. That stuff was released as a double live CD, “Creation of the Universe.” This was the start of the group which was eventually renamed The Metal Machine Trio, and we went on to play in Europe, Brazil, and Australia.
 
@@ -3070,7 +3070,7 @@ With Metallica for *Lulu*, November 2011: Kirk Hammett, Sarth Calhoun, Lars Ulri
 
 ## The projects
 
-I did a tour with Lou’s [rock band](/conspiracies/lou-reed-song-band/) in the [spring of 2008](/conspiracies/lou-reed-spring-2008-tour/), processing and sampling the instruments on stage. That fall Lou called me up about a free improvised noise gig at REDCAT in Los Angeles with [Ulrich Krieger](/conspirators/ulrich-krieger/), and those nights became [Metal Machine Trio](/conspiracies/metal-machine-trio/). In 2009 I did two short tours with Lou and [Laurie Anderson](/conspirators/laurie-anderson/) as [Yellow Pony](/conspiracies/yellow-pony/). Then he called me to go over to his house and make some interstitial music for Robert Wilson’s *[Lulu](/conspiracies/lulu/)*, which turned into co-writing eight more songs, rehearsals in Berlin, and the record with Metallica. [“Junior Dad”](/conspiracies/junior-dad/) began at his apartment with [Rob Wasserman](/conspirators/rob-wasserman/) and Kyma. I was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and on stage with Lou and Metallica for the first live performances of the *Lulu* material that November.
+I did a tour with Lou’s [rock band](/conspiracies/lou-reed-song-band/) in the [spring of 2008](/conspiracies/lou-reed-spring-2008-tour/), processing and sampling the instruments on stage. On that tour, the day after the Orange Peel in Asheville, Lou first tried the [Moog Guitar](/devices/moog-guitar/) at the Moog factory, bought one on the spot and played it in many shows after. That fall Lou called me up about a free improvised noise gig at REDCAT in Los Angeles with [Ulrich Krieger](/conspirators/ulrich-krieger/), and those nights became [Metal Machine Trio](/conspiracies/metal-machine-trio/). In 2009 I did two short tours with Lou and [Laurie Anderson](/conspirators/laurie-anderson/) as [Yellow Pony](/conspiracies/yellow-pony/). Then he called me to go over to his house and make some interstitial music for Robert Wilson’s *[Lulu](/conspiracies/lulu/)*, which turned into co-writing eight more songs, rehearsals in Berlin, and the record with Metallica. [“Junior Dad”](/conspiracies/junior-dad/) began at his apartment with [Rob Wasserman](/conspirators/rob-wasserman/) and Kyma. I was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and on stage with Lou and Metallica for the first live performances of the *Lulu* material that November.
 
 ## Iced Honey, with Metallica
 
@@ -5264,6 +5264,10 @@ Yamaha’s 1998 workstation synthesizer. The keyboard on *Suspension*.
 
 The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” and the pedals and the theremin I brought back from the factory.
 
+## [Moog Guitar](/devices/moog-guitar/)
+
+Lou Reed’s guitar from 2008, first tried at the factory the day after the Orange Peel. A feedback loop into the pickups; the notes seem to start out of nowhere.
+
 ## [Electrix Filter Queen](/devices/electrix-filter-queen/), [Filter Factory](/devices/electrix-filter-factory/) and [Mo-FX](/devices/electrix-mo-fx/)
 
 Three boxes from the Electrix performance line, on my table now: a half-rack analogue filter, a full-size stereo filter with MIDI, and a tempo-synced tremolo, flanger, filter and delay.
@@ -5474,7 +5478,7 @@ The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” an
 
 [Moog Music](https://en.wikipedia.org/wiki/Moog_Music) makes analogue synthesizers and effects in Asheville, North Carolina, the company Bob Moog founded. The Little Phatty, from 2006, and the Minimoog Voyager, from 2002, are two of its keyboards. [moogmusic.com](https://www.moogmusic.com/)
 
-On [Lou Reed](/conspirators/lou-reed/)’s [“Peggy Sue”](/transmissions/peggy-sue/), 2011, the bass is a Moog Little Phatty. On the [*Lulu*](/conspiracies/lulu/) sessions with Metallica, the first song we recorded was “Cheat on Me,” which opens on a riff I play alone on the Moog; that Moog was Lou’s, a Minimoog Voyager. Lou brought the whole band to the Moog factory in Asheville on April 30, 2008, the day after we played the Orange Peel there on the [spring 2008 tour](/conspiracies/lou-reed-spring-2008-tour/), and I brought some Moog pedals back from there. I bought two [Moogerfoogers](https://en.wikipedia.org/wiki/Moogerfooger): the Ring Modulator and the FreqBox. I bought the FreqBox because with an expression pedal, in sync mode, it gives a sort of wah: it restarts its frequency on every zero crossing of the input signal, so it stays in sync, and instead of sounding like a free pitch it changes timbrally as you change the frequency. Wild stuff. Lou got more than one; the most memorable was the analog delay, which I wanted badly, but it was very expensive. I also bought a Moog theremin that day, and I still have it.
+On [Lou Reed](/conspirators/lou-reed/)’s [“Peggy Sue”](/transmissions/peggy-sue/), 2011, the bass is a Moog Little Phatty. On the [*Lulu*](/conspiracies/lulu/) sessions with Metallica, the first song we recorded was “Cheat on Me,” which opens on a riff I play alone on the Moog; that Moog was Lou’s, a Minimoog Voyager. Lou brought the whole band to the Moog factory in Asheville on April 30, 2008, the day after we played the Orange Peel there on the [spring 2008 tour](/conspiracies/lou-reed-spring-2008-tour/), and I brought some Moog pedals back from there. It was also the day Lou first tried the [Moog Guitar](/devices/moog-guitar/), which has its own page. I bought two [Moogerfoogers](https://en.wikipedia.org/wiki/Moogerfooger): the Ring Modulator and the FreqBox. I bought the FreqBox because with an expression pedal, in sync mode, it gives a sort of wah: it restarts its frequency on every zero crossing of the input signal, so it stays in sync, and instead of sounding like a free pitch it changes timbrally as you change the frequency. Wild stuff. Lou got more than one; the most memorable was the analog delay, which I wanted badly, but it was very expensive. I also bought a Moog theremin that day, and I still have it.
 
 > The Moog that I played on “Cheat On Me” was Lou Reed’s Moog. It was a Mini-Moog Voyager, I believe, before Lou brought the whole band to the Moog factory. They call it Moog, but anyway, it was pretty great to see them making this stuff there. How few people were able to do all the output at that company. And I brought back some pedals from there. I’ve always loved those pedals; they’re amazing. The knobs are great.
 > 
@@ -5486,15 +5490,39 @@ The credit: Sarth Calhoun and Moog: a Little Phatty on Lou Reed’s “Peggy Sue
 
 The Discogs credit for [“Peggy Sue”](/transmissions/peggy-sue/) reads bass, Little Phatty. The first day of the *Lulu* recording, and the riff on the Moog, are in the note on the [I Before E](/transmissions/i-before-e/) page.
 
-## Lou’s Moog Guitar
+The Little Phatty is the Discogs credit. Lou’s Voyager, the factory and the pedals are as I said on September 26, 2026, the Voyager confirmed the same day, and in my note on I Before E; the visit was the day after the Orange Peel, which Glide Magazine photographed on April 29, 2008.
 
-That visit was also the first time Lou tried the [Moog Guitar](https://en.wikipedia.org/wiki/Moog_Guitar), the electric guitar Moog introduced in 2008: they demoed it for him at the factory. He bought one immediately and played it in many shows, including [Metal Machine Trio](/conspiracies/metal-machine-trio/), where some of the notes seem to start out of nowhere.
+---
+
+# Moog Guitar
+
+https://www.sarth.net/devices/moog-guitar/
+
+[Devices](/devices/) / Moog Guitar
+
+Device · Machine
+
+# Moog Guitar
+
+Lou Reed’s guitar from 2008: a feedback loop into the pickups, so the notes seem to start out of nowhere.
+
+The [Moog Guitar](https://en.wikipedia.org/wiki/Moog_Guitar) is an electric guitar from [Moog Music](https://www.moogmusic.com/), designed by Paul Vo and released at the Summer NAMM show in 2008, where it won Best in Show. Its pickups carry six transducers that feed energy magnetically into the strings, or pull it out: a full sustain mode that holds a note at any volume on any string, a mute mode that shortens everything to staccato, a controlled mode that sustains what you play and damps what you do not, and a foot pedal that blends between them. Moog called the sustain Vo Power. The Model E1 came in black, red and butterscotch, the E1-M added MIDI, and Paul Vo made a Collector Edition of three hundred.
+
+Lou first tried it at the Moog factory in Asheville on April 30, 2008, the day after his band played the Orange Peel there on the [spring 2008 tour](/conspiracies/lou-reed-spring-2008-tour/). They demoed it for him, and he bought one immediately. He played it in many, many shows, including [Metal Machine Trio](/conspiracies/metal-machine-trio/), where some of the notes seem to start out of nowhere: no pluck to hear, just the note arriving. Lou loved that guitar and used it a lot.
 
 > The Moog Guitar is really interesting because it creates an actual feedback loop into the guitarist’s pickups, which can cause it to re-vibrate the strings, so you get infinite sustain, or … ways of playing with some of the Metal Machine Trio stuff where the notes seem to start out of nowhere. So there’s no hearing of it plucking; just goes “meh,” and it’s very distinctive sound. Lou loved that Moog Guitar and used it a lot.
 > 
 > Sarth Calhoun, September 26, 2026
 
-The Little Phatty is the Discogs credit. Lou’s Voyager, the factory and the pedals are as I said on September 26, 2026, the Voyager confirmed the same day, and in my note on I Before E; the visit was the day after the Orange Peel, which Glide Magazine photographed on April 29, 2008. The Moog Guitar paragraph and quotation are mine from the same day, spoken; the transcription’s “mood” is corrected to Moog and one tangled phrase is elided.
+[Embedded player](https://www.youtube.com/embed/vCK-SMXsLsg)
+
+## What the record says
+
+Moog announced the guitar on June 6, 2008, and its launch video showed Lou trying it. The Bob Moog Foundation later quoted what he said on first hearing it: This is amazing… this opens the door. He played it on *Late Show with David Letterman* that fall. In December 2009 the Foundation auctioned, and in March 2010 raffled, a Paul Vo Collector Edition, serial 005, that Lou had played and signed on the front, with his own control labels and strap brackets still on it; Moog Music donated it, and its president said Lou had been an inspiration while the instrument was developed.
+
+The credit: The Moog Guitar was Lou Reed’s from the day he tried it at the Moog factory, April 30, 2008, with Sarth Calhoun and the rest of his band there; Calhoun played beside it in Lou Reed’s band and in Metal Machine Trio, processing the band through Kyma.
+
+The guitar’s facts are Moog’s and Wikipedia’s. The factory day, the shows and the sound are as I said on September 26, 2026, spoken; the transcription’s “mood” is corrected to Moog and one tangled phrase is elided. The Letterman appearance, the auction and the raffle are the Bob Moog Foundation’s and Synthtopia’s posts, linked below.
 
 ---
 
@@ -6373,6 +6401,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
 - [The Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
 
+## [Moog Guitar](/devices/moog-guitar/)
+
+`/devices/moog-guitar/`
+
+- [Moog Guitar](https://en.wikipedia.org/wiki/Moog_Guitar)
+- [Moog Music](https://www.moogmusic.com/)
+
 ## [Moog](/devices/moog/)
 
 `/devices/moog/`
@@ -6380,7 +6415,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Moog Music](https://en.wikipedia.org/wiki/Moog_Music)
 - [moogmusic.com](https://www.moogmusic.com/)
 - [Moogerfoogers](https://en.wikipedia.org/wiki/Moogerfooger)
-- [Moog Guitar](https://en.wikipedia.org/wiki/Moog_Guitar)
 
 ## [Runway](/devices/runway/)
 

@@ -182,6 +182,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Basses https://www.sarth.net/devices/basses/
 - Yamaha EX5 https://www.sarth.net/devices/yamaha-ex5/
 - Moog https://www.sarth.net/devices/moog/
+- Moog Guitar https://www.sarth.net/devices/moog-guitar/
 - Electrix Filter Queen https://www.sarth.net/devices/electrix-filter-queen/
 - Electrix Filter Factory https://www.sarth.net/devices/electrix-filter-factory/
 - Electrix Mo-FX https://www.sarth.net/devices/electrix-mo-fx/

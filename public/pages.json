@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 122,
+ "count": 123,
  "pages": [
   {
    "route": "/",
@@ -1422,7 +1422,7 @@
    "url": "https://www.sarth.net/devices/",
    "markdown": "https://www.sarth.net/devices/index.md",
    "title": "Devices",
-   "description": "The instruments and tools Sarth Calhoun uses, one page each: Kyma, the Continuum, Ableton Live, Runway, basses, the Yamaha EX5, Moog, the three Electrix filters, DaVinci Resolve.",
+   "description": "The instruments and tools Sarth Calhoun uses, one page each: Kyma, the Continuum, Ableton Live, Runway, basses, the Yamaha EX5, Moog, the Moog Guitar, the three Electrix filters, DaVinci Resolve.",
    "facet": "machine",
    "published": null,
    "headings": [
@@ -1433,6 +1433,7 @@
     "[Basses](/devices/basses/)",
     "[Yamaha EX5](/devices/yamaha-ex5/)",
     "[Moog](/devices/moog/)",
+    "[Moog Guitar](/devices/moog-guitar/)",
     "[Electrix Filter Queen](/devices/electrix-filter-queen/), [Filter Factory](/devices/electrix-filter-factory/) and [Mo-FX](/devices/electrix-mo-fx/)",
     "[DaVinci Resolve](/devices/davinci-resolve/)"
    ]
@@ -1518,8 +1519,19 @@
    "facet": "machine",
    "published": null,
    "headings": [
-    "On the record",
-    "Lou’s Moog Guitar"
+    "On the record"
+   ]
+  },
+  {
+   "route": "/devices/moog-guitar/",
+   "url": "https://www.sarth.net/devices/moog-guitar/",
+   "markdown": "https://www.sarth.net/devices/moog-guitar/index.md",
+   "title": "Moog Guitar",
+   "description": "The Moog Guitar, Paul Vo’s electric guitar with sustain fed magnetically into the strings, which Lou Reed first tried at the Moog factory on April 30, 2008 with his band there, bought at once and played in many shows; Sarth Calhoun on how it sounds.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "What the record says"
    ]
   },
   {
@@ -1658,6 +1670,7 @@
     "[Electrix Filter Queen](/devices/electrix-filter-queen/)",
     "[Electrix Mo-FX](/devices/electrix-mo-fx/)",
     "[Kyma](/devices/kyma/)",
+    "[Moog Guitar](/devices/moog-guitar/)",
     "[Moog](/devices/moog/)",
     "[Runway](/devices/runway/)",
     "[Yamaha EX5](/devices/yamaha-ex5/)",

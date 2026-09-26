@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 117,
+ "count": 122,
  "pages": [
   {
    "route": "/",
@@ -1098,6 +1098,28 @@
    ]
   },
   {
+   "route": "/conspirators/gregory-cage/",
+   "url": "https://www.sarth.net/conspirators/gregory-cage/",
+   "markdown": "https://www.sarth.net/conspirators/gregory-cage/index.md",
+   "title": "Gregory Cage",
+   "description": "Gregory Cage, of In the Loop with Mark Righter, who played with Sarth Calhoun and looped with an Electrix Repeater.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "In the Loop"
+   ]
+  },
+  {
+   "route": "/conspirators/brandt-passalacqua/",
+   "url": "https://www.sarth.net/conspirators/brandt-passalacqua/",
+   "markdown": "https://www.sarth.net/conspirators/brandt-passalacqua/index.md",
+   "title": "Brandt Passalacqua",
+   "description": "Brandt Passalacqua, who played with Sarth Calhoun and looped with an Electrix Repeater.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/conspirators/carla-scaletti/",
    "url": "https://www.sarth.net/conspirators/carla-scaletti/",
    "markdown": "https://www.sarth.net/conspirators/carla-scaletti/index.md",
@@ -1400,7 +1422,7 @@
    "url": "https://www.sarth.net/devices/",
    "markdown": "https://www.sarth.net/devices/index.md",
    "title": "Devices",
-   "description": "The instruments and tools Sarth Calhoun uses, one page each: Kyma, the Continuum, Ableton Live, Runway, basses, the Yamaha EX5, Moog, DaVinci Resolve.",
+   "description": "The instruments and tools Sarth Calhoun uses, one page each: Kyma, the Continuum, Ableton Live, Runway, basses, the Yamaha EX5, Moog, the three Electrix filters, DaVinci Resolve.",
    "facet": "machine",
    "published": null,
    "headings": [
@@ -1411,6 +1433,7 @@
     "[Basses](/devices/basses/)",
     "[Yamaha EX5](/devices/yamaha-ex5/)",
     "[Moog](/devices/moog/)",
+    "[Electrix Filter Queen](/devices/electrix-filter-queen/), [Filter Factory](/devices/electrix-filter-factory/) and [Mo-FX](/devices/electrix-mo-fx/)",
     "[DaVinci Resolve](/devices/davinci-resolve/)"
    ]
   },
@@ -1491,11 +1514,47 @@
    "url": "https://www.sarth.net/devices/moog/",
    "markdown": "https://www.sarth.net/devices/moog/index.md",
    "title": "Moog",
-   "description": "Moog on Sarth Calhoun’s table: a Little Phatty on Lou Reed’s Peggy Sue, Lou Reed’s own Moog on the Lulu recording of Cheat on Me, the band’s visit to the Moog factory, and the pedals he brought back.",
+   "description": "Moog on Sarth Calhoun’s table: a Little Phatty on Lou Reed’s Peggy Sue, Lou Reed’s own Minimoog Voyager on the Lulu recording of Cheat on Me, the band’s visit to the Moog factory, and the pedals he brought back.",
    "facet": "machine",
    "published": null,
    "headings": [
     "On the record"
+   ]
+  },
+  {
+   "route": "/devices/electrix-filter-queen/",
+   "url": "https://www.sarth.net/devices/electrix-filter-queen/",
+   "markdown": "https://www.sarth.net/devices/electrix-filter-queen/index.md",
+   "title": "Electrix Filter Queen",
+   "description": "The Electrix Filter Queen, a half-rack analogue filter with envelope follower, LFO and expression-pedal input, one of the three Electrix boxes Sarth Calhoun uses.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "On my table"
+   ]
+  },
+  {
+   "route": "/devices/electrix-filter-factory/",
+   "url": "https://www.sarth.net/devices/electrix-filter-factory/",
+   "markdown": "https://www.sarth.net/devices/electrix-filter-factory/index.md",
+   "title": "Electrix Filter Factory",
+   "description": "The Electrix Filter Factory, a full-size stereo analogue filter with MIDI, one of the three Electrix boxes Sarth Calhoun uses.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "On my table"
+   ]
+  },
+  {
+   "route": "/devices/electrix-mo-fx/",
+   "url": "https://www.sarth.net/devices/electrix-mo-fx/",
+   "markdown": "https://www.sarth.net/devices/electrix-mo-fx/index.md",
+   "title": "Electrix Mo-FX",
+   "description": "The Electrix Mo-FX, a tempo-synced tremolo, flanger, filter and delay box, one of the three Electrix boxes Sarth Calhoun uses.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "On my table"
    ]
   },
   {
@@ -1554,6 +1613,7 @@
     "[Carla Scaletti](/conspirators/carla-scaletti/)",
     "[Dominic Bouffard](/conspirators/dominic-bouffard/)",
     "[Doron Lev](/conspirators/doron-lev/)",
+    "[Gregory Cage](/conspirators/gregory-cage/)",
     "[Jacob McCoy](/conspirators/jacob-mccoy/)",
     "[Joe Kelly](/conspirators/joe-kelly/)",
     "[John Zorn](/conspirators/john-zorn/)",
@@ -1593,6 +1653,9 @@
     "[Basses](/devices/basses/)",
     "[Continuum](/devices/continuum/)",
     "[DaVinci Resolve](/devices/davinci-resolve/)",
+    "[Electrix Filter Factory](/devices/electrix-filter-factory/)",
+    "[Electrix Filter Queen](/devices/electrix-filter-queen/)",
+    "[Electrix Mo-FX](/devices/electrix-mo-fx/)",
     "[Kyma](/devices/kyma/)",
     "[Moog](/devices/moog/)",
     "[Runway](/devices/runway/)",

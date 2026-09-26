@@ -71,6 +71,8 @@ People I have made things with.
 4. [**Tony Diodore**Guitarist and violinist. He and I formed Number19 in 1999 and played together again in Lou Reed’s band from 2011.](/conspirators/tony-diodore/)
 5. [**Rich Kulsar**Drummer and Grammy winner. We are both on Mike Acerbo’s The Search.](/conspirators/rich-kulsar/)
 6. [**Mike Acerbo**Singer-songwriter. My bass is on “Trilby,” the opening track of The Search.](/conspirators/mike-acerbo/)
+7. [**Gregory Cage**In the Loop, with Mark Righter. I played with him; he looped on an Electrix Repeater.](/conspirators/gregory-cage/)
+8. [**Brandt Passalacqua**A musician I played with, who looped on an Electrix Repeater.](/conspirators/brandt-passalacqua/)
 
 ## The makers of my instruments
 

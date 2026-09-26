@@ -25,7 +25,7 @@ Mark Righter in 2001, from the Number19 site, numbernineteen.net.
 
 ## Number19
 
-He played drums in [Number19](/conspiracies/number19/), the band [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/) and I formed in Brooklyn in 1999, and on its one album, [*Suspension*](/transmissions/suspension/) (2001), which the band paid for out of mp3.com downloads. I met him by joining his band; we had both played in Mother Heavy, a funk-rock band, and he played in Gebbeth, my electronica-improv group, before Number19.
+He played drums in [Number19](/conspiracies/number19/), the band [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/) and I formed in Brooklyn in 1999, and on its one album, [*Suspension*](/transmissions/suspension/) (2001), which the band paid for out of mp3.com downloads. I met him by joining his band; we had both played in Mother Heavy, a funk-rock band, and he played in Gebbeth, my electronica-improv group, before Number19. Later he played in In the Loop with [Gregory Cage](/conspirators/gregory-cage/).
 
 The credit: Mark Righter, drums, in Number19 with Sarth Calhoun, Leah Coloff and Tony Diodore, 1999 to 2005; Suspension, 2001.
 

@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (540 total)
+## Citations by page (544 total)
 
 ### Sarth Calhoun
 `/`
@@ -358,6 +358,11 @@ every page.
 
 - [Third Wall Studio](https://www.thirdwallstudio.com/)
 
+### Gregory Cage
+`/conspirators/gregory-cage/`
+
+- [The listing](https://forum.djtechtools.com/t/nyc-weds-march-4-warper-party-ableton-live-apc40-demo/28)
+
 ### Jacob McCoy
 `/conspirators/jacob-mccoy/`
 
@@ -667,6 +672,21 @@ every page.
 
 - [DaVinci Resolve](https://en.wikipedia.org/wiki/DaVinci_Resolve)
 - [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve)
+
+### Electrix Filter Factory
+`/devices/electrix-filter-factory/`
+
+- [Repeater](https://www.vintagesynth.com/electrix-pro/repeater)
+
+### Electrix Filter Queen
+`/devices/electrix-filter-queen/`
+
+- [Repeater](https://www.vintagesynth.com/electrix-pro/repeater)
+
+### Electrix Mo-FX
+`/devices/electrix-mo-fx/`
+
+- [Repeater](https://www.vintagesynth.com/electrix-pro/repeater)
 
 ### Kyma
 `/devices/kyma/`

@@ -369,6 +369,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Third Wall Studio](https://www.thirdwallstudio.com/)
 
+## [Gregory Cage](/conspirators/gregory-cage/)
+
+`/conspirators/gregory-cage/`
+
+- [The listing](https://forum.djtechtools.com/t/nyc-weds-march-4-warper-party-ableton-live-apc40-demo/28)
+
 ## [Jacob McCoy](/conspirators/jacob-mccoy/)
 
 `/conspirators/jacob-mccoy/`
@@ -717,6 +723,24 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [DaVinci Resolve](https://en.wikipedia.org/wiki/DaVinci_Resolve)
 - [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve)
+
+## [Electrix Filter Factory](/devices/electrix-filter-factory/)
+
+`/devices/electrix-filter-factory/`
+
+- [Repeater](https://www.vintagesynth.com/electrix-pro/repeater)
+
+## [Electrix Filter Queen](/devices/electrix-filter-queen/)
+
+`/devices/electrix-filter-queen/`
+
+- [Repeater](https://www.vintagesynth.com/electrix-pro/repeater)
+
+## [Electrix Mo-FX](/devices/electrix-mo-fx/)
+
+`/devices/electrix-mo-fx/`
+
+- [Repeater](https://www.vintagesynth.com/electrix-pro/repeater)
 
 ## [Kyma](/devices/kyma/)
 

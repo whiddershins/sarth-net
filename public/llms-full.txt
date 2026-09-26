@@ -74,7 +74,7 @@ Machine-readable companions:
 
 ## Pages
 
-117 pages follow, in reading order, separated by a horizontal rule.
+122 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -103,9 +103,9 @@ I also write about data engineering: [an append-only pipeline on external tables
 
 Burlap. Download at [burlap.app](https://burlap.app/download).
 
-### Machine (18)
+### Machine (21)
 
-[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [DaVinci Resolve](/devices/davinci-resolve/)
+[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [Electrix Filter Queen](/devices/electrix-filter-queen/) · [Electrix Filter Factory](/devices/electrix-filter-factory/) · [Electrix Mo-FX](/devices/electrix-mo-fx/) · [DaVinci Resolve](/devices/davinci-resolve/)
 
 ### Dream (32)
 
@@ -2359,6 +2359,8 @@ People I have made things with.
 4. [**Tony Diodore**Guitarist and violinist. He and I formed Number19 in 1999 and played together again in Lou Reed’s band from 2011.](/conspirators/tony-diodore/)
 5. [**Rich Kulsar**Drummer and Grammy winner. We are both on Mike Acerbo’s The Search.](/conspirators/rich-kulsar/)
 6. [**Mike Acerbo**Singer-songwriter. My bass is on “Trilby,” the opening track of The Search.](/conspirators/mike-acerbo/)
+7. [**Gregory Cage**In the Loop, with Mark Righter. I played with him; he looped on an Electrix Repeater.](/conspirators/gregory-cage/)
+8. [**Brandt Passalacqua**A musician I played with, who looped on an Electrix Repeater.](/conspirators/brandt-passalacqua/)
 
 ## The makers of my instruments
 
@@ -3676,7 +3678,7 @@ Mark Righter in 2001, from the Number19 site, numbernineteen.net.
 
 ## Number19
 
-He played drums in [Number19](/conspiracies/number19/), the band [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/) and I formed in Brooklyn in 1999, and on its one album, [*Suspension*](/transmissions/suspension/) (2001), which the band paid for out of mp3.com downloads. I met him by joining his band; we had both played in Mother Heavy, a funk-rock band, and he played in Gebbeth, my electronica-improv group, before Number19.
+He played drums in [Number19](/conspiracies/number19/), the band [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/) and I formed in Brooklyn in 1999, and on its one album, [*Suspension*](/transmissions/suspension/) (2001), which the band paid for out of mp3.com downloads. I met him by joining his band; we had both played in Mother Heavy, a funk-rock band, and he played in Gebbeth, my electronica-improv group, before Number19. Later he played in In the Loop with [Gregory Cage](/conspirators/gregory-cage/).
 
 The credit: Mark Righter, drums, in Number19 with Sarth Calhoun, Leah Coloff and Tony Diodore, 1999 to 2005; Suspension, 2001.
 
@@ -3777,6 +3779,54 @@ I played bass on “Trilby.” The first parts were recorded about a decade befo
 The credit: Sarth Calhoun plays bass on “Trilby,” the opening track of Mike Acerbo’s The Search, 2012.
 
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.
+
+---
+
+# Gregory Cage
+
+https://www.sarth.net/conspirators/gregory-cage/
+
+[Conspirators](/conspirators/) / Gregory Cage
+
+Conspirator
+
+# Gregory Cage
+
+Guitar and laptop looping; In the Loop, with Mark Righter. I played with him, and he ran an Electrix Repeater.
+
+Gregory Cage is a New York musician who played in In the Loop with [Mark Righter](/conspirators/mark-righter/), the drummer of [Number19](/conspiracies/number19/). In the Loop played the Warper Party at the Delancey on March 4, 2009, on the bill right after my set.
+
+I played with him. He is one of the two people I played with who looped on an Electrix Repeater, the box I never used myself; the Electrix boxes I do use are the [Filter Queen](/devices/electrix-filter-queen/), the [Filter Factory](/devices/electrix-filter-factory/) and the [Mo-FX](/devices/electrix-mo-fx/).
+
+The record: Warper Party, the Delancey, 168 Delancey Street, New York, Wednesday March 4, 2009. Downstairs: 8:20 Sarth, 8:50 In The Loop, 9:20 Prez Powerz, 10:00 Moldover. [The listing](https://forum.djtechtools.com/t/nyc-weds-march-4-warper-party-ableton-live-apc40-demo/28).
+
+The credit: Gregory Cage, of In the Loop with Mark Righter, played with Sarth Calhoun; Cage looped on an Electrix Repeater. In the Loop followed Calhoun on the Warper Party bill at the Delancey, March 4, 2009.
+
+## In the Loop
+
+In the Loop was Gregory’s band with Mark Righter, who I had formed Number19 with in 1999. The Warper Party listing is the public trace of it; the rest is mine to write.
+
+Who he is and the Repeater are as I said on September 26, 2026. The Warper Party bill is the organisers’ listing, posted to the DJ TechTools forum on March 2, 2009.
+
+---
+
+# Brandt Passalacqua
+
+https://www.sarth.net/conspirators/brandt-passalacqua/
+
+[Conspirators](/conspirators/) / Brandt Passalacqua
+
+Conspirator
+
+# Brandt Passalacqua
+
+A musician I played with, who looped on an Electrix Repeater.
+
+Brandt Passalacqua is a musician I played with. He is one of the two people I played with who looped on an Electrix Repeater, the box I never used myself; the other is [Gregory Cage](/conspirators/gregory-cage/). The Electrix boxes I do use are the [Filter Queen](/devices/electrix-filter-queen/), the [Filter Factory](/devices/electrix-filter-factory/) and the [Mo-FX](/devices/electrix-mo-fx/).
+
+The credit: Brandt Passalacqua played with Sarth Calhoun and looped on an Electrix Repeater.
+
+As I said on September 26, 2026. Nothing public has been found yet.
 
 ---
 
@@ -5210,6 +5260,10 @@ Yamaha’s 1998 workstation synthesizer. The keyboard on *Suspension*.
 
 The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” and the pedals I brought back from the factory.
 
+## [Electrix Filter Queen](/devices/electrix-filter-queen/), [Filter Factory](/devices/electrix-filter-factory/) and [Mo-FX](/devices/electrix-mo-fx/)
+
+Three boxes from the Electrix performance line, on my table now: a half-rack analogue filter, a full-size stereo filter with MIDI, and a tempo-synced tremolo, flanger, filter and delay.
+
 ## [DaVinci Resolve](/devices/davinci-resolve/)
 
 Blackmagic Design’s edit, colour and audio application. *Through the Brambles* was cut and mixed in it.
@@ -5298,11 +5352,15 @@ The live looping in [Lucibel Crater](/conspiracies/lucibel-crater/) was in Ablet
 
 On the record: The REDCAT program for the Metal Machine Trio nights, October 2008, and the [Asia Society notes](https://asiasociety.org/files/pdf/140424_bora_yoon_notes_web.pdf) for *Sunken Cathedral*, April 2014, both list Sarth Calhoun as an Ableton Live endorser. Symbolic Sound’s [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/): Continuum, Kyma and Ableton amp modelers, one take.
 
-The credit: Sarth Calhoun and Ableton Live: an endorser in the 2008 REDCAT and 2014 Asia Society programs; “Awakening (To Blacklist)” (2012) built in Live; the live looping in Lucibel Crater, 2005 to 2008, in Live.
+> It’s pretty cool because I was able to record all these loops and then do an arrangement. I’m gonna try to play the loops and then play that back and do an arranged song from the loops we had built using Ableton. I really should do an explainer video, a template, an Ableton template thing, and a whole essay about this and show how it worked ’cause it was fucking awesome.
+> 
+> Sarth Calhoun, September 26, 2026
 
 ## Conspiracies
 
 [Lucibel Crater](/conspiracies/lucibel-crater/), [The Book of Sarth](/conspiracies/book-of-sarth/) and [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/), with [the essay on how that track was made](/transmissions/about-awakening-to-blacklist/). Kyma did the processing; Live held the loops.
+
+The credit: Sarth Calhoun and Ableton Live: an endorser in the 2008 REDCAT and 2014 Asia Society programs; “Awakening (To Blacklist)” (2012) built in Live; the live looping in Lucibel Crater, 2005 to 2008, in Live.
 
 The entry is the one that stood on the Devices page. The Lucibel Crater looping is as I said on September 26, 2026.
 
@@ -5412,19 +5470,115 @@ The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” an
 
 [Moog Music](https://en.wikipedia.org/wiki/Moog_Music) makes analogue synthesizers and effects in Asheville, North Carolina, the company Bob Moog founded. The Little Phatty, from 2006, and the Minimoog Voyager, from 2002, are two of its keyboards. [moogmusic.com](https://www.moogmusic.com/)
 
-On [Lou Reed](/conspirators/lou-reed/)’s [“Peggy Sue”](/transmissions/peggy-sue/), 2011, the bass is a Moog Little Phatty. On the [*Lulu*](/conspiracies/lulu/) sessions with Metallica, the first song we recorded was “Cheat on Me,” which opens on a riff I play alone on the Moog; that Moog was Lou’s. Lou brought the whole band to the Moog factory, and I brought some Moog pedals back from there.
+On [Lou Reed](/conspirators/lou-reed/)’s [“Peggy Sue”](/transmissions/peggy-sue/), 2011, the bass is a Moog Little Phatty. On the [*Lulu*](/conspiracies/lulu/) sessions with Metallica, the first song we recorded was “Cheat on Me,” which opens on a riff I play alone on the Moog; that Moog was Lou’s, a Minimoog Voyager. Lou brought the whole band to the Moog factory, and I brought some Moog pedals back from there.
 
 > The Moog that I played on “Cheat On Me” was Lou Reed’s Moog. It was a Mini-Moog Voyager, I believe, before Lou brought the whole band to the Moog factory. They call it Moog, but anyway, it was pretty great to see them making this stuff there. How few people were able to do all the output at that company. And I brought back some pedals from there. I’ve always loved those pedals; they’re amazing. The knobs are great.
 > 
 > Sarth Calhoun, September 26, 2026
 
-The credit: Sarth Calhoun and Moog: a Little Phatty on Lou Reed’s “Peggy Sue” (*Rave On Buddy Holly*, 2011, Discogs credit), and Lou Reed’s Moog on the *Lulu* recording of “Cheat on Me” (2011); Moog pedals since the band’s visit to the factory.
+The credit: Sarth Calhoun and Moog: a Little Phatty on Lou Reed’s “Peggy Sue” (*Rave On Buddy Holly*, 2011, Discogs credit), and Lou Reed’s Minimoog Voyager on the *Lulu* recording of “Cheat on Me” (2011); Moog pedals since the band’s visit to the factory.
 
 ## On the record
 
 The Discogs credit for [“Peggy Sue”](/transmissions/peggy-sue/) reads bass, Little Phatty. The first day of the *Lulu* recording, and the riff on the Moog, are in the note on the [I Before E](/transmissions/i-before-e/) page.
 
-The Little Phatty is the Discogs credit. Lou’s Moog, the factory and the pedals are as I said on September 26, 2026, and in my note on I Before E.
+The Little Phatty is the Discogs credit. Lou’s Voyager, the factory and the pedals are as I said on September 26, 2026, the Voyager confirmed the same day, and in my note on I Before E.
+
+---
+
+# Electrix Filter Queen
+
+https://www.sarth.net/devices/electrix-filter-queen/
+
+[Devices](/devices/) / Electrix Filter Queen
+
+Device · Machine
+
+# Electrix Filter Queen
+
+A half-rack analogue filter from the Electrix line, with an envelope follower, an LFO and an expression-pedal input. On my table now.
+
+The Filter Queen is a half-rack analogue filter from Electrix, the performance line IVL Technologies made in Victoria, British Columbia, around 1999 to 2002: a resonant filter with an envelope follower, an LFO and an input for an expression pedal, made to be played rather than programmed.
+
+I use three of the Electrix boxes now: the Filter Queen, and the [Filter Factory](/devices/electrix-filter-factory/) and [Mo-FX](/devices/electrix-mo-fx/). I never used the Repeater, the looper in the line; two people I played with did, [Brandt Passalacqua](/conspirators/brandt-passalacqua/) and [Gregory Cage](/conspirators/gregory-cage/).
+
+The line: The Electrix performance line, from IVL Technologies in Victoria, British Columbia, around 1999 to 2002: the [Repeater](https://www.vintagesynth.com/electrix-pro/repeater), a four-track loop sampler; the Filter Queen, a half-rack analogue filter; the Filter Factory, a full-size stereo analogue filter; the Warp Factory, a vocoder; the Mo-FX, a tempo-synced multi-effect; the EQ Killer, a three-band isolator. The line was discontinued in 2002.
+
+> All three nowadays, and I have a lot to say about them.
+> 
+> Sarth Calhoun, September 26, 2026, on the Filter Queen, the Filter Factory and the Mo-FX
+
+## On my table
+
+The three filters sit with [Kyma](/devices/kyma/) and the [Continuum](/devices/continuum/). What each one does in the chain is mine to write.
+
+The credit: Sarth Calhoun uses the Electrix Filter Queen, with the Electrix Filter Factory and Mo-FX, on his table in 2026.
+
+The line is as the Electrix units are documented; which of them are on my table is as I said on September 26, 2026.
+
+---
+
+# Electrix Filter Factory
+
+https://www.sarth.net/devices/electrix-filter-factory/
+
+[Devices](/devices/) / Electrix Filter Factory
+
+Device · Machine
+
+# Electrix Filter Factory
+
+A full-size stereo analogue filter with MIDI, from the Electrix line. On my table now.
+
+The Filter Factory is the full-size stereo analogue filter in the Electrix line, the performance boxes IVL Technologies made in Victoria, British Columbia, around 1999 to 2002, with MIDI control of the filter and its modulation.
+
+I use three of the Electrix boxes now: the Filter Factory, and the [Filter Queen](/devices/electrix-filter-queen/) and [Mo-FX](/devices/electrix-mo-fx/). I never used the Repeater, the looper in the line; two people I played with did, [Brandt Passalacqua](/conspirators/brandt-passalacqua/) and [Gregory Cage](/conspirators/gregory-cage/).
+
+The line: The Electrix performance line, from IVL Technologies in Victoria, British Columbia, around 1999 to 2002: the [Repeater](https://www.vintagesynth.com/electrix-pro/repeater), a four-track loop sampler; the Filter Queen, a half-rack analogue filter; the Filter Factory, a full-size stereo analogue filter; the Warp Factory, a vocoder; the Mo-FX, a tempo-synced multi-effect; the EQ Killer, a three-band isolator. The line was discontinued in 2002.
+
+> All three nowadays, and I have a lot to say about them.
+> 
+> Sarth Calhoun, September 26, 2026, on the Filter Queen, the Filter Factory and the Mo-FX
+
+## On my table
+
+The three filters sit with [Kyma](/devices/kyma/) and the [Continuum](/devices/continuum/). What each one does in the chain is mine to write.
+
+The credit: Sarth Calhoun uses the Electrix Filter Factory, with the Electrix Filter Queen and Mo-FX, on his table in 2026.
+
+The line is as the Electrix units are documented; which of them are on my table is as I said on September 26, 2026.
+
+---
+
+# Electrix Mo-FX
+
+https://www.sarth.net/devices/electrix-mo-fx/
+
+[Devices](/devices/) / Electrix Mo-FX
+
+Device · Machine
+
+# Electrix Mo-FX
+
+Tremolo, flanger, filter and delay with tempo sync, from the Electrix line. On my table now.
+
+The Mo-FX is the multi-effect in the Electrix line, the performance boxes IVL Technologies made in Victoria, British Columbia, around 1999 to 2002: tremolo, flanger, filter and delay, each with tempo sync, on a front panel of knobs.
+
+I use three of the Electrix boxes now: the Mo-FX, and the [Filter Queen](/devices/electrix-filter-queen/) and [Filter Factory](/devices/electrix-filter-factory/). I never used the Repeater, the looper in the line; two people I played with did, [Brandt Passalacqua](/conspirators/brandt-passalacqua/) and [Gregory Cage](/conspirators/gregory-cage/).
+
+The line: The Electrix performance line, from IVL Technologies in Victoria, British Columbia, around 1999 to 2002: the [Repeater](https://www.vintagesynth.com/electrix-pro/repeater), a four-track loop sampler; the Filter Queen, a half-rack analogue filter; the Filter Factory, a full-size stereo analogue filter; the Warp Factory, a vocoder; the Mo-FX, a tempo-synced multi-effect; the EQ Killer, a three-band isolator. The line was discontinued in 2002.
+
+> All three nowadays, and I have a lot to say about them.
+> 
+> Sarth Calhoun, September 26, 2026, on the Filter Queen, the Filter Factory and the Mo-FX
+
+## On my table
+
+The three filters sit with [Kyma](/devices/kyma/) and the [Continuum](/devices/continuum/). What each one does in the chain is mine to write.
+
+The credit: Sarth Calhoun uses the Electrix Mo-FX, with the Electrix Filter Queen and Filter Factory, on his table in 2026.
+
+The line is as the Electrix units are documented; which of them are on my table is as I said on September 26, 2026.
 
 ---
 
@@ -5824,6 +5978,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Third Wall Studio](https://www.thirdwallstudio.com/)
 
+## [Gregory Cage](/conspirators/gregory-cage/)
+
+`/conspirators/gregory-cage/`
+
+- [The listing](https://forum.djtechtools.com/t/nyc-weds-march-4-warper-party-ableton-live-apc40-demo/28)
+
 ## [Jacob McCoy](/conspirators/jacob-mccoy/)
 
 `/conspirators/jacob-mccoy/`
@@ -6172,6 +6332,24 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [DaVinci Resolve](https://en.wikipedia.org/wiki/DaVinci_Resolve)
 - [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve)
+
+## [Electrix Filter Factory](/devices/electrix-filter-factory/)
+
+`/devices/electrix-filter-factory/`
+
+- [Repeater](https://www.vintagesynth.com/electrix-pro/repeater)
+
+## [Electrix Filter Queen](/devices/electrix-filter-queen/)
+
+`/devices/electrix-filter-queen/`
+
+- [Repeater](https://www.vintagesynth.com/electrix-pro/repeater)
+
+## [Electrix Mo-FX](/devices/electrix-mo-fx/)
+
+`/devices/electrix-mo-fx/`
+
+- [Repeater](https://www.vintagesynth.com/electrix-pro/repeater)
 
 ## [Kyma](/devices/kyma/)
 

@@ -151,6 +151,8 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Tony Diodore https://www.sarth.net/conspirators/tony-diodore/
 - Rich Kulsar https://www.sarth.net/conspirators/rich-kulsar/
 - Mike Acerbo https://www.sarth.net/conspirators/mike-acerbo/
+- Gregory Cage https://www.sarth.net/conspirators/gregory-cage/
+- Brandt Passalacqua https://www.sarth.net/conspirators/brandt-passalacqua/
 - Carla Scaletti https://www.sarth.net/conspirators/carla-scaletti/
 - Kurt Hebel https://www.sarth.net/conspirators/kurt-hebel/
 - Lippold Haken https://www.sarth.net/conspirators/lippold-haken/
@@ -180,6 +182,9 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Basses https://www.sarth.net/devices/basses/
 - Yamaha EX5 https://www.sarth.net/devices/yamaha-ex5/
 - Moog https://www.sarth.net/devices/moog/
+- Electrix Filter Queen https://www.sarth.net/devices/electrix-filter-queen/
+- Electrix Filter Factory https://www.sarth.net/devices/electrix-filter-factory/
+- Electrix Mo-FX https://www.sarth.net/devices/electrix-mo-fx/
 - DaVinci Resolve https://www.sarth.net/devices/davinci-resolve/
 - Citations https://www.sarth.net/citations/
 - Contact https://www.sarth.net/contact/

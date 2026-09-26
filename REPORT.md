@@ -32,12 +32,16 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
   - wants: Sarth: how you met Billy, and what became of Omnisphere.
 - EMPTY  `content/holes/conspirators--bora-yoon.md` on https://www.sarth.net/conspirators/bora-yoon/
   - wants: Sarth: what you, Bora and Adam played on the downstairs stage.
+- EMPTY  `content/holes/conspirators--brandt-passalacqua.md` on https://www.sarth.net/conspirators/brandt-passalacqua/
+  - wants: Sarth: who Brandt is, what you played together, and the Repeater.
 - EMPTY  `content/holes/conspirators--carla-scaletti.md` on https://www.sarth.net/conspirators/carla-scaletti/
   - wants: Sarth: when the beta testing started, and what you suggested that shipped.
 - EMPTY  `content/holes/conspirators--dominic-bouffard.md` on https://www.sarth.net/conspirators/dominic-bouffard/
   - wants: Sarth: how you and Dom met, and how Beautiful Tornado started.
 - EMPTY  `content/holes/conspirators--doron-lev.md` on https://www.sarth.net/conspirators/doron-lev/
   - wants: Sarth: how you met Doron, and why the collaboration kept going.
+- EMPTY  `content/holes/conspirators--gregory-cage.md` on https://www.sarth.net/conspirators/gregory-cage/
+  - wants: Sarth: who Gregory is, what you played together, and the Repeater.
 - EMPTY  `content/holes/conspirators--jacob-mccoy.md` on https://www.sarth.net/conspirators/jacob-mccoy/
   - wants: Sarth: what Jacob did on Book of Sarth, and where Meatsuitz came from.
 - EMPTY  `content/holes/conspirators--joe-kelly.md` on https://www.sarth.net/conspirators/joe-kelly/
@@ -104,6 +108,12 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
   - wants: Sarth: how you play it, and the reverse sostenuto pedal technique you worked out for drones.
 - EMPTY  `content/holes/devices--davinci-resolve.md` on https://www.sarth.net/devices/davinci-resolve/
   - wants: Sarth: what Resolve does in the studio’s pipeline, and the ambisonic mix.
+- EMPTY  `content/holes/devices--electrix-filter-factory.md` on https://www.sarth.net/devices/electrix-filter-factory/
+  - wants: Sarth: what the Filter Factory does in your chain, and where it sits.
+- EMPTY  `content/holes/devices--electrix-filter-queen.md` on https://www.sarth.net/devices/electrix-filter-queen/
+  - wants: Sarth: what the Filter Queen does in your chain, and where it sits.
+- EMPTY  `content/holes/devices--electrix-mo-fx.md` on https://www.sarth.net/devices/electrix-mo-fx/
+  - wants: Sarth: what the Mo-FX does in your chain, and where it sits.
 - EMPTY  `content/holes/devices--kyma.md` on https://www.sarth.net/devices/kyma/
   - wants: Sarth: what Kyma does that nothing else does, and what SeqOSC is.
 - EMPTY  `content/holes/devices--moog.md` on https://www.sarth.net/devices/moog/
@@ -151,6 +161,7 @@ a pull quote with its source, an embed, or an excerpt of the record. No filler.
 - https://www.sarth.net/conspiracies/lou-reed-song-band/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/reflections-vol-1/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/third-wall-studio/ (1 band): Not laid out yet.
+- https://www.sarth.net/conspirators/brandt-passalacqua/ (0 bands): No public photograph, quotation or listing yet.
 - https://www.sarth.net/conspirators/laurie-anderson/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspirators/tetiana-khodakivska/ (0 bands): No free photograph, quotation or embed yet.
 - https://www.sarth.net/transmissions/miracles/ (0 bands): No cover, track list or store listing found; Sarth to supply.
@@ -204,6 +215,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/carla-scaletti/: 3 · 1 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/dominic-bouffard/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/doron-lev/: 3 · 1 quote · 1 embed · 1 excerpt
+- https://www.sarth.net/conspirators/gregory-cage/: 2 · 2 excerpt
 - https://www.sarth.net/conspirators/jacob-mccoy/: 5 · 1 quote · 2 embed · 2 excerpt
 - https://www.sarth.net/conspirators/joe-kelly/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/conspirators/john-zorn/: 5 · 2 photo · 1 quote · 2 excerpt
@@ -239,10 +251,13 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/tony-thunder-smith/: 4 · 2 photo · 2 excerpt
 - https://www.sarth.net/conspirators/ulrich-krieger/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/contraptions/: 6 · 4 photo · 2 excerpt
-- https://www.sarth.net/devices/ableton-live/: 2 · 2 excerpt
+- https://www.sarth.net/devices/ableton-live/: 3 · 1 quote · 2 excerpt
 - https://www.sarth.net/devices/basses/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/devices/continuum/: 3 · 1 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/devices/davinci-resolve/: 2 · 1 embed · 1 excerpt
+- https://www.sarth.net/devices/electrix-filter-factory/: 3 · 1 quote · 2 excerpt
+- https://www.sarth.net/devices/electrix-filter-queen/: 3 · 1 quote · 2 excerpt
+- https://www.sarth.net/devices/electrix-mo-fx/: 3 · 1 quote · 2 excerpt
 - https://www.sarth.net/devices/kyma/: 2 · 2 excerpt
 - https://www.sarth.net/devices/moog/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/devices/runway/: 2 · 1 quote · 1 excerpt
@@ -266,4 +281,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 18 machine · 32 dream · 11 message
+- 21 machine · 32 dream · 11 message

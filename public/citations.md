@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (545 total)
+## Citations by page (546 total)
 
 ### Sarth Calhoun
 `/`
@@ -702,6 +702,7 @@ every page.
 
 - [Moog Music](https://en.wikipedia.org/wiki/Moog_Music)
 - [moogmusic.com](https://www.moogmusic.com/)
+- [Moog Guitar](https://en.wikipedia.org/wiki/Moog_Guitar)
 
 ### Runway
 `/devices/runway/`

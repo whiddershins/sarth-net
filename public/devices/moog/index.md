@@ -1,6 +1,6 @@
 ---
 title: Moog
-description: Moog on Sarth Calhoun’s table: a Little Phatty on Lou Reed’s Peggy Sue, Lou Reed’s own Minimoog Voyager on the Lulu recording of Cheat on Me, the band’s visit to the Moog factory, and the pedals he brought back.
+description: Moog on Sarth Calhoun’s table: a Little Phatty on Lou Reed’s Peggy Sue, Lou Reed’s own Minimoog Voyager on the Lulu recording of Cheat on Me, the band’s visit to the Moog factory, where Lou Reed first tried the Moog Guitar, and the pedals and theremin Calhoun brought back.
 url: https://www.sarth.net/devices/moog/
 facet: machine
 credit: Sarth Calhoun and Moog: a Little Phatty on Lou Reed’s “Peggy Sue” (*Rave On Buddy Holly*, 2011, Discogs credit), and Lou Reed’s Minimoog Voyager on the *Lulu* recording of “Cheat on Me” (2011); two Moog pedals, the ring modulator and the synth pedal, and a Moog theremin, bought at the factory on April 30, 2008.
@@ -28,4 +28,12 @@ The credit: Sarth Calhoun and Moog: a Little Phatty on Lou Reed’s “Peggy Sue
 
 The Discogs credit for [“Peggy Sue”](/transmissions/peggy-sue/) reads bass, Little Phatty. The first day of the *Lulu* recording, and the riff on the Moog, are in the note on the [I Before E](/transmissions/i-before-e/) page.
 
-The Little Phatty is the Discogs credit. Lou’s Voyager, the factory and the pedals are as I said on September 26, 2026, the Voyager confirmed the same day, and in my note on I Before E; the visit was the day after the Orange Peel, which Glide Magazine photographed on April 29, 2008.
+## Lou’s Moog Guitar
+
+That visit was also the first time Lou tried the [Moog Guitar](https://en.wikipedia.org/wiki/Moog_Guitar), the electric guitar Moog introduced in 2008: they demoed it for him at the factory. He bought one immediately and played it in many shows, including [Metal Machine Trio](/conspiracies/metal-machine-trio/), where some of the notes seem to start out of nowhere.
+
+> The Moog Guitar is really interesting because it creates an actual feedback loop into the guitarist’s pickups, which can cause it to re-vibrate the strings, so you get infinite sustain, or … ways of playing with some of the Metal Machine Trio stuff where the notes seem to start out of nowhere. So there’s no hearing of it plucking; just goes “meh,” and it’s very distinctive sound. Lou loved that Moog Guitar and used it a lot.
+> 
+> Sarth Calhoun, September 26, 2026
+
+The Little Phatty is the Discogs credit. Lou’s Voyager, the factory and the pedals are as I said on September 26, 2026, the Voyager confirmed the same day, and in my note on I Before E; the visit was the day after the Orange Peel, which Glide Magazine photographed on April 29, 2008. The Moog Guitar paragraph and quotation are mine from the same day, spoken; the transcription’s “mood” is corrected to Moog and one tangled phrase is elided.

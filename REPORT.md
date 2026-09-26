@@ -259,7 +259,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/devices/electrix-filter-queen/: 3 · 1 quote · 2 excerpt
 - https://www.sarth.net/devices/electrix-mo-fx/: 3 · 1 quote · 2 excerpt
 - https://www.sarth.net/devices/kyma/: 2 · 2 excerpt
-- https://www.sarth.net/devices/moog/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/devices/moog/: 3 · 2 quote · 1 excerpt
 - https://www.sarth.net/devices/runway/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/devices/yamaha-ex5/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/sightings/reaktor-live-2023/: 2 · 1 embed · 1 excerpt

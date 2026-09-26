@@ -40,7 +40,7 @@ Reaktor Live with Paramount, 2023. Kyma International Sound Symposium, UC Santa 
 
 ## Data Engineering for Art
 
-[Burlap](https://burlap.app), a native macOS canvas for visual reference prompting and context management, built since April 2025 by a team of four senior engineers. [Contraptions](/contraptions/), the shelf of small software machines. The data writing: [an append-only pipeline on external tables](/transmissions/external-tables/), in five parts, with [window functions](/transmissions/window-functions/), [SQL as the data language](/transmissions/sql-as-the-data-language/) and [DuckDB](/transmissions/duckdb-where-have-you-been-all-my-life/). The record is on [Work](/work/).
+[Burlap](https://burlap.app), a native macOS canvas for visual reference prompting and context management, built since April 2025 by a team of four senior engineers. [Contraptions](/contraptions/), the shelf of small software machines. The data writing: [an append-only pipeline on external tables](/transmissions/external-tables/), in five parts, with [window functions](/transmissions/window-functions/), [SQL as the data language](/transmissions/sql-as-the-data-language/) and [DuckDB](/transmissions/duckdb-where-have-you-been-all-my-life/). [Ingather](/conspiracies/ingather/), the control system he led at T.E.C. Systems: [see a demo of a live bespoke cultivation interface](https://ingather-demo.marshy-runner.workers.dev). The record is on [Work](/work/).
 
 ## Questions
 

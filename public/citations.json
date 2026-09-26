@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 529,
+  "citation_count": 540,
   "pages": [
     {
       "path": "/",
@@ -1687,6 +1687,10 @@
           "text": "Release record"
         },
         {
+          "url": "https://contraptions.bookofsarth.com/image-compare-workbench",
+          "text": "Image Compare Workbench"
+        },
+        {
           "url": "https://imgsli.com/",
           "text": "imgsli"
         },
@@ -1695,12 +1699,12 @@
           "text": "Improve ImgSLI"
         },
         {
-          "url": "https://contraptions.bookofsarth.com/image-compare-workbench",
-          "text": "Use it"
-        },
-        {
           "url": "https://github.com/whiddershins/image-compare-workbench",
           "text": "Source"
+        },
+        {
+          "url": "https://contraptions.bookofsarth.com/soundscape-one",
+          "text": "Soundscape One"
         },
         {
           "url": "https://contraptions.bookofsarth.com/soundscape-one/one-a.html",
@@ -1713,10 +1717,6 @@
         {
           "url": "https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html",
           "text": "Soundscape One B"
-        },
-        {
-          "url": "https://contraptions.bookofsarth.com/soundscape-one",
-          "text": "Walk it"
         },
         {
           "url": "https://github.com/whiddershins/WebAudioSoundscape_01",
@@ -2045,6 +2045,14 @@
           "text": "Cranbrook"
         },
         {
+          "url": "https://web.archive.org/web/20220610153101/https://www.nypl.org/events/exhibitions/lou-reed",
+          "text": "New York Public Library, archived"
+        },
+        {
+          "url": "https://web.archive.org/web/20140307215233/http://www.noguchi.org/programs/public/bora-yoon",
+          "text": "Noguchi Museum, archived"
+        },
+        {
           "url": "https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review",
           "text": "The Guardian"
         },
@@ -2059,6 +2067,22 @@
         {
           "url": "https://www.stereophile.com/content/gralbum-re-thinking-concept-album",
           "text": "Stereophile"
+        },
+        {
+          "url": "https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html",
+          "text": "Los Angeles Times"
+        },
+        {
+          "url": "https://web.archive.org/web/20160204033351/http://www.newyorklivearts.org/event/live_ideas_master_ren",
+          "text": "New York Live Arts, archived"
+        },
+        {
+          "url": "https://kiss2016.symbolicsound.com/program/",
+          "text": "KISS 2016 program"
+        },
+        {
+          "url": "https://kiss2018.symbolicsound.com/complete-program/",
+          "text": "KISS 2018 program"
         },
         {
           "url": "https://www.youtube.com/watch?v=Tn0FxV9NKns",
@@ -2768,6 +2792,26 @@
         {
           "url": "https://www.youtube.com/watch?v=wroKqbXfx5g",
           "text": "Video"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Tn0FxV9NKns",
+          "text": "The recording"
+        },
+        {
+          "url": "https://kiss2018.symbolicsound.com/complete-program/",
+          "text": "KISS 2018 program"
+        },
+        {
+          "url": "https://kiss2016.symbolicsound.com/program/",
+          "text": "KISS 2016 program"
+        },
+        {
+          "url": "https://web.archive.org/web/20160204033351/http://www.newyorklivearts.org/event/live_ideas_master_ren",
+          "text": "New York Live Arts, archived"
+        },
+        {
+          "url": "https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html",
+          "text": "Los Angeles Times"
         },
         {
           "url": "https://reaktor.com",

@@ -4,7 +4,7 @@ description: Ingather, the control system Sarth Calhoun built for a cannabis cul
 url: https://www.sarth.net/conspiracies/ingather/
 published: 2026-09-23
 facet: machine
-credit: Ingather was built by Sarth Calhoun between August 2021 and March 2022.
+credit: Ingather, a T.E.C. Systems product. Sarth Calhoun led a nine-person team, six developers and two designers, as Director of Product, August 2021 to March 2022. It ran a 120,000 square foot indoor agriculture facility.
 author: Sarth Calhoun
 ---
 [Conspiracies](/conspiracies/) / Ingather
@@ -45,7 +45,7 @@ Time runs at 1800 times real speed, a full light cycle every forty eight seconds
 
 ## How it started
 
-The credit: Ingather was built by Sarth Calhoun between August 2021 and March 2022.
+The credit: Ingather, a T.E.C. Systems product. Sarth Calhoun led a nine-person team, six developers and two designers, as Director of Product, August 2021 to March 2022. It ran a 120,000 square foot indoor agriculture facility.
 
 ## Conspiracies
 

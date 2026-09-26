@@ -26,7 +26,9 @@ Brooklyn, New York
 **What he does**
 Adult animation as drama at Third Wall. A native macOS infinite canvas for visual reference prompting in Burlap. Data engineering and AI practice, written up in [Transmissions](/transmissions/).
 **Data engineering**
-Data engineer at [Reaktor](https://reaktor.com). Clients include Paramount Advanced Advertising and Viasat. Redshift, Snowflake, schema on read evangelist. See [Work](/work/).
+Lead Data Architect at [Reaktor](https://reaktor.com), 2022 to 2025, on client work for Paramount Advanced Advertising and Viasat. Redshift, Snowflake, schema on read. [Reaktor Live, June 2023](/sightings/reaktor-live-2023/), a panel with Paramount. See [Work](/work/).
+**Talks**
+Reaktor Live with Paramount, 2023. Kyma International Sound Symposium, UC Santa Cruz, 2018, and De Montfort University, 2016. New York Live Arts, 2015. With Bob Ezrin at Cal State Long Beach, 2012. [The list](/work/#talks).
 **Sites**
 [sarth.net](https://www.sarth.net) · [thirdwallstudio.com](https://thirdwallstudio.com) · [burlap.app](https://burlap.app) · [bookofsarth.com](https://bookofsarth.com)
 **Social**
@@ -35,6 +37,10 @@ Data engineer at [Reaktor](https://reaktor.com). Clients include Paramount Advan
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) with Lou Reed and Ulrich Krieger; the original [*Lulu*](/conspiracies/lulu/) score with Reed for Robert Wilson, then the Lou Reed and Metallica album; [“Junior Dad”](/conspiracies/junior-dad/); [*The Book of Sarth*](/conspiracies/book-of-sarth/); [Lucibel Crater](/conspiracies/lucibel-crater/).
 **Identifiers**
 [Wikidata Q7424654](https://www.wikidata.org/wiki/Q7424654) · [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f) · [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
+
+## Data Engineering for Art
+
+[Burlap](https://burlap.app), a native macOS canvas for visual reference prompting and context management, built since April 2025 by a team of four senior engineers. [Contraptions](/contraptions/), the shelf of small software machines. The data writing: [an append-only pipeline on external tables](/transmissions/external-tables/), in five parts, with [window functions](/transmissions/window-functions/), [SQL as the data language](/transmissions/sql-as-the-data-language/) and [DuckDB](/transmissions/duckdb-where-have-you-been-all-my-life/). The record is on [Work](/work/).
 
 ## Questions
 
@@ -48,6 +54,8 @@ Yes. He founded [Third Wall Studio](https://thirdwallstudio.com) in May 2025, an
 Third Wall Studio is an animation studio Sarth Calhoun founded in May 2025. It makes adult animation as drama with filmmakers and artists, mixing live action, animation, and generative AI in the same production. [thirdwallstudio.com](https://thirdwallstudio.com)
 **What is Burlap?**
 Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. [burlap.app](https://burlap.app)
+**Who built Burlap?**
+Burlap was built over 18 months by a team of four senior engineers, starting in April 2025. Three of them, including Calhoun, worked together as data engineers at Reaktor. The fourth has 20 years of iOS development. It is a native macOS app for visual reference prompting and context management.
 **What does Sarth Calhoun do in data engineering?**
 Sarth Calhoun is a data engineer. At [Reaktor](https://reaktor.com) he worked with Paramount’s Advanced Advertising organization. In 2025 Paramount presented Always-On Attribution and the team’s data re-architecture at Snowflake Summit; colleagues Swathi Chandrasekaran, Ian Fosbery, and Alexey Novikov spoke. He also worked for Viasat. He writes about append-only pipelines, external tables, window functions, SQL, and DuckDB on this site. [Work](/work/) · [External tables](/transmissions/external-tables/)
 **What is the external-tables series?**

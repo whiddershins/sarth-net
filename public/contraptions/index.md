@@ -20,7 +20,7 @@ FM / 6, the Glass garden patch.
 
 The record: Published September 8, 2026. Six operators, four FM routings, two touch keyboards with sustain latches, MIDI and MPE input, ten starting patches, patch URLs, JSON import and export. The C++ engine runs in the browser through WebAssembly and the Web Audio API. [Play](https://contraptions.bookofsarth.com/fm6/) · [Guide](https://contraptions.bookofsarth.com/fm6.md) · [Release record](https://contraptions.bookofsarth.com/fm6.json)
 
-## FM / 6
+## [FM / 6](https://contraptions.bookofsarth.com/fm6/)
 
 Six operators. Two keyboards. A sound you can take apart.
 
@@ -28,7 +28,7 @@ A six-operator synthesizer. Start with a bell, a bass or a slowly moving chord. 
 
 Why: to make the relationships inside a sound playable and understandable. Each operator explains its role in the current patch and suggests a useful change to try.
 
-## Image Compare Workbench
+## [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
 
 One folder of gens. Two click-rails on the same pool. Lock A, walk B. Camera and wipe stay put. Nothing leaves the browser.
 
@@ -46,7 +46,7 @@ Image Compare Workbench: two rails, one pool, a wipe between A and B.
 
 Soundscape One. The ball is you.
 
-## Soundscape One
+## [Soundscape One](https://contraptions.bookofsarth.com/soundscape-one)
 
 A 2D field of sound. You walk; the mix follows. Position is the instrument.
 

@@ -85,7 +85,7 @@
   </header>
 
   <main class="page">
-    <p class="kicker">CV · updated September 23, 2026</p>
+    <p class="kicker">CV · updated September 26, 2026</p>
     <h1>Work</h1>
     <p>What I do and have done, newest first. The things themselves are on <a href="/transmissions/">Transmissions</a>; the people are <a href="/conspirators/">Conspirators</a>.</p>
 
@@ -94,7 +94,7 @@
       <ul class="dates">
         <li><p><strong><a href="/conspiracies/third-wall-studio/">Third Wall Studio</a>.</strong> Founder, May 2025. We make animations with filmmakers and artists, and build new tech for ancient magic. Seven films in 2026 with Doron Lev, Jacob McCoy, Savas and Jonathan Arons, all made in Burlap.</p>
           <p class="meta"><a href="https://thirdwallstudio.com">thirdwallstudio.com</a> · <a href="https://www.instagram.com/3rdwallstudio/">Instagram</a> · <a href="/transmissions/#optical">the films</a> · <a href="/transmissions/through-the-brambles/">Through the Brambles</a></p></li>
-        <li><p><strong><a href="/conspiracies/burlap/">Burlap</a>.</strong> Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025.</p>
+        <li><p><strong><a href="/conspiracies/burlap/">Burlap</a>.</strong> Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025. Built since April 2025 by a team of four senior engineers: three of us worked together as data engineers at Reaktor, and the fourth has twenty years of iOS development.</p>
           <p class="meta"><a href="https://burlap.app">burlap.app</a> · <a href="https://www.youtube.com/watch?v=CP8939UdzSo">Introducing Burlap</a> · <a href="https://www.youtube.com/watch?v=UYN5ijezg3k">The AI canvas</a></p></li>
         <li><p><strong>Ostinato.</strong> A new product.</p></li>
         <li><p><strong>High Shoulder.</strong> A new company.</p></li>
@@ -111,20 +111,46 @@
           <p class="meta"><a href="/transmissions/duckdb-where-have-you-been-all-my-life/">DuckDB, where have you been all my life</a></p></li>
       </ul>
     </section>
+    <section id="talks">
+      <h2>Talks</h2>
+      <ul class="dates">
+        <li><p><strong>Reaktor Live, June 27, 2023.</strong> “Maximizing Growth Through Accessible and Actionable Data,” with Michele Stone of Paramount, moderated by Ian Fosbery.</p>
+          <p class="meta"><a href="/sightings/reaktor-live-2023/">The page</a> · <a href="https://www.youtube.com/watch?v=Tn0FxV9NKns">The recording</a></p></li>
+        <li><p><strong>“Use of Syntactic Ambiguity in Music.”</strong> Kyma International Sound Symposium, University of California Santa Cruz, September 7, 2018.</p>
+          <p class="meta"><a href="https://kiss2018.symbolicsound.com/complete-program/">KISS 2018 program</a></p></li>
+        <li><p><strong>“Emergent Polyrhythmic Drones for Improvised Music.”</strong> Kyma International Sound Symposium, De Montfort University, Leicester, September 9, 2016.</p>
+          <p class="meta"><a href="https://kiss2016.symbolicsound.com/program/">KISS 2016 program</a></p></li>
+        <li><p><strong>Panelist, Master Ren and Lou Reed’s Drones, following Laurie Anderson’s talk.</strong> Live Ideas festival, New York Live Arts, April 17, 2015.</p>
+          <p class="meta"><a href="https://web.archive.org/web/20160204033351/http://www.newyorklivearts.org/event/live_ideas_master_ren">New York Live Arts, archived</a></p></li>
+        <li><p><strong>“The Making of the Universe,” with Bob Ezrin.</strong> Carpenter Performing Arts Center, Cal State Long Beach, January 27, 2012, opening the University Art Museum’s installation of <em>The Creation of the Universe</em>.</p>
+          <p class="meta"><a href="https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html">Los Angeles Times</a></p></li>
+      </ul>
+    </section>
     <section>
       <h2>Data engineering</h2>
       <ul class="dates">
-        <li><p><strong>Data engineer at <a href="https://reaktor.com">Reaktor</a>, embedded in Paramount’s Advanced Advertising data organization.</strong> The team built and ran the advertising data pipeline: household ad delivery, attribution, and the warehouse behind Paramount’s convergent ad products.</p>
+        <li><p><strong>Lead Data Architect at <a href="https://reaktor.com">Reaktor</a>, 2022 to March 2025,</strong> embedded in Paramount’s Advanced Advertising data organization, on a fifteen-person team enabling household-level ad delivery. The team built and ran the advertising data pipeline: household ad delivery, attribution, and the warehouse behind Paramount’s convergent ad products. I designed and built the pipeline’s QA and logging system, in Node, TypeScript, io-ts and Postgres.</p>
           <p class="meta"><a href="/sightings/reaktor-live-2023/">Reaktor Live, June 2023</a>, a webinar with Michele Stone of Paramount</p></li>
-        <li><p><strong>Redshift to Snowflake.</strong> Moving the advertising pipeline off Redshift. My work included QA and reload, making sure the data that moved was the data that arrived. The team later presented that re-architecture on the main stage at Snowflake Summit 2025.</p>
+        <li><p><strong>Redshift to Snowflake.</strong> Moving the advertising pipeline off Redshift. My work included QA and reload, making sure the data that moved was the data that arrived. Schema on read and external tables in Snowflake made state idempotent and cut reload time by 90%. The team later presented that re-architecture on the main stage at Snowflake Summit 2025.</p>
           <p class="meta"><a href="/transmissions/external-tables/">The append-only pattern, written up</a></p></li>
         <li><p><strong>Mastercard Circle of Honor, 2025.</strong> Paramount was recognized in the Honors for Innovation for its data-driven media measurement: cookie-less, cross-screen, measuring incremental transactions for retail and restaurant advertisers. Swathi Chandrasekaran, who leads product for Always-On Attribution, received the Award for Innovation. 13 billion impressions analyzed, $1 billion in incremental revenue measured, 3.5% average spend lift. I worked on the data side of that pipeline.</p>
           <p class="meta"><a href="https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html">Mastercard</a></p></li>
         <li><p><strong>Snowflake Summit 2025</strong>, Moscone Center, June 2–5. Swathi Chandrasekaran presented Paramount’s Always-On Attribution product; Ian Fosbery and Alexey Novikov presented the team’s data re-architecture.</p></li>
-        <li><p><strong>Ingather</strong>, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest.</p>
+        <li><p><strong>Ingather</strong>, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest. A T.E.C. Systems product: I led a nine-person team, six developers and two designers, as Director of Product, and it ran a 120,000 square foot indoor agriculture facility.</p>
           <p class="meta"><a href="/conspiracies/ingather/">Ingather</a> &middot; <a href="https://ingather-demo.marshy-runner.workers.dev">Playable demo</a></p></li>
-        <li><p><strong>Viasat.</strong> Engineering work.</p></li>
+        <li><p><strong>Viasat.</strong> An SDK that gives front-end developers one API across satellite providers, for in-flight entertainment on major airlines.</p></li>
+        <li><p><strong>Uniqlo.</strong> Real-time customer targeting for in-store offers and discounts.</p></li>
         <li><p><strong>blacktonature.org.</strong> I built the website. The domain no longer resolves.</p></li>
+      </ul>
+    </section>
+    <section>
+      <h2>Building automation and product</h2>
+      <ul class="dates">
+        <li><p><strong>T.E.C. Systems, Long Island City, 2004 to 2022.</strong> Building automation and control interfaces for New York facilities: Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, Memorial Sloan Kettering. I joined in 2004 as a UI designer, moved into UX engineering, and led product and development teams from 2010; Director of Product and Developer Manager by the end. Teams of three to nine, on budgets of $20k to $200k.</p></li>
+        <li><p><strong>The T.E.C. front-end framework.</strong> I wrote the JavaScript framework behind all of the company’s Honeywell control interfaces. Designers configure it in their own tools, and it ran stably for more than seven years.</p></li>
+        <li><p><strong>UItracker.</strong> A job-progress tracker for the company’s installations, product design and management with a team of three. It cut deployment errors from 3% to 0.1%.</p></li>
+        <li><p><strong>Re# Digital, Brooklyn, 2014 to 2017.</strong> Front-end contract work on the MEAN stack, for clients from Nike to the Prospect Park Alliance.</p></li>
+        <li><p><strong>Webmogul, 2001 to 2005.</strong> Co-founder of an early search and internet marketing firm in New York, with a white-hat SEO, pay-per-click and content practice. Number19’s first record was paid for with mp3.com royalties from that kind of marketing.</p></li>
       </ul>
     </section>
     <section>
@@ -158,7 +184,7 @@
           <p class="meta"><a href="/transmissions/introspections/">Introspections</a></p></li>
         <li><p><strong>Solsbury Hill and Peggy Sue.</strong> Lou Reed’s recordings for <em>And I’ll Scratch Yours</em>, 2013, which I produced and played electronics on, and <em>Rave On Buddy Holly</em>, 2011, on which I played bass.</p>
           <p class="meta"><a href="/transmissions/solsbury-hill/">Solsbury Hill</a> · <a href="/transmissions/peggy-sue/">Peggy Sue</a></p></li>
-        <li><p><strong>The Gralbum Collective.</strong> Founded 2012; the (gr)album app launched April 2014 with five titles.</p>
+        <li><p><strong>The Gralbum Collective.</strong> Founded 2012; the (gr)album app launched April 2014 with five titles. I designed the product and led developers who came from video games, and wrote the rules and algorithms that guide the reader’s path through the visuals in time with the music. Every title was made with its artist.</p>
           <p class="meta"><a href="/conspiracies/gralbum-collective/">The Gralbum Collective</a></p></li>
         <li><p><strong>The Book of Sarth.</strong> 2012 to 2013. A graphic novel and concept album as one iPad app, two and a half years in the making, and my first full-length solo release.</p>
           <p class="meta"><a href="/conspiracies/book-of-sarth/">Book of Sarth</a> · <a href="https://bookofsarth.com">bookofsarth.com</a> · <a href="https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album">The Verge</a></p></li>

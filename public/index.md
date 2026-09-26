@@ -19,6 +19,8 @@ Burlap
 
 [Burlap](/conspiracies/burlap/) is the canvas underneath it all: a native app for visual creation and context management. Connect it to the latest models from OpenAI, Google, Runway, ByteDance, and more. When using your own API keys, your data never touches our server. [Download for Mac](https://burlap.app/download) · [burlap.app](https://burlap.app) · [Contraptions](/contraptions/)
 
+I also write about data engineering: [an append-only pipeline on external tables](/transmissions/external-tables/), in five parts; [window functions](/transmissions/window-functions/); [SQL as the data language](/transmissions/sql-as-the-data-language/); [DuckDB](/transmissions/duckdb-where-have-you-been-all-my-life/). The CV is on [Work](/work/).
+
 ![Burlap, infinite canvas for visual reference prompting.](/images/burlap.jpg)
 
 Burlap. Download at [burlap.app](https://burlap.app/download).

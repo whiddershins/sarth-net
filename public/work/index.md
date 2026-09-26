@@ -5,7 +5,7 @@ url: https://www.sarth.net/work/
 published: 2026-09-22
 author: Sarth Calhoun
 ---
-CV · updated September 23, 2026
+CV · updated September 26, 2026
 
 # Work
 
@@ -17,7 +17,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [the films](/transmissions/#optical) · [Through the Brambles](/transmissions/through-the-brambles/)
 
-- **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025.
+- **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025. Built since April 2025 by a team of four senior engineers: three of us worked together as data engineers at Reaktor, and the fourth has twenty years of iOS development.
 
   [burlap.app](https://burlap.app) · [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo) · [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 
@@ -39,13 +39,35 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 
+## Talks
+
+- **Reaktor Live, June 27, 2023.** “Maximizing Growth Through Accessible and Actionable Data,” with Michele Stone of Paramount, moderated by Ian Fosbery.
+
+  [The page](/sightings/reaktor-live-2023/) · [The recording](https://www.youtube.com/watch?v=Tn0FxV9NKns)
+
+- **“Use of Syntactic Ambiguity in Music.”** Kyma International Sound Symposium, University of California Santa Cruz, September 7, 2018.
+
+  [KISS 2018 program](https://kiss2018.symbolicsound.com/complete-program/)
+
+- **“Emergent Polyrhythmic Drones for Improvised Music.”** Kyma International Sound Symposium, De Montfort University, Leicester, September 9, 2016.
+
+  [KISS 2016 program](https://kiss2016.symbolicsound.com/program/)
+
+- **Panelist, Master Ren and Lou Reed’s Drones, following Laurie Anderson’s talk.** Live Ideas festival, New York Live Arts, April 17, 2015.
+
+  [New York Live Arts, archived](https://web.archive.org/web/20160204033351/http://www.newyorklivearts.org/event/live_ideas_master_ren)
+
+- **“The Making of the Universe,” with Bob Ezrin.** Carpenter Performing Arts Center, Cal State Long Beach, January 27, 2012, opening the University Art Museum’s installation of *The Creation of the Universe*.
+
+  [Los Angeles Times](https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html)
+
 ## Data engineering
 
-- **Data engineer at [Reaktor](https://reaktor.com), embedded in Paramount’s Advanced Advertising data organization.** The team built and ran the advertising data pipeline: household ad delivery, attribution, and the warehouse behind Paramount’s convergent ad products.
+- **Lead Data Architect at [Reaktor](https://reaktor.com), 2022 to March 2025,** embedded in Paramount’s Advanced Advertising data organization, on a fifteen-person team enabling household-level ad delivery. The team built and ran the advertising data pipeline: household ad delivery, attribution, and the warehouse behind Paramount’s convergent ad products. I designed and built the pipeline’s QA and logging system, in Node, TypeScript, io-ts and Postgres.
 
   [Reaktor Live, June 2023](/sightings/reaktor-live-2023/), a webinar with Michele Stone of Paramount
 
-- **Redshift to Snowflake.** Moving the advertising pipeline off Redshift. My work included QA and reload, making sure the data that moved was the data that arrived. The team later presented that re-architecture on the main stage at Snowflake Summit 2025.
+- **Redshift to Snowflake.** Moving the advertising pipeline off Redshift. My work included QA and reload, making sure the data that moved was the data that arrived. Schema on read and external tables in Snowflake made state idempotent and cut reload time by 90%. The team later presented that re-architecture on the main stage at Snowflake Summit 2025.
 
   [The append-only pattern, written up](/transmissions/external-tables/)
 
@@ -55,13 +77,23 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
 - **Snowflake Summit 2025**, Moscone Center, June 2–5. Swathi Chandrasekaran presented Paramount’s Always-On Attribution product; Ian Fosbery and Alexey Novikov presented the team’s data re-architecture.
 
-- **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest.
+- **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest. A T.E.C. Systems product: I led a nine-person team, six developers and two designers, as Director of Product, and it ran a 120,000 square foot indoor agriculture facility.
 
   [Ingather](/conspiracies/ingather/) · [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
 
-- **Viasat.** Engineering work.
+- **Viasat.** An SDK that gives front-end developers one API across satellite providers, for in-flight entertainment on major airlines.
+
+- **Uniqlo.** Real-time customer targeting for in-store offers and discounts.
 
 - **blacktonature.org.** I built the website. The domain no longer resolves.
+
+## Building automation and product
+
+- **T.E.C. Systems, Long Island City, 2004 to 2022.** Building automation and control interfaces for New York facilities: Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, Memorial Sloan Kettering. I joined in 2004 as a UI designer, moved into UX engineering, and led product and development teams from 2010; Director of Product and Developer Manager by the end. Teams of three to nine, on budgets of $20k to $200k.
+- **The T.E.C. front-end framework.** I wrote the JavaScript framework behind all of the company’s Honeywell control interfaces. Designers configure it in their own tools, and it ran stably for more than seven years.
+- **UItracker.** A job-progress tracker for the company’s installations, product design and management with a team of three. It cut deployment errors from 3% to 0.1%.
+- **Re# Digital, Brooklyn, 2014 to 2017.** Front-end contract work on the MEAN stack, for clients from Nike to the Prospect Park Alliance.
+- **Webmogul, 2001 to 2005.** Co-founder of an early search and internet marketing firm in New York, with a white-hat SEO, pay-per-click and content practice. Number19’s first record was paid for with mp3.com royalties from that kind of marketing.
 
 ## Instruments and synthesis
 
@@ -113,7 +145,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/)
 
-- **The Gralbum Collective.** Founded 2012; the (gr)album app launched April 2014 with five titles.
+- **The Gralbum Collective.** Founded 2012; the (gr)album app launched April 2014 with five titles. I designed the product and led developers who came from video games, and wrote the rules and algorithms that guide the reader’s path through the visuals in time with the music. Every title was made with its artist.
 
   [The Gralbum Collective](/conspiracies/gralbum-collective/)
 

@@ -13,16 +13,20 @@ Conspirator
 
 Paul Chuffo is a drummer in New York. He was the original drummer for [Gutbucket](https://en.wikipedia.org/wiki/Gutbucket_(band)), the punk and jazz band, and since 2005 he has played drums, thumb piano and sound in [Lucibel Crater](/conspiracies/lucibel-crater/) with [Leah Coloff](/conspirators/leah-coloff/) and me.
 
+![Lucibel Crater outdoors in Brooklyn, black and white: Paul Chuffo, Sarth Calhoun, Leah Coloff.](/images/l1000209.jpg)
+
+Paul Chuffo, left, with Lucibel Crater in Brooklyn: Sarth Calhoun and Leah Coloff. From the band’s photographs on the old sarth.net.
+
+> Paul Chuffo is a dynamic powerhouse who first caught the world’s attention as the original drummer for punk/jazz band Gutbucket, which [Modern Drummer](https://en.wikipedia.org/wiki/Modern_Drummer) described as, “a thrashing, squealing romp, full of shifting time signatures and punk-rock attitude.” He gives Lucibel Crater the joy and the energy to connect with your dancing feet.
+> 
+> Sarth Calhoun, introducing him on his old WordPress site
+
 ## Lucibel Crater
 
-Lucibel Crater has been a trio since I started it in 2005. A typical set begins with Chuffo’s syncopated drum parts being looped live, piece by piece, before the rest of the band builds on top of them. The trio released the EP *Miracles* in 2007 and the full-length *The Family Album* in 2008, with [Lou Reed](/conspirators/lou-reed/) playing guitar on “Threadbare Funeral.”
+Lucibel Crater has been a trio since I started it in 2005. A typical set begins with Chuffo’s syncopated drum parts being looped live, piece by piece, before the rest of the band builds on top of them; the looping ran in [Ableton Live](/devices/ableton-live/). The trio released the EP *Miracles* in 2007 and the full-length *The Family Album* in 2008, with [Lou Reed](/conspirators/lou-reed/) playing guitar on “Threadbare Funeral.”
 
 The dates that survive in the record run from the Knitting Factory in February 2007 through FatBaby, the Delancey and a Berlin night at RAW-Tempel in November 2008. They are listed on [Sightings](/sightings/).
 
 The credit: Paul Chuffo has played drums in Lucibel Crater with Sarth Calhoun and Leah Coloff since 2005, on *Miracles*, 2007, and *The Family Album*, 2008.
 
-## How I introduced him
-
-> Paul Chuffo is a dynamic powerhouse who first caught the world’s attention as the original drummer for punk/jazz band Gutbucket, which [Modern Drummer](https://en.wikipedia.org/wiki/Modern_Drummer) described as, “a thrashing, squealing romp, full of shifting time signatures and punk-rock attitude.” He gives Lucibel Crater the joy and the energy to connect with your dancing feet.
-
-I wrote that introduction for the conspirators section of my old WordPress site, recovered from the Wayback Machine.
+I wrote the introduction quoted above for the conspirators section of my old WordPress site, recovered from the Wayback Machine. The photograph is from the old site’s Lucibel Crater pictures.

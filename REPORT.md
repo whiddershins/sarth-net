@@ -152,7 +152,6 @@ a pull quote with its source, an embed, or an excerpt of the record. No filler.
 - https://www.sarth.net/conspiracies/reflections-vol-1/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspiracies/third-wall-studio/ (1 band): Not laid out yet.
 - https://www.sarth.net/conspirators/laurie-anderson/ (1 band): Not laid out yet.
-- https://www.sarth.net/conspirators/paul-chuffo/ (0 bands): Not laid out yet.
 - https://www.sarth.net/conspirators/tetiana-khodakivska/ (0 bands): No free photograph, quotation or embed yet.
 - https://www.sarth.net/transmissions/miracles/ (0 bands): No cover, track list or store listing found; Sarth to supply.
 
@@ -224,6 +223,7 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/mike-acerbo/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/mike-rathke/: 4 · 1 photo · 1 quote · 2 excerpt
 - https://www.sarth.net/conspirators/moldover/: 5 · 1 photo · 1 quote · 1 embed · 2 excerpt
+- https://www.sarth.net/conspirators/paul-chuffo/: 3 · 1 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/phil-weinrobe/: 2 · 2 excerpt
 - https://www.sarth.net/conspirators/rich-kulsar/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/conspirators/rob-wasserman/: 4 · 1 photo · 1 quote · 1 embed · 1 excerpt

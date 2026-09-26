@@ -85,6 +85,16 @@ nav a[aria-current="page"] { color: var(--paper); }
   color: var(--mute);
 }
 .hero-sub a { color: var(--paper); }
+.hero-sub + .hero-sub { margin-top: 0.35rem; }
+.hero-name {
+  margin: 0 0 0.8rem;
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--paper);
+}
 main.home { width: min(94rem, calc(100% - 4rem)); }
 main.home .films .thumbs { grid-template-columns: repeat(3, 1fr); }
 main.home .films p, main.home .burlap p, main.home .earlier p { max-width: 42rem; }

@@ -79,6 +79,14 @@ Billing: Lou Reed, guitar, electronics, Continuum. Ulrich Krieger, tenor sax, li
 
   [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
 
+- **June 9, 2022 – January 7, 2023** · Lou Reed Listening Room, Vincent Astor Gallery, New York Public Library for the Performing Arts, within the exhibition *Lou Reed: Caught Between the Twisted Stars*. *Metal Machine Trio: The Creation of the Universe*, twelve loudspeakers in an ambisonic arrangement.
+
+  [New York Public Library, archived](https://web.archive.org/web/20220610153101/https://www.nypl.org/events/exhibitions/lou-reed)
+
+- **February 15, 2014** · Noguchi Museum, Queens. Artists at Noguchi: Bora Yoon’s listening event for *Sunken Cathedral*, with the gralbum shown on site.
+
+  [Noguchi Museum, archived](https://web.archive.org/web/20140307215233/http://www.noguchi.org/programs/public/bora-yoon)
+
 ## Yellow Pony · Lou Reed and Laurie Anderson
 
 Continuum fingerboard and live resampling of their voices. Center of the stage, like a drummer.
@@ -129,6 +137,22 @@ Electronics on *[Lulu](/conspiracies/lulu/)*, 2011, and Continuum drones on the 
 - **March 2, 2023** · Brookfield Place Winter Garden. Lou Reed’s 81st birthday. Guest performance with Kevin Hearn, Shahzad Ismaily, Laurie Anderson, against Lou Reed’s Musical Drones (Stewart Hurwood).
 
 ## Talks
+
+- **January 27, 2012** · Carpenter Performing Arts Center, Cal State Long Beach. “The Making of the Universe,” with Bob Ezrin, opening the University Art Museum’s installation of *The Creation of the Universe*.
+
+  [Los Angeles Times](https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html)
+
+- **April 17, 2015** · New York Live Arts. Panelist, Master Ren and Lou Reed’s Drones, following Laurie Anderson’s talk, at the Live Ideas festival.
+
+  [New York Live Arts, archived](https://web.archive.org/web/20160204033351/http://www.newyorklivearts.org/event/live_ideas_master_ren)
+
+- **September 9, 2016** · Kyma International Sound Symposium, De Montfort University, Leicester. “Emergent Polyrhythmic Drones for Improvised Music.”
+
+  [KISS 2016 program](https://kiss2016.symbolicsound.com/program/)
+
+- **September 7, 2018** · Kyma International Sound Symposium, University of California Santa Cruz. “Use of Syntactic Ambiguity in Music.”
+
+  [KISS 2018 program](https://kiss2018.symbolicsound.com/complete-program/)
 
 - **June 27, 2023** · Reaktor Live, online. “Maximizing Growth Through Accessible and Actionable Data,” with Michele Stone of Paramount, moderated by Ian Fosbery. [The page](/sightings/reaktor-live-2023/).
 

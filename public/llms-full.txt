@@ -97,6 +97,8 @@ Burlap
 
 [Burlap](/conspiracies/burlap/) is the canvas underneath it all: a native app for visual creation and context management. Connect it to the latest models from OpenAI, Google, Runway, ByteDance, and more. When using your own API keys, your data never touches our server. [Download for Mac](https://burlap.app/download) · [burlap.app](https://burlap.app) · [Contraptions](/contraptions/)
 
+I also write about data engineering: [an append-only pipeline on external tables](/transmissions/external-tables/), in five parts; [window functions](/transmissions/window-functions/); [SQL as the data language](/transmissions/sql-as-the-data-language/); [DuckDB](/transmissions/duckdb-where-have-you-been-all-my-life/). The CV is on [Work](/work/).
+
 ![Burlap, infinite canvas for visual reference prompting.](/images/burlap.jpg)
 
 Burlap. Download at [burlap.app](https://burlap.app/download).
@@ -154,7 +156,9 @@ Brooklyn, New York
 **What he does**
 Adult animation as drama at Third Wall. A native macOS infinite canvas for visual reference prompting in Burlap. Data engineering and AI practice, written up in [Transmissions](/transmissions/).
 **Data engineering**
-Data engineer at [Reaktor](https://reaktor.com). Clients include Paramount Advanced Advertising and Viasat. Redshift, Snowflake, schema on read evangelist. See [Work](/work/).
+Lead Data Architect at [Reaktor](https://reaktor.com), 2022 to 2025, on client work for Paramount Advanced Advertising and Viasat. Redshift, Snowflake, schema on read. [Reaktor Live, June 2023](/sightings/reaktor-live-2023/), a panel with Paramount. See [Work](/work/).
+**Talks**
+Reaktor Live with Paramount, 2023. Kyma International Sound Symposium, UC Santa Cruz, 2018, and De Montfort University, 2016. New York Live Arts, 2015. With Bob Ezrin at Cal State Long Beach, 2012. [The list](/work/#talks).
 **Sites**
 [sarth.net](https://www.sarth.net) · [thirdwallstudio.com](https://thirdwallstudio.com) · [burlap.app](https://burlap.app) · [bookofsarth.com](https://bookofsarth.com)
 **Social**
@@ -163,6 +167,10 @@ Data engineer at [Reaktor](https://reaktor.com). Clients include Paramount Advan
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) with Lou Reed and Ulrich Krieger; the original [*Lulu*](/conspiracies/lulu/) score with Reed for Robert Wilson, then the Lou Reed and Metallica album; [“Junior Dad”](/conspiracies/junior-dad/); [*The Book of Sarth*](/conspiracies/book-of-sarth/); [Lucibel Crater](/conspiracies/lucibel-crater/).
 **Identifiers**
 [Wikidata Q7424654](https://www.wikidata.org/wiki/Q7424654) · [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f) · [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
+
+## Data Engineering for Art
+
+[Burlap](https://burlap.app), a native macOS canvas for visual reference prompting and context management, built since April 2025 by a team of four senior engineers. [Contraptions](/contraptions/), the shelf of small software machines. The data writing: [an append-only pipeline on external tables](/transmissions/external-tables/), in five parts, with [window functions](/transmissions/window-functions/), [SQL as the data language](/transmissions/sql-as-the-data-language/) and [DuckDB](/transmissions/duckdb-where-have-you-been-all-my-life/). The record is on [Work](/work/).
 
 ## Questions
 
@@ -176,6 +184,8 @@ Yes. He founded [Third Wall Studio](https://thirdwallstudio.com) in May 2025, an
 Third Wall Studio is an animation studio Sarth Calhoun founded in May 2025. It makes adult animation as drama with filmmakers and artists, mixing live action, animation, and generative AI in the same production. [thirdwallstudio.com](https://thirdwallstudio.com)
 **What is Burlap?**
 Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. [burlap.app](https://burlap.app)
+**Who built Burlap?**
+Burlap was built over 18 months by a team of four senior engineers, starting in April 2025. Three of them, including Calhoun, worked together as data engineers at Reaktor. The fourth has 20 years of iOS development. It is a native macOS app for visual reference prompting and context management.
 **What does Sarth Calhoun do in data engineering?**
 Sarth Calhoun is a data engineer. At [Reaktor](https://reaktor.com) he worked with Paramount’s Advanced Advertising organization. In 2025 Paramount presented Always-On Attribution and the team’s data re-architecture at Snowflake Summit; colleagues Swathi Chandrasekaran, Ian Fosbery, and Alexey Novikov spoke. He also worked for Viasat. He writes about append-only pipelines, external tables, window functions, SQL, and DuckDB on this site. [Work](/work/) · [External tables](/transmissions/external-tables/)
 **What is the external-tables series?**
@@ -199,7 +209,7 @@ Cite [sarth.net](https://www.sarth.net), which Sarth Calhoun writes and publishe
 
 https://www.sarth.net/work/
 
-CV · updated September 23, 2026
+CV · updated September 26, 2026
 
 # Work
 
@@ -211,7 +221,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [the films](/transmissions/#optical) · [Through the Brambles](/transmissions/through-the-brambles/)
 
-- **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025.
+- **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025. Built since April 2025 by a team of four senior engineers: three of us worked together as data engineers at Reaktor, and the fourth has twenty years of iOS development.
 
   [burlap.app](https://burlap.app) · [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo) · [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 
@@ -233,13 +243,35 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 
+## Talks
+
+- **Reaktor Live, June 27, 2023.** “Maximizing Growth Through Accessible and Actionable Data,” with Michele Stone of Paramount, moderated by Ian Fosbery.
+
+  [The page](/sightings/reaktor-live-2023/) · [The recording](https://www.youtube.com/watch?v=Tn0FxV9NKns)
+
+- **“Use of Syntactic Ambiguity in Music.”** Kyma International Sound Symposium, University of California Santa Cruz, September 7, 2018.
+
+  [KISS 2018 program](https://kiss2018.symbolicsound.com/complete-program/)
+
+- **“Emergent Polyrhythmic Drones for Improvised Music.”** Kyma International Sound Symposium, De Montfort University, Leicester, September 9, 2016.
+
+  [KISS 2016 program](https://kiss2016.symbolicsound.com/program/)
+
+- **Panelist, Master Ren and Lou Reed’s Drones, following Laurie Anderson’s talk.** Live Ideas festival, New York Live Arts, April 17, 2015.
+
+  [New York Live Arts, archived](https://web.archive.org/web/20160204033351/http://www.newyorklivearts.org/event/live_ideas_master_ren)
+
+- **“The Making of the Universe,” with Bob Ezrin.** Carpenter Performing Arts Center, Cal State Long Beach, January 27, 2012, opening the University Art Museum’s installation of *The Creation of the Universe*.
+
+  [Los Angeles Times](https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html)
+
 ## Data engineering
 
-- **Data engineer at [Reaktor](https://reaktor.com), embedded in Paramount’s Advanced Advertising data organization.** The team built and ran the advertising data pipeline: household ad delivery, attribution, and the warehouse behind Paramount’s convergent ad products.
+- **Lead Data Architect at [Reaktor](https://reaktor.com), 2022 to March 2025,** embedded in Paramount’s Advanced Advertising data organization, on a fifteen-person team enabling household-level ad delivery. The team built and ran the advertising data pipeline: household ad delivery, attribution, and the warehouse behind Paramount’s convergent ad products. I designed and built the pipeline’s QA and logging system, in Node, TypeScript, io-ts and Postgres.
 
   [Reaktor Live, June 2023](/sightings/reaktor-live-2023/), a webinar with Michele Stone of Paramount
 
-- **Redshift to Snowflake.** Moving the advertising pipeline off Redshift. My work included QA and reload, making sure the data that moved was the data that arrived. The team later presented that re-architecture on the main stage at Snowflake Summit 2025.
+- **Redshift to Snowflake.** Moving the advertising pipeline off Redshift. My work included QA and reload, making sure the data that moved was the data that arrived. Schema on read and external tables in Snowflake made state idempotent and cut reload time by 90%. The team later presented that re-architecture on the main stage at Snowflake Summit 2025.
 
   [The append-only pattern, written up](/transmissions/external-tables/)
 
@@ -249,13 +281,23 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
 - **Snowflake Summit 2025**, Moscone Center, June 2–5. Swathi Chandrasekaran presented Paramount’s Always-On Attribution product; Ian Fosbery and Alexey Novikov presented the team’s data re-architecture.
 
-- **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest.
+- **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest. A T.E.C. Systems product: I led a nine-person team, six developers and two designers, as Director of Product, and it ran a 120,000 square foot indoor agriculture facility.
 
   [Ingather](/conspiracies/ingather/) · [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
 
-- **Viasat.** Engineering work.
+- **Viasat.** An SDK that gives front-end developers one API across satellite providers, for in-flight entertainment on major airlines.
+
+- **Uniqlo.** Real-time customer targeting for in-store offers and discounts.
 
 - **blacktonature.org.** I built the website. The domain no longer resolves.
+
+## Building automation and product
+
+- **T.E.C. Systems, Long Island City, 2004 to 2022.** Building automation and control interfaces for New York facilities: Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, Memorial Sloan Kettering. I joined in 2004 as a UI designer, moved into UX engineering, and led product and development teams from 2010; Director of Product and Developer Manager by the end. Teams of three to nine, on budgets of $20k to $200k.
+- **The T.E.C. front-end framework.** I wrote the JavaScript framework behind all of the company’s Honeywell control interfaces. Designers configure it in their own tools, and it ran stably for more than seven years.
+- **UItracker.** A job-progress tracker for the company’s installations, product design and management with a team of three. It cut deployment errors from 3% to 0.1%.
+- **Re# Digital, Brooklyn, 2014 to 2017.** Front-end contract work on the MEAN stack, for clients from Nike to the Prospect Park Alliance.
+- **Webmogul, 2001 to 2005.** Co-founder of an early search and internet marketing firm in New York, with a white-hat SEO, pay-per-click and content practice. Number19’s first record was paid for with mp3.com royalties from that kind of marketing.
 
 ## Instruments and synthesis
 
@@ -307,7 +349,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/)
 
-- **The Gralbum Collective.** Founded 2012; the (gr)album app launched April 2014 with five titles.
+- **The Gralbum Collective.** Founded 2012; the (gr)album app launched April 2014 with five titles. I designed the product and led developers who came from video games, and wrote the rules and algorithms that guide the reader’s path through the visuals in time with the music. Every title was made with its artist.
 
   [The Gralbum Collective](/conspiracies/gralbum-collective/)
 
@@ -470,7 +512,7 @@ FM / 6, the Glass garden patch.
 
 The record: Published September 8, 2026. Six operators, four FM routings, two touch keyboards with sustain latches, MIDI and MPE input, ten starting patches, patch URLs, JSON import and export. The C++ engine runs in the browser through WebAssembly and the Web Audio API. [Play](https://contraptions.bookofsarth.com/fm6/) · [Guide](https://contraptions.bookofsarth.com/fm6.md) · [Release record](https://contraptions.bookofsarth.com/fm6.json)
 
-## FM / 6
+## [FM / 6](https://contraptions.bookofsarth.com/fm6/)
 
 Six operators. Two keyboards. A sound you can take apart.
 
@@ -478,7 +520,7 @@ A six-operator synthesizer. Start with a bell, a bass or a slowly moving chord. 
 
 Why: to make the relationships inside a sound playable and understandable. Each operator explains its role in the current patch and suggests a useful change to try.
 
-## Image Compare Workbench
+## [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
 
 One folder of gens. Two click-rails on the same pool. Lock A, walk B. Camera and wipe stay put. Nothing leaves the browser.
 
@@ -496,7 +538,7 @@ Image Compare Workbench: two rails, one pool, a wipe between A and B.
 
 Soundscape One. The ball is you.
 
-## Soundscape One
+## [Soundscape One](https://contraptions.bookofsarth.com/soundscape-one)
 
 A 2D field of sound. You walk; the mix follows. Position is the instrument.
 
@@ -578,7 +620,7 @@ Time runs at 1800 times real speed, a full light cycle every forty eight seconds
 
 ## How it started
 
-The credit: Ingather was built by Sarth Calhoun between August 2021 and March 2022.
+The credit: Ingather, a T.E.C. Systems product. Sarth Calhoun led a nine-person team, six developers and two designers, as Director of Product, August 2021 to March 2022. It ran a 120,000 square foot indoor agriculture facility.
 
 ## Conspiracies
 
@@ -3590,19 +3632,23 @@ Conspirator
 
 Paul Chuffo is a drummer in New York. He was the original drummer for [Gutbucket](https://en.wikipedia.org/wiki/Gutbucket_(band)), the punk and jazz band, and since 2005 he has played drums, thumb piano and sound in [Lucibel Crater](/conspiracies/lucibel-crater/) with [Leah Coloff](/conspirators/leah-coloff/) and me.
 
+![Lucibel Crater outdoors in Brooklyn, black and white: Paul Chuffo, Sarth Calhoun, Leah Coloff.](/images/l1000209.jpg)
+
+Paul Chuffo, left, with Lucibel Crater in Brooklyn: Sarth Calhoun and Leah Coloff. From the band’s photographs on the old sarth.net.
+
+> Paul Chuffo is a dynamic powerhouse who first caught the world’s attention as the original drummer for punk/jazz band Gutbucket, which [Modern Drummer](https://en.wikipedia.org/wiki/Modern_Drummer) described as, “a thrashing, squealing romp, full of shifting time signatures and punk-rock attitude.” He gives Lucibel Crater the joy and the energy to connect with your dancing feet.
+> 
+> Sarth Calhoun, introducing him on his old WordPress site
+
 ## Lucibel Crater
 
-Lucibel Crater has been a trio since I started it in 2005. A typical set begins with Chuffo’s syncopated drum parts being looped live, piece by piece, before the rest of the band builds on top of them. The trio released the EP *Miracles* in 2007 and the full-length *The Family Album* in 2008, with [Lou Reed](/conspirators/lou-reed/) playing guitar on “Threadbare Funeral.”
+Lucibel Crater has been a trio since I started it in 2005. A typical set begins with Chuffo’s syncopated drum parts being looped live, piece by piece, before the rest of the band builds on top of them; the looping ran in [Ableton Live](/devices/ableton-live/). The trio released the EP *Miracles* in 2007 and the full-length *The Family Album* in 2008, with [Lou Reed](/conspirators/lou-reed/) playing guitar on “Threadbare Funeral.”
 
 The dates that survive in the record run from the Knitting Factory in February 2007 through FatBaby, the Delancey and a Berlin night at RAW-Tempel in November 2008. They are listed on [Sightings](/sightings/).
 
 The credit: Paul Chuffo has played drums in Lucibel Crater with Sarth Calhoun and Leah Coloff since 2005, on *Miracles*, 2007, and *The Family Album*, 2008.
 
-## How I introduced him
-
-> Paul Chuffo is a dynamic powerhouse who first caught the world’s attention as the original drummer for punk/jazz band Gutbucket, which [Modern Drummer](https://en.wikipedia.org/wiki/Modern_Drummer) described as, “a thrashing, squealing romp, full of shifting time signatures and punk-rock attitude.” He gives Lucibel Crater the joy and the energy to connect with your dancing feet.
-
-I wrote that introduction for the conspirators section of my old WordPress site, recovered from the Wayback Machine.
+I wrote the introduction quoted above for the conspirators section of my old WordPress site, recovered from the Wayback Machine. The photograph is from the old site’s Lucibel Crater pictures.
 
 ---
 
@@ -4881,6 +4927,14 @@ Billing: Lou Reed, guitar, electronics, Continuum. Ulrich Krieger, tenor sax, li
 
   [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
 
+- **June 9, 2022 – January 7, 2023** · Lou Reed Listening Room, Vincent Astor Gallery, New York Public Library for the Performing Arts, within the exhibition *Lou Reed: Caught Between the Twisted Stars*. *Metal Machine Trio: The Creation of the Universe*, twelve loudspeakers in an ambisonic arrangement.
+
+  [New York Public Library, archived](https://web.archive.org/web/20220610153101/https://www.nypl.org/events/exhibitions/lou-reed)
+
+- **February 15, 2014** · Noguchi Museum, Queens. Artists at Noguchi: Bora Yoon’s listening event for *Sunken Cathedral*, with the gralbum shown on site.
+
+  [Noguchi Museum, archived](https://web.archive.org/web/20140307215233/http://www.noguchi.org/programs/public/bora-yoon)
+
 ## Yellow Pony · Lou Reed and Laurie Anderson
 
 Continuum fingerboard and live resampling of their voices. Center of the stage, like a drummer.
@@ -4931,6 +4985,22 @@ Electronics on *[Lulu](/conspiracies/lulu/)*, 2011, and Continuum drones on the 
 - **March 2, 2023** · Brookfield Place Winter Garden. Lou Reed’s 81st birthday. Guest performance with Kevin Hearn, Shahzad Ismaily, Laurie Anderson, against Lou Reed’s Musical Drones (Stewart Hurwood).
 
 ## Talks
+
+- **January 27, 2012** · Carpenter Performing Arts Center, Cal State Long Beach. “The Making of the Universe,” with Bob Ezrin, opening the University Art Museum’s installation of *The Creation of the Universe*.
+
+  [Los Angeles Times](https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html)
+
+- **April 17, 2015** · New York Live Arts. Panelist, Master Ren and Lou Reed’s Drones, following Laurie Anderson’s talk, at the Live Ideas festival.
+
+  [New York Live Arts, archived](https://web.archive.org/web/20160204033351/http://www.newyorklivearts.org/event/live_ideas_master_ren)
+
+- **September 9, 2016** · Kyma International Sound Symposium, De Montfort University, Leicester. “Emergent Polyrhythmic Drones for Improvised Music.”
+
+  [KISS 2016 program](https://kiss2016.symbolicsound.com/program/)
+
+- **September 7, 2018** · Kyma International Sound Symposium, University of California Santa Cruz. “Use of Syntactic Ambiguity in Music.”
+
+  [KISS 2018 program](https://kiss2018.symbolicsound.com/complete-program/)
 
 - **June 27, 2023** · Reaktor Live, online. “Maximizing Growth Through Accessible and Actionable Data,” with Michele Stone of Paramount, moderated by Ian Fosbery. [The page](/sightings/reaktor-live-2023/).
 
@@ -6059,14 +6129,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Play](https://contraptions.bookofsarth.com/fm6/)
 - [Guide](https://contraptions.bookofsarth.com/fm6.md)
 - [Release record](https://contraptions.bookofsarth.com/fm6.json)
+- [Image Compare Workbench](https://contraptions.bookofsarth.com/image-compare-workbench)
 - [imgsli](https://imgsli.com/)
 - [Improve ImgSLI](https://github.com/Loganavter/Improve-ImgSLI)
-- [Use it](https://contraptions.bookofsarth.com/image-compare-workbench)
 - [Source](https://github.com/whiddershins/image-compare-workbench)
+- [Soundscape One](https://contraptions.bookofsarth.com/soundscape-one)
 - [Soundscape One A](https://contraptions.bookofsarth.com/soundscape-one/one-a.html)
 - [Soundscape Two A](https://contraptions.bookofsarth.com/soundscape-one/officeSoundscape_01.html)
 - [Soundscape One B](https://contraptions.bookofsarth.com/soundscape-one/musing_in_two_voices.html)
-- [Walk it](https://contraptions.bookofsarth.com/soundscape-one)
 - [Source](https://github.com/whiddershins/WebAudioSoundscape_01)
 - [Try it](https://ingather-demo.marshy-runner.workers.dev)
 - [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript)
@@ -6181,10 +6251,16 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Ulrich Krieger, The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable)
 - [Chicago Tribune](https://www.chicagotribune.com/2009/08/10/lollapalooza-does-it-again/)
 - [Cranbrook](https://cranbrookartmuseum.org/exhibition/lou-reed-metal-machine-trio-the-creation-of-the-universe/)
+- [New York Public Library, archived](https://web.archive.org/web/20220610153101/https://www.nypl.org/events/exhibitions/lou-reed)
+- [Noguchi Museum, archived](https://web.archive.org/web/20140307215233/http://www.noguchi.org/programs/public/bora-yoon)
 - [The Guardian](https://www.theguardian.com/music/2009/jul/20/laurie-anderson-lou-reed-review)
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Stereophile](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [Los Angeles Times](https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html)
+- [New York Live Arts, archived](https://web.archive.org/web/20160204033351/http://www.newyorklivearts.org/event/live_ideas_master_ren)
+- [KISS 2016 program](https://kiss2016.symbolicsound.com/program/)
+- [KISS 2018 program](https://kiss2018.symbolicsound.com/complete-program/)
 - [The recording](https://www.youtube.com/watch?v=Tn0FxV9NKns)
 - [loureed.com, Jun 25, 2009, archived news feed](https://web.archive.org/web/20091014115819/http://www.loureed.com/00/archivexml.php)
 - [Apple Music](https://music.apple.com/us/album/the-creation-of-the-universe/315196713)
@@ -6447,6 +6523,11 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo)
 - [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 - [Video](https://www.youtube.com/watch?v=wroKqbXfx5g)
+- [The recording](https://www.youtube.com/watch?v=Tn0FxV9NKns)
+- [KISS 2018 program](https://kiss2018.symbolicsound.com/complete-program/)
+- [KISS 2016 program](https://kiss2016.symbolicsound.com/program/)
+- [New York Live Arts, archived](https://web.archive.org/web/20160204033351/http://www.newyorklivearts.org/event/live_ideas_master_ren)
+- [Los Angeles Times](https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html)
 - [Reaktor](https://reaktor.com)
 - [Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
 - [Playable demo](https://ingather-demo.marshy-runner.workers.dev)

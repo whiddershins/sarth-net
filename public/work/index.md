@@ -77,10 +77,6 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
 - **Snowflake Summit 2025**, Moscone Center, June 2–5. Swathi Chandrasekaran presented Paramount’s Always-On Attribution product; Ian Fosbery and Alexey Novikov presented the team’s data re-architecture.
 
-- **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest. A T.E.C. Systems product: I led a nine-person team, six developers and two designers, as Director of Product, and it ran a 120,000 square foot indoor agriculture facility.
-
-  [Ingather](/conspiracies/ingather/) · [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
-
 - **Viasat.** An SDK that gives front-end developers one API across satellite providers, for in-flight entertainment on major airlines.
 
 - **Uniqlo.** Real-time customer targeting for in-store offers and discounts.
@@ -90,9 +86,17 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 ## Building automation and product
 
 - **T.E.C. Systems, Long Island City, 2004 to 2022.** Building automation and control interfaces for New York facilities: Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, Memorial Sloan Kettering. I joined in 2004 as a UI designer, moved into UX engineering, and led product and development teams from 2010; Director of Product and Developer Manager by the end. Teams of three to nine, on budgets of $20k to $200k.
+
+- **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest. A T.E.C. Systems product: I led a nine-person team, six developers and two designers, as Director of Product, and it ran a 120,000 square foot indoor agriculture facility.
+
+  [Ingather](/conspiracies/ingather/) · [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
+
 - **The T.E.C. front-end framework.** I wrote the JavaScript framework behind all of the company’s Honeywell control interfaces. Designers configure it in their own tools, and it ran stably for more than seven years.
+
 - **UItracker.** A job-progress tracker for the company’s installations, product design and management with a team of three. It cut deployment errors from 3% to 0.1%.
+
 - **Re# Digital, Brooklyn, 2014 to 2017.** Front-end contract work on the MEAN stack, for clients from Nike to the Prospect Park Alliance.
+
 - **Webmogul, 2001 to 2005.** Co-founder of an early search and internet marketing firm in New York, with a white-hat SEO, pay-per-click and content practice. Number19’s first record was paid for with mp3.com royalties from that kind of marketing.
 
 ## Instruments and synthesis

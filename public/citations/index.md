@@ -1099,7 +1099,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Los Angeles Times](https://www.latimes.com/archives/la-xpm-2012-jan-27-la-et-lou-reed-20120127-story.html)
 - [Reaktor](https://reaktor.com)
 - [Mastercard](https://www.mastercard.com/global/en/business/services/mastercard-circle-of-honor/paramount-2025.html)
-- [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
+- [See a demo of a live bespoke cultivation interface](https://ingather-demo.marshy-runner.workers.dev)
 - [contraptions.bookofsarth.com](https://contraptions.bookofsarth.com)
 - [Watch](https://www.youtube.com/watch?v=8MqhRQI84Os)
 - [Bandcamp](https://sarth.bandcamp.com/track/i-just-believe-in-christmas)

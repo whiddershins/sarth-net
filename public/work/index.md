@@ -89,7 +89,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
 - **Ingather**, an integrated control system for a cannabis cultivation facility. August 2021 to March 2022. Rooms and zones, plant groups and strains, fertigation and lighting routines, dosing recipes and machines. A SvelteKit front end over a REST API, with its own server-side endpoints so the client never talks to the backend directly. Named for the archaic sense of the word: to gather in, to harvest. A T.E.C. Systems product: I led a nine-person team, six developers and two designers, as Director of Product, and it ran a 120,000 square foot indoor agriculture facility.
 
-  [Ingather](/conspiracies/ingather/) · [Playable demo](https://ingather-demo.marshy-runner.workers.dev)
+  [See a demo of a live bespoke cultivation interface](https://ingather-demo.marshy-runner.workers.dev) · [Ingather](/conspiracies/ingather/)
 
 - **The T.E.C. front-end framework.** I wrote the JavaScript framework behind all of the company’s Honeywell control interfaces. Designers configure it in their own tools, and it ran stably for more than seven years.
 

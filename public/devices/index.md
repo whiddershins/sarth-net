@@ -37,7 +37,7 @@ Yamaha’s 1998 workstation synthesizer. The keyboard on *Suspension*.
 
 ## [Moog](/devices/moog/)
 
-The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” and the pedals I brought back from the factory.
+The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” and the pedals and the theremin I brought back from the factory.
 
 ## [Electrix Filter Queen](/devices/electrix-filter-queen/), [Filter Factory](/devices/electrix-filter-factory/) and [Mo-FX](/devices/electrix-mo-fx/)
 

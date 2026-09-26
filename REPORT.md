@@ -117,7 +117,7 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
 - EMPTY  `content/holes/devices--kyma.md` on https://www.sarth.net/devices/kyma/
   - wants: Sarth: what Kyma does that nothing else does, and what SeqOSC is.
 - EMPTY  `content/holes/devices--moog.md` on https://www.sarth.net/devices/moog/
-  - wants: Sarth: which pedals came home from the factory, and what they do on your table now.
+  - wants: Sarth: what the two pedals and the theremin do on your table now.
 - EMPTY  `content/holes/devices--runway.md` on https://www.sarth.net/devices/runway/
   - wants: Sarth: what Runway does in the Burlap workflow now, and what it did in the 48 hours.
 - EMPTY  `content/holes/devices--yamaha-ex5.md` on https://www.sarth.net/devices/yamaha-ex5/

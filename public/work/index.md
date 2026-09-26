@@ -141,6 +141,6 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [Lucibel Crater](/conspiracies/lucibel-crater/) · [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs) · [Rumors](/rumors/)
 
-- **Number19.** 1999 to 2005, with Tony Diodore, Leah Coloff and Mark Righter, on bass and a Yamaha EX5. *Suspension*, 2001, paid for by mp3.com downloads.
+- **Number19.** 1999 to 2005, with Tony Diodore, Leah Coloff and Mark Righter, on bass and a [Yamaha EX5](/devices/yamaha-ex5/). *Suspension*, 2001, paid for by mp3.com downloads.
 
   [Number19](/conspiracies/number19/)

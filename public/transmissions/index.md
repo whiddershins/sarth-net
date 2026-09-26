@@ -68,7 +68,7 @@ Records and songs.
 
 - ## [Peggy Sue](/transmissions/peggy-sue/)
 
-  2011. Lou Reed’s recording of the Buddy Holly song for *Rave On Buddy Holly*. I played bass on it, a Moog Little Phatty.
+  2011. Lou Reed’s recording of the Buddy Holly song for *Rave On Buddy Holly*. I played bass on it, a [Moog Little Phatty](/devices/moog/).
 
 - ## [Power and Serenity](/conspiracies/power-and-serenity/)
 

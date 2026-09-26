@@ -13,7 +13,7 @@ Transmission · Dream
 
 # *Suspension*
 
-*Suspension* is the only album by [Number19](/conspiracies/number19/), the Brooklyn band of [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and me. Nine songs, released in 2001 on Searching Eye Records and credited to Number 19. Diodore on guitar and violin, me on bass and a Yamaha EX5, Coloff on cello and voice, Righter on drums.
+*Suspension* is the only album by [Number19](/conspiracies/number19/), the Brooklyn band of [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and me. Nine songs, released in 2001 on Searching Eye Records and credited to Number 19. Diodore on guitar and violin, me on bass and a [Yamaha EX5](/devices/yamaha-ex5/), Coloff on cello and voice, Righter on drums.
 
 ![Cover of Suspension by Number 19.](/images/art-suspension.jpg)
 

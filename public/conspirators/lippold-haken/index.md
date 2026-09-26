@@ -21,7 +21,7 @@ Inventor of the Continuum Fingerboard, my instrument.
 
 ## The Continuum
 
-The [Continuum](/devices/) is my instrument: bass and melodies in [Lucibel Crater](/conspiracies/lucibel-crater/), Lou Reed’s band from 2008, [Metal Machine Trio](/conspiracies/metal-machine-trio/), where Lou and I both had Continuums on stage, [Yellow Pony](/conspiracies/yellow-pony/), the [*Lulu*](/conspiracies/lulu/) tapes and the Metallica sessions, and the duets of [Introspections](/transmissions/introspections/). After watching videos of me playing it at [Lollapalooza](/transmissions/lou-reed-live-at-lollapalooza-2009/), he said he lost sleep. The Continuum and Kyma come out of the same lab: he and [Kurt Hebel](/conspirators/kurt-hebel/) built the Platypus DSP together at CERL in 1983.
+The [Continuum](/devices/continuum/) is my instrument: bass and melodies in [Lucibel Crater](/conspiracies/lucibel-crater/), Lou Reed’s band from 2008, [Metal Machine Trio](/conspiracies/metal-machine-trio/), where Lou and I both had Continuums on stage, [Yellow Pony](/conspiracies/yellow-pony/), the [*Lulu*](/conspiracies/lulu/) tapes and the Metallica sessions, and the duets of [Introspections](/transmissions/introspections/). After watching videos of me playing it at [Lollapalooza](/transmissions/lou-reed-live-at-lollapalooza-2009/), he said he lost sleep. The Continuum and Kyma come out of the same lab: he and [Kurt Hebel](/conspirators/kurt-hebel/) built the Platypus DSP together at CERL in 1983.
 
 The credit: Lippold Haken invented the Continuum Fingerboard, Sarth Calhoun’s instrument since Lucibel Crater and in Lou Reed’s band, Metal Machine Trio, Yellow Pony and Lulu; Wikipedia’s Continuum article names Calhoun among its players.
 

@@ -30,7 +30,7 @@ My first instrument was the bass, and Rob was always one of my heroes. I became 
 
 He just chuckled and said “a huge fan ...” I couldn’t have imagined I would be on tour with him a few months later, backing up Lou Reed.
 
-I remember so clearly the first time I played with Rob. Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be Rob bowing the electric upright, which I processed through [Kyma](/devices/). We recorded that first session, and it ended up being the basis for [“Junior Dad,”](/conspiracies/junior-dad/) the 19 minute outro to *[Lulu](/conspiracies/lulu/)*.
+I remember so clearly the first time I played with Rob. Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be Rob bowing the electric upright, which I processed through [Kyma](/devices/kyma/). We recorded that first session, and it ended up being the basis for [“Junior Dad,”](/conspiracies/junior-dad/) the 19 minute outro to *[Lulu](/conspiracies/lulu/)*.
 
 What I remember most dearly about Rob was how much he encouraged and supported me when I was the new guy in the band. He had as much or more reason than anyone on that stage to look on skeptically at this young whippersnapper, but instead he was unfailingly gracious. He always spoke to me with dignity and respect, as if I were an equal, which was status I had done nothing to earn. I will never forget that generosity, and the world has lost another hero.
 

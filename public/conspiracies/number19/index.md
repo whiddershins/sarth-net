@@ -12,7 +12,7 @@ Conspiracy · Dream
 
 # Number19
 
-[Number19](https://en.wikipedia.org/wiki/Number19) was a band in Brooklyn. [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and I formed it in 1999, with Diodore on guitar and violin, me on bass and a [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5), Coloff on cello and voice, and Righter on drums. Cello and violin ran over bass and drums, with electronics underneath. The band released one album, *Suspension*, and was active until 2005.
+[Number19](https://en.wikipedia.org/wiki/Number19) was a band in Brooklyn. [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and I formed it in 1999, with Diodore on guitar and violin, me on bass and a [Yamaha EX5](/devices/yamaha-ex5/), Coloff on cello and voice, and Righter on drums. Cello and violin ran over bass and drums, with electronics underneath. The band released one album, *Suspension*, and was active until 2005.
 
 It was the first band I made with Coloff and with Diodore. I started [Lucibel Crater](/conspiracies/lucibel-crater/) with Coloff in 2005, and played in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) with Diodore from 2011.
 

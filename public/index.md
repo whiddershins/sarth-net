@@ -23,9 +23,9 @@ Burlap
 
 Burlap. Download at [burlap.app](https://burlap.app/download).
 
-### Machine (10)
+### Machine (18)
 
-[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/)
+[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [DaVinci Resolve](/devices/davinci-resolve/)
 
 ### Dream (32)
 

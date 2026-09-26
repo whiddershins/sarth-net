@@ -25,7 +25,7 @@ The songs: 1. There Was a Time. 2. Your Mean Mouth. 3. Into the Bushes. 4. Threa
 
 ## The songs
 
-Ross Christopher at awaken music picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” MP3 Troll noted the Lou Reed guitar in May 2008, before the reviews. Coloff sings and plays cello; Chuffo plays drums; I play keys, bass, loops, [Kyma and the Continuum](/devices/).
+Ross Christopher at awaken music picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” MP3 Troll noted the Lou Reed guitar in May 2008, before the reviews. Coloff sings and plays cello; Chuffo plays drums; I play keys, bass, loops, [Kyma](/devices/kyma/) and the [Continuum](/devices/continuum/).
 
 Vogue Italia, January 2009: Ten muscular tracks and only one guitar, Lou Reed’s.
 

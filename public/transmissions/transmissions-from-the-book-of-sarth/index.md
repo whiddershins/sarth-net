@@ -13,7 +13,7 @@ Transmission · Dream
 
 # *Transmissions from the Book of Sarth*
 
-*Transmissions from the Book of Sarth* is a four-track EP I released in 2013 from the music of [*The Book of Sarth*](/conspiracies/book-of-sarth/), the graphic novel and concept album I built as an iPad app the year before. The score was made with [Kyma](/devices/).
+*Transmissions from the Book of Sarth* is a four-track EP I released in 2013 from the music of [*The Book of Sarth*](/conspiracies/book-of-sarth/), the graphic novel and concept album I built as an iPad app the year before. The score was made with [Kyma](/devices/kyma/).
 
 ![Cover of Transmissions from the Book of Sarth.](/images/art-transmissions-from-the-book-of-sarth.jpg)
 

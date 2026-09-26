@@ -96,6 +96,22 @@ Write the paragraph into the named file, in Sarth's words only, and run `npm run
   - wants: Sarth: how the drums and the electronics locked in, and what Tony did for the band’s feel.
 - EMPTY  `content/holes/contraptions--earlier.md` on https://www.sarth.net/contraptions/
   - wants: Sarth: the Jamboxes with Moldover, the ConnecTable, and the five kinds of synthesis. What they were and where they went.
+- EMPTY  `content/holes/devices--ableton-live.md` on https://www.sarth.net/devices/ableton-live/
+  - wants: Sarth: the Lucibel Crater looping method in Live, the template, and the explainer you want to make.
+- EMPTY  `content/holes/devices--basses.md` on https://www.sarth.net/devices/basses/
+  - wants: Sarth: the other basses, and which bass is on which record.
+- EMPTY  `content/holes/devices--continuum.md` on https://www.sarth.net/devices/continuum/
+  - wants: Sarth: how you play it, and the reverse sostenuto pedal technique you worked out for drones.
+- EMPTY  `content/holes/devices--davinci-resolve.md` on https://www.sarth.net/devices/davinci-resolve/
+  - wants: Sarth: what Resolve does in the studio’s pipeline, and the ambisonic mix.
+- EMPTY  `content/holes/devices--kyma.md` on https://www.sarth.net/devices/kyma/
+  - wants: Sarth: what Kyma does that nothing else does, and what SeqOSC is.
+- EMPTY  `content/holes/devices--moog.md` on https://www.sarth.net/devices/moog/
+  - wants: Sarth: when the band went to the factory, which pedals came home, and what they do on your table now.
+- EMPTY  `content/holes/devices--runway.md` on https://www.sarth.net/devices/runway/
+  - wants: Sarth: what Runway does in the Burlap workflow now, and what it did in the 48 hours.
+- EMPTY  `content/holes/devices--yamaha-ex5.md` on https://www.sarth.net/devices/yamaha-ex5/
+  - wants: Sarth: what the EX5 did in Number19, and where it is now.
 - EMPTY  `content/holes/sightings--reaktor-live-2023.md` on https://www.sarth.net/sightings/reaktor-live-2023/
   - wants: Sarth: what you said on the panel, and what accessible data meant on that account.
 - EMPTY  `content/holes/beautiful-tornado--thoughts.md` on https://www.sarth.net/transmissions/beautiful-tornado/
@@ -223,6 +239,14 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 - https://www.sarth.net/conspirators/tony-thunder-smith/: 4 · 2 photo · 2 excerpt
 - https://www.sarth.net/conspirators/ulrich-krieger/: 2 · 1 quote · 1 excerpt
 - https://www.sarth.net/contraptions/: 6 · 4 photo · 2 excerpt
+- https://www.sarth.net/devices/ableton-live/: 2 · 2 excerpt
+- https://www.sarth.net/devices/basses/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/devices/continuum/: 3 · 1 photo · 1 quote · 1 excerpt
+- https://www.sarth.net/devices/davinci-resolve/: 2 · 1 embed · 1 excerpt
+- https://www.sarth.net/devices/kyma/: 2 · 2 excerpt
+- https://www.sarth.net/devices/moog/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/devices/runway/: 2 · 1 quote · 1 excerpt
+- https://www.sarth.net/devices/yamaha-ex5/: 2 · 1 photo · 1 excerpt
 - https://www.sarth.net/sightings/reaktor-live-2023/: 2 · 1 embed · 1 excerpt
 - https://www.sarth.net/transmissions/beautiful-tornado/: 4 · 2 photo · 1 quote · 1 excerpt
 - https://www.sarth.net/transmissions/i-before-e/: 3 · 1 photo · 1 embed · 1 excerpt
@@ -242,4 +266,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 10 machine · 32 dream · 11 message
+- 18 machine · 32 dream · 11 message

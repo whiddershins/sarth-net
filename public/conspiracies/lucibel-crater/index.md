@@ -12,7 +12,7 @@ Conspiracy · Dream
 
 # Lucibel Crater
 
-Lucibel Crater is a rock and electronic trio from Brooklyn. I founded it in 2005 and play keys, bass, loops, [Kyma and the Continuum Fingerboard](/devices/). [Leah Coloff](/conspirators/leah-coloff/) fronts the band on cello and voice, and [Paul Chuffo](/conspirators/paul-chuffo/) plays drums. The trio released an EP, [*Miracles*](/transmissions/miracles/), in 2007, and a full-length, [*The Family Album*](/transmissions/the-family-album/), in 2008.
+Lucibel Crater is a rock and electronic trio from Brooklyn. I founded it in 2005 and play keys, bass, loops, [Kyma](/devices/kyma/) and the [Continuum Fingerboard](/devices/continuum/). [Leah Coloff](/conspirators/leah-coloff/) fronts the band on cello and voice, and [Paul Chuffo](/conspirators/paul-chuffo/) plays drums. The trio released an EP, [*Miracles*](/transmissions/miracles/), in 2007, and a full-length, [*The Family Album*](/transmissions/the-family-album/), in 2008.
 
 [Lou Reed](/conspirators/lou-reed/) plays guitar on “Threadbare Funeral,” and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger) has sat in on saxophone at live shows.
 

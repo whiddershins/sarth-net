@@ -25,7 +25,7 @@ Carla Scaletti, April 2011. Photo: Kurt Hebel, [CC BY-SA 4.0](https://creativeco
 
 ## Kyma
 
-I beta-tested [Kyma](/devices/) and am credited on the Kyma X startup screen. Kyma is under [Lucibel Crater](/conspiracies/lucibel-crater/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), the [2011 Reed tour](/conspiracies/lou-reed-2011-european-tour/), [*Lulu*](/conspiracies/lulu/), [Book of Sarth](/conspiracies/book-of-sarth/) and “[Junior Dad](/conspiracies/junior-dad/),” and Symbolic Sound’s blog wrote about that work five times between April 2011 and November 2012, including a review of the Book. I have used Kyma to develop a kind of synthesis I call SeqOSC, a relative of AM synthesis derived from exploring the analogies between rhythm and timbre.
+I beta-tested [Kyma](/devices/kyma/) and am credited on the Kyma X startup screen. Kyma is under [Lucibel Crater](/conspiracies/lucibel-crater/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), the [2011 Reed tour](/conspiracies/lou-reed-2011-european-tour/), [*Lulu*](/conspiracies/lulu/), [Book of Sarth](/conspiracies/book-of-sarth/) and “[Junior Dad](/conspiracies/junior-dad/),” and Symbolic Sound’s blog wrote about that work five times between April 2011 and November 2012, including a review of the Book. I have used Kyma to develop a kind of synthesis I call SeqOSC, a relative of AM synthesis derived from exploring the analogies between rhythm and timbre.
 
 The credit: Sarth Calhoun beta-tested Kyma, made by Carla Scaletti and Kurt Hebel’s Symbolic Sound Corporation, and is credited on the Kyma X startup screen.
 

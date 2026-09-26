@@ -39,6 +39,6 @@ Credits: From [loureed.com](https://loureed.com/news/lou-reed-live-at-lollapaloo
 
 ## Conspiracies
 
-This is [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) on film, with [Metal Machine Trio](/conspiracies/metal-machine-trio/) inside it. [Rob Wasserman](/conspirators/rob-wasserman/) and [Ulrich Krieger](/conspirators/ulrich-krieger/) have their own pages. My rig that day was the Continuum and [Kyma](/devices/).
+This is [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) on film, with [Metal Machine Trio](/conspiracies/metal-machine-trio/) inside it. [Rob Wasserman](/conspirators/rob-wasserman/) and [Ulrich Krieger](/conspirators/ulrich-krieger/) have their own pages. My rig that day was the Continuum and [Kyma](/devices/kyma/).
 
 Credits verbatim from loureed.com. The Krieger lines are from “Unclassifiable,” [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable), 2013.

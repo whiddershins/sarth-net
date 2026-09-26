@@ -49,7 +49,7 @@ The later [ambisonic installation](/conspiracies/creation-of-the-universe-ambiso
 
 ## Conspiracies
 
-Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/); the instrument was the Continuum. The press on the record and the shows is on [Rumors](/rumors/).
+Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/kyma/); the instrument was the Continuum. The press on the record and the shows is on [Rumors](/rumors/).
 
 Who played what: Lou Reed, guitar, electronics and a small Continuum. Ulrich Krieger, tenor saxophone and live electronics. Sarth Calhoun, Continuum, and the whole field processed through Kyma.
 

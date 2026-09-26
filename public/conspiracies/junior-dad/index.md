@@ -22,7 +22,7 @@ Listen: Nineteen and a half minutes. Signed in to Spotify you get the whole thin
 
 ## A stage test
 
-I remember so clearly the first time I played with Rob. Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be [Rob Wasserman](/conspirators/rob-wasserman/) bowing the electric upright, which I processed through [Kyma](/devices/). We recorded that first session, and it ended up being the basis for “Junior Dad,” the 19 minute outro to *Lulu*.
+I remember so clearly the first time I played with Rob. Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be [Rob Wasserman](/conspirators/rob-wasserman/) bowing the electric upright, which I processed through [Kyma](/devices/kyma/). We recorded that first session, and it ended up being the basis for “Junior Dad,” the 19 minute outro to *Lulu*.
 
 My first instrument was the bass, and Rob was always one of my heroes. I became aware of him when his records, *Solo*, *Duo*, and *Trio*, redefined upright bass for me. I knew he was one of the people [Ned Steinberger](https://en.wikipedia.org/wiki/Ned_Steinberger) worked with in creating those amazing electric uprights, which was Rob’s signature instrument.
 

@@ -47,7 +47,7 @@ From *The Book of Sarth*.
 
 ## The music
 
-The score was made with [Kyma](/devices/). One of its pieces, [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), was built out of 60-cycle hum. A record, [*Transmissions from the Book of Sarth*](/transmissions/transmissions-from-the-book-of-sarth/), followed in 2013.
+The score was made with [Kyma](/devices/kyma/). One of its pieces, [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), was built out of 60-cycle hum. A record, [*Transmissions from the Book of Sarth*](/transmissions/transmissions-from-the-book-of-sarth/), followed in 2013.
 
 The credit: Sarth Calhoun wrote and recorded the music of *The Book of Sarth* and built the app with Andrew Beck, Elik Smith, Leah Coloff and Jacob McCoy; released 2012 through The Gralbum Collective.
 

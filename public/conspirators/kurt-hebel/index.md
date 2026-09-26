@@ -21,7 +21,7 @@ Kurt J. Hebel is co-founder and vice president of Symbolic Sound Corporation, fo
 
 ## The orange boxes
 
-The Paca, his dedicated DSP hardware for [Kyma](/devices/), is what I ran on stage: two on the [Metal Machine Trio](/conspiracies/metal-machine-trio/) tour, rack-mounted Pacas on Lou Reed’s [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and a Continuum with Kyma and a Paca in the Metallica sessions for [*Lulu*](/conspiracies/lulu/). I beta-tested Kyma and am credited on the Kyma X startup screen.
+The Paca, his dedicated DSP hardware for [Kyma](/devices/kyma/), is what I ran on stage: two on the [Metal Machine Trio](/conspiracies/metal-machine-trio/) tour, rack-mounted Pacas on Lou Reed’s [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and a Continuum with Kyma and a Paca in the Metallica sessions for [*Lulu*](/conspiracies/lulu/). I beta-tested Kyma and am credited on the Kyma X startup screen.
 
 The credit: Kurt Hebel designed the Paca and Pacarana, the Kyma hardware Sarth Calhoun ran with Metal Machine Trio, on Lou Reed’s 2011 tour and on Lulu; Calhoun beta-tested Kyma.
 

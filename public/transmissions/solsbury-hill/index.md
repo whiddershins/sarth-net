@@ -27,7 +27,7 @@ The credit: Production and electronics, Sarth Calhoun. Discogs, [release 4938695
 
 ## Conspiracies
 
-Made in the years I was in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) and working with him on [*Lulu*](/conspiracies/lulu/). The electronics are the same work I did on stage, through [Kyma](/devices/).
+Made in the years I was in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) and working with him on [*Lulu*](/conspiracies/lulu/). The electronics are the same work I did on stage, through [Kyma](/devices/kyma/).
 
 The exchange: Gabriel’s *Scratch My Back*, 2010, covered twelve artists including Reed. Each was invited to cover Gabriel in return; the returns became *And I’ll Scratch Yours*, 2013.
 

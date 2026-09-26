@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 521,
+  "citation_count": 529,
   "pages": [
     {
       "path": "/",
@@ -601,10 +601,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Number19",
           "text": "Number19"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Yamaha_EX5",
-          "text": "Yamaha EX5"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Mp3.com",
@@ -1743,46 +1739,129 @@
     {
       "path": "/devices/",
       "title": "Devices",
+      "citations": []
+    },
+    {
+      "path": "/devices/ableton-live/",
+      "title": "Ableton Live",
       "citations": [
         {
-          "url": "https://kyma.symbolicsound.com/",
-          "text": "kyma.symbolicsound.com"
+          "url": "https://www.ableton.com/en/live/",
+          "text": "ableton.com"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Berliner_Ensemble",
-          "text": "Berliner Ensemble"
+          "url": "https://asiasociety.org/files/pdf/140424_bora_yoon_notes_web.pdf",
+          "text": "Asia Society notes"
         },
         {
-          "url": "https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/",
-          "text": "Euro tour"
+          "url": "https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/",
+          "text": "Walking the road that only you can see"
+        }
+      ]
+    },
+    {
+      "path": "/devices/basses/",
+      "title": "Basses",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fender_Jazz_Bass",
+          "text": "Fender Jazz Bass"
         },
         {
-          "url": "https://news.symbolicsound.com/2012/11/the-book-of-sarth/",
-          "text": "Book of Sarth"
-        },
+          "url": "https://www.warwick.de/",
+          "text": "Warwick"
+        }
+      ]
+    },
+    {
+      "path": "/devices/continuum/",
+      "title": "Continuum",
+      "citations": [
         {
           "url": "https://www.hakenaudio.com/",
           "text": "hakenaudio.com"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Continuum_Fingerboard",
-          "text": "Continuum Fingerboard"
+          "text": "Wikipedia"
+        },
+        {
+          "url": "https://web.archive.org/web/20101030053745/http://www.sarth.net/category/bio/",
+          "text": "sarth.net, 2010"
+        },
+        {
+          "url": "https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/",
+          "text": "Walking the road that only you can see"
+        }
+      ]
+    },
+    {
+      "path": "/devices/davinci-resolve/",
+      "title": "DaVinci Resolve",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DaVinci_Resolve",
+          "text": "DaVinci Resolve"
+        },
+        {
+          "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+          "text": "blackmagicdesign.com"
+        }
+      ]
+    },
+    {
+      "path": "/devices/kyma/",
+      "title": "Kyma",
+      "citations": [
+        {
+          "url": "https://kyma.symbolicsound.com/",
+          "text": "kyma.symbolicsound.com"
+        },
+        {
+          "url": "https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/",
+          "text": "Lou Reed’s Euro tour"
         },
         {
           "url": "https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/",
           "text": "Walking the road that only you can see"
         },
         {
-          "url": "https://www.ableton.com/en/live/",
-          "text": "ableton.com"
+          "url": "https://news.symbolicsound.com/2012/11/the-book-of-sarth/",
+          "text": "The Book of Sarth"
+        }
+      ]
+    },
+    {
+      "path": "/devices/moog/",
+      "title": "Moog",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Moog_Music",
+          "text": "Moog Music"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Ableton_Live",
-          "text": "Ableton Live"
-        },
+          "url": "https://www.moogmusic.com/",
+          "text": "moogmusic.com"
+        }
+      ]
+    },
+    {
+      "path": "/devices/runway/",
+      "title": "Runway",
+      "citations": [
         {
           "url": "https://runwayml.com/",
           "text": "runwayml.com"
+        }
+      ]
+    },
+    {
+      "path": "/devices/yamaha-ex5/",
+      "title": "Yamaha EX5",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yamaha_EX5",
+          "text": "Yamaha EX5"
         }
       ]
     },

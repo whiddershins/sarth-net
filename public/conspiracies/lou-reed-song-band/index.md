@@ -14,7 +14,7 @@ Conspiracy · Dream
 
 Lou Reed’s song band was the touring group [Lou Reed](/conspirators/lou-reed/) used for his song repertoire, as opposed to instrumental projects such as [Metal Machine Trio](/conspiracies/metal-machine-trio/).
 
-I joined in 2008, playing the [Continuum Fingerboard](/devices/) and processing the other musicians live, and I was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
+I joined in 2008, playing the [Continuum Fingerboard](/devices/continuum/) and processing the other musicians live, and I was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
 
 ## The invitation
 

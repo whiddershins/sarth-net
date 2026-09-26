@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 109,
+ "count": 117,
  "pages": [
   {
    "route": "/",
@@ -1398,15 +1398,114 @@
    "url": "https://www.sarth.net/devices/",
    "markdown": "https://www.sarth.net/devices/index.md",
    "title": "Devices",
-   "description": "Physical objects on Sarth Calhoun’s table: Symbolic Sound Kyma, Haken Continuum Fingerboard, Ableton Live, Runway. Used in Metal Machine Trio, Lulu, Lucibel Crater, Book of Sarth, Burlap.",
+   "description": "The instruments and tools Sarth Calhoun uses, one page each: Kyma, the Continuum, Ableton Live, Runway, basses, the Yamaha EX5, Moog, DaVinci Resolve.",
    "facet": "machine",
    "published": null,
    "headings": [
-    "Symbolic Sound Kyma (Paca / Pacarana)",
-    "Haken Continuum Fingerboard",
-    "Ableton Live",
-    "Runway",
-    "Bass"
+    "[Symbolic Sound Kyma (Paca / Pacarana)](/devices/kyma/)",
+    "[Haken Continuum Fingerboard](/devices/continuum/)",
+    "[Ableton Live](/devices/ableton-live/)",
+    "[Runway](/devices/runway/)",
+    "[Basses](/devices/basses/)",
+    "[Yamaha EX5](/devices/yamaha-ex5/)",
+    "[Moog](/devices/moog/)",
+    "[DaVinci Resolve](/devices/davinci-resolve/)"
+   ]
+  },
+  {
+   "route": "/devices/kyma/",
+   "url": "https://www.sarth.net/devices/kyma/",
+   "markdown": "https://www.sarth.net/devices/kyma/index.md",
+   "title": "Kyma",
+   "description": "Symbolic Sound Kyma and the Paca, the sound-design environment and DSP hardware Sarth Calhoun has used since Lucibel Crater: Metal Machine Trio, Lou Reed’s tours, Lulu, The Book of Sarth, SeqOSC.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "Conspiracies"
+   ]
+  },
+  {
+   "route": "/devices/continuum/",
+   "url": "https://www.sarth.net/devices/continuum/",
+   "markdown": "https://www.sarth.net/devices/continuum/index.md",
+   "title": "Continuum",
+   "description": "The Haken Continuum Fingerboard, Sarth Calhoun’s instrument since Lucibel Crater: Lou Reed’s band, Metal Machine Trio, Yellow Pony, Lulu. Made by Lippold Haken, Champaign, Illinois.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "Conspiracies"
+   ]
+  },
+  {
+   "route": "/devices/ableton-live/",
+   "url": "https://www.sarth.net/devices/ableton-live/",
+   "markdown": "https://www.sarth.net/devices/ableton-live/index.md",
+   "title": "Ableton Live",
+   "description": "Ableton Live on Sarth Calhoun’s table: an endorser in the 2008 REDCAT and 2014 Asia Society programs, the DAW behind Awakening (To Blacklist), and the looper for Lucibel Crater.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "Conspiracies"
+   ]
+  },
+  {
+   "route": "/devices/runway/",
+   "url": "https://www.sarth.net/devices/runway/",
+   "markdown": "https://www.sarth.net/devices/runway/index.md",
+   "title": "Runway",
+   "description": "Runway on Sarth Calhoun’s table: the generative video studio Burlap connects to, and the 48-hour film competition in spring 2025 that Burlap came out of.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "Conspiracies"
+   ]
+  },
+  {
+   "route": "/devices/basses/",
+   "url": "https://www.sarth.net/devices/basses/",
+   "markdown": "https://www.sarth.net/devices/basses/index.md",
+   "title": "Basses",
+   "description": "Sarth Calhoun’s basses: his first instrument, a 1974 Fender Jazz Bass and a Warwick six-string among them. Bass in Number19, Lucibel Crater and on I Before E.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "On the record"
+   ]
+  },
+  {
+   "route": "/devices/yamaha-ex5/",
+   "url": "https://www.sarth.net/devices/yamaha-ex5/",
+   "markdown": "https://www.sarth.net/devices/yamaha-ex5/index.md",
+   "title": "Yamaha EX5",
+   "description": "The Yamaha EX5, the 1998 workstation synthesizer Sarth Calhoun played in Number19 and on Suspension, 2001, alongside bass.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "Conspiracies"
+   ]
+  },
+  {
+   "route": "/devices/moog/",
+   "url": "https://www.sarth.net/devices/moog/",
+   "markdown": "https://www.sarth.net/devices/moog/index.md",
+   "title": "Moog",
+   "description": "Moog on Sarth Calhoun’s table: a Little Phatty on Lou Reed’s Peggy Sue, Lou Reed’s own Moog on the Lulu recording of Cheat on Me, the band’s visit to the Moog factory, and the pedals he brought back.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "On the record"
+   ]
+  },
+  {
+   "route": "/devices/davinci-resolve/",
+   "url": "https://www.sarth.net/devices/davinci-resolve/",
+   "markdown": "https://www.sarth.net/devices/davinci-resolve/index.md",
+   "title": "DaVinci Resolve",
+   "description": "DaVinci Resolve at Third Wall Studio: the edit and ambisonic mix of Through the Brambles, the 360° VR film, were finished in it.",
+   "facet": "machine",
+   "published": null,
+   "headings": [
+    "Conspiracies"
    ]
   },
   {
@@ -1488,7 +1587,14 @@
     "[Ulrich Krieger](/conspirators/ulrich-krieger/)",
     "[Contact](/contact/)",
     "[Contraptions](/contraptions/)",
-    "[Devices](/devices/)",
+    "[Ableton Live](/devices/ableton-live/)",
+    "[Basses](/devices/basses/)",
+    "[Continuum](/devices/continuum/)",
+    "[DaVinci Resolve](/devices/davinci-resolve/)",
+    "[Kyma](/devices/kyma/)",
+    "[Moog](/devices/moog/)",
+    "[Runway](/devices/runway/)",
+    "[Yamaha EX5](/devices/yamaha-ex5/)",
     "[Rumors](/rumors/)",
     "[Sightings](/sightings/)",
     "[Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)",

@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (521 total)
+## Citations by page (529 total)
 
 ### Sarth Calhoun
 `/`
@@ -237,7 +237,6 @@ every page.
 `/conspiracies/number19/`
 
 - [Number19](https://en.wikipedia.org/wiki/Number19)
-- [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 - [mp3.com](https://en.wikipedia.org/wiki/Mp3.com)
 - [Apple Music](https://music.apple.com/us/album/suspension/274828088)
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
@@ -642,19 +641,56 @@ every page.
 - [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript)
 - [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb)
 
-### Devices
-`/devices/`
+### Ableton Live
+`/devices/ableton-live/`
+
+- [ableton.com](https://www.ableton.com/en/live/)
+- [Asia Society notes](https://asiasociety.org/files/pdf/140424_bora_yoon_notes_web.pdf)
+- [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
+
+### Basses
+`/devices/basses/`
+
+- [Fender Jazz Bass](https://en.wikipedia.org/wiki/Fender_Jazz_Bass)
+- [Warwick](https://www.warwick.de/)
+
+### Continuum
+`/devices/continuum/`
+
+- [hakenaudio.com](https://www.hakenaudio.com/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Continuum_Fingerboard)
+- [sarth.net, 2010](https://web.archive.org/web/20101030053745/http://www.sarth.net/category/bio/)
+- [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
+
+### DaVinci Resolve
+`/devices/davinci-resolve/`
+
+- [DaVinci Resolve](https://en.wikipedia.org/wiki/DaVinci_Resolve)
+- [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve)
+
+### Kyma
+`/devices/kyma/`
 
 - [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
-- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
-- [Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
-- [Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
-- [hakenaudio.com](https://www.hakenaudio.com/)
-- [Continuum Fingerboard](https://en.wikipedia.org/wiki/Continuum_Fingerboard)
+- [Lou Reed’s Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
 - [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
-- [ableton.com](https://www.ableton.com/en/live/)
-- [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
+- [The Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
+
+### Moog
+`/devices/moog/`
+
+- [Moog Music](https://en.wikipedia.org/wiki/Moog_Music)
+- [moogmusic.com](https://www.moogmusic.com/)
+
+### Runway
+`/devices/runway/`
+
 - [runwayml.com](https://runwayml.com/)
+
+### Yamaha EX5
+`/devices/yamaha-ex5/`
+
+- [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 
 ### Rumors
 `/rumors/`

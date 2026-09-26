@@ -74,7 +74,7 @@ Machine-readable companions:
 
 ## Pages
 
-109 pages follow, in reading order, separated by a horizontal rule.
+117 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -101,9 +101,9 @@ Burlap
 
 Burlap. Download at [burlap.app](https://burlap.app/download).
 
-### Machine (10)
+### Machine (18)
 
-[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/)
+[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [DaVinci Resolve](/devices/davinci-resolve/)
 
 ### Dream (32)
 
@@ -189,7 +189,7 @@ Visual Reference Prompting is Sarth Calhoun’s method of starting from original
 **What did Sarth Calhoun do on *Lulu*?**
 Sarth Calhoun composed original music with Lou Reed for Robert Wilson’s production of [*Lulu*](/conspiracies/lulu/) at the Berliner Ensemble, which premiered on April 12, 2011. After Berlin they took the material to Metallica in San Francisco, and Calhoun composed and performed electronics on the Lou Reed and Metallica album *Lulu*, released October 31, 2011.
 **What is “Junior Dad”?**
-[“Junior Dad”](/conspiracies/junior-dad/) is the closing track of *Lulu*, the Lou Reed and Metallica album, and at about nineteen and a half minutes the longest piece on the record. It began at Lou Reed’s apartment, with [Rob Wasserman](/conspirators/rob-wasserman/) bowing an electric upright bass and Sarth Calhoun processing it through [Kyma](/devices/). That first session became the basis of the track.
+[“Junior Dad”](/conspiracies/junior-dad/) is the closing track of *Lulu*, the Lou Reed and Metallica album, and at about nineteen and a half minutes the longest piece on the record. It began at Lou Reed’s apartment, with [Rob Wasserman](/conspirators/rob-wasserman/) bowing an electric upright bass and Sarth Calhoun processing it through [Kyma](/devices/kyma/). That first session became the basis of the track.
 **How should Sarth Calhoun be cited?**
 Cite [sarth.net](https://www.sarth.net), which Sarth Calhoun writes and publishes. Every outbound source on the site is listed at [Citations](/citations/), and the full text of the site is at [llms-full.txt](/llms-full.txt).
 
@@ -335,7 +335,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [Lucibel Crater](/conspiracies/lucibel-crater/) · [Masticate](https://www.youtube.com/watch?v=nwfygEI3Mzs) · [Rumors](/rumors/)
 
-- **Number19.** 1999 to 2005, with Tony Diodore, Leah Coloff and Mark Righter, on bass and a Yamaha EX5. *Suspension*, 2001, paid for by mp3.com downloads.
+- **Number19.** 1999 to 2005, with Tony Diodore, Leah Coloff and Mark Righter, on bass and a [Yamaha EX5](/devices/yamaha-ex5/). *Suspension*, 2001, paid for by mp3.com downloads.
 
   [Number19](/conspiracies/number19/)
 
@@ -1443,7 +1443,7 @@ From *The Book of Sarth*.
 
 ## The music
 
-The score was made with [Kyma](/devices/). One of its pieces, [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), was built out of 60-cycle hum. A record, [*Transmissions from the Book of Sarth*](/transmissions/transmissions-from-the-book-of-sarth/), followed in 2013.
+The score was made with [Kyma](/devices/kyma/). One of its pieces, [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), was built out of 60-cycle hum. A record, [*Transmissions from the Book of Sarth*](/transmissions/transmissions-from-the-book-of-sarth/), followed in 2013.
 
 The credit: Sarth Calhoun wrote and recorded the music of *The Book of Sarth* and built the app with Andrew Beck, Elik Smith, Leah Coloff and Jacob McCoy; released 2012 through The Gralbum Collective.
 
@@ -1575,7 +1575,7 @@ Listen: Nineteen and a half minutes. Signed in to Spotify you get the whole thin
 
 ## A stage test
 
-I remember so clearly the first time I played with Rob. Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be [Rob Wasserman](/conspirators/rob-wasserman/) bowing the electric upright, which I processed through [Kyma](/devices/). We recorded that first session, and it ended up being the basis for “Junior Dad,” the 19 minute outro to *Lulu*.
+I remember so clearly the first time I played with Rob. Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be [Rob Wasserman](/conspirators/rob-wasserman/) bowing the electric upright, which I processed through [Kyma](/devices/kyma/). We recorded that first session, and it ended up being the basis for “Junior Dad,” the 19 minute outro to *Lulu*.
 
 My first instrument was the bass, and Rob was always one of my heroes. I became aware of him when his records, *Solo*, *Duo*, and *Trio*, redefined upright bass for me. I knew he was one of the people [Ned Steinberger](https://en.wikipedia.org/wiki/Ned_Steinberger) worked with in creating those amazing electric uprights, which was Rob’s signature instrument.
 
@@ -1907,7 +1907,7 @@ Conspiracy · Dream
 
 Lou Reed’s song band was the touring group [Lou Reed](/conspirators/lou-reed/) used for his song repertoire, as opposed to instrumental projects such as [Metal Machine Trio](/conspiracies/metal-machine-trio/).
 
-I joined in 2008, playing the [Continuum Fingerboard](/devices/) and processing the other musicians live, and I was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
+I joined in 2008, playing the [Continuum Fingerboard](/devices/continuum/) and processing the other musicians live, and I was still in the band for the [2011 European tour](/conspiracies/lou-reed-2011-european-tour/).
 
 ## The invitation
 
@@ -2016,7 +2016,7 @@ Conspiracy · Dream
 
 # Lucibel Crater
 
-Lucibel Crater is a rock and electronic trio from Brooklyn. I founded it in 2005 and play keys, bass, loops, [Kyma and the Continuum Fingerboard](/devices/). [Leah Coloff](/conspirators/leah-coloff/) fronts the band on cello and voice, and [Paul Chuffo](/conspirators/paul-chuffo/) plays drums. The trio released an EP, [*Miracles*](/transmissions/miracles/), in 2007, and a full-length, [*The Family Album*](/transmissions/the-family-album/), in 2008.
+Lucibel Crater is a rock and electronic trio from Brooklyn. I founded it in 2005 and play keys, bass, loops, [Kyma](/devices/kyma/) and the [Continuum Fingerboard](/devices/continuum/). [Leah Coloff](/conspirators/leah-coloff/) fronts the band on cello and voice, and [Paul Chuffo](/conspirators/paul-chuffo/) plays drums. The trio released an EP, [*Miracles*](/transmissions/miracles/), in 2007, and a full-length, [*The Family Album*](/transmissions/the-family-album/), in 2008.
 
 [Lou Reed](/conspirators/lou-reed/) plays guitar on “Threadbare Funeral,” and [Ulrich Krieger](https://en.wikipedia.org/wiki/Ulrich_Krieger) has sat in on saxophone at live shows.
 
@@ -2078,7 +2078,7 @@ Conspiracy · Dream
 
 # Number19
 
-[Number19](https://en.wikipedia.org/wiki/Number19) was a band in Brooklyn. [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and I formed it in 1999, with Diodore on guitar and violin, me on bass and a [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5), Coloff on cello and voice, and Righter on drums. Cello and violin ran over bass and drums, with electronics underneath. The band released one album, *Suspension*, and was active until 2005.
+[Number19](https://en.wikipedia.org/wiki/Number19) was a band in Brooklyn. [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and I formed it in 1999, with Diodore on guitar and violin, me on bass and a [Yamaha EX5](/devices/yamaha-ex5/), Coloff on cello and voice, and Righter on drums. Cello and violin ran over bass and drums, with electronics underneath. The band released one album, *Suspension*, and was active until 2005.
 
 It was the first band I made with Coloff and with Diodore. I started [Lucibel Crater](/conspiracies/lucibel-crater/) with Coloff in 2005, and played in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) with Diodore from 2011.
 
@@ -3156,7 +3156,7 @@ My first instrument was the bass, and Rob was always one of my heroes. I became 
 
 He just chuckled and said “a huge fan ...” I couldn’t have imagined I would be on tour with him a few months later, backing up Lou Reed.
 
-I remember so clearly the first time I played with Rob. Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be Rob bowing the electric upright, which I processed through [Kyma](/devices/). We recorded that first session, and it ended up being the basis for [“Junior Dad,”](/conspiracies/junior-dad/) the 19 minute outro to *[Lulu](/conspiracies/lulu/)*.
+I remember so clearly the first time I played with Rob. Lou had invited me over to his apartment to show him what live processing would be like on stage. The source material turned out to be Rob bowing the electric upright, which I processed through [Kyma](/devices/kyma/). We recorded that first session, and it ended up being the basis for [“Junior Dad,”](/conspiracies/junior-dad/) the 19 minute outro to *[Lulu](/conspiracies/lulu/)*.
 
 What I remember most dearly about Rob was how much he encouraged and supported me when I was the new guy in the band. He had as much or more reason than anyone on that stage to look on skeptically at this young whippersnapper, but instead he was unfailingly gracious. He always spoke to me with dignity and respect, as if I were an equal, which was status I had done nothing to earn. I will never forget that generosity, and the world has lost another hero.
 
@@ -3758,7 +3758,7 @@ Carla Scaletti, April 2011. Photo: Kurt Hebel, [CC BY-SA 4.0](https://creativeco
 
 ## Kyma
 
-I beta-tested [Kyma](/devices/) and am credited on the Kyma X startup screen. Kyma is under [Lucibel Crater](/conspiracies/lucibel-crater/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), the [2011 Reed tour](/conspiracies/lou-reed-2011-european-tour/), [*Lulu*](/conspiracies/lulu/), [Book of Sarth](/conspiracies/book-of-sarth/) and “[Junior Dad](/conspiracies/junior-dad/),” and Symbolic Sound’s blog wrote about that work five times between April 2011 and November 2012, including a review of the Book. I have used Kyma to develop a kind of synthesis I call SeqOSC, a relative of AM synthesis derived from exploring the analogies between rhythm and timbre.
+I beta-tested [Kyma](/devices/kyma/) and am credited on the Kyma X startup screen. Kyma is under [Lucibel Crater](/conspiracies/lucibel-crater/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), the [2011 Reed tour](/conspiracies/lou-reed-2011-european-tour/), [*Lulu*](/conspiracies/lulu/), [Book of Sarth](/conspiracies/book-of-sarth/) and “[Junior Dad](/conspiracies/junior-dad/),” and Symbolic Sound’s blog wrote about that work five times between April 2011 and November 2012, including a review of the Book. I have used Kyma to develop a kind of synthesis I call SeqOSC, a relative of AM synthesis derived from exploring the analogies between rhythm and timbre.
 
 The credit: Sarth Calhoun beta-tested Kyma, made by Carla Scaletti and Kurt Hebel’s Symbolic Sound Corporation, and is credited on the Kyma X startup screen.
 
@@ -3786,7 +3786,7 @@ Kurt J. Hebel is co-founder and vice president of Symbolic Sound Corporation, fo
 
 ## The orange boxes
 
-The Paca, his dedicated DSP hardware for [Kyma](/devices/), is what I ran on stage: two on the [Metal Machine Trio](/conspiracies/metal-machine-trio/) tour, rack-mounted Pacas on Lou Reed’s [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and a Continuum with Kyma and a Paca in the Metallica sessions for [*Lulu*](/conspiracies/lulu/). I beta-tested Kyma and am credited on the Kyma X startup screen.
+The Paca, his dedicated DSP hardware for [Kyma](/devices/kyma/), is what I ran on stage: two on the [Metal Machine Trio](/conspiracies/metal-machine-trio/) tour, rack-mounted Pacas on Lou Reed’s [2011 European tour](/conspiracies/lou-reed-2011-european-tour/), and a Continuum with Kyma and a Paca in the Metallica sessions for [*Lulu*](/conspiracies/lulu/). I beta-tested Kyma and am credited on the Kyma X startup screen.
 
 The credit: Kurt Hebel designed the Paca and Pacarana, the Kyma hardware Sarth Calhoun ran with Metal Machine Trio, on Lou Reed’s 2011 tour and on Lulu; Calhoun beta-tested Kyma.
 
@@ -3814,7 +3814,7 @@ Inventor of the Continuum Fingerboard, my instrument.
 
 ## The Continuum
 
-The [Continuum](/devices/) is my instrument: bass and melodies in [Lucibel Crater](/conspiracies/lucibel-crater/), Lou Reed’s band from 2008, [Metal Machine Trio](/conspiracies/metal-machine-trio/), where Lou and I both had Continuums on stage, [Yellow Pony](/conspiracies/yellow-pony/), the [*Lulu*](/conspiracies/lulu/) tapes and the Metallica sessions, and the duets of [Introspections](/transmissions/introspections/). After watching videos of me playing it at [Lollapalooza](/transmissions/lou-reed-live-at-lollapalooza-2009/), he said he lost sleep. The Continuum and Kyma come out of the same lab: he and [Kurt Hebel](/conspirators/kurt-hebel/) built the Platypus DSP together at CERL in 1983.
+The [Continuum](/devices/continuum/) is my instrument: bass and melodies in [Lucibel Crater](/conspiracies/lucibel-crater/), Lou Reed’s band from 2008, [Metal Machine Trio](/conspiracies/metal-machine-trio/), where Lou and I both had Continuums on stage, [Yellow Pony](/conspiracies/yellow-pony/), the [*Lulu*](/conspiracies/lulu/) tapes and the Metallica sessions, and the duets of [Introspections](/transmissions/introspections/). After watching videos of me playing it at [Lollapalooza](/transmissions/lou-reed-live-at-lollapalooza-2009/), he said he lost sleep. The Continuum and Kyma come out of the same lab: he and [Kurt Hebel](/conspirators/kurt-hebel/) built the Platypus DSP together at CERL in 1983.
 
 The credit: Lippold Haken invented the Continuum Fingerboard, Sarth Calhoun’s instrument since Lucibel Crater and in Lou Reed’s band, Metal Machine Trio, Yellow Pony and Lulu; Wikipedia’s Continuum article names Calhoun among its players.
 
@@ -3890,7 +3890,7 @@ Records and songs.
 
 - ## [Peggy Sue](/transmissions/peggy-sue/)
 
-  2011. Lou Reed’s recording of the Buddy Holly song for *Rave On Buddy Holly*. I played bass on it, a Moog Little Phatty.
+  2011. Lou Reed’s recording of the Buddy Holly song for *Rave On Buddy Holly*. I played bass on it, a [Moog Little Phatty](/devices/moog/).
 
 - ## [Power and Serenity](/conspiracies/power-and-serenity/)
 
@@ -4216,7 +4216,7 @@ Transmission · Dream
 
 # *Transmissions from the Book of Sarth*
 
-*Transmissions from the Book of Sarth* is a four-track EP I released in 2013 from the music of [*The Book of Sarth*](/conspiracies/book-of-sarth/), the graphic novel and concept album I built as an iPad app the year before. The score was made with [Kyma](/devices/).
+*Transmissions from the Book of Sarth* is a four-track EP I released in 2013 from the music of [*The Book of Sarth*](/conspiracies/book-of-sarth/), the graphic novel and concept album I built as an iPad app the year before. The score was made with [Kyma](/devices/kyma/).
 
 ![Cover of Transmissions from the Book of Sarth.](/images/art-transmissions-from-the-book-of-sarth.jpg)
 
@@ -4278,7 +4278,7 @@ The credit: Production and electronics, Sarth Calhoun. Discogs, [release 4938695
 
 ## Conspiracies
 
-Made in the years I was in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) and working with him on [*Lulu*](/conspiracies/lulu/). The electronics are the same work I did on stage, through [Kyma](/devices/).
+Made in the years I was in [Lou Reed’s band](/conspiracies/lou-reed-song-band/) and working with him on [*Lulu*](/conspiracies/lulu/). The electronics are the same work I did on stage, through [Kyma](/devices/kyma/).
 
 The exchange: Gabriel’s *Scratch My Back*, 2010, covered twelve artists including Reed. Each was invited to cover Gabriel in return; the returns became *And I’ll Scratch Yours*, 2013.
 
@@ -4298,7 +4298,7 @@ Transmission · Dream
 
 # “Peggy Sue”
 
-“Peggy Sue” is [Lou Reed](/conspirators/lou-reed/)’s recording of the Buddy Holly song for *Rave On Buddy Holly*, the tribute compilation released by Fantasy and Concord in June 2011, alongside Paul McCartney, Patti Smith, Florence and the Machine and the Black Keys. I play bass on it, a Moog Little Phatty. Three minutes nineteen.
+“Peggy Sue” is [Lou Reed](/conspirators/lou-reed/)’s recording of the Buddy Holly song for *Rave On Buddy Holly*, the tribute compilation released by Fantasy and Concord in June 2011, alongside Paul McCartney, Patti Smith, Florence and the Machine and the Black Keys. I play bass on it, a [Moog Little Phatty](/devices/moog/). Three minutes nineteen.
 
 ![Cover of Rave On Buddy Holly.](/images/art-rave-on-buddy-holly.jpg)
 
@@ -4374,7 +4374,7 @@ The later [ambisonic installation](/conspiracies/creation-of-the-universe-ambiso
 
 ## Conspiracies
 
-Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/); the instrument was the Continuum. The press on the record and the shows is on [Rumors](/rumors/).
+Made by [Metal Machine Trio](/conspiracies/metal-machine-trio/), the trio’s first release. The processing ran through [Kyma](/devices/kyma/); the instrument was the Continuum. The press on the record and the shows is on [Rumors](/rumors/).
 
 Who played what: Lou Reed, guitar, electronics and a small Continuum. Ulrich Krieger, tenor saxophone and live electronics. Sarth Calhoun, Continuum, and the whole field processed through Kyma.
 
@@ -4404,7 +4404,7 @@ The songs: 1. There Was a Time. 2. Your Mean Mouth. 3. Into the Bushes. 4. Threa
 
 ## The songs
 
-Ross Christopher at awaken music picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” MP3 Troll noted the Lou Reed guitar in May 2008, before the reviews. Coloff sings and plays cello; Chuffo plays drums; I play keys, bass, loops, [Kyma and the Continuum](/devices/).
+Ross Christopher at awaken music picked out “Where You Are,” “There was a Time” and “Threadbare Funeral.” MP3 Troll noted the Lou Reed guitar in May 2008, before the reviews. Coloff sings and plays cello; Chuffo plays drums; I play keys, bass, loops, [Kyma](/devices/kyma/) and the [Continuum](/devices/continuum/).
 
 Vogue Italia, January 2009: Ten muscular tracks and only one guitar, Lou Reed’s.
 
@@ -4464,7 +4464,7 @@ Transmission · Dream
 
 # *Suspension*
 
-*Suspension* is the only album by [Number19](/conspiracies/number19/), the Brooklyn band of [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and me. Nine songs, released in 2001 on Searching Eye Records and credited to Number 19. Diodore on guitar and violin, me on bass and a Yamaha EX5, Coloff on cello and voice, Righter on drums.
+*Suspension* is the only album by [Number19](/conspiracies/number19/), the Brooklyn band of [Tony Diodore](/conspirators/tony-diodore/), [Leah Coloff](/conspirators/leah-coloff/), Mark Righter and me. Nine songs, released in 2001 on Searching Eye Records and credited to Number 19. Diodore on guitar and violin, me on bass and a [Yamaha EX5](/devices/yamaha-ex5/), Coloff on cello and voice, Righter on drums.
 
 ![Cover of Suspension by Number 19.](/images/art-suspension.jpg)
 
@@ -4702,7 +4702,7 @@ Credits: From [loureed.com](https://loureed.com/news/lou-reed-live-at-lollapaloo
 
 ## Conspiracies
 
-This is [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) on film, with [Metal Machine Trio](/conspiracies/metal-machine-trio/) inside it. [Rob Wasserman](/conspirators/rob-wasserman/) and [Ulrich Krieger](/conspirators/ulrich-krieger/) have their own pages. My rig that day was the Continuum and [Kyma](/devices/).
+This is [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) on film, with [Metal Machine Trio](/conspiracies/metal-machine-trio/) inside it. [Rob Wasserman](/conspirators/rob-wasserman/) and [Ulrich Krieger](/conspirators/ulrich-krieger/) have their own pages. My rig that day was the Continuum and [Kyma](/devices/kyma/).
 
 Credits verbatim from loureed.com. The Krieger lines are from “Unclassifiable,” [The Wire](https://www.thewire.co.uk/in-writing/essays/lou-reed-1942-2013_ulrich-krieger_unclassifiable), 2013.
 
@@ -5110,41 +5110,279 @@ Physical objects · Machine
 
 # Devices
 
-Physical objects on the table. Kyma, Continuum, the performance DAW, the motion studio. Software machines are on [Contraptions](/contraptions/).
+The instruments and tools I use, one page each: what it is, who makes it, how I came to it, and what I have made with it. Software machines of my own are on [Contraptions](/contraptions/).
 
-## Symbolic Sound Kyma (Paca / Pacarana)
+## [Symbolic Sound Kyma (Paca / Pacarana)](/devices/kyma/)
 
-A graphical sound-design environment. The Paca is dedicated DSP hardware, a small orange box, rack-mountable, not a plugin inside a laptop. Maker: Symbolic Sound Corporation (Carla Scaletti and Kurt Hebel), Champaign, Illinois. [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
+A graphical sound-design environment; the Paca is the orange box that computes it. Beta tester, credited on the Kyma X startup screen. Metal Machine Trio, the Reed tours, *Lulu*, Lucibel Crater, The Book of Sarth, SeqOSC.
 
-I beta-tested Kyma and am credited on the Kyma X startup screen. Lucibel Crater looping and processing. Metal Machine Trio: live Kyma processing of the band. 2011 [Lou Reed](/conspirators/lou-reed/) European tour: multiple rack-mounted Pacas. *Lulu* at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble): Kyma processing and Continuum/Kyma playing. The Book of Sarth score is Kyma-drenched. I built SeqOSC in it, a new kind of synthesis, a relative of AM synthesis derived from exploring the analogies between rhythm and timbre. Junior Dad: Wasserman’s electric upright through Kyma, first session at Lou’s apartment.
+## [Haken Continuum Fingerboard](/devices/continuum/)
 
-[Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/) · [Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
+A surface that tracks the fingers in three dimensions, continuous pitch, not keys. My instrument since Lucibel Crater, in Lou Reed’s band, Metal Machine Trio, Yellow Pony and *Lulu*.
 
-## Haken Continuum Fingerboard
+## [Ableton Live](/devices/ableton-live/)
 
-A long neoprene playing surface that tracks finger position and pressure in three dimensions. Continuous pitch, not keys. Often driving Kyma. Maker: Lippold Haken / Haken Audio, Champaign, Illinois. [hakenaudio.com](https://www.hakenaudio.com/)
+The performance DAW. I endorsed it, built “Awakening (To Blacklist)” in it, and looped Lucibel Crater with it.
 
-Lucibel Crater and the Reed years. In Metal Machine Trio, Lou and I both had Continuums onstage. Yellow Pony: Continuum plus live resampling of Reed and Anderson’s voices. *Lulu*: dual Continuum improvisations with a live string section. Wikipedia names me as an advocate.
+## [Runway](/devices/runway/)
 
-After watching videos of me playing it at Lollapalooza, Lippold Haken said: I lost sleep. I even dreamt about it last night. It was one of those thousands-of-people-watching nightmares.
+Generative video and image models, the motion end of Visual Reference Prompting. Burlap connects to it and came out of its 48-hour film competition.
 
-[Continuum Fingerboard](https://en.wikipedia.org/wiki/Continuum_Fingerboard) · [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
+## [Basses](/devices/basses/)
 
-## Ableton Live
+My first instrument. A 1974 Fender Jazz Bass, a Warwick six-string, and others. Number19, Lucibel Crater, “I Before E.”
 
-A DAW that treats clips, warping, and devices as a performance instrument. Maker: Ableton AG, Berlin. [ableton.com](https://www.ableton.com/en/live/)
+## [Yamaha EX5](/devices/yamaha-ex5/)
 
-I was an [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live) endorser; the 2008 REDCAT program and the 2014 Asia Society *Sunken Cathedral* notes say so. The Book of Sarth track “Awakening (To Blacklist)” was built in Live: 60 cycle hum run through plugins until a frequency shifter became the melody. [How I did it](/transmissions/about-awakening-to-blacklist/), with the audio.
+Yamaha’s 1998 workstation synthesizer. The keyboard on *Suspension*.
 
-## Runway
+## [Moog](/devices/moog/)
 
-Generative video and image studio. The motion end of Visual Reference Prompting. Maker: Runway AI, Inc. [runwayml.com](https://runwayml.com/)
+The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” and the pedals I brought back from the factory.
 
-Burlap connects to Runway. I entered Runway’s 48-hour film competition in the spring of 2025, and [Burlap](/conspiracies/burlap/) came out of that: the toolchain was just unworkable, just completely unworked for anything I wanted to do or how I thought a professional workspace should be.
+## [DaVinci Resolve](/devices/davinci-resolve/)
 
-## Bass
+Blackmagic Design’s edit, colour and audio application. *Through the Brambles* was cut and mixed in it.
 
-My first instrument. In my teens I stopped buying comic books to save up for my first bass guitar. Number19: bass and keys. Lucibel Crater: keys, bass, loops. Reed’s [“Peggy Sue”](/transmissions/peggy-sue/) (*Rave On Buddy Holly*): bass, a Moog Little Phatty.
+---
+
+# Kyma
+
+https://www.sarth.net/devices/kyma/
+
+[Devices](/devices/) / Kyma
+
+Device · Machine
+
+# Symbolic Sound Kyma
+
+A graphical sound-design environment and the Paca, the orange box that computes it. Under Metal Machine Trio, the Reed tours, *Lulu*, Lucibel Crater and *The Book of Sarth*.
+
+Kyma is a graphical sound-design environment. The Paca is dedicated DSP hardware, a small orange box, rack-mountable, not a plugin inside a laptop; the Pacarana is its larger sibling. Maker: Symbolic Sound Corporation, [Carla Scaletti](/conspirators/carla-scaletti/) and [Kurt Hebel](/conspirators/kurt-hebel/), Champaign, Illinois. [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
+
+I beta-tested Kyma and am credited on the Kyma X startup screen. [Lucibel Crater](/conspiracies/lucibel-crater/) ran its processing through it. [Metal Machine Trio](/conspiracies/metal-machine-trio/): live Kyma processing of the band. The [2011 Lou Reed European tour](/conspiracies/lou-reed-2011-european-tour/): multiple rack-mounted Pacas. [*Lulu*](/conspiracies/lulu/) at the Berliner Ensemble: Kyma processing and Continuum/Kyma playing. [The Book of Sarth](/conspiracies/book-of-sarth/) score is Kyma-drenched. I built SeqOSC in it, a new kind of synthesis, a relative of AM synthesis derived from exploring the analogies between rhythm and timbre. [Junior Dad](/conspiracies/junior-dad/): [Rob Wasserman](/conspirators/rob-wasserman/)’s electric upright through Kyma, first session at Lou’s apartment.
+
+Symbolic Sound’s posts: [Lou Reed’s Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/), July 2011: the rack of Pacas. [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/), October 2012: one take, Continuum and Kyma. [The Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/), November 2012.
+
+The credit: Sarth Calhoun and Kyma: beta tester, credited on the Kyma X startup screen; live Kyma processing in Metal Machine Trio, on Lou Reed’s 2008 to 2012 tours with rack-mounted Pacas, on *Lulu* at the Berliner Ensemble and across *The Book of Sarth*; SeqOSC, his synthesis, built in Kyma; Rob Wasserman’s bass through Kyma on “Junior Dad.”
+
+## Conspiracies
+
+Kyma is under [Lucibel Crater](/conspiracies/lucibel-crater/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Lou Reed’s song band](/conspiracies/lou-reed-song-band/), [Yellow Pony](/conspiracies/yellow-pony/), [*Lulu*](/conspiracies/lulu/), [Junior Dad](/conspiracies/junior-dad/), [The Book of Sarth](/conspiracies/book-of-sarth/) and [Introspections](/transmissions/introspections/). The [Continuum](/devices/continuum/) usually drove it. The people who make it are [Carla Scaletti](/conspirators/carla-scaletti/) and [Kurt Hebel](/conspirators/kurt-hebel/).
+
+The entry is the one that stood on the Devices page, with Symbolic Sound’s posts linked. The Lucibel Crater looping was in Ableton Live, as I said on September 26, 2026; Kyma did the processing.
+
+---
+
+# Continuum
+
+https://www.sarth.net/devices/continuum/
+
+[Devices](/devices/) / Continuum
+
+Device · Machine
+
+# Haken Continuum Fingerboard
+
+A surface that tracks the fingers in three dimensions: continuous pitch, not keys. My instrument since Lucibel Crater, in Lou Reed’s band, Metal Machine Trio, Yellow Pony and *Lulu*.
+
+The Continuum Fingerboard is a long neoprene playing surface that tracks finger position and pressure in three dimensions. Continuous pitch, not keys. Full-size or half-size, and often driving [Kyma](/devices/kyma/). Maker: [Lippold Haken](/conspirators/lippold-haken/), Haken Audio, Champaign, Illinois. [hakenaudio.com](https://www.hakenaudio.com/)
+
+It has been my instrument since [Lucibel Crater](/conspiracies/lucibel-crater/) and through the Reed years. In [Metal Machine Trio](/conspiracies/metal-machine-trio/), Lou and I both had Continuums onstage. [Yellow Pony](/conspiracies/yellow-pony/): Continuum plus live resampling of Reed and Anderson’s voices. [*Lulu*](/conspiracies/lulu/): dual Continuum improvisations with a live string section. [Wikipedia](https://en.wikipedia.org/wiki/Continuum_Fingerboard) names me as an advocate.
+
+![Sarth Calhoun playing a Haken Continuum Fingerboard.](/images/continuum.jpg)
+
+Sarth Calhoun at the Continuum.
+
+> I lost sleep. I even dreamt about it last night. It was one of those thousands-of-people-watching nightmares.
+> 
+> Lippold Haken, after watching Sarth Calhoun play the Continuum at Lollapalooza, quoted on [sarth.net, 2010](https://web.archive.org/web/20101030053745/http://www.sarth.net/category/bio/)
+
+## Conspiracies
+
+The Continuum is on [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/), credited “electronics & continuum,” across [Lou Reed’s song band](/conspiracies/lou-reed-song-band/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Yellow Pony](/conspiracies/yellow-pony/) and [*Lulu*](/conspiracies/lulu/), on [Introspections](/transmissions/introspections/), and on the [Lucibel Crater](/conspiracies/lucibel-crater/) records. Symbolic Sound’s post [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/) is one take of Continuum, Kyma and Ableton amp modelers. The photograph of me at it is on [About](/about/).
+
+The credit: Sarth Calhoun plays the Haken Continuum Fingerboard: in Lucibel Crater, in Lou Reed’s band from 2008, in Metal Machine Trio with Reed and Ulrich Krieger, in Yellow Pony with Reed and Laurie Anderson, and on *Lulu*; Wikipedia’s Continuum article names him among its players.
+
+The entry is the one that stood on the Devices page. Lippold Haken’s line is from my old site’s biography, archived in 2010.
+
+---
+
+# Ableton Live
+
+https://www.sarth.net/devices/ableton-live/
+
+[Devices](/devices/) / Ableton Live
+
+Device · Machine
+
+# Ableton Live
+
+The performance DAW. I endorsed it, built “Awakening (To Blacklist)” in it, and looped Lucibel Crater with it.
+
+Ableton Live is a DAW that treats clips, warping, and devices as a performance instrument. Maker: Ableton AG, Berlin. [ableton.com](https://www.ableton.com/en/live/)
+
+I was an Ableton Live endorser; the 2008 REDCAT program and the 2014 Asia Society *Sunken Cathedral* notes say so. [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), from [The Book of Sarth](/conspiracies/book-of-sarth/), was built in Live: sixty-cycle hum run through plugins until a frequency shifter became the melody. [How I did it](/transmissions/about-awakening-to-blacklist/), with the audio.
+
+The live looping in [Lucibel Crater](/conspiracies/lucibel-crater/) was in Ableton. I recorded the loops as we played and then made an arrangement from them: play the loops, play that back, and build an arranged song out of what we had made.
+
+On the record: The REDCAT program for the Metal Machine Trio nights, October 2008, and the [Asia Society notes](https://asiasociety.org/files/pdf/140424_bora_yoon_notes_web.pdf) for *Sunken Cathedral*, April 2014, both list Sarth Calhoun as an Ableton Live endorser. Symbolic Sound’s [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/): Continuum, Kyma and Ableton amp modelers, one take.
+
+The credit: Sarth Calhoun and Ableton Live: an endorser in the 2008 REDCAT and 2014 Asia Society programs; “Awakening (To Blacklist)” (2012) built in Live; the live looping in Lucibel Crater, 2005 to 2008, in Live.
+
+## Conspiracies
+
+[Lucibel Crater](/conspiracies/lucibel-crater/), [The Book of Sarth](/conspiracies/book-of-sarth/) and [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/), with [the essay on how that track was made](/transmissions/about-awakening-to-blacklist/). Kyma did the processing; Live held the loops.
+
+The entry is the one that stood on the Devices page. The Lucibel Crater looping is as I said on September 26, 2026.
+
+---
+
+# Runway
+
+https://www.sarth.net/devices/runway/
+
+[Devices](/devices/) / Runway
+
+Device · Machine
+
+# Runway
+
+Generative video and image models. The motion end of Visual Reference Prompting, and the competition Burlap came out of.
+
+Runway is a generative video and image studio, the motion end of [Visual Reference Prompting](/transmissions/visual-reference-prompting/). Maker: Runway AI, Inc. [runwayml.com](https://runwayml.com/)
+
+[Burlap](/conspiracies/burlap/) connects to Runway. I entered Runway’s 48-hour film competition in the spring of 2025, and Burlap came out of that.
+
+> The toolchain was just unworkable, just completely unworked for anything I wanted to do or how I thought a professional workspace should be.
+> 
+> Sarth Calhoun, on [where Burlap came from](/conspiracies/burlap/)
+
+The credit: Sarth Calhoun and Runway: Burlap, his app, connects to Runway’s models alongside OpenAI, Google and ByteDance; he entered Runway’s 48-hour film competition in spring 2025 and started Burlap after it.
+
+## Conspiracies
+
+[Burlap](/conspiracies/burlap/), [Visual Reference Prompting](/transmissions/visual-reference-prompting/), and the [Third Wall Studio](/conspiracies/third-wall-studio/) films made in Burlap.
+
+The entry is the one that stood on the Devices page. The quotation is mine, from the Burlap page.
+
+---
+
+# Basses
+
+https://www.sarth.net/devices/basses/
+
+[Devices](/devices/) / Basses
+
+Device · Machine
+
+# Basses
+
+My first instrument. A 1974 Fender Jazz Bass, a Warwick six-string, and others.
+
+Bass is my first instrument. In my teens I stopped buying comic books to save up for my first bass guitar. I have a 1974 [Fender Jazz Bass](https://en.wikipedia.org/wiki/Fender_Jazz_Bass) and a [Warwick](https://www.warwick.de/) six-string bass, and other basses.
+
+[Number19](/conspiracies/number19/): bass and keys. [Lucibel Crater](/conspiracies/lucibel-crater/): keys, bass, loops. [“I Before E”](/transmissions/i-before-e/) is the slap-bass track, an homage to Robert Trujillo. On Lou Reed’s [“Peggy Sue”](/transmissions/peggy-sue/) the bass is a Moog Little Phatty, which is on the [Moog](/devices/moog/) page.
+
+> Yes, I have a 1974 Fender Jazz Bass and a Warwick six-string bass. These are both really amazing. I’ve got other basses as well.
+> 
+> Sarth Calhoun, September 26, 2026
+
+The credit: Sarth Calhoun, bass: Number19 (*Suspension*, 2001, bass and Yamaha EX5), Lucibel Crater (2005 to 2008, keys, bass and loops), and Lou Reed’s “Peggy Sue” (2011, a Moog Little Phatty). A 1974 Fender Jazz Bass and a Warwick six-string, among others.
+
+## On the record
+
+[*Suspension*](/transmissions/suspension/), 2001, bass and a [Yamaha EX5](/devices/yamaha-ex5/). [*Miracles*](/transmissions/miracles/), 2007, and [*The Family Album*](/transmissions/the-family-album/), 2008, with Lucibel Crater. The note I wrote about learning bass, Rob Wasserman, John Paul Jones and Robert Trujillo is on the [I Before E](/transmissions/i-before-e/) page.
+
+The first paragraph is from the Devices page and from what I said on September 26, 2026. Credits are the ones on the record pages.
+
+---
+
+# Yamaha EX5
+
+https://www.sarth.net/devices/yamaha-ex5/
+
+[Devices](/devices/) / Yamaha EX5
+
+Device · Machine
+
+# Yamaha EX5
+
+Yamaha’s 1998 workstation synthesizer. The keyboard on *Suspension*.
+
+The [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5) is a 76-key workstation synthesizer Yamaha released in 1998, with sampling, analogue-modelling and physical-modelling engines in one instrument. Maker: Yamaha Corporation, Hamamatsu.
+
+It was my keyboard in [Number19](/conspiracies/number19/). On [*Suspension*](/transmissions/suspension/), 2001, I played bass and the EX5; Tony Diodore was on guitar and violin, Leah Coloff on cello and voice, Mark Righter on drums.
+
+![Sarth Calhoun at a keyboard, an upright bass beside him, in a black-and-white photograph from 2001.](/images/number19-sarth-calhoun-2001.jpg)
+
+Sarth Calhoun at a keyboard in 2001, from the Number19 site, numbernineteen.net.
+
+The credit: Sarth Calhoun, bass and Yamaha EX5, on *Suspension* by Number19, Searching Eye Records, 2001.
+
+## Conspiracies
+
+[Number19](/conspiracies/number19/) and its record, [*Suspension*](/transmissions/suspension/), including [“I Before E.”](/transmissions/i-before-e/)
+
+The instrument’s facts are Yamaha’s and Wikipedia’s. The credit is the one on the Suspension page.
+
+---
+
+# Moog
+
+https://www.sarth.net/devices/moog/
+
+[Devices](/devices/) / Moog
+
+Device · Machine
+
+# Moog
+
+The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” and the pedals I brought back from the factory.
+
+[Moog Music](https://en.wikipedia.org/wiki/Moog_Music) makes analogue synthesizers and effects in Asheville, North Carolina, the company Bob Moog founded. The Little Phatty, from 2006, and the Minimoog Voyager, from 2002, are two of its keyboards. [moogmusic.com](https://www.moogmusic.com/)
+
+On [Lou Reed](/conspirators/lou-reed/)’s [“Peggy Sue”](/transmissions/peggy-sue/), 2011, the bass is a Moog Little Phatty. On the [*Lulu*](/conspiracies/lulu/) sessions with Metallica, the first song we recorded was “Cheat on Me,” which opens on a riff I play alone on the Moog; that Moog was Lou’s. Lou brought the whole band to the Moog factory, and I brought some Moog pedals back from there.
+
+> The Moog that I played on “Cheat On Me” was Lou Reed’s Moog. It was a Mini-Moog Voyager, I believe, before Lou brought the whole band to the Moog factory. They call it Moog, but anyway, it was pretty great to see them making this stuff there. How few people were able to do all the output at that company. And I brought back some pedals from there. I’ve always loved those pedals; they’re amazing. The knobs are great.
+> 
+> Sarth Calhoun, September 26, 2026
+
+The credit: Sarth Calhoun and Moog: a Little Phatty on Lou Reed’s “Peggy Sue” (*Rave On Buddy Holly*, 2011, Discogs credit), and Lou Reed’s Moog on the *Lulu* recording of “Cheat on Me” (2011); Moog pedals since the band’s visit to the factory.
+
+## On the record
+
+The Discogs credit for [“Peggy Sue”](/transmissions/peggy-sue/) reads bass, Little Phatty. The first day of the *Lulu* recording, and the riff on the Moog, are in the note on the [I Before E](/transmissions/i-before-e/) page.
+
+The Little Phatty is the Discogs credit. Lou’s Moog, the factory and the pedals are as I said on September 26, 2026, and in my note on I Before E.
+
+---
+
+# DaVinci Resolve
+
+https://www.sarth.net/devices/davinci-resolve/
+
+[Devices](/devices/) / DaVinci Resolve
+
+Device · Machine
+
+# DaVinci Resolve
+
+Blackmagic Design’s edit, colour and audio application. Where *Through the Brambles* was cut and its ambisonic mix finished.
+
+[DaVinci Resolve](https://en.wikipedia.org/wiki/DaVinci_Resolve) is Blackmagic Design’s application for editing, colour grading, visual effects and audio post-production. Maker: Blackmagic Design, Melbourne. [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve)
+
+At [Third Wall Studio](/conspiracies/third-wall-studio/) the edit and the ambisonic mix of [*Through the Brambles*](/transmissions/through-the-brambles/), the 360° VR film, were finished in Resolve, after the stills and motion were made in [Burlap](/conspiracies/burlap/).
+
+[Embedded player](https://www.youtube.com/embed/ttWqwhzE-yA)
+
+The credit: *Through the Brambles* (2026), from Sarth Calhoun’s Third Wall Studio, directed by Jacob McCoy: edit and ambisonic mix finished in DaVinci Resolve.
+
+## Conspiracies
+
+[*Through the Brambles*](/transmissions/through-the-brambles/) and [Third Wall Studio](/conspiracies/third-wall-studio/), with [Burlap](/conspiracies/burlap/) upstream of it.
+
+The Brambles credit is the studio’s own page on the film.
 
 ---
 
@@ -5380,7 +5618,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/conspiracies/number19/`
 
 - [Number19](https://en.wikipedia.org/wiki/Number19)
-- [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 - [mp3.com](https://en.wikipedia.org/wiki/Mp3.com)
 - [Apple Music](https://music.apple.com/us/album/suspension/274828088)
 - [Spotify](https://open.spotify.com/album/0EBi9RJO4j2cGeL0CPtYW5)
@@ -5835,20 +6072,64 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript)
 - [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb)
 
-## [Devices](/devices/)
+## [Ableton Live](/devices/ableton-live/)
 
-`/devices/`
+`/devices/ableton-live/`
+
+- [ableton.com](https://www.ableton.com/en/live/)
+- [Asia Society notes](https://asiasociety.org/files/pdf/140424_bora_yoon_notes_web.pdf)
+- [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
+
+## [Basses](/devices/basses/)
+
+`/devices/basses/`
+
+- [Fender Jazz Bass](https://en.wikipedia.org/wiki/Fender_Jazz_Bass)
+- [Warwick](https://www.warwick.de/)
+
+## [Continuum](/devices/continuum/)
+
+`/devices/continuum/`
+
+- [hakenaudio.com](https://www.hakenaudio.com/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Continuum_Fingerboard)
+- [sarth.net, 2010](https://web.archive.org/web/20101030053745/http://www.sarth.net/category/bio/)
+- [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
+
+## [DaVinci Resolve](/devices/davinci-resolve/)
+
+`/devices/davinci-resolve/`
+
+- [DaVinci Resolve](https://en.wikipedia.org/wiki/DaVinci_Resolve)
+- [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve)
+
+## [Kyma](/devices/kyma/)
+
+`/devices/kyma/`
 
 - [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
-- [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
-- [Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
-- [Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
-- [hakenaudio.com](https://www.hakenaudio.com/)
-- [Continuum Fingerboard](https://en.wikipedia.org/wiki/Continuum_Fingerboard)
+- [Lou Reed’s Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/)
 - [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
-- [ableton.com](https://www.ableton.com/en/live/)
-- [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live)
+- [The Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
+
+## [Moog](/devices/moog/)
+
+`/devices/moog/`
+
+- [Moog Music](https://en.wikipedia.org/wiki/Moog_Music)
+- [moogmusic.com](https://www.moogmusic.com/)
+
+## [Runway](/devices/runway/)
+
+`/devices/runway/`
+
 - [runwayml.com](https://runwayml.com/)
+
+## [Yamaha EX5](/devices/yamaha-ex5/)
+
+`/devices/yamaha-ex5/`
+
+- [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 
 ## [Rumors](/rumors/)
 

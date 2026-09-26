@@ -1,6 +1,6 @@
 ---
 title: Devices
-description: Physical objects on Sarth Calhoun’s table: Symbolic Sound Kyma, Haken Continuum Fingerboard, Ableton Live, Runway. Used in Metal Machine Trio, Lulu, Lucibel Crater, Book of Sarth, Burlap.
+description: The instruments and tools Sarth Calhoun uses, one page each: Kyma, the Continuum, Ableton Live, Runway, basses, the Yamaha EX5, Moog, DaVinci Resolve.
 url: https://www.sarth.net/devices/
 facet: machine
 author: Sarth Calhoun
@@ -9,38 +9,36 @@ Physical objects · Machine
 
 # Devices
 
-Physical objects on the table. Kyma, Continuum, the performance DAW, the motion studio. Software machines are on [Contraptions](/contraptions/).
+The instruments and tools I use, one page each: what it is, who makes it, how I came to it, and what I have made with it. Software machines of my own are on [Contraptions](/contraptions/).
 
-## Symbolic Sound Kyma (Paca / Pacarana)
+## [Symbolic Sound Kyma (Paca / Pacarana)](/devices/kyma/)
 
-A graphical sound-design environment. The Paca is dedicated DSP hardware, a small orange box, rack-mountable, not a plugin inside a laptop. Maker: Symbolic Sound Corporation (Carla Scaletti and Kurt Hebel), Champaign, Illinois. [kyma.symbolicsound.com](https://kyma.symbolicsound.com/)
+A graphical sound-design environment; the Paca is the orange box that computes it. Beta tester, credited on the Kyma X startup screen. Metal Machine Trio, the Reed tours, *Lulu*, Lucibel Crater, The Book of Sarth, SeqOSC.
 
-I beta-tested Kyma and am credited on the Kyma X startup screen. Lucibel Crater looping and processing. Metal Machine Trio: live Kyma processing of the band. 2011 [Lou Reed](/conspirators/lou-reed/) European tour: multiple rack-mounted Pacas. *Lulu* at the [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble): Kyma processing and Continuum/Kyma playing. The Book of Sarth score is Kyma-drenched. I built SeqOSC in it, a new kind of synthesis, a relative of AM synthesis derived from exploring the analogies between rhythm and timbre. Junior Dad: Wasserman’s electric upright through Kyma, first session at Lou’s apartment.
+## [Haken Continuum Fingerboard](/devices/continuum/)
 
-[Euro tour](https://news.symbolicsound.com/2011/07/lou-reeds-euro-tour/) · [Book of Sarth](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
+A surface that tracks the fingers in three dimensions, continuous pitch, not keys. My instrument since Lucibel Crater, in Lou Reed’s band, Metal Machine Trio, Yellow Pony and *Lulu*.
 
-## Haken Continuum Fingerboard
+## [Ableton Live](/devices/ableton-live/)
 
-A long neoprene playing surface that tracks finger position and pressure in three dimensions. Continuous pitch, not keys. Often driving Kyma. Maker: Lippold Haken / Haken Audio, Champaign, Illinois. [hakenaudio.com](https://www.hakenaudio.com/)
+The performance DAW. I endorsed it, built “Awakening (To Blacklist)” in it, and looped Lucibel Crater with it.
 
-Lucibel Crater and the Reed years. In Metal Machine Trio, Lou and I both had Continuums onstage. Yellow Pony: Continuum plus live resampling of Reed and Anderson’s voices. *Lulu*: dual Continuum improvisations with a live string section. Wikipedia names me as an advocate.
+## [Runway](/devices/runway/)
 
-After watching videos of me playing it at Lollapalooza, Lippold Haken said: I lost sleep. I even dreamt about it last night. It was one of those thousands-of-people-watching nightmares.
+Generative video and image models, the motion end of Visual Reference Prompting. Burlap connects to it and came out of its 48-hour film competition.
 
-[Continuum Fingerboard](https://en.wikipedia.org/wiki/Continuum_Fingerboard) · [Walking the road that only you can see](https://news.symbolicsound.com/2012/10/walking-the-road-that-only-you-can-see/)
+## [Basses](/devices/basses/)
 
-## Ableton Live
+My first instrument. A 1974 Fender Jazz Bass, a Warwick six-string, and others. Number19, Lucibel Crater, “I Before E.”
 
-A DAW that treats clips, warping, and devices as a performance instrument. Maker: Ableton AG, Berlin. [ableton.com](https://www.ableton.com/en/live/)
+## [Yamaha EX5](/devices/yamaha-ex5/)
 
-I was an [Ableton Live](https://en.wikipedia.org/wiki/Ableton_Live) endorser; the 2008 REDCAT program and the 2014 Asia Society *Sunken Cathedral* notes say so. The Book of Sarth track “Awakening (To Blacklist)” was built in Live: 60 cycle hum run through plugins until a frequency shifter became the melody. [How I did it](/transmissions/about-awakening-to-blacklist/), with the audio.
+Yamaha’s 1998 workstation synthesizer. The keyboard on *Suspension*.
 
-## Runway
+## [Moog](/devices/moog/)
 
-Generative video and image studio. The motion end of Visual Reference Prompting. Maker: Runway AI, Inc. [runwayml.com](https://runwayml.com/)
+The Little Phatty on “Peggy Sue,” Lou Reed’s Moog on “Cheat on Me,” and the pedals I brought back from the factory.
 
-Burlap connects to Runway. I entered Runway’s 48-hour film competition in the spring of 2025, and [Burlap](/conspiracies/burlap/) came out of that: the toolchain was just unworkable, just completely unworked for anything I wanted to do or how I thought a professional workspace should be.
+## [DaVinci Resolve](/devices/davinci-resolve/)
 
-## Bass
-
-My first instrument. In my teens I stopped buying comic books to save up for my first bass guitar. Number19: bass and keys. Lucibel Crater: keys, bass, loops. Reed’s [“Peggy Sue”](/transmissions/peggy-sue/) (*Rave On Buddy Holly*): bass, a Moog Little Phatty.
+Blackmagic Design’s edit, colour and audio application. *Through the Brambles* was cut and mixed in it.

@@ -13,7 +13,7 @@ Transmission · Dream
 
 # “Peggy Sue”
 
-“Peggy Sue” is [Lou Reed](/conspirators/lou-reed/)’s recording of the Buddy Holly song for *Rave On Buddy Holly*, the tribute compilation released by Fantasy and Concord in June 2011, alongside Paul McCartney, Patti Smith, Florence and the Machine and the Black Keys. I play bass on it, a Moog Little Phatty. Three minutes nineteen.
+“Peggy Sue” is [Lou Reed](/conspirators/lou-reed/)’s recording of the Buddy Holly song for *Rave On Buddy Holly*, the tribute compilation released by Fantasy and Concord in June 2011, alongside Paul McCartney, Patti Smith, Florence and the Machine and the Black Keys. I play bass on it, a [Moog Little Phatty](/devices/moog/). Three minutes nineteen.
 
 ![Cover of Rave On Buddy Holly.](/images/art-rave-on-buddy-holly.jpg)
 

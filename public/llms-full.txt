@@ -5,7 +5,6 @@ https://www.sarth.net/
 Full text of every page on sarth.net, inlined, so an agent can read the whole
 site in one fetch. The index version is at https://www.sarth.net/llms.txt.
 
-<!-- build:facts -->
 Founder of Third Wall Studio, and creator of the Burlap app. Brooklyn. Data engineer, artist, and musician working in AI.
 
 Data Engineering for Art
@@ -17,7 +16,6 @@ Career, newest first:
 - Reaktor — Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration. https://reaktor.com
 - Ingather — A T.E.C. Systems product Sarth led, August 2021 to March 2022. SvelteKit, a nine-person team. https://ingather-demo.marshy-runner.workers.dev
 - T.E.C. Systems — 2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end.
-<!-- /build:facts -->
 
 ## About
 

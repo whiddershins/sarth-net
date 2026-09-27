@@ -535,6 +535,11 @@ def feed(pages):
             f"  <id>{HOST}/</id>\n  <updated>{updated}T00:00:00Z</updated>\n  <author>\n    <name>{AUTHOR}</name>\n    <uri>{HOST}/</uri>\n  </author>\n" + entries + "</feed>\n")
 
 
+def strip_published_markers(text):
+    """content/ keeps the markers so the build can find the block. The public files do not."""
+    return text.replace(facts.MARK_START + "\n", "").replace("\n" + facts.MARK_END, "")
+
+
 def llms(pages, order, twins, facts_data):
     block = facts.render_llms_block(facts_data)
     lines = []
@@ -542,12 +547,12 @@ def llms(pages, order, twins, facts_data):
         p = pages[r]
         indent = "  " if r.count("/") > 3 else ""
         lines.append(f"{indent}- {p['title']} {p['url']}")
-    short = splice_facts((CONTENT / "llms.txt").read_text(), block).replace("{{PAGES}}", "\n".join(lines))
+    short = strip_published_markers(splice_facts((CONTENT / "llms.txt").read_text(), block)).replace("{{PAGES}}", "\n".join(lines))
     inl = []
     for r in order:
         body = twins[r].split("---\n", 2)[2].strip()
         inl.append(f"# {pages[r]['title']}\n\n{pages[r]['url']}\n\n{body}")
-    full = splice_facts((CONTENT / "llms-full.txt").read_text(), block)
+    full = strip_published_markers(splice_facts((CONTENT / "llms-full.txt").read_text(), block))
     full = full.replace("{{COUNT}}", str(len(order))).replace("{{PAGES}}", "\n\n---\n\n".join(inl))
     return short, full
 
@@ -1149,10 +1154,10 @@ def build(mode):
                 self_problems.append(f"{rel} dateModified is {mods or 'missing'}, expected {dates[rel]}")
         block = facts.render_llms_block(facts_data)
         about_block = facts.render_about_inner(facts_data)
-        self_problems += facts.block_problems("public/llms.txt", facts.extract_block(short), block)
-        self_problems += facts.block_problems("public/llms-full.txt", facts.extract_block(full), block)
+        self_problems += facts.published_block_problems("public/llms.txt", short, block)
+        self_problems += facts.published_block_problems("public/llms-full.txt", full, block)
         self_problems += facts.missing_phrases(
-            "public/llms.txt", facts.extract_block(short) or "", (facts_data["lead"], facts_data["tagline"]))
+            "public/llms.txt", short, (facts_data["lead"], facts_data["tagline"]))
         self_problems += facts.block_problems(
             "public/about/index.html key facts", facts.extract_block(pages["/about/"]["html"]), about_block)
         if facts_data["lead"] not in pages["/about/"]["html"]:
@@ -1167,12 +1172,14 @@ def build(mode):
         for label, path, expected in (
             ("public/llms.txt", PUBLIC / "llms.txt", expected_block),
             ("public/llms-full.txt", PUBLIC / "llms-full.txt", expected_block),
-            ("public/about/index.html key facts", PUBLIC / "about/index.html", expected_about),
         ):
             text = path.read_text() if path.exists() else ""
-            disk_problems += facts.block_problems(label, facts.extract_block(text), expected)
+            disk_problems += facts.published_block_problems(label, text, expected)
             if path.name == "llms.txt":
-                disk_problems += facts.missing_phrases(label, facts.extract_block(text) or "", (facts_data["lead"], facts_data["tagline"]))
+                disk_problems += facts.missing_phrases(label, text, (facts_data["lead"], facts_data["tagline"]))
+        about_disk_html = (PUBLIC / "about/index.html").read_text() if (PUBLIC / "about/index.html").exists() else ""
+        disk_problems += facts.block_problems(
+            "public/about/index.html key facts", facts.extract_block(about_disk_html), expected_about)
         if facts_data["lead"] not in disk["/about/"]:
             disk_problems.append("public/about/index.html is missing the locked lead")
         if facts_data["tagline"] not in disk["/about/"]:

@@ -474,3 +474,15 @@ def block_problems(label, actual, expected):
     if missing:
         return [f"{label} is missing {phrase!r}" for phrase in missing]
     return [f"{label} does not match content/facts.json"]
+
+
+def published_block_problems(label, text, expected):
+    """The public llms files carry the career block without the source markers."""
+    if MARK_START in text or MARK_END in text:
+        return [f"{label} still contains {MARK_START} markers"]
+    if expected.strip() not in text:
+        missing = [phrase for phrase in CAREER_PHRASES if phrase not in text]
+        if missing:
+            return [f"{label} is missing {phrase!r}" for phrase in missing]
+        return [f"{label} does not match content/facts.json"]
+    return []

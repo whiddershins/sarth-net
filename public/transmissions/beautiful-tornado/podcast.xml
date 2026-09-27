@@ -42,7 +42,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>02:26:24</itunes:duration>
       <itunes:image href="https://www.sarth.net/images/beautiful-tornado-cover.jpg"/>
-      <enclosure url="https://static1.squarespace.com/static/54d06e1ce4b04a9ce19907b7/t/602b11c0db12250c439e0324/1613435455778/episode+6+-+MPFS+Final--Full-1.m4a" length="125481360" type="audio/x-m4a"/>
+      <enclosure url="https://media.sarth.net/beautiful-tornado/episode-6-the-re-enchantment-of-the-world.m4a" length="125481360" type="audio/x-m4a"/>
     </item>
     <item>
       <title>Rich Nav&#x27;s Positivity Mission</title>
@@ -61,7 +61,7 @@
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://www.sarth.net/images/beautiful-tornado-cover.jpg"/>
-      <enclosure url="https://static1.squarespace.com/static/54d06e1ce4b04a9ce19907b7/t/5fb3d0cf30ae6663de0f3bd4/1605620106936/episode+4+F-richNavPositivityMission.mp3" length="61035226" type="audio/mpeg"/>
+      <enclosure url="https://media.sarth.net/beautiful-tornado/episode-4-rich-navs-positivity-mission.mp3" length="61035226" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

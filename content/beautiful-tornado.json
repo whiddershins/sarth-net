@@ -1,5 +1,5 @@
 {
-  "_source": "Squarespace feed https://sarth-stuff.squarespace.com/beautiful-tornado?format=rss, fetched 2026-09-27. GUIDs, titles, dates and show text unchanged. Enclosure lengths are the Content-Length the audio URLs return today; episode 6's duration is from ffprobe (8784 s).",
+  "_source": "Squarespace feed https://sarth-stuff.squarespace.com/beautiful-tornado?format=rss, fetched 2026-09-27. GUIDs, titles, dates and show text unchanged. Enclosure lengths are the Content-Length the audio URLs return today; episode 6's duration is from ffprobe (8784 s). On 2026-09-27 the audio was copied unchanged to Cloudflare R2 (bucket sarth-media, https://media.sarth.net/beautiful-tornado/); the Squarespace originals remain.",
   "channel": {
     "feed_url": "https://www.sarth.net/beautiful-tornado?format=rss",
     "title": "Beautiful Tornado",
@@ -47,7 +47,7 @@
       "itunes_duration": "02:26:24",
       "itunes_image": "https://www.sarth.net/images/beautiful-tornado-cover.jpg",
       "enclosure": {
-        "url": "https://static1.squarespace.com/static/54d06e1ce4b04a9ce19907b7/t/602b11c0db12250c439e0324/1613435455778/episode+6+-+MPFS+Final--Full-1.m4a",
+        "url": "https://media.sarth.net/beautiful-tornado/episode-6-the-re-enchantment-of-the-world.m4a",
         "length": 125481360,
         "type": "audio/x-m4a"
       }
@@ -73,7 +73,7 @@
       "itunes_episode_type": "full",
       "itunes_image": "https://www.sarth.net/images/beautiful-tornado-cover.jpg",
       "enclosure": {
-        "url": "https://static1.squarespace.com/static/54d06e1ce4b04a9ce19907b7/t/5fb3d0cf30ae6663de0f3bd4/1605620106936/episode+4+F-richNavPositivityMission.mp3",
+        "url": "https://media.sarth.net/beautiful-tornado/episode-4-rich-navs-positivity-mission.mp3",
         "length": 61035226,
         "type": "audio/mpeg"
       }

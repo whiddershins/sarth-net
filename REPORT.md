@@ -284,4 +284,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 22 machine · 32 dream · 11 message
+- 22 machine · 32 dream · 12 message

@@ -185,3 +185,7 @@ Essays and writing.
 - ## [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)
 
   Nov 21, 2020. How the track’s melody came out of a recording of 60 cycle hum: a frequency shifter on the Spacebirds preset, wet/dry automation, and a happy accident with two frozen drum tracks. With the audio examples.
+
+- ## [Bolted for the Briar Patch](/bolted-for-the-briar-patch/)
+
+  Jun 12, 2013. An essay from the old sarth.net: four hours in the deep web the week of the NSA phone-records order, surveillance, and prison.

@@ -199,6 +199,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - DaVinci Resolve https://www.sarth.net/devices/davinci-resolve/
 - Citations https://www.sarth.net/citations/
 - Contact https://www.sarth.net/contact/
+- Bolted for the Briar Patch https://www.sarth.net/bolted-for-the-briar-patch/
 - Search https://www.sarth.net/search/
 
 ## Cite, do not duplicate

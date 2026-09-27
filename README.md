@@ -37,11 +37,11 @@ it in `REPORT.md`, which also lists every story page still without the
 alternating 2/1 and 1/2 bands (a page opts out with a `<!-- bands: none. reason -->`
 comment; the check fails a flat page without one). `npm run dev:holes` serves the site at `http://127.0.0.1:8788`
 with every hole editable in place: click, type, click away, and the file is
-written and the build re-run. The old page generator is retired under `scripts/legacy/`. Old Squarespace and WordPress addresses are 301s in `public/_redirects`. There is no Worker script, so a page view does not count as a Worker request.
+written and the build re-run. The old page generator is retired under `scripts/legacy/`. Old Squarespace and WordPress addresses are 301s in `public/_redirects`. `src/index.js` runs before the assets. It 301s every other host, and any http request, to the same path and query on `https://www.sarth.net`, then passes a canonical request to the asset binding, so those `_redirects` rules, trailing slashes, and the 404 page still apply. `workers_dev` and `preview_urls` are off. A page view counts as a Worker request. `node --test scripts/canonical.test.mjs` checks the redirect decision.
 
 Publish by connecting Workers Builds on the `sarth-net` Worker in Sarth@sarth.net's Account to this GitHub repo, production branch `main`, deploy command `npx wrangler deploy`. Cloudflare runs that on each push. A GitHub Action is not the publish path. `account_id` in `wrangler.jsonc` is that same account, so a manual `npx wrangler deploy --profile sarth-net` cannot land on Marshy Runner.
 
-Canonical host: `https://www.sarth.net`. Both `www.sarth.net` and `sarth.net` are attached to the `sarth-net` static deployment on Sarth@sarth.net's Account. Pages declare the `www` address in their canonical tag. There is no host redirect from the bare name to `www`. Mail records stay on Fastmail. The old Squarespace site remains at `https://sarth-stuff.squarespace.com`.
+Canonical host: `https://www.sarth.net`. Both `www.sarth.net` and `sarth.net` stay attached to the `sarth-net` deployment on Sarth@sarth.net's Account, so the Worker can see the bare name and redirect it. Pages declare the `www` address in their canonical tag. Mail records stay on Fastmail. The old Squarespace site remains at `https://sarth-stuff.squarespace.com`. The older Worker on Marshy Runner, `https://sarth-net.marshy-runner.workers.dev`, is a separate deployment and is not changed by this repo.
 
 ## Cloudflare accounts
 

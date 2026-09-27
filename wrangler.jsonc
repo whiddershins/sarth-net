@@ -2,12 +2,19 @@
   "name": "sarth-net",
   "account_id": "cc4dcff1642e97ee3283755e696a3c40",
   "compatibility_date": "2026-08-25",
+  "main": "src/index.js",
+  // The workers.dev hostname and version preview URLs are not a copy of the site.
+  "workers_dev": false,
+  "preview_urls": false,
   "observability": {
     "enabled": true
   },
   "assets": {
     "directory": "./public",
+    "binding": "ASSETS",
     "html_handling": "auto-trailing-slash",
-    "not_found_handling": "404-page"
+    "not_found_handling": "404-page",
+    // Host redirects have to run before the asset. _redirects cannot match on host.
+    "run_worker_first": true
   }
 }

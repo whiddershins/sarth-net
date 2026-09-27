@@ -7,6 +7,7 @@
     "prepare": "git config core.hooksPath .githooks",
     "build": "python3 scripts/build.py",
     "check:build": "python3 scripts/build.py --check",
+    "test:canonical": "node --test scripts/canonical.test.mjs",
     "dev": "wrangler dev",
     "check": "wrangler deploy --dry-run",
     "dev:holes": "python3 scripts/dev.py"

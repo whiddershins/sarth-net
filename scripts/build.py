@@ -7,7 +7,7 @@ public/**/index.html and writes:
   public/**/index.md          markdown twin of each page
   public/llms.txt             from content/llms.txt, {{PAGES}} and the facts block filled in
   public/llms-full.txt        from content/llms-full.txt, every page inlined
-  public/sitemap.xml          <lastmod> from the page file's git date
+  public/sitemap.xml          <lastmod> from the page's hand-written git date
   public/feed.xml             every page that carries datePublished in its JSON-LD
   public/citations.json       outbound links per page
   public/citations.md         between the build:citations markers
@@ -883,13 +883,13 @@ def refresh_main(page):
 
 
 # ----------------------------------------------------------------- dates
-# Sitemap <lastmod> and JSON-LD dateModified are the page file's last commit
-# date, not the time the build ran. A page this commit is changing (dirty, or
-# rewritten by the build) takes today's date, which is the date git will record
-# when the commit lands. A shallow checkout cannot see per-file history — every
-# file looks touched by HEAD — so it reuses content/lastmod.json, the dates the
-# last full-history build committed. --check then agrees in both places.
-# SARTH_DATES_SOURCE=cache forces that path, for the shallow-checkout check.
+# Sitemap <lastmod> and JSON-LD dateModified follow the last commit that
+# changed the page's hand-written HTML. Generated regions are ignored: Person
+# career fields, dateModified, and the build:facts / build:facets /
+# build:citations blocks, plus hole bodies the build fills in. An uncommitted
+# hand-written edit is today, which is the date git will record when it is
+# committed. A shallow checkout cannot see that history, so it reuses
+# content/lastmod.json. SARTH_DATES_SOURCE=cache forces the same path.
 
 def local_today():
     return datetime.now().astimezone().date().isoformat()
@@ -902,51 +902,149 @@ def load_date_cache():
     return json.loads(path.read_text())
 
 
-def git_file_dates():
-    out = subprocess.run(["git", "log", "--format=%cs", "--name-only"], cwd=ROOT, capture_output=True, text=True, check=True)
-    dates, current = {}, None
-    for line in out.stdout.splitlines():
-        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", line):
-            current = line
-        elif line.strip() and current:
-            dates.setdefault(line.strip(), current)
-    return dates
-
-
-def dirty_paths():
-    out = subprocess.run(["git", "status", "--porcelain", "-z"], cwd=ROOT, capture_output=True, check=True)
-    parts = out.stdout.decode().split("\0")
-    dirty, i = set(), 0
-    while i < len(parts):
-        entry = parts[i]
-        i += 1
-        if not entry:
-            continue
-        status, path = entry[:2], entry[3:]
-        if "R" in status or "C" in status:
-            path = parts[i]
-            i += 1
-        dirty.add(path)
-    return dirty
-
-
-def date_sources():
-    cache = load_date_cache()
+def git_history_trustworthy():
     if os.environ.get("SARTH_DATES_SOURCE") == "cache":
-        return False, {}, set(), cache
+        return False
     try:
         shallow = subprocess.run(["git", "rev-parse", "--is-shallow-repository"], cwd=ROOT, capture_output=True, text=True, check=True)
         if shallow.stdout.strip() == "true":
-            return False, {}, set(), cache
+            return False
         head = subprocess.run(["git", "rev-parse", "--verify", "HEAD"], cwd=ROOT, capture_output=True, text=True)
-        if head.returncode != 0:
-            return False, {}, set(), cache
-        return True, git_file_dates(), dirty_paths(), cache
+        return head.returncode == 0
+    except (OSError, subprocess.CalledProcessError):
+        return False
+
+
+def neutralize(html):
+    """Page text with everything the build writes taken out, for date comparison."""
+    if not html:
+        return ""
+    for start, end in (
+        (facts.MARK_START, facts.MARK_END),
+        ("<!-- build:facets -->", "<!-- /build:facets -->"),
+        ("<!-- build:citations -->", "<!-- /build:citations -->"),
+    ):
+        while True:
+            a = html.find(start)
+            b = html.find(end, a if a >= 0 else 0)
+            if a < 0 or b < 0:
+                break
+            html = html[:a] + html[b + len(end):]
+    html = re.sub(r'(<div class="hole"[^>]*>).*?(</div>)', r"\1\2", html, flags=re.S)
+
+    def repl(match):
+        try:
+            data = json.loads(match.group(1))
+        except json.JSONDecodeError:
+            return match.group(0)
+        for node in data.get("@graph", []):
+            node.pop("dateModified", None)
+            if node.get("@type") == "Person" and str(node.get("@id", "")).endswith("#person"):
+                for key in ("worksFor", "alumniOf", "hasOccupation"):
+                    node.pop(key, None)
+                knows = node.get("knowsAbout")
+                if isinstance(knows, list):
+                    knows = [item for item in knows if item != facts.TAGLINE]
+                    if knows:
+                        node["knowsAbout"] = knows
+                    else:
+                        node.pop("knowsAbout", None)
+        body = json.dumps(data, indent=2, ensure_ascii=False)
+        return '<script type="application/ld+json">\n' + body + "\n  </script>"
+
+    return facts.LD_RE.sub(repl, html)
+
+
+def cat_batch(requests):
+    """Map each 'commit:path' request to its blob text, or None if missing."""
+    if not requests:
+        return {}
+    proc = subprocess.run(
+        ["git", "cat-file", "--batch"],
+        input=("\n".join(requests) + "\n").encode(),
+        cwd=ROOT, capture_output=True, check=True,
+    )
+    data, out, n, i = proc.stdout, {}, 0, 0
+    while n < len(requests) and i < len(data):
+        nl = data.find(b"\n", i)
+        header = data[i:nl].decode()
+        i = nl + 1
+        if header.endswith(" missing"):
+            out[requests[n]] = None
+        else:
+            size = int(header.split()[-1])
+            out[requests[n]] = data[i:i + size].decode("utf-8", "replace")
+            i += size
+            if i < len(data) and data[i:i + 1] == b"\n":
+                i += 1
+        n += 1
+    return out
+
+
+def file_history(rels):
+    """rel -> [(commit, first_parent or None, YYYY-MM-DD)] newest first."""
+    raw = subprocess.run(
+        ["git", "log", "--format=commit %H %P %cs", "--name-only", "--", *rels],
+        cwd=ROOT, capture_output=True, text=True, check=True,
+    )
+    per, commit, parent, date = {}, None, None, None
+    wanted = set(rels)
+    for line in raw.stdout.splitlines():
+        if line.startswith("commit "):
+            parts = line.split()
+            date, commit = parts[-1], parts[1]
+            parents = parts[2:-1]
+            parent = parents[0] if parents else None
+        elif line.strip() and commit and line.strip() in wanted:
+            per.setdefault(line.strip(), []).append((commit, parent, date))
+    return per
+
+
+def handwritten_dates(rels):
+    """Last commit date whose hand-written page text differs from its parent."""
+    history = file_history(rels)
+    requests = []
+    for rel, commits in history.items():
+        for commit, parent, _date in commits:
+            requests.append(f"{commit}:{rel}")
+            if parent:
+                requests.append(f"{parent}:{rel}")
+    blobs = cat_batch(requests)
+    dates = {}
+    for rel, commits in history.items():
+        for commit, parent, date in commits:
+            cur = blobs.get(f"{commit}:{rel}")
+            if cur is None:
+                continue
+            prev = blobs.get(f"{parent}:{rel}") if parent else None
+            if neutralize(cur) != neutralize(prev or ""):
+                dates[rel] = date
+                break
+    return dates
+
+
+def handwritten_dirty(disk_by_rel):
+    """Paths whose worktree text differs from HEAD outside generated regions."""
+    blobs = cat_batch([f"HEAD:{rel}" for rel in disk_by_rel])
+    dirty = set()
+    for rel, html in disk_by_rel.items():
+        head = blobs.get(f"HEAD:{rel}")
+        if head is None or neutralize(html) != neutralize(head):
+            dirty.add(rel)
+    return dirty
+
+
+def date_sources(disk_by_rel):
+    cache = load_date_cache()
+    if not git_history_trustworthy():
+        return False, {}, set(), cache
+    try:
+        return True, handwritten_dates(list(disk_by_rel)), handwritten_dirty(disk_by_rel), cache
     except (OSError, subprocess.CalledProcessError):
         return False, {}, set(), cache
 
 
-def choose_date(rel, disk, make, trustworthy, git_dates, dirty, cache, today):
+def choose_date(rel, make, trustworthy, hand_dates, dirty, cache, today):
     """Return (YYYY-MM-DD, html). html is make(date). None if a shallow tree has no cached date."""
     if not trustworthy:
         date = cache.get(rel)
@@ -954,14 +1052,10 @@ def choose_date(rel, disk, make, trustworthy, git_dates, dirty, cache, today):
             return None, None
         return date, make(date)
     if rel in dirty:
-        return today, make(today)
-    date = git_dates.get(rel) or today
-    html = make(date)
-    if html != disk and date != today:
-        # The file is about to be committed, so its git date will be today.
         date = today
-        html = make(date)
-    return date, html
+    else:
+        date = hand_dates.get(rel) or today
+    return date, make(date)
 
 
 def dump_dates(dates):
@@ -1012,7 +1106,8 @@ def build(mode):
         cit_page["html"] = new_cit_html
         refresh_main(cit_page)
 
-    trustworthy, git_dates, dirty, cache = date_sources()
+    disk_by_rel = {page["file"].relative_to(ROOT).as_posix(): disk[page["route"]] for page in pages.values()}
+    trustworthy, hand_dates, dirty, cache = date_sources(disk_by_rel)
     today = local_today()
     dates, lastmod_problems = {}, []
     for page in pages.values():
@@ -1021,7 +1116,7 @@ def build(mode):
         def make(date, page=page):
             return facts.apply_jsonld(page["html"], facts_data, date, page["url"])
 
-        date, html = choose_date(rel, disk[page["route"]], make, trustworthy, git_dates, dirty, cache, today)
+        date, html = choose_date(rel, make, trustworthy, hand_dates, dirty, cache, today)
         if date is None:
             lastmod_problems.append(f"no cached date for {rel} and git history is unavailable")
             continue

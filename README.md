@@ -18,9 +18,10 @@ every `public/**/index.html` and writes the markdown twins, `llms.txt`,
 The pre-commit hook runs it and stages what changed; the GitHub Action runs
 `--check` and fails the push if anything is stale, a link is dead, a page is
 an orphan, or the career facts disagree. Sitemap `<lastmod>` and JSON-LD
-`dateModified` use each page file’s last commit date. `content/lastmod.json`
-holds those dates so a shallow checkout, which cannot see per-file history,
-still checks cleanly.
+`dateModified` use the last commit that changed the page’s hand-written HTML.
+Generated regions (Person career fields, `dateModified`, and the build blocks)
+do not move the date. `content/lastmod.json` holds those dates so a shallow
+checkout, which cannot see per-file history, still checks cleanly.
 
 ```bash
 python3 scripts/build.py          # regenerate

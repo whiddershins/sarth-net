@@ -300,8 +300,9 @@ def stamp_modified(node, date, page_url=None):
     types = node.get("@type")
     types = set(types if isinstance(types, list) else [types])
     if types & {"Person", "Organization", "MusicGroup", "FAQPage", "WebSite", "SoftwareApplication"}:
+        node.pop("dateModified", None)
         return
-    if "datePublished" in node or types & STAMP_TYPES:
+    if "datePublished" in node or "dateModified" in node or types & STAMP_TYPES:
         node["dateModified"] = date
 
 

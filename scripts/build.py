@@ -32,8 +32,8 @@ data-prompt as a placeholder so Sarth can write in place.
 
   python3 scripts/build.py           write everything
   python3 scripts/build.py --check   write nothing; exit 1 if anything on disk is
-                                     stale, an internal link is dead, or a page
-                                     is missing from its index
+                                     stale, an internal href or src is broken,
+                                     or a page is missing from its index
   python3 scripts/build.py --stage   write, then git add what changed (pre-commit)
 
 Stdlib only.
@@ -43,6 +43,7 @@ import html
 import json
 import math
 import os
+import posixpath
 import re
 import subprocess
 import sys
@@ -51,6 +52,7 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import unquote, urljoin, urlsplit
 
 import facts
 
@@ -62,6 +64,9 @@ AUTHOR = "Sarth Calhoun"
 VOID = {"img", "br", "meta", "link", "hr", "input", "source", "wbr"}
 SKIP = {"script", "style", "svg", "noscript"}
 FILE_ROUTES = {"/llms.txt", "/llms-full.txt", "/sitemap.xml", "/feed.xml", "/citations.json", "/citations.md", "/site.css", "/favicon.png"}
+# The 2013 essay "Bolted for the Briar Patch" links this path and says there is
+# nothing there. That href stays as written.
+KNOWN_BROKEN_INTERNAL = {"/bolted-for-the-briar-patch/wiki.onion"}
 
 
 # ----------------------------------------------------------------- tiny DOM
@@ -1039,17 +1044,183 @@ def headers_problems():
     return problems
 
 
+def load_redirects():
+    """public/_redirects in file order. Comments and blank lines are ignored."""
+    path = PUBLIC / "_redirects"
+    if not path.is_file():
+        return []
+    rules = []
+    for raw in path.read_text().splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = line.split()
+        if len(parts) < 3:
+            continue
+        try:
+            code = int(parts[2])
+        except ValueError:
+            continue
+        rules.append((parts[0], parts[1], code))
+    return rules
+
+
+def match_redirect(path, rules):
+    """First matching rule. A source ending in * is a prefix splat."""
+    for source, dest, code in rules:
+        if source.endswith("*"):
+            prefix = source[:-1]
+            if path.startswith(prefix):
+                return code, dest.replace(":splat", path[len(prefix):])
+        elif path == source:
+            return code, dest
+    return None
+
+
+def normalize_path(path):
+    if not path:
+        return "/"
+    slash = path.endswith("/")
+    normed = posixpath.normpath(unquote(path))
+    if not normed.startswith("/"):
+        normed = "/" + normed
+    if normed.startswith("//"):
+        normed = "/" + normed.lstrip("/")
+    if slash and normed != "/":
+        normed += "/"
+    return normed
+
+
+def static_ok(path):
+    """True when the asset setup serves path with 200, ignoring _redirects.
+
+    An existing file, a directory URL whose index.html exists, or that same
+    directory without the trailing slash (html_handling auto-trailing-slash).
+    """
+    path = normalize_path(path)
+    rel = path.lstrip("/")
+    if path.endswith("/"):
+        return (PUBLIC / rel / "index.html").is_file()
+    if (PUBLIC / rel).is_file():
+        return True
+    return (PUBLIC / rel / "index.html").is_file()
+
+
+def redirect_target_ok(target):
+    """A 200 rule's target exists. External targets are not fetched."""
+    if "://" in target or target.startswith("//"):
+        parts = urlsplit(target if "://" in target else "https:" + target)
+        host = (parts.hostname or "").lower()
+        if host not in ("www.sarth.net", "sarth.net"):
+            return True
+        path = parts.path or "/"
+    else:
+        path = target
+    path = path.split("#", 1)[0].split("?", 1)[0]
+    if path and not path.startswith("/"):
+        path = "/" + path
+    return static_ok(path)
+
+
+_SKIP_SCHEMES = ("mailto:", "tel:", "javascript:", "data:")
+
+
+def internal_path(base, raw):
+    """Site path of an internal URL, or None if it should not be checked.
+
+    Resolved with urljoin against the page URL. Query and fragment are dropped.
+    """
+    raw = (raw or "").strip()
+    if not raw or raw.startswith("#"):
+        return None
+    if raw.lower().startswith(_SKIP_SCHEMES):
+        return None
+    parts = urlsplit(urljoin(base, raw))
+    if parts.scheme.lower() in ("mailto", "tel", "javascript", "data"):
+        return None
+    host = (parts.hostname or "").lower()
+    if host not in ("www.sarth.net", "sarth.net"):
+        return None
+    return normalize_path(parts.path or "/")
+
+
+def srcset_urls(value):
+    urls = []
+    for piece in (value or "").split(","):
+        piece = piece.strip()
+        if piece:
+            urls.append(piece.split()[0])
+    return urls
+
+
+def attribute_urls(root):
+    """Every href, src, poster and srcset candidate in the document."""
+    found = []
+
+    def walk(node):
+        if isinstance(node, str):
+            return
+        for key in ("href", "src", "poster"):
+            if node.attrs.get(key):
+                found.append(node.attrs[key])
+        if node.attrs.get("srcset"):
+            found.extend(srcset_urls(node.attrs["srcset"]))
+        for child in node.children:
+            walk(child)
+
+    walk(root)
+    return found
+
+
+def html_documents(pages):
+    """(label, page URL, html) for every public HTML file.
+
+    index.html pages use the in-memory document (the build may have rewritten
+    it) and the route as the label. Other files, such as 404.html, are read
+    from disk and labeled with their path. Names starting with ._ are skipped.
+    """
+    by_file = {page["file"].resolve(): page for page in pages.values()}
+    files = []
+    for f in PUBLIC.rglob("*.html"):
+        if any(part.startswith("._") for part in f.relative_to(PUBLIC).parts):
+            continue
+        files.append(f)
+    files.sort(key=lambda f: f.relative_to(PUBLIC).as_posix())
+    for f in files:
+        page = by_file.get(f.resolve())
+        if page is not None:
+            yield page["route"], HOST + page["route"], page["html"]
+        else:
+            label = "/" + f.relative_to(PUBLIC).as_posix()
+            yield label, HOST + label, f.read_text()
+
+
+def path_status_problem(page, path, rules):
+    hit = match_redirect(path, rules)
+    if hit:
+        code, target = hit
+        if code == 200:
+            if redirect_target_ok(target):
+                return None
+            return f"{page} links to {path}; rule target {target} does not exist"
+        return f"{page} links to {path}, which is a {code} redirect to {target}; link the page directly"
+    if static_ok(path):
+        return None
+    return f"{page} links to {path}, which does not exist"
+
+
 def check_links(pages):
+    """Broken internal href, src, poster and srcset on every HTML file, then orphans."""
     problems = []
-    for p in pages.values():
-        for h in hrefs(p["main"], internal_only=True) + [i.attrs.get("src", "") for i in p["main"].find_all("img") + p["main"].find_all("audio")]:
-            h = h.split("#")[0].split("?")[0]
-            if not h or not h.startswith("/"):
+    rules = load_redirects()
+    for label, base, text in html_documents(pages):
+        for raw in attribute_urls(parse(text)):
+            path = internal_path(base, raw)
+            if path is None or path in KNOWN_BROKEN_INTERNAL:
                 continue
-            target = PUBLIC / h.lstrip("/")
-            ok = (target / "index.html").exists() if h.endswith("/") else target.exists()
-            if not ok:
-                problems.append(f"{p['route']} links to {h}, which does not exist")
+            problem = path_status_problem(label, path, rules)
+            if problem:
+                problems.append(problem)
     inbound = {r: 0 for r in pages}
     for p in pages.values():
         for h in set(re.findall(r'href="(/[^"#?]*)"', p["html"])):

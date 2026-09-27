@@ -16,8 +16,8 @@ Preview at `http://127.0.0.1:8787`. Pages are static HTML in `public/`.
 every `public/**/index.html` and writes the markdown twins, `llms.txt`,
 `llms-full.txt`, `sitemap.xml`, `feed.xml`, the citations layer, and `REPORT.md`.
 The pre-commit hook runs it and stages what changed; the GitHub Action runs
-`--check` and fails the push if anything is stale, a link is dead, a page is
-an orphan, or the career facts disagree. Sitemap `<lastmod>` and JSON-LD
+`--check` and fails the push if anything is stale, an internal href or src on
+any page is broken, a page is an orphan, or the career facts disagree. Sitemap `<lastmod>` and JSON-LD
 `dateModified` use the last commit that changed the page’s hand-written HTML.
 Generated regions (Person career fields, `dateModified`, and the build blocks)
 do not move the date. `content/lastmod.json` holds those dates so a shallow
@@ -29,7 +29,8 @@ python3 scripts/build.py --check  # what CI runs
 ```
 
 Hand-written sources outside `public/`: `content/facts.json` (the locked lead,
-the line “Data Engineering for Art”, and the dated career roles), `content/llms.txt` and
+the line “Data Engineering for Art”, and the dated career roles), `content/beautiful-tornado.json`
+(the Beautiful Tornado podcast), `content/llms.txt` and
 `content/llms-full.txt` (the preambles; `{{PAGES}}` and the `<!-- build:facts -->`
 block are filled in) and
 `content/holes/*.md`, one file per `<div class="hole">` on a page, for Sarth's
@@ -38,7 +39,7 @@ it in `REPORT.md`, which also lists every story page still without the
 alternating 2/1 and 1/2 bands (a page opts out with a `<!-- bands: none. reason -->`
 comment; the check fails a flat page without one). `npm run dev:holes` serves the site at `http://127.0.0.1:8788`
 with every hole editable in place: click, type, click away, and the file is
-written and the build re-run. The old page generator is retired under `scripts/legacy/`. Old Squarespace and WordPress addresses are 301s in `public/_redirects`, except the five inbound-linked ones at its top, which serve their real page with a 200 rewrite. `src/index.js` runs before the assets. It 301s every other host, and any http request, to the same path and query on `https://www.sarth.net`, then passes a canonical request to the asset binding, so those `_redirects` rules, trailing slashes, and the 404 page still apply. `workers_dev` and `preview_urls` are off. A page view counts as a Worker request. `node --test scripts/canonical.test.mjs` checks the redirect decision.
+written and the build re-run. The old page generator is retired under `scripts/legacy/`. Old Squarespace and WordPress addresses are 301s in `public/_redirects`, except the inbound-linked old addresses at its top, which serve their real page with a 200 rewrite: the five from before, the two Beautiful Tornado episode addresses, and `/photos-of-noise-night-sydney`. `src/index.js` runs before the assets. It 301s every other host, and any http request, to the same path and query on `https://www.sarth.net`, then passes a canonical request to the asset binding, so those `_redirects` rules, trailing slashes, and the 404 page still apply. `src/feeds.js` on the Worker serves the old Squarespace feed addresses `/beautiful-tornado?format=rss` (the Beautiful Tornado podcast RSS, generated from `content/beautiful-tornado.json` into `public/transmissions/beautiful-tornado/podcast.xml`) and `/words?format=rss` (`feed.xml`). The episode audio is still hosted on Squarespace's CDN (`static1.squarespace.com`) because each file is larger than the 25 MiB Workers static-asset limit. `workers_dev` and `preview_urls` are off. A page view counts as a Worker request. `node --test scripts/canonical.test.mjs` checks the redirect decision.
 
 Publish by connecting Workers Builds on the `sarth-net` Worker in Sarth@sarth.net's Account to this GitHub repo, production branch `main`, deploy command `npx wrangler deploy`. Cloudflare runs that on each push. A GitHub Action is not the publish path. `account_id` in `wrangler.jsonc` is that same account, so a manual `npx wrangler deploy --profile sarth-net` cannot land on Marshy Runner.
 

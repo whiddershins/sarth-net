@@ -2,7 +2,8 @@
 
 https://www.sarth.net/
 
-Founder of Third Wall Studio, creator of the Burlap app. Brooklyn. Data engineer, artist, and musician working in AI.
+<!-- build:facts -->
+<!-- /build:facts -->
 
 Third Wall Studio: animation with filmmakers and artists. Hybrid production. https://thirdwallstudio.com
 
@@ -12,7 +13,7 @@ Through the Brambles: AI-generated VR narrative, built in Burlap. https://www.th
 
 Contraptions: small machines, including Image Compare Workbench. https://contraptions.bookofsarth.com
 
-Data engineering: Lead Data Architect at Reaktor, 2022 to 2025, with Paramount’s Advanced Advertising organization; also Viasat. Talks: Reaktor Live 2023, Kyma International Sound Symposium 2016 and 2018, New York Live Arts 2015, Cal State Long Beach 2012. Essays on sarth.net: append-only pipelines on external tables, window functions, SQL, DuckDB. CV: https://www.sarth.net/work/
+Data engineering: Lead Data Architect at Reaktor, 2022 to March 2025, with Paramount’s Advanced Advertising organization; also Viasat. Talks: Reaktor Live 2023, Kyma International Sound Symposium 2016 and 2018, New York Live Arts 2015, Cal State Long Beach 2012. Essays on sarth.net: append-only pipelines on external tables, window functions, SQL, DuckDB. CV: https://www.sarth.net/work/
 
 Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger. Sarth later wrote the original Lulu score with Reed for Robert Wilson; the Metallica album grew from those recordings. Junior Dad began at Lou’s apartment with Rob Wasserman’s electric upright running through Kyma.
 

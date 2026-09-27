@@ -16,16 +16,21 @@ Preview at `http://127.0.0.1:8787`. Pages are static HTML in `public/`.
 every `public/**/index.html` and writes the markdown twins, `llms.txt`,
 `llms-full.txt`, `sitemap.xml`, `feed.xml`, the citations layer, and `REPORT.md`.
 The pre-commit hook runs it and stages what changed; the GitHub Action runs
-`--check` and fails the push if anything is stale, a link is dead, or a page is
-an orphan.
+`--check` and fails the push if anything is stale, a link is dead, a page is
+an orphan, or the career facts disagree. Sitemap `<lastmod>` and JSON-LD
+`dateModified` use each page file’s last commit date. `content/lastmod.json`
+holds those dates so a shallow checkout, which cannot see per-file history,
+still checks cleanly.
 
 ```bash
 python3 scripts/build.py          # regenerate
 python3 scripts/build.py --check  # what CI runs
 ```
 
-Hand-written sources outside `public/`: `content/llms.txt` and
-`content/llms-full.txt` (the preambles; `{{PAGES}}` is filled in) and
+Hand-written sources outside `public/`: `content/facts.json` (the locked lead,
+the line “Data Engineering for Art”, and the dated career roles), `content/llms.txt` and
+`content/llms-full.txt` (the preambles; `{{PAGES}}` and the `<!-- build:facts -->`
+block are filled in) and
 `content/holes/*.md`, one file per `<div class="hole">` on a page, for Sarth's
 own paragraph. An empty file leaves the bracketed prompt on the page and lists
 it in `REPORT.md`, which also lists every story page still without the

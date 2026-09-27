@@ -5,15 +5,21 @@ The HTML under public/ is the source. This script reads every
 public/**/index.html and writes:
 
   public/**/index.md          markdown twin of each page
-  public/llms.txt             from content/llms.txt, {{PAGES}} filled in
+  public/llms.txt             from content/llms.txt, {{PAGES}} and the facts block filled in
   public/llms-full.txt        from content/llms-full.txt, every page inlined
-  public/sitemap.xml
+  public/sitemap.xml          <lastmod> from the page file's git date
   public/feed.xml             every page that carries datePublished in its JSON-LD
   public/citations.json       outbound links per page
   public/citations.md         between the build:citations markers
   public/citations/index.html between the build:citations markers
+  content/lastmod.json        the dates used above, so a shallow checkout can check
   REPORT.md                   holes, flat pages, pages without a credit label, and
                               sentences that still name Sarth instead of saying I
+
+content/facts.json is the career record. The build copies it into the
+<!-- build:facts --> blocks and into each page's Person JSON-LD, and fails
+if a required role is missing or the copies disagree. JSON-LD dateModified
+uses the same per-page date as the sitemap.
 
 It also fills each <div class="hole" data-hole="slug/name"> from
 content/holes/slug--name.md. An empty hole renders as an empty element (the CSS hides
@@ -31,11 +37,15 @@ Stdlib only.
 import html
 import json
 import math
+import os
 import re
 import subprocess
 import sys
+from datetime import datetime
 from html.parser import HTMLParser
 from pathlib import Path
+
+import facts
 
 ROOT = Path(__file__).resolve().parent.parent
 PUBLIC = ROOT / "public"
@@ -501,8 +511,12 @@ def splice(text, inner, start="<!-- build:citations -->", end="<!-- /build:citat
 
 
 # ----------------------------------------------------------------- feed, sitemap, llms
-def sitemap(pages, order):
-    body = "\n".join(f"  <url><loc>{pages[r]['url']}</loc></url>" for r in order)
+def sitemap(pages, order, dates):
+    lines = []
+    for r in order:
+        rel = pages[r]["file"].relative_to(ROOT).as_posix()
+        lines.append(f"  <url><loc>{pages[r]['url']}</loc><lastmod>{dates[rel]}</lastmod></url>")
+    body = "\n".join(lines)
     return '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + body + "\n</urlset>\n"
 
 
@@ -521,18 +535,20 @@ def feed(pages):
             f"  <id>{HOST}/</id>\n  <updated>{updated}T00:00:00Z</updated>\n  <author>\n    <name>{AUTHOR}</name>\n    <uri>{HOST}/</uri>\n  </author>\n" + entries + "</feed>\n")
 
 
-def llms(pages, order, twins):
+def llms(pages, order, twins, facts_data):
+    block = facts.render_llms_block(facts_data)
     lines = []
     for r in order:
         p = pages[r]
         indent = "  " if r.count("/") > 3 else ""
         lines.append(f"{indent}- {p['title']} {p['url']}")
-    short = (CONTENT / "llms.txt").read_text().replace("{{PAGES}}", "\n".join(lines))
+    short = splice_facts((CONTENT / "llms.txt").read_text(), block).replace("{{PAGES}}", "\n".join(lines))
     inl = []
     for r in order:
         body = twins[r].split("---\n", 2)[2].strip()
         inl.append(f"# {pages[r]['title']}\n\n{pages[r]['url']}\n\n{body}")
-    full = (CONTENT / "llms-full.txt").read_text().replace("{{COUNT}}", str(len(order))).replace("{{PAGES}}", "\n\n---\n\n".join(inl))
+    full = splice_facts((CONTENT / "llms-full.txt").read_text(), block)
+    full = full.replace("{{COUNT}}", str(len(order))).replace("{{PAGES}}", "\n\n---\n\n".join(inl))
     return short, full
 
 
@@ -852,12 +868,128 @@ def check_links(pages):
     return problems
 
 
+def splice_facts(text, inner, end_indent=""):
+    """Replace the facts block. end_indent is rewritten in front of the closer,
+    because the whitespace that used to sit there is inside the replaced span."""
+    start, end = facts.MARK_START, facts.MARK_END
+    a = text.index(start) + len(start)
+    b = text.index(end)
+    return text[:a] + "\n" + inner + end_indent + text[b:]
+
+
+def refresh_main(page):
+    page["main_html"] = re.search(r"<main.*?</main>", page["html"], re.S).group(0)
+    page["main"] = parse(page["main_html"])
+
+
+# ----------------------------------------------------------------- dates
+# Sitemap <lastmod> and JSON-LD dateModified are the page file's last commit
+# date, not the time the build ran. A page this commit is changing (dirty, or
+# rewritten by the build) takes today's date, which is the date git will record
+# when the commit lands. A shallow checkout cannot see per-file history — every
+# file looks touched by HEAD — so it reuses content/lastmod.json, the dates the
+# last full-history build committed. --check then agrees in both places.
+# SARTH_DATES_SOURCE=cache forces that path, for the shallow-checkout check.
+
+def local_today():
+    return datetime.now().astimezone().date().isoformat()
+
+
+def load_date_cache():
+    path = CONTENT / "lastmod.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text())
+
+
+def git_file_dates():
+    out = subprocess.run(["git", "log", "--format=%cs", "--name-only"], cwd=ROOT, capture_output=True, text=True, check=True)
+    dates, current = {}, None
+    for line in out.stdout.splitlines():
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", line):
+            current = line
+        elif line.strip() and current:
+            dates.setdefault(line.strip(), current)
+    return dates
+
+
+def dirty_paths():
+    out = subprocess.run(["git", "status", "--porcelain", "-z"], cwd=ROOT, capture_output=True, check=True)
+    parts = out.stdout.decode().split("\0")
+    dirty, i = set(), 0
+    while i < len(parts):
+        entry = parts[i]
+        i += 1
+        if not entry:
+            continue
+        status, path = entry[:2], entry[3:]
+        if "R" in status or "C" in status:
+            path = parts[i]
+            i += 1
+        dirty.add(path)
+    return dirty
+
+
+def date_sources():
+    cache = load_date_cache()
+    if os.environ.get("SARTH_DATES_SOURCE") == "cache":
+        return False, {}, set(), cache
+    try:
+        shallow = subprocess.run(["git", "rev-parse", "--is-shallow-repository"], cwd=ROOT, capture_output=True, text=True, check=True)
+        if shallow.stdout.strip() == "true":
+            return False, {}, set(), cache
+        head = subprocess.run(["git", "rev-parse", "--verify", "HEAD"], cwd=ROOT, capture_output=True, text=True)
+        if head.returncode != 0:
+            return False, {}, set(), cache
+        return True, git_file_dates(), dirty_paths(), cache
+    except (OSError, subprocess.CalledProcessError):
+        return False, {}, set(), cache
+
+
+def choose_date(rel, disk, make, trustworthy, git_dates, dirty, cache, today):
+    """Return (YYYY-MM-DD, html). html is make(date). None if a shallow tree has no cached date."""
+    if not trustworthy:
+        date = cache.get(rel)
+        if not date:
+            return None, None
+        return date, make(date)
+    if rel in dirty:
+        return today, make(today)
+    date = git_dates.get(rel) or today
+    html = make(date)
+    if html != disk and date != today:
+        # The file is about to be committed, so its git date will be today.
+        date = today
+        html = make(date)
+    return date, html
+
+
+def dump_dates(dates):
+    return json.dumps(dict(sorted(dates.items())), indent=2, ensure_ascii=False) + "\n"
+
+
 # ----------------------------------------------------------------- main
 def build(mode):
+    facts_data, fact_errors = facts.load_facts()
+    if fact_errors:
+        for e in fact_errors:
+            print(f"facts: {e}")
+        sys.exit(1)
+
     pages = load_pages()
-    outputs = []  # (path, text)
-    hole_changes, report = fill_holes(pages)
-    outputs += hole_changes
+    disk = {route: page["html"] for route, page in pages.items()}
+    outputs = []  # (path, text). One entry per path; the last write wins, so HTML is final only.
+
+    _, report = fill_holes(pages)
+    about = pages["/about/"]
+    if facts.MARK_START not in about["html"] or facts.MARK_END not in about["html"]:
+        print("facts: public/about/index.html is missing <!-- build:facts --> markers")
+        sys.exit(1)
+    new_about = splice_facts(about["html"], facts.render_about_inner(facts_data), end_indent="      ")
+    if new_about != about["html"]:
+        about["html"] = new_about
+        refresh_main(about)
+
     band_problems, flat = check_bands(pages)
     attr_problems, attribution = check_attribution(pages)
     facet_problems, facet_counts = check_facets(pages)
@@ -869,9 +1001,7 @@ def build(mode):
         new_home = splice(home["html"], facets_html(pages, order), "<!-- build:facets -->", "<!-- /build:facets -->")
         if new_home != home["html"]:
             home["html"] = new_home
-            home["main_html"] = re.search(r"<main.*?</main>", new_home, re.S).group(0)
-            home["main"] = parse(home["main_html"])
-            outputs.append((home["file"], new_home))
+            refresh_main(home)
 
     cj, cmd, chtml = citations_outputs(pages, None)
     outputs.append((PUBLIC / "citations.json", cj))
@@ -880,28 +1010,109 @@ def build(mode):
     new_cit_html = splice(cit_page["html"], chtml)
     if new_cit_html != cit_page["html"]:
         cit_page["html"] = new_cit_html
-        cit_page["main_html"] = re.search(r"<main.*?</main>", new_cit_html, re.S).group(0)
-        cit_page["main"] = parse(cit_page["main_html"])
-        outputs.append((cit_page["file"], new_cit_html))
+        refresh_main(cit_page)
+
+    trustworthy, git_dates, dirty, cache = date_sources()
+    today = local_today()
+    dates, lastmod_problems = {}, []
+    for page in pages.values():
+        rel = page["file"].relative_to(ROOT).as_posix()
+
+        def make(date, page=page):
+            return facts.apply_jsonld(page["html"], facts_data, date, page["url"])
+
+        date, html = choose_date(rel, disk[page["route"]], make, trustworthy, git_dates, dirty, cache, today)
+        if date is None:
+            lastmod_problems.append(f"no cached date for {rel} and git history is unavailable")
+            continue
+        dates[rel] = date
+        page["html"] = html
+        if html != disk[page["route"]]:
+            outputs.append((page["file"], html))
+    if len(dates) == len(pages):
+        outputs.append((CONTENT / "lastmod.json", dump_dates(dates)))
 
     twins = {r: page_markdown(pages[r]) for r in order}
     for r in order:
         outputs.append((pages[r]["file"].with_name("index.md"), twins[r]))
-    outputs.append((PUBLIC / "sitemap.xml", sitemap(pages, order)))
+    if len(dates) == len(pages):
+        outputs.append((PUBLIC / "sitemap.xml", sitemap(pages, order, dates)))
     outputs.append((PUBLIC / "feed.xml", feed(pages)))
-    short, full = llms(pages, order, twins)
+    short, full = llms(pages, order, twins, facts_data)
     outputs.append((PUBLIC / "llms.txt", short))
     outputs.append((PUBLIC / "llms-full.txt", full))
     outputs.append((PUBLIC / "pages.json", pages_json(pages, order, twins)))
     outputs.append((PUBLIC / "search-index.json", search_index_json(pages, order, twins)))
 
+    self_problems = []
+    if len(dates) == len(pages):
+        for page in pages.values():
+            rel = page["file"].relative_to(ROOT).as_posix()
+            self_problems += facts.jsonld_problems(rel, facts.person_from_html(page["html"]), facts_data)
+            mods = facts.modified_dates(page["html"])
+            if not mods or any(item != dates[rel] for item in mods):
+                self_problems.append(f"{rel} dateModified is {mods or 'missing'}, expected {dates[rel]}")
+        block = facts.render_llms_block(facts_data)
+        about_block = facts.render_about_inner(facts_data)
+        self_problems += facts.block_problems("public/llms.txt", facts.extract_block(short), block)
+        self_problems += facts.block_problems("public/llms-full.txt", facts.extract_block(full), block)
+        self_problems += facts.missing_phrases(
+            "public/llms.txt", facts.extract_block(short) or "", (facts_data["lead"], facts_data["tagline"]))
+        self_problems += facts.block_problems(
+            "public/about/index.html key facts", facts.extract_block(pages["/about/"]["html"]), about_block)
+        if facts_data["lead"] not in pages["/about/"]["html"]:
+            self_problems.append("public/about/index.html is missing the locked lead")
+        if facts_data["tagline"] not in pages["/about/"]["html"]:
+            self_problems.append(f"public/about/index.html is missing {facts_data['tagline']!r}")
+
+    disk_problems = []
+    if mode == "check":
+        expected_block = facts.render_llms_block(facts_data)
+        expected_about = facts.render_about_inner(facts_data)
+        for label, path, expected in (
+            ("public/llms.txt", PUBLIC / "llms.txt", expected_block),
+            ("public/llms-full.txt", PUBLIC / "llms-full.txt", expected_block),
+            ("public/about/index.html key facts", PUBLIC / "about/index.html", expected_about),
+        ):
+            text = path.read_text() if path.exists() else ""
+            disk_problems += facts.block_problems(label, facts.extract_block(text), expected)
+            if path.name == "llms.txt":
+                disk_problems += facts.missing_phrases(label, facts.extract_block(text) or "", (facts_data["lead"], facts_data["tagline"]))
+        if facts_data["lead"] not in disk["/about/"]:
+            disk_problems.append("public/about/index.html is missing the locked lead")
+        if facts_data["tagline"] not in disk["/about/"]:
+            disk_problems.append(f"public/about/index.html is missing {facts_data['tagline']!r}")
+        for route, html in disk.items():
+            rel = pages[route]["file"].relative_to(ROOT).as_posix()
+            disk_problems += facts.jsonld_problems(rel, facts.person_from_html(html), facts_data)
+            if rel not in dates:
+                continue
+            mods = facts.modified_dates(html)
+            if not mods or any(item != dates[rel] for item in mods):
+                shown = mods[0] if len(mods) == 1 else (mods or "missing")
+                disk_problems.append(f"{rel} dateModified is {shown}, expected {dates[rel]}")
+
+    if mode != "check" and (self_problems or lastmod_problems):
+        for x in self_problems:
+            print(f"facts: {x}")
+        for x in lastmod_problems:
+            print(f"lastmod: {x}")
+        sys.exit(1)
+
     stale = [p for p, t in outputs if not p.exists() or p.read_text() != t]
-    problems = check_links(pages) + band_problems + attr_problems + facet_problems
+    problems = check_links(pages) + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems
     if mode == "check":
         for p in stale:
             print(f"stale: {p.relative_to(ROOT)}")
+        factish = set(self_problems + disk_problems)
+        dated = set(lastmod_problems)
         for x in problems:
-            print(f"problem: {x}")
+            if x in factish:
+                print(f"facts: {x}")
+            elif x in dated:
+                print(f"lastmod: {x}")
+            else:
+                print(f"problem: {x}")
         print(f"{len(pages)} pages, {len(stale)} stale files, {len(problems)} problems")
         sys.exit(1 if stale or problems else 0)
     for p, t in outputs:

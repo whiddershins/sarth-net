@@ -5,6 +5,9 @@ https://www.sarth.net/
 Full text of every page on sarth.net, inlined, so an agent can read the whole
 site in one fetch. The index version is at https://www.sarth.net/llms.txt.
 
+<!-- build:facts -->
+<!-- /build:facts -->
+
 ## About
 
 Founder of Third Wall Studio and creator of the Burlap app. Data engineer, artist and musician working in AI, based in Brooklyn. Earlier work includes Metal Machine Trio with Lou Reed and Ulrich Krieger, and the Lulu score written with Reed for Robert Wilson.

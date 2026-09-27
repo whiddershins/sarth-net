@@ -1,0 +1,82 @@
+{
+  "_source": "Squarespace feed https://sarth-stuff.squarespace.com/beautiful-tornado?format=rss, fetched 2026-09-27. GUIDs, titles, dates and show text unchanged. Enclosure lengths are the Content-Length the audio URLs return today; episode 6's duration is from ffprobe (8784 s).",
+  "channel": {
+    "feed_url": "https://www.sarth.net/beautiful-tornado?format=rss",
+    "title": "Beautiful Tornado",
+    "link": "https://www.sarth.net/beautiful-tornado/",
+    "language": "en",
+    "copyright": "2020 All Rights Reserved",
+    "description": "It's like a dirty secret. A place where musicians and artists talk about the kind of stuff they love to talk about, but their girlfriends / boyfriends don't. We'll be chatting to amazing and original creators around the world about new releases, how they think about what they do, whether robots will kill us all and if peyote is as good on cornflakes as on Rice Crispies... that kinda thing..",
+    "itunes_author": "Sarth Calhoun and Dom Bouffard",
+    "itunes_owner_email": "domandsarthspodcast@gmail.com",
+    "itunes_explicit": "false",
+    "itunes_type": "episodic",
+    "itunes_categories": [
+      [
+        "Music",
+        "Music Interviews"
+      ],
+      [
+        "Arts",
+        "Performing Arts"
+      ],
+      [
+        "Religion & Spirituality",
+        "Spirituality"
+      ]
+    ],
+    "itunes_image": "https://www.sarth.net/images/beautiful-tornado-cover.jpg",
+    "last_build_date": "Tue, 16 Feb 2021 00:21:00 +0000"
+  },
+  "items": [
+    {
+      "title": "The Re-Enchantment of the World - Michael Patrick F. Smith",
+      "itunes_title": "The Re-Enchantment of the World - Michael Patrick F. Smith",
+      "pub_date": "Tue, 16 Feb 2021 00:33:05 +0000",
+      "link": "https://www.sarth.net/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith",
+      "guid": "54d06e1ce4b04a9ce19907b7:5fb3bfdea35dc208e82282c7:602b0fec09d4e815e35c3383",
+      "description": "Blood harmonies. Ayahuasca. Sleeping on flop house floors... singer-songwriter, playwright and novelist Michael Patrick Flanagan Smith takes us on a journey from New York to Kentucky via a small 'fairly dangerous' oil town in North Dakota. On the way we hear his metaphysical musings on the the sentience of words, the re-enchantment of the world and the research behind his new novel, based on his raw, travelling memoirs. Plus we get a selection of his latest, covid-era songs, performed LIVE for Beautiful Tornado!!",
+      "content_paragraphs": [
+        "Blood harmonies. Ayahuasca. Sleeping on flop house floors... singer-songwriter, playwright and novelist Michael Patrick Flanagan Smith takes us on a journey from New York to Kentucky via a small 'fairly dangerous' oil town in North Dakota. On the way we hear his metaphysical musings on the the sentience of words, the re-enchantment of the world and the research behind his new novel, based on his raw, travelling memoirs. Plus we get a selection of his latest, covid-era songs, performed LIVE for Beautiful Tornado!!",
+        "Mike’s Book “The Good Hand: A Memoir of Work, Brotherhood, and Transformation in an American Boomtown” is available now, here’s an Amazon link, although I’m sure he would appreciate it if I sent it to that other place where writers get more of the money or something.",
+        "https://www.amazon.com/Good-Hand-Brotherhood-Transformation-American-ebook/dp/B08D8K11HF"
+      ],
+      "itunes_author": "Dom Bouffard, Sarth Calhoun, and Michale Patrick F. Smith",
+      "itunes_summary": "Blood harmonies. Ayahuasca. Sleeping on flop house floors... singer-songwriter, playwright and novelist Michael Patrick Flanagan Smith takes us on a journey from New York to Kentucky via a small 'fairly dangerous' oil town in North Dakota. On the way we hear his metaphysical musings on the the sentience of words, the re-enchantment of the world and the research behind his new novel, based on his raw, travelling memoirs. Plus we get a selection of his latest, covid-era songs, performed LIVE for Beautiful Tornado!!",
+      "itunes_explicit": "false",
+      "itunes_duration": "02:26:24",
+      "itunes_image": "https://www.sarth.net/images/beautiful-tornado-cover.jpg",
+      "enclosure": {
+        "url": "https://static1.squarespace.com/static/54d06e1ce4b04a9ce19907b7/t/602b11c0db12250c439e0324/1613435455778/episode+6+-+MPFS+Final--Full-1.m4a",
+        "length": 125481360,
+        "type": "audio/x-m4a"
+      }
+    },
+    {
+      "title": "Rich Nav's Positivity Mission",
+      "itunes_title": "Rich Nav's Positivity Mission",
+      "pub_date": "Tue, 17 Nov 2020 13:39:00 +0000",
+      "link": "https://www.sarth.net/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission",
+      "guid": "54d06e1ce4b04a9ce19907b7:5fb3bfdea35dc208e82282c7:5fb3c1cb3863cc578f09c481",
+      "description": "Songwriter, poet, firefighter, transatlantic sailor, dad… Richard Naviasky @the1nav does a LOT of stuff and then sings enchanting songs about it… Sarth and Dom get him to take time out from his #positivity mission and talk about round bottoms, why music’s better than art, and crapping off the side of boats…",
+      "content_paragraphs": [
+        "Episode 4 of the Beautiful Tornado podcast features Rich Nav and his Positivity Mission.",
+        "Songwriter, poet, firefighter, transatlantic sailor, dad… Richard Naviasky @the1nav does a LOT of stuff and then sings enchanting songs about it… Sarth and Dom get him to take time out from his #positivity mission and talk about round bottoms, why music’s better than art, and crapping off the side of boats…"
+      ],
+      "itunes_author": "Sarth",
+      "itunes_subtitle": "Beautiful Tornado Episode 4 with Richard Naviaski and his Positivity Mission",
+      "itunes_summary": "Songwriter, poet, firefighter, transatlantic sailor, dad… Richard Naviasky @the1nav does a LOT of stuff and then sings enchanting songs about it… Sarth and Dom get him to take time out from his #positivity mission and talk about round bottoms, why music’s better than art, and crapping off the side of boats…",
+      "itunes_explicit": "false",
+      "itunes_duration": "00:42:21",
+      "itunes_season": "1",
+      "itunes_episode": "4",
+      "itunes_episode_type": "full",
+      "itunes_image": "https://www.sarth.net/images/beautiful-tornado-cover.jpg",
+      "enclosure": {
+        "url": "https://static1.squarespace.com/static/54d06e1ce4b04a9ce19907b7/t/5fb3d0cf30ae6663de0f3bd4/1605620106936/episode+4+F-richNavPositivityMission.mp3",
+        "length": 61035226,
+        "type": "audio/mpeg"
+      }
+    }
+  ]
+}

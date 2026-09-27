@@ -6,6 +6,8 @@
 # Old addresses that outside sites link to. Each serves its real page here
 # with status 200 (no redirect). The page keeps its own canonical tag.
 # These sit above every 301 and splat because the first matching rule wins.
+# Episode paths have to stay above /beautiful-tornado/*, which would claim
+# them first.
 /i-just-believe-in-christmas /conspiracies/i-just-believe-in-christmas/ 200
 /i-just-believe-in-christmas/ /conspiracies/i-just-believe-in-christmas/ 200
 /sarth /about/ 200
@@ -14,8 +16,14 @@
 /category/conspiracies/book-of-sarth/ /conspiracies/book-of-sarth/ 200
 /beautiful-tornado /transmissions/beautiful-tornado/ 200
 /beautiful-tornado/ /transmissions/beautiful-tornado/ 200
+/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith /transmissions/beautiful-tornado/ 200
+/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith/ /transmissions/beautiful-tornado/ 200
+/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission /transmissions/beautiful-tornado/ 200
+/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission/ /transmissions/beautiful-tornado/ 200
 /words/2015/2/6/gralbum-has-launched /bolted-for-the-briar-patch/ 200
 /words/2015/2/6/gralbum-has-launched/ /bolted-for-the-briar-patch/ 200
+/photos-of-noise-night-sydney /conspiracies/vivid-live/ 200
+/photos-of-noise-night-sydney/ /conspiracies/vivid-live/ 200
 
 # Aliases of the homepage.
 /sarthnet-in-transition / 301
@@ -70,12 +78,6 @@
 /rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/ /transmissions/ 301
 /rumors/2015/2/10/gralbum-has-launched /transmissions/ 301
 /rumors/2015/2/10/gralbum-has-launched/ /transmissions/ 301
-
-# Beautiful Tornado episode posts.
-/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith / 301
-/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith/ / 301
-/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission / 301
-/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission/ / 301
 
 # Introspections has no page yet. The Continuum and Kyma notes live on Devices.
 /introspections /devices/ 301

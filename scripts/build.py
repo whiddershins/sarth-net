@@ -9,6 +9,8 @@ public/**/index.html and writes:
   public/llms-full.txt        from content/llms-full.txt, every page inlined
   public/sitemap.xml          <lastmod> from the page's hand-written git date
   public/feed.xml             every page that carries datePublished in its JSON-LD
+  public/transmissions/beautiful-tornado/podcast.xml
+                              Beautiful Tornado RSS, from content/beautiful-tornado.json
   public/citations.json       outbound links per page
   public/citations.md         between the build:citations markers
   public/citations/index.html between the build:citations markers
@@ -44,7 +46,9 @@ import os
 import re
 import subprocess
 import sys
+import xml.etree.ElementTree as ET
 from datetime import datetime
+from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
 
@@ -537,6 +541,129 @@ def feed(pages):
             f"  <title>{e(home['title'])}</title>\n  <subtitle>{e(home['description'])}</subtitle>\n"
             f'  <link rel="self" type="application/atom+xml" href="{HOST}/feed.xml"/>\n  <link rel="alternate" type="text/html" href="{HOST}/"/>\n'
             f"  <id>{HOST}/</id>\n  <updated>{updated}T00:00:00Z</updated>\n  <author>\n    <name>{AUTHOR}</name>\n    <uri>{HOST}/</uri>\n  </author>\n" + entries + "</feed>\n")
+
+
+def xml_esc(value):
+    return html.escape(str(value), quote=True)
+
+
+def podcast_rss():
+    """RSS 2.0 of Beautiful Tornado, from content/beautiful-tornado.json.
+
+    The bytes come only from that file, so two runs write the same text.
+    """
+    data = json.loads((CONTENT / "beautiful-tornado.json").read_text())
+    ch = data["channel"]
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">',
+        "  <channel>",
+        f"    <title>{xml_esc(ch['title'])}</title>",
+        f"    <link>{xml_esc(ch['link'])}</link>",
+        f'    <atom:link href="{xml_esc(ch["feed_url"])}" rel="self" type="application/rss+xml"/>',
+        f"    <language>{xml_esc(ch['language'])}</language>",
+        f"    <copyright>{xml_esc(ch['copyright'])}</copyright>",
+        f"    <description>{xml_esc(ch['description'])}</description>",
+        f"    <lastBuildDate>{xml_esc(ch['last_build_date'])}</lastBuildDate>",
+        f"    <itunes:author>{xml_esc(ch['itunes_author'])}</itunes:author>",
+        "    <itunes:owner>",
+        f"      <itunes:email>{xml_esc(ch['itunes_owner_email'])}</itunes:email>",
+        "    </itunes:owner>",
+        f"    <itunes:explicit>{xml_esc(ch['itunes_explicit'])}</itunes:explicit>",
+        f"    <itunes:type>{xml_esc(ch['itunes_type'])}</itunes:type>",
+    ]
+    for pair in ch["itunes_categories"]:
+        parent, child = pair[0], pair[1] if len(pair) > 1 else None
+        if child is None:
+            lines.append(f'    <itunes:category text="{xml_esc(parent)}"/>')
+        else:
+            lines.append(f'    <itunes:category text="{xml_esc(parent)}">')
+            lines.append(f'      <itunes:category text="{xml_esc(child)}"/>')
+            lines.append("    </itunes:category>")
+    lines += [
+        f'    <itunes:image href="{xml_esc(ch["itunes_image"])}"/>',
+        "    <image>",
+        f"      <url>{xml_esc(ch['itunes_image'])}</url>",
+        f"      <title>{xml_esc(ch['title'])}</title>",
+        f"      <link>{xml_esc(ch['link'])}</link>",
+        "    </image>",
+    ]
+    for item in data["items"]:
+        lines.extend(podcast_item(item))
+    lines += ["  </channel>", "</rss>"]
+    return "\n".join(lines) + "\n"
+
+
+def podcast_item(item):
+    body = "".join(f"<p>{html.escape(p, quote=True)}</p>" for p in item["content_paragraphs"])
+    enc = item["enclosure"]
+    lines = [
+        "    <item>",
+        f"      <title>{xml_esc(item['title'])}</title>",
+        f"      <itunes:title>{xml_esc(item['itunes_title'])}</itunes:title>",
+        f"      <link>{xml_esc(item['link'])}</link>",
+        f'      <guid isPermaLink="false">{xml_esc(item["guid"])}</guid>',
+        f"      <pubDate>{xml_esc(item['pub_date'])}</pubDate>",
+        f"      <description>{xml_esc(item['description'])}</description>",
+        f"      <content:encoded>{xml_esc(body)}</content:encoded>",
+        f"      <itunes:author>{xml_esc(item['itunes_author'])}</itunes:author>",
+    ]
+    if item.get("itunes_subtitle"):
+        lines.append(f"      <itunes:subtitle>{xml_esc(item['itunes_subtitle'])}</itunes:subtitle>")
+    if item.get("itunes_summary"):
+        lines.append(f"      <itunes:summary>{xml_esc(item['itunes_summary'])}</itunes:summary>")
+    lines += [
+        f"      <itunes:explicit>{xml_esc(item['itunes_explicit'])}</itunes:explicit>",
+        f"      <itunes:duration>{xml_esc(item['itunes_duration'])}</itunes:duration>",
+    ]
+    if item.get("itunes_season"):
+        lines.append(f"      <itunes:season>{xml_esc(item['itunes_season'])}</itunes:season>")
+    if item.get("itunes_episode"):
+        lines.append(f"      <itunes:episode>{xml_esc(item['itunes_episode'])}</itunes:episode>")
+    if item.get("itunes_episode_type"):
+        lines.append(f"      <itunes:episodeType>{xml_esc(item['itunes_episode_type'])}</itunes:episodeType>")
+    lines += [
+        f'      <itunes:image href="{xml_esc(item["itunes_image"])}"/>',
+        f'      <enclosure url="{xml_esc(enc["url"])}" length="{xml_esc(enc["length"])}" type="{xml_esc(enc["type"])}"/>',
+        "    </item>",
+    ]
+    return lines
+
+
+def podcast_feed_problems(xml_text):
+    """The generated RSS must parse, and every item must be a playable episode."""
+    label = "public/transmissions/beautiful-tornado/podcast.xml"
+    try:
+        root = ET.fromstring(xml_text)
+    except ET.ParseError as exc:
+        return [f"{label} does not parse: {exc}"]
+    items = root.findall("channel/item")
+    problems = []
+    if not items:
+        problems.append(f"{label} has no items")
+    for n, item in enumerate(items, 1):
+        where = f"{label} item {n}"
+        enc = item.find("enclosure")
+        url = (enc.get("url") or "") if enc is not None else ""
+        length = (enc.get("length") or "") if enc is not None else ""
+        mime = (enc.get("type") or "") if enc is not None else ""
+        if not url.startswith("https://") or url == "https://":
+            problems.append(f"{where} enclosure url is not a non-empty https URL")
+        if not length.isdigit() or int(length) <= 0:
+            problems.append(f"{where} enclosure length is not a positive integer")
+        if not mime.startswith("audio/") or not mime[len("audio/"):]:
+            problems.append(f"{where} enclosure type is not audio/*")
+        guid = item.find("guid")
+        if guid is None or not (guid.text or "").strip():
+            problems.append(f"{where} guid is empty")
+        pub = item.findtext("pubDate") or ""
+        try:
+            when = parsedate_to_datetime(pub)
+        except (TypeError, ValueError, IndexError, OverflowError):
+            when = None
+        if when is None:
+            problems.append(f"{where} pubDate does not parse")
+    return problems
 
 
 def strip_published_markers(text):
@@ -1199,6 +1326,8 @@ def build(mode):
     if len(dates) == len(pages):
         outputs.append((PUBLIC / "sitemap.xml", sitemap(pages, order, dates)))
     outputs.append((PUBLIC / "feed.xml", feed(pages)))
+    podcast = podcast_rss()
+    outputs.append((PUBLIC / "transmissions/beautiful-tornado/podcast.xml", podcast))
     short, full = llms(pages, order, twins, facts_data)
     outputs.append((PUBLIC / "llms.txt", short))
     outputs.append((PUBLIC / "llms-full.txt", full))
@@ -1263,7 +1392,7 @@ def build(mode):
         sys.exit(1)
 
     stale = [p for p, t in outputs if not p.exists() or p.read_text() != t]
-    problems = check_links(pages) + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems + headers_problems()
+    problems = check_links(pages) + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems + headers_problems() + podcast_feed_problems(podcast)
     if mode == "check":
         for p in stale:
             print(f"stale: {p.relative_to(ROOT)}")

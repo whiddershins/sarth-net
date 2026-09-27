@@ -1,6 +1,8 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { canonicalRedirect } from "../src/canonical.js";
+import { feedRewrite } from "../src/feeds.js";
+import worker from "../src/index.js";
 
 function req(url, headers = {}) {
   return new Request(url, { headers });
@@ -66,4 +68,91 @@ test("a Host header overrides the wrangler dev URL", () => {
     })),
     "https://www.sarth.net/words/2026/7/31/visual-reference-prompting?x=1",
   );
+});
+
+test("format=rss on the old Squarespace feed paths is a feed file", () => {
+  assert.deepEqual(feedRewrite("https://www.sarth.net/beautiful-tornado?format=rss"), {
+    path: "/transmissions/beautiful-tornado/podcast.xml",
+    contentType: "application/rss+xml; charset=utf-8",
+  });
+  assert.deepEqual(feedRewrite(new URL("https://www.sarth.net/beautiful-tornado/?format=rss")), {
+    path: "/transmissions/beautiful-tornado/podcast.xml",
+    contentType: "application/rss+xml; charset=utf-8",
+  });
+  assert.deepEqual(feedRewrite("https://www.sarth.net/words?format=rss"), {
+    path: "/feed.xml",
+    contentType: "application/atom+xml; charset=utf-8",
+  });
+  assert.deepEqual(feedRewrite("https://www.sarth.net/words/?format=rss"), {
+    path: "/feed.xml",
+    contentType: "application/atom+xml; charset=utf-8",
+  });
+});
+
+test("other paths and formats are not feeds", () => {
+  for (const url of [
+    "https://www.sarth.net/beautiful-tornado",
+    "https://www.sarth.net/beautiful-tornado?format=json",
+    "https://www.sarth.net/transmissions/beautiful-tornado/?format=rss",
+    "https://www.sarth.net/words/2015/2/6/x?format=rss",
+  ]) {
+    assert.equal(feedRewrite(url), null);
+  }
+});
+
+function assets(body, contentType) {
+  const seen = [];
+  return {
+    seen,
+    env: {
+      ASSETS: {
+        fetch(request) {
+          seen.push(request);
+          return new Response(body, { headers: { "content-type": contentType } });
+        },
+      },
+    },
+  };
+}
+
+test("the worker serves the podcast file for the old feed URL", async () => {
+  const { seen, env } = assets("<rss/>", "application/xml");
+  const res = await worker.fetch(new Request("https://www.sarth.net/beautiful-tornado?format=rss", {
+    headers: { host: "www.sarth.net", "cf-visitor": '{"scheme":"https"}' },
+  }), env);
+  assert.equal(res.status, 200);
+  assert.equal(res.headers.get("content-type"), "application/rss+xml; charset=utf-8");
+  assert.equal(new URL(seen[0].url).pathname, "/transmissions/beautiful-tornado/podcast.xml");
+  assert.equal(new URL(seen[0].url).search, "");
+});
+
+test("the worker serves the atom feed for the old blog feed URL", async () => {
+  const { seen, env } = assets("<feed/>", "application/xml");
+  const res = await worker.fetch(new Request("https://www.sarth.net/words?format=rss", {
+    headers: { host: "www.sarth.net", "cf-visitor": '{"scheme":"https"}' },
+  }), env);
+  assert.equal(res.status, 200);
+  assert.equal(res.headers.get("content-type"), "application/atom+xml; charset=utf-8");
+  assert.equal(new URL(seen[0].url).pathname, "/feed.xml");
+  assert.equal(new URL(seen[0].url).search, "");
+});
+
+test("a beautiful-tornado page is passed to assets as requested", async () => {
+  const request = new Request("https://www.sarth.net/beautiful-tornado", {
+    headers: { host: "www.sarth.net", "cf-visitor": '{"scheme":"https"}' },
+  });
+  const { seen, env } = assets("page", "text/html");
+  const res = await worker.fetch(request, env);
+  assert.equal(res.status, 200);
+  assert.equal(seen[0], request);
+});
+
+test("http on the podcast feed still redirects to https and keeps the query", async () => {
+  const { seen, env } = assets("", "application/xml");
+  const res = await worker.fetch(new Request("http://www.sarth.net/beautiful-tornado?format=rss", {
+    headers: { host: "www.sarth.net" },
+  }), env);
+  assert.equal(res.status, 301);
+  assert.equal(res.headers.get("location"), "https://www.sarth.net/beautiful-tornado?format=rss");
+  assert.equal(seen.length, 0);
 });

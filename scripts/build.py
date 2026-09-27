@@ -16,6 +16,8 @@ public/**/index.html and writes:
   REPORT.md                   holes, flat pages, pages without a credit label, and
                               sentences that still name Sarth instead of saying I
 
+public/_headers is hand-written; the build only checks it.
+
 content/facts.json is the career record. The build copies it into the
 <!-- build:facts --> blocks and into each page's Person JSON-LD, and fails
 if a required role is missing or the copies disagree. JSON-LD dateModified
@@ -34,6 +36,7 @@ data-prompt as a placeholder so Sarth can write in place.
 
 Stdlib only.
 """
+import fnmatch
 import html
 import json
 import math
@@ -852,6 +855,63 @@ def check_credits(pages):
     return missing
 
 
+def headers_problems():
+    """public/_headers must name a UTF-8 charset for the text files, and
+    public/.assetsignore must not match _headers or _redirects."""
+
+    def ignores(line, name):
+        pat = line.strip()
+        if pat.startswith("!") or pat.endswith("/"):
+            return False
+        if pat.startswith("/"):
+            pat = pat[1:]
+        while pat.startswith("**/"):
+            pat = pat[3:]
+        if "/" in pat:
+            return False
+        return fnmatch.fnmatchcase(name, pat)
+
+    wanted = (
+        ("/llms.txt", "Content-Type: text/plain; charset=utf-8"),
+        ("/llms-full.txt", "Content-Type: text/plain; charset=utf-8"),
+        ("/robots.txt", "Content-Type: text/plain; charset=utf-8"),
+        ("/*.md", "Content-Type: text/markdown; charset=utf-8"),
+    )
+    problems = []
+    path = PUBLIC / "_headers"
+    if not path.exists():
+        problems.append("public/_headers is missing")
+    else:
+        blocks = {}
+        current = None
+        for raw in path.read_text().splitlines():
+            if not raw.strip():
+                current = None
+                continue
+            if raw[0] in " \t":
+                if current is not None:
+                    blocks.setdefault(current, []).append(raw.strip())
+                continue
+            if raw.lstrip().startswith("#"):
+                continue
+            current = raw.strip()
+            blocks.setdefault(current, [])
+        for route, header in wanted:
+            if header not in blocks.get(route, ()):
+                problems.append(f"public/_headers does not give {route} a {header!r} line")
+
+    ignore = PUBLIC / ".assetsignore"
+    if ignore.exists():
+        for raw in ignore.read_text().splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#"):
+                continue
+            hit = [name for name in ("_headers", "_redirects") if ignores(line, name)]
+            if hit:
+                problems.append(f"public/.assetsignore would ignore {' and '.join(hit)}: {line}")
+    return problems
+
+
 def check_links(pages):
     problems = []
     for p in pages.values():
@@ -1203,7 +1263,7 @@ def build(mode):
         sys.exit(1)
 
     stale = [p for p, t in outputs if not p.exists() or p.read_text() != t]
-    problems = check_links(pages) + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems
+    problems = check_links(pages) + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems + headers_problems()
     if mode == "check":
         for p in stale:
             print(f"stale: {p.relative_to(ROOT)}")

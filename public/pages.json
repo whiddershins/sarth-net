@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 123,
+ "count": 124,
  "pages": [
   {
    "route": "/",
@@ -13,7 +13,7 @@
    "published": null,
    "headings": [
     "Dream (32)",
-    "Message (11)"
+    "Message (12)"
    ]
   },
   {
@@ -1594,6 +1594,7 @@
     "What first-party means here",
     "[Sarth Calhoun](/)",
     "[About](/about/)",
+    "[Bolted for the Briar Patch](/bolted-for-the-briar-patch/)",
     "[Citations](/citations/)",
     "[Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)",
     "[Book of Sarth](/conspiracies/book-of-sarth/)",
@@ -1712,6 +1713,16 @@
    "description": "Contact Sarth Calhoun. mailto:sayhello@sarth.net. X @noisegroove.",
    "facet": null,
    "published": null,
+   "headings": []
+  },
+  {
+   "route": "/bolted-for-the-briar-patch/",
+   "url": "https://www.sarth.net/bolted-for-the-briar-patch/",
+   "markdown": "https://www.sarth.net/bolted-for-the-briar-patch/index.md",
+   "title": "Bolted for the Briar Patch",
+   "description": "Bolted for the Briar Patch, an essay by Sarth Calhoun first published at this address on sarth.net on June 12, 2013: four hours in the deep web, the NSA phone-records order, surveillance, and prison.",
+   "facet": "message",
+   "published": "2013-06-12",
    "headings": []
   },
   {

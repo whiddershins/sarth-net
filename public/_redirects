@@ -24,6 +24,10 @@
 /words/2015/2/6/gralbum-has-launched/ /bolted-for-the-briar-patch/ 200
 /photos-of-noise-night-sydney /conspiracies/vivid-live/ 200
 /photos-of-noise-night-sydney/ /conspiracies/vivid-live/ 200
+/conspiracies /conspiracies/ 200
+/transmissions /transmissions/ 200
+/words/2026/7/31/visual-reference-prompting /transmissions/visual-reference-prompting/ 200
+/words/2026/7/31/visual-reference-prompting/ /transmissions/visual-reference-prompting/ 200
 
 # Aliases of the homepage.
 /sarthnet-in-transition / 301
@@ -58,10 +62,6 @@
 /words/2015/11/29/i-just-believe-in-christmas/ / 301
 /rumors/2015/11/29/i-just-believe-in-christmas / 301
 /rumors/2015/11/29/i-just-believe-in-christmas/ / 301
-
-# The essay that is already a page.
-/words/2026/7/31/visual-reference-prompting /transmissions/visual-reference-prompting/ 301
-/words/2026/7/31/visual-reference-prompting/ /transmissions/visual-reference-prompting/ 301
 
 # Blog indexes and posts whose essays are not separate pages yet.
 /words /transmissions/ 301

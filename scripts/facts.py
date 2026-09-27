@@ -118,11 +118,8 @@ def role_sentence(role):
 
 
 def role_description(role):
-    sentence = role_sentence(role)
-    link = role.get("demo") or role.get("url")
-    if link:
-        return f"{sentence} {link}"
-    return sentence
+    """Plain sentence. The URL lives on the Role or the Organization, not here."""
+    return role_sentence(role)
 
 
 def role_label(role):
@@ -205,20 +202,28 @@ def render_llms_block(facts):
     return "\n".join(lines) + "\n"
 
 
-def render_about_inner(facts):
-    """Definition rows for the About key facts. The markers stay put around them.
+def _host(url):
+    return re.sub(r"^https?://", "", url).strip("/")
 
-    URLs are text, not new anchors. The page already links these hosts, and the
-    citations list keeps the first anchor's words.
-    """
+
+def _anchor(href, text):
+    return f'<a href="{html.escape(href, quote=True)}">{html.escape(text)}</a>'
+
+
+def render_about_inner(facts):
+    """Definition rows for the About key facts. The markers stay put around them."""
     rows = []
     for role in facts["roles"]:
         body = html.escape(role_sentence(role))
-        shown = role.get("demo") or role.get("url")
-        if shown:
-            body += " " + html.escape(shown)
+        links = []
+        if role.get("demo"):
+            links.append(_anchor(role["demo"], "demo"))
+        elif role.get("url"):
+            links.append(_anchor(role["url"], _host(role["url"])))
         if role["id"] == "ingather":
-            body += ' &middot; <a href="/conspiracies/ingather/">Ingather</a>'
+            links.append(_anchor("/conspiracies/ingather/", "Ingather"))
+        if links:
+            body += " " + " &middot; ".join(links)
         rows.append(f"      <dt>{html.escape(role_label(role))}</dt>\n      <dd>{body}</dd>")
     return "\n".join(rows) + "\n"
 
@@ -256,6 +261,9 @@ def _occupation_node(role):
         node["endDate"] = role["end"]
     node["hasOccupation"] = {"@type": "Occupation", "name": role["title"]}
     node["description"] = role_description(role)
+    link = role.get("demo") or role.get("url")
+    if link:
+        node["url"] = link
     return node
 
 

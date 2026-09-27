@@ -77,7 +77,11 @@
         },
         {
           "url": "https://reaktor.com",
-          "text": "Reaktor"
+          "text": "reaktor.com"
+        },
+        {
+          "url": "https://ingather-demo.marshy-runner.workers.dev",
+          "text": "demo"
         },
         {
           "url": "https://www.sarth.net",
@@ -118,10 +122,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Sarth_Calhoun",
           "text": "Wikipedia"
-        },
-        {
-          "url": "https://ingather-demo.marshy-runner.workers.dev",
-          "text": "see a demo of a live bespoke cultivation interface"
         }
       ]
     },

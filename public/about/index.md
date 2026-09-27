@@ -22,13 +22,13 @@ Sarth Calhoun
 **Location**
 Brooklyn, New York
 **Third Wall Studio**
-Founder, May 2025. https://thirdwallstudio.com
+Founder, May 2025. [thirdwallstudio.com](https://thirdwallstudio.com)
 **Burlap**
-Creator. Built since April 2025 by a team of four senior engineers. https://burlap.app
+Creator. Built since April 2025 by a team of four senior engineers. [burlap.app](https://burlap.app)
 **Reaktor**
-Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration. https://reaktor.com
+Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration. [reaktor.com](https://reaktor.com)
 **Ingather**
-A T.E.C. Systems product Sarth led, August 2021 to March 2022. SvelteKit, a nine-person team. https://ingather-demo.marshy-runner.workers.dev · [Ingather](/conspiracies/ingather/)
+A T.E.C. Systems product Sarth led, August 2021 to March 2022. SvelteKit, a nine-person team. [demo](https://ingather-demo.marshy-runner.workers.dev) · [Ingather](/conspiracies/ingather/)
 **T.E.C. Systems**
 2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end.
 **Current companies**

@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 125,
+ "count": 126,
  "pages": [
   {
    "route": "/",
@@ -12,7 +12,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "Dream (32)",
+    "Dream (33)",
     "Message (13)"
    ]
   },
@@ -1686,6 +1686,7 @@
     "[Moog](/devices/moog/)",
     "[Runway](/devices/runway/)",
     "[Yamaha EX5](/devices/yamaha-ex5/)",
+    "[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)",
     "[Rumors](/rumors/)",
     "[Sightings](/sightings/)",
     "[Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)",
@@ -1736,6 +1737,19 @@
    "facet": "message",
    "published": "2013-06-12",
    "headings": []
+  },
+  {
+   "route": "/photos-of-noise-night-sydney/",
+   "url": "https://www.sarth.net/photos-of-noise-night-sydney/",
+   "markdown": "https://www.sarth.net/photos-of-noise-night-sydney/index.md",
+   "title": "Photos of Noise Night, Sydney",
+   "description": "Photos of Noise Night, Sydney, a photo post by Sarth Calhoun first published at this address on sarth.net on July 10, 2010, from Noise Night at the Sydney Opera House during Vivid LIVE 2010. The captions, categories and tags survive; the two photos were not recovered.",
+   "facet": "dream",
+   "published": "2010-07-10",
+   "headings": [
+    "The photos, as captioned",
+    "Where this comes from"
+   ]
   },
   {
    "route": "/search/",

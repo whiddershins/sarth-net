@@ -33,10 +33,14 @@ I played like twelve unplanned jams at that festival.
 
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) played the Opera Theatre on May 30, which is the one date that made it into the public record. It is listed on [Sightings](/sightings/). The rest was not announced.
 
+![Metal Machine Trio on the Opera Theatre stage at the Sydney Opera House, in black and white: three players among laptops, amplifiers and speaker wedges, with a large gong behind them.](/images/mm3-sydney-opera-house-2010.jpg)
+
+“MM3 at the Sydney Opera House, photo by Mark McGauley.” My caption when I posted it to Facebook on June 7, 2010.
+
 ## Noise Night
 
 Noise Night was May 31, 2010, in the Opera Theatre, with Zond, Melt-Banana, Oren Ambarchi, Boris with Oren Ambarchi, Rice Corpse, Marc Ribot with Bardo Pond, Night Terrors, and Yasuko and Ichirou from Melt-Banana, and I played in the closing sets and the encore with [Lou Reed](/conspirators/lou-reed/), [Laurie Anderson](/conspirators/laurie-anderson/) and [Marc Ribot](/conspirators/marc-ribot/).
 
-[A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html) has the notes, and my photo post from the night, “Photos of Noise Night, Sydney” (July 10, 2010), did not survive the move off WordPress.
+[A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html) has the notes. My photo post from the night, [“Photos of Noise Night, Sydney”](/photos-of-noise-night-sydney/) (July 10, 2010), survives as its captions and tags, but the two photos themselves were not recovered.
 
 The curation and the dates are from contemporary coverage. The noise band and the jams are my own recollection, September 22, 2026, and the Noise Night lineup is from the recording’s notes and my 2010 post.

@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 600,
+  "citation_count": 602,
   "pages": [
     {
       "path": "/",
@@ -164,10 +164,6 @@
         {
           "url": "http://en.wikipedia.org/wiki/Darknet_(file_sharing)",
           "text": "Dark net"
-        },
-        {
-          "url": "http://www.sarth.net/bolted-for-the-briar-patch/wiki.onion",
-          "text": "nothing there"
         },
         {
           "url": "https://web.archive.org/web/20130624091533/https://blog.torproject.org/blog/why-tor-is-slow",
@@ -2103,6 +2099,24 @@
         {
           "url": "https://en.wikipedia.org/wiki/Yamaha_EX5",
           "text": "Yamaha EX5"
+        }
+      ]
+    },
+    {
+      "path": "/photos-of-noise-night-sydney/",
+      "title": "Photos of Noise Night, Sydney",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20101031023122/http://www.sarth.net/category/conspirators/laurie-anderson/",
+          "text": "Laurie Anderson category page"
+        },
+        {
+          "url": "https://web.archive.org/web/20101030045241/http://www.sarth.net/category/conspirators/marc-ribot/",
+          "text": "Marc Ribot category page"
+        },
+        {
+          "url": "http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html",
+          "text": "A concert recording"
         }
       ]
     },

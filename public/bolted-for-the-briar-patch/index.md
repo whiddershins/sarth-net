@@ -20,7 +20,7 @@ Who am I kidding I’ve been sure a million times but turned the corner to a new
 
 **–**
 
-[Dark net](http://en.wikipedia.org/wiki/Darknet_(file_sharing)) spoiler alert: There’s [nothing there](http://www.sarth.net/bolted-for-the-briar-patch/wiki.onion).
+[Dark net](http://en.wikipedia.org/wiki/Darknet_(file_sharing)) spoiler alert: There’s nothing there.
 
 Or if there is, I am not resourceful enough to find it.
 

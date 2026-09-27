@@ -86,7 +86,7 @@ Machine-readable companions:
 
 ## Pages
 
-125 pages follow, in reading order, separated by a horizontal rule.
+126 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -119,9 +119,9 @@ Burlap. Download at [burlap.app](https://burlap.app/download).
 
 [Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [Moog Guitar](/devices/moog-guitar/) · [Electrix Filter Queen](/devices/electrix-filter-queen/) · [Electrix Filter Factory](/devices/electrix-filter-factory/) · [Electrix Mo-FX](/devices/electrix-mo-fx/) · [DaVinci Resolve](/devices/davinci-resolve/)
 
-### Dream (32)
+### Dream (33)
 
-[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Power and Serenity](/conspiracies/power-and-serenity/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [I Before E](/transmissions/i-before-e/) · [Through the Brambles](/transmissions/through-the-brambles/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/)
+[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Power and Serenity](/conspiracies/power-and-serenity/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [I Before E](/transmissions/i-before-e/) · [Through the Brambles](/transmissions/through-the-brambles/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/) · [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)
 
 ### Message (13)
 
@@ -1990,11 +1990,15 @@ I played like twelve unplanned jams at that festival.
 
 [Metal Machine Trio](/conspiracies/metal-machine-trio/) played the Opera Theatre on May 30, which is the one date that made it into the public record. It is listed on [Sightings](/sightings/). The rest was not announced.
 
+![Metal Machine Trio on the Opera Theatre stage at the Sydney Opera House, in black and white: three players among laptops, amplifiers and speaker wedges, with a large gong behind them.](/images/mm3-sydney-opera-house-2010.jpg)
+
+“MM3 at the Sydney Opera House, photo by Mark McGauley.” My caption when I posted it to Facebook on June 7, 2010.
+
 ## Noise Night
 
 Noise Night was May 31, 2010, in the Opera Theatre, with Zond, Melt-Banana, Oren Ambarchi, Boris with Oren Ambarchi, Rice Corpse, Marc Ribot with Bardo Pond, Night Terrors, and Yasuko and Ichirou from Melt-Banana, and I played in the closing sets and the encore with [Lou Reed](/conspirators/lou-reed/), [Laurie Anderson](/conspirators/laurie-anderson/) and [Marc Ribot](/conspirators/marc-ribot/).
 
-[A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html) has the notes, and my photo post from the night, “Photos of Noise Night, Sydney” (July 10, 2010), did not survive the move off WordPress.
+[A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html) has the notes. My photo post from the night, [“Photos of Noise Night, Sydney”](/photos-of-noise-night-sydney/) (July 10, 2010), survives as its captions and tags, but the two photos themselves were not recovered.
 
 The curation and the dates are from contemporary coverage. The noise band and the jams are my own recollection, September 22, 2026, and the Noise Night lineup is from the recording’s notes and my 2010 post.
 
@@ -5829,7 +5833,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [chimpanzees speculate](http://www.chimphaven.org/)
 - [eating the world](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
 - [Dark net](http://en.wikipedia.org/wiki/Darknet_(file_sharing))
-- [nothing there](http://www.sarth.net/bolted-for-the-briar-patch/wiki.onion)
 - [so slow](https://web.archive.org/web/20130624091533/https://blog.torproject.org/blog/why-tor-is-slow)
 - [TOR](https://www.torproject.org/)
 - [have themselves been trolled](http://www.businessinsider.com/tor-silk-road-deep-web-2013-3?op=1)
@@ -6586,6 +6589,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 
+## [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)
+
+`/photos-of-noise-night-sydney/`
+
+- [Laurie Anderson category page](https://web.archive.org/web/20101031023122/http://www.sarth.net/category/conspirators/laurie-anderson/)
+- [Marc Ribot category page](https://web.archive.org/web/20101030045241/http://www.sarth.net/category/conspirators/marc-ribot/)
+- [A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html)
+
 ## [Rumors](/rumors/)
 
 `/rumors/`
@@ -6981,7 +6992,7 @@ Who am I kidding I’ve been sure a million times but turned the corner to a new
 
 **–**
 
-[Dark net](http://en.wikipedia.org/wiki/Darknet_(file_sharing)) spoiler alert: There’s [nothing there](http://www.sarth.net/bolted-for-the-briar-patch/wiki.onion).
+[Dark net](http://en.wikipedia.org/wiki/Darknet_(file_sharing)) spoiler alert: There’s nothing there.
 
 Or if there is, I am not resourceful enough to find it.
 
@@ -7078,6 +7089,33 @@ No one is above the law, nowadays. A [Fortune 500 CEO](http://en.wikipedia.org/w
 This is America.
 
 Posted on sarth.net at this address on June 12, 2013, and reproduced here as written, with its original links.
+
+---
+
+# Photos of Noise Night, Sydney
+
+https://www.sarth.net/photos-of-noise-night-sydney/
+
+Jul 10, 2010 · Dream
+
+# Photos of Noise Night, Sydney
+
+A two photo gallery, first published at this address on July 10, 2010. The post had no other text. [Noise Night](/conspiracies/vivid-live/) was May 31, 2010, in the Opera Theatre at the Sydney Opera House, during [Vivid LIVE 2010](/conspiracies/vivid-live/).
+
+## The photos, as captioned
+
+1. **Noise Night at the Opera House.** Alt text: “Noise Night”. File: L9999054.jpeg.
+2. **Sydney Noise Night.** Alt text: “Sarth, Marc Ribot, Lou Reed, Justice Yeldham, Ichirou Agata, Laurie Anderson”. File: L9999097-Edit-3.jpeg.
+
+The image files were not recovered. The Internet Archive holds only the October 23, 2012 capture of the thumbnail, which by then answered with the host’s suspended account page, and no copy has turned up anywhere else.
+
+Filed under: Intrigue, Laurie Anderson, Lou Reed, Marc Ribot, Metal Machine Trio, Sarth Solo Projects, photo.
+
+Tags: Bardo Pond, Lou Reed, Marc Ribot, Melt Banana, MWMCG, Night Terrors, Noise, Opera House, Rice Corpse, Sydney, Zond.
+
+## Where this comes from
+
+The title, date, captions, alt text, categories and tags are copied unchanged from the original sarth.net WordPress post, as the Internet Archive captured it on the site’s [Laurie Anderson category page](https://web.archive.org/web/20101031023122/http://www.sarth.net/category/conspirators/laurie-anderson/) on October 31, 2010, and on the [Marc Ribot category page](https://web.archive.org/web/20101030045241/http://www.sarth.net/category/conspirators/marc-ribot/) the day before. Common Crawl’s June 19, 2013 capture of the Rice Corpse and Zond tag pages shows the same title, date and tags. [A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html) of the night has the running order.
 
 ---
 

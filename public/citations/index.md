@@ -69,7 +69,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [chimpanzees speculate](http://www.chimphaven.org/)
 - [eating the world](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
 - [Dark net](http://en.wikipedia.org/wiki/Darknet_(file_sharing))
-- [nothing there](http://www.sarth.net/bolted-for-the-briar-patch/wiki.onion)
 - [so slow](https://web.archive.org/web/20130624091533/https://blog.torproject.org/blog/why-tor-is-slow)
 - [TOR](https://www.torproject.org/)
 - [have themselves been trolled](http://www.businessinsider.com/tor-silk-road-deep-web-2013-3?op=1)
@@ -825,6 +824,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/devices/yamaha-ex5/`
 
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
+
+## [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)
+
+`/photos-of-noise-night-sydney/`
+
+- [Laurie Anderson category page](https://web.archive.org/web/20101031023122/http://www.sarth.net/category/conspirators/laurie-anderson/)
+- [Marc Ribot category page](https://web.archive.org/web/20101030045241/http://www.sarth.net/category/conspirators/marc-ribot/)
+- [A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html)
 
 ## [Rumors](/rumors/)
 

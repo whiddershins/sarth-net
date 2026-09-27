@@ -64,9 +64,6 @@ AUTHOR = "Sarth Calhoun"
 VOID = {"img", "br", "meta", "link", "hr", "input", "source", "wbr"}
 SKIP = {"script", "style", "svg", "noscript"}
 FILE_ROUTES = {"/llms.txt", "/llms-full.txt", "/sitemap.xml", "/feed.xml", "/citations.json", "/citations.md", "/site.css", "/favicon.png"}
-# The 2013 essay "Bolted for the Briar Patch" links this path and says there is
-# nothing there. That href stays as written.
-KNOWN_BROKEN_INTERNAL = {"/bolted-for-the-briar-patch/wiki.onion"}
 
 
 # ----------------------------------------------------------------- tiny DOM
@@ -1216,7 +1213,7 @@ def check_links(pages):
     for label, base, text in html_documents(pages):
         for raw in attribute_urls(parse(text)):
             path = internal_path(base, raw)
-            if path is None or path in KNOWN_BROKEN_INTERNAL:
+            if path is None:
                 continue
             problem = path_status_problem(label, path, rules)
             if problem:

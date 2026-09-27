@@ -369,7 +369,8 @@ def ordered_routes(pages):
     for early in ["/about/", "/work/", "/conspiracies/third-wall-studio/", "/conspiracies/burlap/", "/contraptions/", "/conspiracies/ingather/",
                   "/transmissions/duckdb-where-have-you-been-all-my-life/", "/transmissions/external-tables/", "/transmissions/window-functions/",
                   "/transmissions/sql-as-the-data-language/", "/transmissions/you-might-not-need-pandas/", "/transmissions/why-python-is-the-default-for-data-work/",
-                  "/transmissions/modern-postgres/", "/transmissions/node-vs-rails/", "/transmissions/visual-reference-prompting/"]:
+                  "/transmissions/modern-postgres/", "/transmissions/node-vs-rails/", "/transmissions/somersaulting-down-the-slippery-slope/",
+                  "/transmissions/visual-reference-prompting/"]:
         visit(early)
     for top in ["/conspiracies/", "/conspirators/", "/transmissions/", "/sightings/", "/rumors/", "/devices/", "/citations/", "/contact/"]:
         visit(top)

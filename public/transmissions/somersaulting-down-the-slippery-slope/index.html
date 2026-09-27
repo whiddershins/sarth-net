@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Somersaulting Down the Slippery Slope — Sarth Calhoun</title>
+  <meta name="description" content="Somersaulting Down the Slippery Slope: The OpenAI Postmortem on Sycophancy, an essay by Sarth Calhoun first published on Noisegroove on May 6, 2025: traffic lights, arbitrary updates to our cognition, and why we should demand frozen builds with versioning.">
+  <link rel="canonical" href="https://www.sarth.net/transmissions/somersaulting-down-the-slippery-slope/">
+  <link rel="author" href="https://www.sarth.net/">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Sarth Calhoun">
+  <meta property="og:title" content="Somersaulting Down the Slippery Slope — Sarth Calhoun">
+  <meta property="og:description" content="Somersaulting Down the Slippery Slope: The OpenAI Postmortem on Sycophancy, an essay by Sarth Calhoun first published on Noisegroove on May 6, 2025: traffic lights, arbitrary updates to our cognition, and why we should demand frozen builds with versioning.">
+  <meta property="og:url" content="https://www.sarth.net/transmissions/somersaulting-down-the-slippery-slope/">
+  <meta property="og:image" content="https://www.sarth.net/images/slippery-slope-elves.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@noisegroove">
+  <meta name="twitter:title" content="Somersaulting Down the Slippery Slope — Sarth Calhoun">
+  <meta name="twitter:description" content="Somersaulting Down the Slippery Slope: The OpenAI Postmortem on Sycophancy, an essay by Sarth Calhoun first published on Noisegroove on May 6, 2025: traffic lights, arbitrary updates to our cognition, and why we should demand frozen builds with versioning.">
+  <meta name="twitter:image" content="https://www.sarth.net/images/slippery-slope-elves.jpg">
+  <meta property="article:published_time" content="2025-05-06">
+  <meta property="article:author" content="Sarth Calhoun">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.sarth.net/#person",
+      "name": "Sarth Calhoun",
+      "url": "https://www.sarth.net/",
+      "jobTitle": "Founder of Third Wall Studio",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Brooklyn"
+      },
+      "worksFor": [
+        {
+          "@type": "OrganizationRole",
+          "roleName": "Founder",
+          "startDate": "2025-05",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "Third Wall Studio",
+            "@id": "https://www.sarth.net/#thirdwall",
+            "url": "https://thirdwallstudio.com"
+          },
+          "description": "Founder, May 2025."
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "OrganizationRole",
+          "roleName": "Lead Data Architect",
+          "startDate": "2022",
+          "endDate": "2025-03",
+          "alumniOf": {
+            "@type": "Organization",
+            "name": "Reaktor",
+            "url": "https://reaktor.com"
+          },
+          "description": "Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration."
+        },
+        {
+          "@type": "OrganizationRole",
+          "roleName": "Director of Product",
+          "startDate": "2004",
+          "endDate": "2022",
+          "alumniOf": {
+            "@type": "Organization",
+            "name": "T.E.C. Systems"
+          },
+          "description": "2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end."
+        }
+      ],
+      "hasOccupation": [
+        {
+          "@type": "Role",
+          "roleName": "Founder, Third Wall Studio",
+          "startDate": "2025-05",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Founder"
+          },
+          "description": "Founder, May 2025.",
+          "url": "https://thirdwallstudio.com"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Creator, Burlap",
+          "startDate": "2025-04",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Creator"
+          },
+          "description": "Creator. Built since April 2025 by a team of four senior engineers.",
+          "url": "https://burlap.app"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Lead Data Architect, Reaktor",
+          "startDate": "2022",
+          "endDate": "2025-03",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Lead Data Architect"
+          },
+          "description": "Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration.",
+          "url": "https://reaktor.com"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Director of Product, Ingather",
+          "startDate": "2021-08",
+          "endDate": "2022-03",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Director of Product"
+          },
+          "description": "A T.E.C. Systems product Sarth led, August 2021 to March 2022. SvelteKit, a nine-person team.",
+          "url": "https://ingather-demo.marshy-runner.workers.dev"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Director of Product, T.E.C. Systems",
+          "startDate": "2004",
+          "endDate": "2022",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Director of Product"
+          },
+          "description": "2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end."
+        }
+      ],
+      "knowsAbout": [
+        "Data Engineering for Art"
+      ],
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q7424654",
+        "https://x.com/noisegroove",
+        "https://github.com/whiddershins",
+        "https://sarth.net"
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.sarth.net/transmissions/somersaulting-down-the-slippery-slope/#essay",
+      "headline": "Somersaulting Down the Slippery Slope",
+      "name": "Somersaulting Down the Slippery Slope",
+      "alternativeHeadline": "The OpenAI Postmortem on Sycophancy",
+      "url": "https://www.sarth.net/transmissions/somersaulting-down-the-slippery-slope/",
+      "mainEntityOfPage": "https://www.sarth.net/transmissions/somersaulting-down-the-slippery-slope/",
+      "dateCreated": "2025-05-06",
+      "datePublished": "2025-05-06",
+      "dateModified": "2026-09-27",
+      "author": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "creator": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "publisher": {
+        "@id": "https://www.sarth.net/#person"
+      },
+      "isPartOf": {
+        "@id": "https://www.sarth.net/#website"
+      },
+      "image": "https://www.sarth.net/images/slippery-slope-elves.jpg",
+      "inLanguage": "en",
+      "wordCount": 1365,
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "sycophancy",
+        "AI",
+        "cognition"
+      ],
+      "sameAs": "https://noisegroove.substack.com/p/somersaulting-down-the-slippery-slope",
+      "isBasedOn": "https://noisegroove.substack.com/p/somersaulting-down-the-slippery-slope",
+      "description": "Somersaulting Down the Slippery Slope: The OpenAI Postmortem on Sycophancy, an essay by Sarth Calhoun first published on Noisegroove on May 6, 2025: traffic lights, arbitrary updates to our cognition, and why we should demand frozen builds with versioning."
+    }
+  ]
+}
+  </script>
+  <link rel="alternate" type="text/markdown" href="/transmissions/somersaulting-down-the-slippery-slope/index.md" title="Markdown">
+  <link rel="stylesheet" href="/site.css">
+</head>
+<body>
+  <header class="top">
+    <a class="mark" href="/">Sarth Calhoun</a>
+    <input type="checkbox" id="menu" class="menu-toggle">
+    <label for="menu" class="menu-button">Menu</label>
+    <nav>
+      <a href="/about/">About</a>
+      <a href="/conspiracies/">Conspiracies</a>
+      <a href="/conspirators/">Conspirators</a>
+      <a href="/rumors/">Rumors</a>
+      <a href="/work/">Work</a>
+      <a href="/sightings/">Sightings</a>
+      <a href="/devices/">Devices</a>
+      <a href="/contraptions/">Contraptions</a>
+      <a href="/transmissions/">Transmissions</a>
+      <a href="/contact/">Contact</a>
+      <a href="/search/">Search</a>
+    </nav>
+  </header>
+
+  <main class="page essay" data-facet="message">
+    <p class="kicker">May 6, 2025 · Message</p>
+    <h1>Somersaulting Down the Slippery Slope</h1>
+    <p class="lede">The OpenAI Postmortem on Sycophancy</p>
+<p>On the weekend of April 25th, OpenAI released an upgrade to ChatGPT. This upgrade had unexpected … and undesirable … behavior. In their description, the model had become extremely “sycophantic.” Over the next couple of days, they caught the problem and rolled back the changes. Sam Altman (OpenAI’s CEO) issued an <a href="https://x.com/sama/status/1918330652325458387">apology</a>. The company followed up with a <a href="https://openai.com/index/expanding-on-sycophancy/">blog post</a> explaining the mistake in more detail, and then did a Reddit “<a href="https://www.reddit.com/r/ChatGPT/comments/1kbjowz/ama_with_openais_joanne_jang_head_of_model/">Ask Me Anything</a>” session where they fielded questions about what went wrong.</p>
+<p>Although it seems great that OpenAI was so transparent about their “mistake,” and issued a “postmortem,” I think the framing is entirely wrong. They are not nearly sorry enough, nor are they likely to be, given their assumptions. This is an inflection point. What kind of relationship do we want to evolve between us and these machines?</p>
+<figure><img src="/images/slippery-slope-chatgpt-feedback.png" width="1567" height="390" loading="lazy" alt="ChatGPT’s “You’re giving feedback on a new version of ChatGPT” screen: two responses side by side about multi-camera editing and AI video."></figure>
+<p>To explain, I’ll start with traffic lights.</p>
+<p>Some time ago I was in Barcelona, then Madrid, when it occurred to me I was being rather risky when crossing the street. I was half-jaywalking … kind of walking into traffic, and I had a couple of near misses. Barcelona in particular is notable because they have to deal with lots of tourists and they even implemented an idea that seemed good on paper: crosswalks in the center of the block rather than at the corners. Pedestrian crossing is safer when cars can’t come from four directions, and making all sorts of turns. It is also inconvenient, because if you want to walk eight blocks you go in an “S” shape the entire time and it takes forever. Do not recommend. But anyway.</p>
+<p>After a couple of close calls I asked myself, “why are you walking into traffic like this?”</p>
+<p>The answer, of course, is that I am a New Yorker. And we do this constantly. But, not only is jaywalking frowned upon in most other cities, the real issue is my timing was off. My sense of the flow of traffic, the duration of the lights. I’ve visited the U.K. and glanced the wrong way for oncoming cars. It’s a common enough mistake that they label the sidewalks in London. In Spain the disorientation was more subtle but still real. I forced myself to meticulously follow the rules until I was home safe.</p>
+<figure><img src="/images/slippery-slope-look-right.jpg" width="1024" height="1024" loading="lazy" alt="A London street corner with “LOOK RIGHT →” painted on the road at the crossing."></figure>
+<p>Years later, in my Brooklyn neighborhood, a nanny was pushing a stroller across the street when a truck struck and killed her. Shortly after this tragedy, someone changed the timing of the walk/don’t walk signs so as to leave a much longer lag between “don’t walk” and the green light of the crossing traffic. They made it a lot longer. So long, in fact, that it created chaos, because people would stop and wait, then nothing would happen for so long they would impulsively stride forward just as the light really did change. It was awkward, and went on for years. It was especially hard to get used to because the rhythm was different from the rest of the city. It just made everything worse. But we adapted.</p>
+<p>Until recently. Just the other day I was crossing the street, saw the countdown had hit “1”, started to cross … and the light changes to green almost immediately! Now I’m scurrying in front of oncoming traffic. Why? Who knows. Perhaps someone realized the abnormally long wait was confusing and creating a bad situation, perhaps they’ve been upgrading the system and it happened as a side effect.</p>
+<p>It's unsettling, actually dangerous, for the city to switch the timing of crosswalk lights.</p>
+<p>It is far more destabilizing for someone to make arbitrary updates to your cognition. And that’s what OpenAI is doing. Their postmortem skips right past the question of whether we should have a third party change the fundamental tools we use to make sense of the world, without warning, with no release notes or version numbers. It moves on to address the question <em>they</em> want to answer, which is whether the changes they made were in accordance with their priorities.</p>
+<p>Their values. <br>Their goals.</p>
+<p>And it is understandable why we might accept this premise. We accepted it from Google, deciding what information is most relevant for any question, day by day. We accepted it from social media, helping us with what to think about and <em>what to think about what we think about</em>, using an AI algorithm that is more persuasive than any silver tongue devil in history. The most prominent tech success stories of recent decades are companies whose core offering is … directing your attention.</p>
+<p>The way many people use ChatGPT is so much more than that. It is becoming your research assistant, illustrator, confidant, trusted advisor. These LLMs are being positioned to replace every aspect of how we consume information, both entertainment and factual, as well as how we create. Everything from resumes to logos to on demand personalized targeted brand advertising and infinite generative movies.</p>
+<p>Steered by a self-selected scrum of engineers, venture capitalists, and ai ethicists?</p>
+<p>Madness. When I first heard the phrase “we are all cyborgs” I decided to always use the latest iPhone. If I am offloading parts of my brain to a device (memory, navigation, arithmetic …) I should have the very best hardware this cyborg can afford. And it really is a second brain, your phone. It could be embedded in your flesh and hardly more present.</p>
+<p>Now, as the AI revolution is coming to make us superhuman and “save us all”, it appears there are a bunch of busy elves tinkering with our brain, enacting their own agenda.</p>
+<p>If you can see the problem when someone “helps” by changing the timing of streetlights, imagine how much worse it is when they run <a href="https://www.theguardian.com/technology/2014/jun/30/facebook-emotion-study-breached-ethical-guidelines-researchers-say">A/B tests in your consciousness</a>. Which they are doing, btw. <a href="https://www.washingtonpost.com/technology/2025/04/30/reddit-ai-bot-university-zurich/">Right now</a>.</p>
+<p>I didn’t know it, but I experienced the OpenAI update in realtime, because I was working on my submission for <a href="https://runwayml.com/gen48">Runway’s Gen:48</a> contest. This was a competition where you make a 1-4 minute short in a 48 hour “sprint” (9am saturday to 9am monday). The change to the tool - my very expensive OpenAI subscription - came while I was on deadline and pulling all-nighter. The worst time. And this only a couple of weeks after they rolled out the “memory” feature, radically altering the behavior of ChatGPT, and which created a miasma when I was trying to crank out art. (I ultimately disabled the memory feature, more details in my Gen:48 postmortem)</p>
+<p>This is minor compared to what OpenAI described: “<em>It aimed to please the user, not just as flattery, but also as validating doubts, fueling anger, urging impulsive actions, or reinforcing negative emotions in ways that were not intended.</em>”</p>
+<p>People were talking to a trusted friend, and some team at a software company changed the friend’s personality without warning.</p>
+<p>Unacceptable. Dystopian. But it’s not too late to change course!</p>
+<p>ChatGPT is the fastest growing product in the history of the world. OpenAI has their fingers pressed into the skulls of ~100 million users. They also have a commitment to ethics. So we can yell at them, a lot. We can demand frozen builds with versioning. We can demand transparency about changes. Ultimately we can transfer control of these tools to the individual.</p>
+<p>I am working on that in the ways I know how: by writing about it, and with my projects like <a href="http://indexself.com/">indexself.com</a>. There are many groups doing a lot more, for example <a href="https://www.primeintellect.ai/">Prime Intellect</a> and <a href="https://huggingface.co/">Hugging Face</a>. There is so much room to have impact now, so much opportunity to be part of the solution.</p>
+<p>Unless we all decided to listen to Eliezer Yudkowsky and somehow convince Trump to start nuking international data centers, we can’t make the AI revolution go away. What we <em>can</em> do is actively seek to decentralize the tech, and how it is used, and select and use tools that support our choices and our taste and our volition. That enhance our humanity rather than muting it. It is doable, we just have to care.</p>
+<p>We must.</p>
+<p>Care.</p>
+<p>Much farther down this road, and we won’t turn back. We won’t even think it.</p>
+<figure><img src="/images/slippery-slope-elves.jpg" width="1024" height="1024" loading="lazy" alt="An illustration of three elves wiring a circuit board inside an open human head."></figure>
+    <p class="source-note">First published on <a href="https://noisegroove.substack.com/p/somersaulting-down-the-slippery-slope">Noisegroove</a> on May 6, 2025.</p>
+  </main>
+
+  <aside class="graph" aria-label="Context">
+    <h2>Context</h2>
+    <dl>
+      <dt>On this site</dt>
+      <dd><a href="/">Sarth Calhoun</a> · <a href="/transmissions/">Transmissions</a></dd>
+      <dt>source</dt>
+      <dd><a href="https://noisegroove.substack.com/p/somersaulting-down-the-slippery-slope">Noisegroove on Substack</a>, May 6, 2025</dd>
+    </dl>
+  </aside>
+  <footer>
+    <form class="site-search" role="search" action="/search/" method="get">
+      <label for="site-q">Search</label>
+      <input type="search" id="site-q" name="q" placeholder="Search this site" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button type="submit">Go</button>
+    </form>
+    <p>
+      <a href="https://x.com/noisegroove">X</a>
+      · <a href="https://www.instagram.com/noisegroove/">Instagram</a>
+      · <a href="https://www.youtube.com/@whiddershins">YouTube</a>
+      · <a href="https://soundcloud.com/noisegroove">SoundCloud</a>
+      · <a href="https://sarth.bandcamp.com">Bandcamp</a>
+      · <a href="https://bsky.app/profile/noisegroove.bsky.social">Bluesky</a>
+      · <a href="https://github.com/whiddershins">GitHub</a>
+      · <a href="https://www.wikidata.org/wiki/Q7424654">Wikidata</a>
+      · <a href="mailto:sayhello@sarth.net">email</a>
+    </p>
+    <p>
+      <a href="https://thirdwallstudio.com">Third Wall Studio</a>
+      · <a href="https://www.instagram.com/3rdwallstudio/">its Instagram</a>
+      · <a href="https://burlap.app">Burlap</a>
+      · <a href="https://www.instagram.com/burlapapp/">its Instagram</a>
+      · <a href="https://www.youtube.com/@burlap_app">its YouTube</a>
+      · <a href="https://bookofsarth.com">Book of Sarth</a>
+      · <a href="https://contraptions.bookofsarth.com">Contraptions</a>
+    </p>
+    <p class="host">All rights reserved</p>
+  </footer>
+  <script src="/search.js" defer></script>
+</body>
+</html>

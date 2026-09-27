@@ -1065,6 +1065,21 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Apple Music](https://music.apple.com/us/album/987512394)
 - [Spotify](https://open.spotify.com/track/1PO2HeYYaAm5GDoqQsuRQz)
 
+## [Somersaulting Down the Slippery Slope](/transmissions/somersaulting-down-the-slippery-slope/)
+
+`/transmissions/somersaulting-down-the-slippery-slope/`
+
+- [apology](https://x.com/sama/status/1918330652325458387)
+- [blog post](https://openai.com/index/expanding-on-sycophancy/)
+- [Ask Me Anything](https://www.reddit.com/r/ChatGPT/comments/1kbjowz/ama_with_openais_joanne_jang_head_of_model/)
+- [A/B tests in your consciousness](https://www.theguardian.com/technology/2014/jun/30/facebook-emotion-study-breached-ethical-guidelines-researchers-say)
+- [Right now](https://www.washingtonpost.com/technology/2025/04/30/reddit-ai-bot-university-zurich/)
+- [Runway’s Gen:48](https://runwayml.com/gen48)
+- [indexself.com](http://indexself.com/)
+- [Prime Intellect](https://www.primeintellect.ai/)
+- [Hugging Face](https://huggingface.co/)
+- [Noisegroove](https://noisegroove.substack.com/p/somersaulting-down-the-slippery-slope)
+
 ## [SQL as the data language](/transmissions/sql-as-the-data-language/)
 
 `/transmissions/sql-as-the-data-language/`

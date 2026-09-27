@@ -97,6 +97,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Why Python is the default for data work https://www.sarth.net/transmissions/why-python-is-the-default-for-data-work/
 - Modern Postgres is shockingly capable https://www.sarth.net/transmissions/modern-postgres/
 - Node vs Rails: agnostic vs batteries included https://www.sarth.net/transmissions/node-vs-rails/
+- Somersaulting Down the Slippery Slope https://www.sarth.net/transmissions/somersaulting-down-the-slippery-slope/
 - Visual Reference Prompting https://www.sarth.net/transmissions/visual-reference-prompting/
 - Conspiracies https://www.sarth.net/conspiracies/
 - The Gralbum Collective https://www.sarth.net/conspiracies/gralbum-collective/

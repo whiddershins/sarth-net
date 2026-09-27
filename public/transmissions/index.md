@@ -178,6 +178,10 @@ Essays and writing.
 
   Essay. The case that an agnostic server beats batteries included, and why I am not sure I believe it.
 
+- ## [Somersaulting Down the Slippery Slope](/transmissions/somersaulting-down-the-slippery-slope/)
+
+  May 6, 2025. The OpenAI postmortem on sycophancy, and why a third party should not change the tools we use to make sense of the world without warning. First published on Noisegroove.
+
 - ## [Visual Reference Prompting](/transmissions/visual-reference-prompting/)
 
   Jul 31, 2026. How original images can hold a subject together, bend a style, and open up stranger places to go next.

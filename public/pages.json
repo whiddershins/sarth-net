@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 124,
+ "count": 125,
  "pages": [
   {
    "route": "/",
@@ -13,7 +13,7 @@
    "published": null,
    "headings": [
     "Dream (32)",
-    "Message (12)"
+    "Message (13)"
    ]
   },
   {
@@ -257,6 +257,16 @@
    "description": "The case that an agnostic server like Node beats batteries included, and why I am not sure I believe it.",
    "facet": "message",
    "published": "2026-09-22",
+   "headings": []
+  },
+  {
+   "route": "/transmissions/somersaulting-down-the-slippery-slope/",
+   "url": "https://www.sarth.net/transmissions/somersaulting-down-the-slippery-slope/",
+   "markdown": "https://www.sarth.net/transmissions/somersaulting-down-the-slippery-slope/index.md",
+   "title": "Somersaulting Down the Slippery Slope",
+   "description": "Somersaulting Down the Slippery Slope: The OpenAI Postmortem on Sycophancy, an essay by Sarth Calhoun first published on Noisegroove on May 6, 2025: traffic lights, arbitrary updates to our cognition, and why we should demand frozen builds with versioning.",
+   "facet": "message",
+   "published": "2025-05-06",
    "headings": []
   },
   {
@@ -1693,6 +1703,7 @@
     "[Peggy Sue](/transmissions/peggy-sue/)",
     "[Singles](/transmissions/singles/)",
     "[Solsbury Hill](/transmissions/solsbury-hill/)",
+    "[Somersaulting Down the Slippery Slope](/transmissions/somersaulting-down-the-slippery-slope/)",
     "[SQL as the data language](/transmissions/sql-as-the-data-language/)",
     "[Suspension](/transmissions/suspension/)",
     "[The Creation of the Universe](/transmissions/the-creation-of-the-universe/)",

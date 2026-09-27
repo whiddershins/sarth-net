@@ -3,11 +3,23 @@
 # so delete a line before adding that page.
 # Specific rules first. Splats only catch leftover posts under those blogs.
 
-# Aliases of the homepage. /sarth was a photo index; those stills are on /.
+# Old addresses that outside sites link to. Each serves its real page here
+# with status 200 (no redirect). The page keeps its own canonical tag.
+# These sit above every 301 and splat because the first matching rule wins.
+/i-just-believe-in-christmas /conspiracies/i-just-believe-in-christmas/ 200
+/i-just-believe-in-christmas/ /conspiracies/i-just-believe-in-christmas/ 200
+/sarth /about/ 200
+/sarth/ /about/ 200
+/category/conspiracies/book-of-sarth /conspiracies/book-of-sarth/ 200
+/category/conspiracies/book-of-sarth/ /conspiracies/book-of-sarth/ 200
+/beautiful-tornado /transmissions/beautiful-tornado/ 200
+/beautiful-tornado/ /transmissions/beautiful-tornado/ 200
+/words/2015/2/6/gralbum-has-launched /bolted-for-the-briar-patch/ 200
+/words/2015/2/6/gralbum-has-launched/ /bolted-for-the-briar-patch/ 200
+
+# Aliases of the homepage.
 /sarthnet-in-transition / 301
 /sarthnet-in-transition/ / 301
-/sarth / 301
-/sarth/ / 301
 
 # Empty Squarespace pages.
 /happenings / 301
@@ -33,9 +45,7 @@
 /rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum /sightings/ 301
 /rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum/ /sightings/ 301
 
-# Christmas stubs. The song page is not on this site yet.
-/i-just-believe-in-christmas / 301
-/i-just-believe-in-christmas/ / 301
+# Christmas announcement posts.
 /words/2015/11/29/i-just-believe-in-christmas / 301
 /words/2015/11/29/i-just-believe-in-christmas/ / 301
 /rumors/2015/11/29/i-just-believe-in-christmas / 301
@@ -52,8 +62,6 @@
 /words/2020/11/21/about-awakening-to-blacklist/ /transmissions/ 301
 /words/2015/11/29/aural-and-optical-transmissions-can-be-found-here /transmissions/ 301
 /words/2015/11/29/aural-and-optical-transmissions-can-be-found-here/ /transmissions/ 301
-/words/2015/2/6/gralbum-has-launched /transmissions/ 301
-/words/2015/2/6/gralbum-has-launched/ /transmissions/ 301
 /rumors/2022/4/18/elementary-audio-day-1 /transmissions/ 301
 /rumors/2022/4/18/elementary-audio-day-1/ /transmissions/ 301
 /rumors/2020/11/20/reflections-vol-1 /transmissions/ 301
@@ -63,9 +71,7 @@
 /rumors/2015/2/10/gralbum-has-launched /transmissions/ 301
 /rumors/2015/2/10/gralbum-has-launched/ /transmissions/ 301
 
-# Beautiful Tornado episodes are not on this site yet.
-/beautiful-tornado / 301
-/beautiful-tornado/ / 301
+# Beautiful Tornado episode posts.
 /beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith / 301
 /beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith/ / 301
 /beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission / 301

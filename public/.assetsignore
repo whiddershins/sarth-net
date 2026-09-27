@@ -1,0 +1,12 @@
+# Files Wrangler does not upload as static assets (same syntax as .gitignore).
+# Do not list _redirects or _headers here: Wrangler reads them from this folder,
+# and ignoring them would switch off the redirect and header rules.
+.DS_Store
+**/.DS_Store
+._*
+Thumbs.db
+**/Thumbs.db
+ehthumbs.db
+Desktop.ini
+.Spotlight-V100
+.Trashes

@@ -24,7 +24,7 @@ Who am I kidding I’ve been sure a million times but turned the corner to a new
 
 Or if there is, I am not resourceful enough to find it.
 
-And it is [so slow](https://blog.torproject.org/blog/why-tor-is-slow).
+And it is [so slow](https://web.archive.org/web/20130624091533/https://blog.torproject.org/blog/why-tor-is-slow).
 
 I spent hours trying to find .onions that worked, clicking every link on poorly maintained lists, only the terror that I might come across illegal content could keep me interested after all those 404s. (What is that, [TOR](https://www.torproject.org/)? A pounding on my door?) And the little spinning circle. Loading, loading … not loading.
 
@@ -34,7 +34,7 @@ I spent almost all my time waiting for pages to load, browsing the same few indi
 
 Realizing I probably would need to find someone in the know, who I know, outside of any web, to induct me into the grand secrets. If there are any.
 
-And it is [so slow](http://www.ign.com/boards/threads/browsing-behind-tor-is-slow-as-hell.205134200/).
+And it is [so slow](https://web.archive.org/web/20130721095000/http://www.ign.com/boards/threads/browsing-behind-tor-is-slow-as-hell.205134200/).
 
 In other words, exactly like the web in the 90s.
 
@@ -42,9 +42,9 @@ In other words, exactly like the web in the 90s.
 
 The adrenaline rush of the dark web is entirely about knowing you can go to prison.
 
-And that’s something we didn’t have in the 90s. We were innocent back then. The web seemed lawless and anonymous. The **w**ild **w**ild **w**est without the shootout. [Anarchy](http://www.amazon.com/Debt-The-First-Years-ebook/dp/B00513DGIO/) is the ideal condition when there is no threat of physical violence. That bully who barges in and ruins the party just when things were getting fun.
+And that’s something we didn’t have in the 90s. We were innocent back then. The web seemed lawless and anonymous. The **w**ild **w**ild **w**est without the shootout. [Anarchy](https://web.archive.org/web/20130520084007/http://www.amazon.com/Debt-The-First-Years-ebook/dp/B00513DGIO/) is the ideal condition when there is no threat of physical violence. That bully who barges in and ruins the party just when things were getting fun.
 
-It took the power of the state to reinsert the dance of suffering and loss into our virtual playground. But with [SWAT teams](http://www.techdirt.com/blog/wireless/articles/20110425/11220014028/swat-team-raids-home-because-guy-had-open-wireless-router.shtml)and [sting](http://news.cnet.com/8301-13578_3-9899151-38.html) operations, [lawsuits](http://www.rollingstone.com/music/news/minnesota-woman-ordered-to-pay-222-000-in-music-piracy-case-20120912) and [regulations](http://torrentfreak.com/six-strikes-anti-piracy-scheme-starts-monday-130223/), they managed to bring the culture of fear and guilt into a world without consequences. Because they need consequences. [No region of pure freedom](http://en.wikipedia.org/wiki/Freetown_Christiania) can be tolerated by those whose entire life’s work is telling you what to do in yours.
+It took the power of the state to reinsert the dance of suffering and loss into our virtual playground. But with [SWAT teams](http://www.techdirt.com/blog/wireless/articles/20110425/11220014028/swat-team-raids-home-because-guy-had-open-wireless-router.shtml)and [sting](https://web.archive.org/web/20130805133238/http://news.cnet.com/8301-13578_3-9899151-38.html) operations, [lawsuits](http://www.rollingstone.com/music/news/minnesota-woman-ordered-to-pay-222-000-in-music-piracy-case-20120912) and [regulations](http://torrentfreak.com/six-strikes-anti-piracy-scheme-starts-monday-130223/), they managed to bring the culture of fear and guilt into a world without consequences. Because they need consequences. [No region of pure freedom](http://en.wikipedia.org/wiki/Freetown_Christiania) can be tolerated by those whose entire life’s work is telling you what to do in yours.
 
 This is worth saying again: Do you realize that nothing needs to be illegal on the internet? If all transmission of information is communication, is speech, why should any part of it be regulated. Or forget our parochial first amendment: if the government [arose to protect us from harm](http://www.dailykos.com/story/2009/11/01/797974/-Let-s-read-a-book-together-Guns-Germs-and-Steel-Chapter-14-From-Egalitarianism-to-Kleptocracy#), why are they involved in a realm where the only harm caused is to your feelings? No hacker can use a computer to break your bones, no internet troll can so much as tickle your nose. It’s virtual reality, man. You can shut the computer, off.
 
@@ -86,11 +86,11 @@ When I was a boy, I had recurring nightmares. Witches harassed me and tormented 
 
 We collectively agreed to ignore the nightmare. To submit to the nightmare. So the nightmare grows, reaching wet tendrils in to our waking lives.
 
-The list of executive abuses in the past decade is endless. Everyone from [Social Services](http://www.theblaze.com/stories/2013/04/29/im-going-to-grab-your-baby-and-dont-resist-cops-barge-into-cali-parents-home-take-their-baby-after-they-seek-2nd-medical-opinion-and-its-on-video/)to [Border Control](http://www.aclu.org/national-security_technology-and-liberty/are-you-living-constitution-free-zone) to the IRS to unnamed private armies seem to have a loophole through which they can step in to my home, and utterly destroy my life. Legally. Without consequence or recourse.
+The list of executive abuses in the past decade is endless. Everyone from [Social Services](https://web.archive.org/web/20130929180733/http://www.theblaze.com/stories/2013/04/29/im-going-to-grab-your-baby-and-dont-resist-cops-barge-into-cali-parents-home-take-their-baby-after-they-seek-2nd-medical-opinion-and-its-on-video/)to [Border Control](https://web.archive.org/web/20130608042742/http://www.aclu.org/national-security_technology-and-liberty/are-you-living-constitution-free-zone) to the IRS to unnamed private armies seem to have a loophole through which they can step in to my home, and utterly destroy my life. Legally. Without consequence or recourse.
 
 This is our narrative: Bad people don’t deserve justice. Bad people need to work in [chain gangs](http://www.guardian.co.uk/commentisfree/2012/jul/06/prison-labor-pads-corporate-profits-taxpayers-expense) or be locked up in isolation 24 hours a day, for [years on end](http://www.motherjones.com/politics/2012/10/solitary-confinement-shane-bauer). That’s for regular bad people. The really bad people don’t get a trial, and would be lucky to simply be locked up until their corneas are [destroyed by lack of sunlight](http://www.reuters.com/article/2012/01/22/us-sundance-damienechols-idUSTRE80L0YR20120122).
 
-And the worst of the bad people are the ones caught in acts of [defiance](http://en.wikipedia.org/wiki/Main_Core). Acts of[philosophy](http://solitarywatch.com/2012/01/23/83-year-old-activist-priest-held-in-solitary-confinement-in-federal-prison/). [Thought crimes.](http://en.wikipedia.org/wiki/Hate_crime_laws_in_the_United_States) [Membership in an organization](https://en.wikipedia.org/wiki/Five-Percent_Nation). Transmission of illicit[information](http://www.vice.com/read/the-torture-of-bradley-manning).
+And the worst of the bad people are the ones caught in acts of [defiance](http://en.wikipedia.org/wiki/Main_Core). Acts of[philosophy](http://solitarywatch.com/2012/01/23/83-year-old-activist-priest-held-in-solitary-confinement-in-federal-prison/). [Thought crimes.](http://en.wikipedia.org/wiki/Hate_crime_laws_in_the_United_States) [Membership in an organization](https://en.wikipedia.org/wiki/Five-Percent_Nation). Transmission of illicit[information](https://web.archive.org/web/20130603060117/http://www.vice.com/read/the-torture-of-bradley-manning).
 
 This is the dangerous intersection, just ahead.
 
@@ -112,7 +112,7 @@ To whomever is reading this document, I want you to know I do respect you. You w
 
 The divine right of the monarch was replaced by the will of the people. And the people have spoken. It is for your own good, after all. We don’t invade countries, we liberate them. And we don’t control a population, we protect and serve.
 
-No one is above the law, nowadays. A [Fortune 500 CEO](http://en.wikipedia.org/wiki/Joseph_Nacchio) and a [kindergartener](http://www.cbsnews.com/8301-201_162-57415181/ga-police-handcuff-arrest-kindergartner-for-tantrum/) can both walk out in handcuffs.
+No one is above the law, nowadays. A [Fortune 500 CEO](http://en.wikipedia.org/wiki/Joseph_Nacchio) and a [kindergartener](https://web.archive.org/web/20120712221000/http://www.cbsnews.com/8301-201_162-57415181/ga-police-handcuff-arrest-kindergartner-for-tantrum/) can both walk out in handcuffs.
 
 This is America.
 

@@ -1,0 +1,63 @@
+{
+  "lead": "Founder of Third Wall Studio, and creator of the Burlap app. Brooklyn. Data engineer, artist, and musician working in AI.",
+  "tagline": "Data Engineering for Art",
+  "roles": [
+    {
+      "id": "third-wall",
+      "kind": "employment",
+      "current": true,
+      "org": "Third Wall Studio",
+      "title": "Founder",
+      "start": "2025-05",
+      "end": null,
+      "url": "https://thirdwallstudio.com",
+      "orgId": "https://www.sarth.net/#thirdwall"
+    },
+    {
+      "id": "burlap",
+      "kind": "product",
+      "current": true,
+      "org": "Third Wall Studio",
+      "product": "Burlap",
+      "title": "Creator",
+      "start": "2025-04",
+      "end": null,
+      "url": "https://burlap.app",
+      "detail": "by a team of four senior engineers"
+    },
+    {
+      "id": "reaktor",
+      "kind": "employment",
+      "current": false,
+      "org": "Reaktor",
+      "title": "Lead Data Architect",
+      "start": "2022",
+      "end": "2025-03",
+      "url": "https://reaktor.com",
+      "detail": "embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration."
+    },
+    {
+      "id": "ingather",
+      "kind": "product",
+      "current": false,
+      "org": "T.E.C. Systems",
+      "product": "Ingather",
+      "title": "Director of Product",
+      "start": "2021-08",
+      "end": "2022-03",
+      "url": "https://www.sarth.net/conspiracies/ingather/",
+      "demo": "https://ingather-demo.marshy-runner.workers.dev",
+      "detail": "SvelteKit, a nine-person team."
+    },
+    {
+      "id": "tec",
+      "kind": "employment",
+      "current": false,
+      "org": "T.E.C. Systems",
+      "title": "Director of Product",
+      "start": "2004",
+      "end": "2022",
+      "detail": "building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end."
+    }
+  ]
+}

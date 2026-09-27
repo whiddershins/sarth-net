@@ -12,4 +12,5 @@ This file exists so agents mid-session hit the silhouette without hunting.
 Companies are vehicles. Lineage is texture after current work.
 
 Details and hard rules: [`LEAD.md`](LEAD.md). Research-repo rules: `../sarth-research/AGENTS.md` §0b.
+Editing this repo: [`AGENTS.md`](AGENTS.md).
 Full about: `../sarth-research/public-record/about.md`.

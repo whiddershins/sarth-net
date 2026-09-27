@@ -16,27 +16,33 @@ Preview at `http://127.0.0.1:8787`. Pages are static HTML in `public/`.
 every `public/**/index.html` and writes the markdown twins, `llms.txt`,
 `llms-full.txt`, `sitemap.xml`, `feed.xml`, the citations layer, and `REPORT.md`.
 The pre-commit hook runs it and stages what changed; the GitHub Action runs
-`--check` and fails the push if anything is stale, a link is dead, or a page is
-an orphan.
+`--check` and fails the push if anything is stale, a link is dead, a page is
+an orphan, or the career facts disagree. Sitemap `<lastmod>` and JSON-LD
+`dateModified` use the last commit that changed the page’s hand-written HTML.
+Generated regions (Person career fields, `dateModified`, and the build blocks)
+do not move the date. `content/lastmod.json` holds those dates so a shallow
+checkout, which cannot see per-file history, still checks cleanly.
 
 ```bash
 python3 scripts/build.py          # regenerate
 python3 scripts/build.py --check  # what CI runs
 ```
 
-Hand-written sources outside `public/`: `content/llms.txt` and
-`content/llms-full.txt` (the preambles; `{{PAGES}}` is filled in) and
+Hand-written sources outside `public/`: `content/facts.json` (the locked lead,
+the line “Data Engineering for Art”, and the dated career roles), `content/llms.txt` and
+`content/llms-full.txt` (the preambles; `{{PAGES}}` and the `<!-- build:facts -->`
+block are filled in) and
 `content/holes/*.md`, one file per `<div class="hole">` on a page, for Sarth's
 own paragraph. An empty file leaves the bracketed prompt on the page and lists
 it in `REPORT.md`, which also lists every story page still without the
 alternating 2/1 and 1/2 bands (a page opts out with a `<!-- bands: none. reason -->`
 comment; the check fails a flat page without one). `npm run dev:holes` serves the site at `http://127.0.0.1:8788`
 with every hole editable in place: click, type, click away, and the file is
-written and the build re-run. The old page generator is retired under `scripts/legacy/`. Old Squarespace and WordPress addresses are 301s in `public/_redirects`. There is no Worker script, so a page view does not count as a Worker request.
+written and the build re-run. The old page generator is retired under `scripts/legacy/`. Old Squarespace and WordPress addresses are 301s in `public/_redirects`, except the five inbound-linked ones at its top, which serve their real page with a 200 rewrite. `src/index.js` runs before the assets. It 301s every other host, and any http request, to the same path and query on `https://www.sarth.net`, then passes a canonical request to the asset binding, so those `_redirects` rules, trailing slashes, and the 404 page still apply. `workers_dev` and `preview_urls` are off. A page view counts as a Worker request. `node --test scripts/canonical.test.mjs` checks the redirect decision.
 
 Publish by connecting Workers Builds on the `sarth-net` Worker in Sarth@sarth.net's Account to this GitHub repo, production branch `main`, deploy command `npx wrangler deploy`. Cloudflare runs that on each push. A GitHub Action is not the publish path. `account_id` in `wrangler.jsonc` is that same account, so a manual `npx wrangler deploy --profile sarth-net` cannot land on Marshy Runner.
 
-Canonical host: `https://www.sarth.net`. Both `www.sarth.net` and `sarth.net` are attached to the `sarth-net` static deployment on Sarth@sarth.net's Account. Pages declare the `www` address in their canonical tag. There is no host redirect from the bare name to `www`. Mail records stay on Fastmail. The old Squarespace site remains at `https://sarth-stuff.squarespace.com`.
+Canonical host: `https://www.sarth.net`. Both `www.sarth.net` and `sarth.net` stay attached to the `sarth-net` deployment on Sarth@sarth.net's Account, so the Worker can see the bare name and redirect it. Pages declare the `www` address in their canonical tag. Mail records stay on Fastmail. The old Squarespace site remains at `https://sarth-stuff.squarespace.com`. The older Worker on Marshy Runner, `https://sarth-net.marshy-runner.workers.dev`, is a separate deployment and is not changed by this repo.
 
 ## Cloudflare accounts
 

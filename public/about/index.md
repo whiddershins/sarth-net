@@ -21,12 +21,22 @@ Lollapalooza, Chicago, August 2009.
 Sarth Calhoun
 **Location**
 Brooklyn, New York
+**Third Wall Studio**
+Founder, May 2025. [thirdwallstudio.com](https://thirdwallstudio.com)
+**Burlap**
+Creator. Built since April 2025 by a team of four senior engineers. [burlap.app](https://burlap.app)
+**Reaktor**
+Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration. [reaktor.com](https://reaktor.com)
+**Ingather**
+A T.E.C. Systems product Sarth led, August 2021 to March 2022. SvelteKit, a nine-person team. [demo](https://ingather-demo.marshy-runner.workers.dev) · [Ingather](/conspiracies/ingather/)
+**T.E.C. Systems**
+2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end.
 **Current companies**
 [Third Wall Studio](https://thirdwallstudio.com), founder, May 2025. [Burlap](https://burlap.app), creator.
 **What he does**
 Adult animation as drama at Third Wall. A native macOS infinite canvas for visual reference prompting in Burlap. Data engineering and AI practice, written up in [Transmissions](/transmissions/).
 **Data engineering**
-Lead Data Architect at [Reaktor](https://reaktor.com), 2022 to 2025, on client work for Paramount Advanced Advertising and Viasat. Redshift, Snowflake, schema on read. [Reaktor Live, June 2023](/sightings/reaktor-live-2023/), a panel with Paramount. See [Work](/work/).
+Lead Data Architect at [Reaktor](https://reaktor.com), 2022 to March 2025, on client work for Paramount Advanced Advertising and Viasat. Redshift, Snowflake, schema on read. [Reaktor Live, June 2023](/sightings/reaktor-live-2023/), a panel with Paramount. See [Work](/work/).
 **Talks**
 Reaktor Live with Paramount, 2023. Kyma International Sound Symposium, UC Santa Cruz, 2018, and De Montfort University, 2016. New York Live Arts, 2015. With Bob Ezrin at Cal State Long Beach, 2012. [The list](/work/#talks).
 **Sites**

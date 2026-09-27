@@ -43,7 +43,8 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Third Wall Studio](https://thirdwallstudio.com)
 - [Burlap](https://burlap.app)
-- [Reaktor](https://reaktor.com)
+- [reaktor.com](https://reaktor.com)
+- [demo](https://ingather-demo.marshy-runner.workers.dev)
 - [sarth.net](https://www.sarth.net)
 - [bookofsarth.com](https://bookofsarth.com)
 - [X @noisegroove](https://x.com/noisegroove)
@@ -54,7 +55,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Wikidata Q7424654](https://www.wikidata.org/wiki/Q7424654)
 - [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
 - [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
-- [see a demo of a live bespoke cultivation interface](https://ingather-demo.marshy-runner.workers.dev)
 
 ## [Bolted for the Briar Patch](/bolted-for-the-briar-patch/)
 

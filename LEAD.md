@@ -30,3 +30,4 @@ Brooklyn. Data engineer, artist, and musician working in AI.
 
 Source of truth for the longer about: `../sarth-research/public-record/about.md`
 (or the copy in the research repo). Shared agent rules: `../sarth-research/AGENTS.md` §0b.
+Editing this repo: [`AGENTS.md`](AGENTS.md).

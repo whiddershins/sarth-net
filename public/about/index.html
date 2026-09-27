@@ -41,9 +41,104 @@
         "@type": "Place",
         "name": "Brooklyn, New York"
       },
-      "worksFor": {
-        "@id": "https://www.sarth.net/#thirdwall"
-      },
+      "worksFor": [
+        {
+          "@type": "OrganizationRole",
+          "roleName": "Founder",
+          "startDate": "2025-05",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "Third Wall Studio",
+            "@id": "https://www.sarth.net/#thirdwall",
+            "url": "https://thirdwallstudio.com"
+          },
+          "description": "Founder, May 2025."
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "OrganizationRole",
+          "roleName": "Lead Data Architect",
+          "startDate": "2022",
+          "endDate": "2025-03",
+          "alumniOf": {
+            "@type": "Organization",
+            "name": "Reaktor",
+            "url": "https://reaktor.com"
+          },
+          "description": "Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration."
+        },
+        {
+          "@type": "OrganizationRole",
+          "roleName": "Director of Product",
+          "startDate": "2004",
+          "endDate": "2022",
+          "alumniOf": {
+            "@type": "Organization",
+            "name": "T.E.C. Systems"
+          },
+          "description": "2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end."
+        }
+      ],
+      "hasOccupation": [
+        {
+          "@type": "Role",
+          "roleName": "Founder, Third Wall Studio",
+          "startDate": "2025-05",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Founder"
+          },
+          "description": "Founder, May 2025.",
+          "url": "https://thirdwallstudio.com"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Creator, Burlap",
+          "startDate": "2025-04",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Creator"
+          },
+          "description": "Creator. Built since April 2025 by a team of four senior engineers.",
+          "url": "https://burlap.app"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Lead Data Architect, Reaktor",
+          "startDate": "2022",
+          "endDate": "2025-03",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Lead Data Architect"
+          },
+          "description": "Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration.",
+          "url": "https://reaktor.com"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Director of Product, Ingather",
+          "startDate": "2021-08",
+          "endDate": "2022-03",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Director of Product"
+          },
+          "description": "A T.E.C. Systems product Sarth led, August 2021 to March 2022. SvelteKit, a nine-person team.",
+          "url": "https://ingather-demo.marshy-runner.workers.dev"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Director of Product, T.E.C. Systems",
+          "startDate": "2004",
+          "endDate": "2022",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Director of Product"
+          },
+          "description": "2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end."
+        }
+      ],
       "knowsAbout": [
         "Data engineering",
         "Generative AI",
@@ -58,7 +153,8 @@
         "Symbolic Sound Kyma",
         "Haken Continuum Fingerboard",
         "Live electronic processing",
-        "Visual reference prompting"
+        "Visual reference prompting",
+        "Data Engineering for Art"
       ],
       "sameAs": [
         "https://en.wikipedia.org/wiki/Sarth_Calhoun",
@@ -124,7 +220,8 @@
       "datePublished": "2026-09-23",
       "mainEntity": {
         "@id": "https://www.sarth.net/#person"
-      }
+      },
+      "dateModified": "2026-09-27"
     },
     {
       "@type": "FAQPage",
@@ -294,12 +391,24 @@
       <dd>Sarth Calhoun</dd>
       <dt>Location</dt>
       <dd>Brooklyn, New York</dd>
+      <!-- build:facts -->
+      <dt>Third Wall Studio</dt>
+      <dd>Founder, May 2025. <a href="https://thirdwallstudio.com">thirdwallstudio.com</a></dd>
+      <dt>Burlap</dt>
+      <dd>Creator. Built since April 2025 by a team of four senior engineers. <a href="https://burlap.app">burlap.app</a></dd>
+      <dt>Reaktor</dt>
+      <dd>Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration. <a href="https://reaktor.com">reaktor.com</a></dd>
+      <dt>Ingather</dt>
+      <dd>A T.E.C. Systems product Sarth led, August 2021 to March 2022. SvelteKit, a nine-person team. <a href="https://ingather-demo.marshy-runner.workers.dev">demo</a> &middot; <a href="/conspiracies/ingather/">Ingather</a></dd>
+      <dt>T.E.C. Systems</dt>
+      <dd>2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end.</dd>
+      <!-- /build:facts -->
       <dt>Current companies</dt>
       <dd><a href="https://thirdwallstudio.com">Third Wall Studio</a>, founder, May 2025. <a href="https://burlap.app">Burlap</a>, creator.</dd>
       <dt>What he does</dt>
       <dd>Adult animation as drama at Third Wall. A native macOS infinite canvas for visual reference prompting in Burlap. Data engineering and AI practice, written up in <a href="/transmissions/">Transmissions</a>.</dd>
       <dt>Data engineering</dt>
-      <dd>Lead Data Architect at <a href="https://reaktor.com">Reaktor</a>, 2022 to 2025, on client work for Paramount Advanced Advertising and Viasat. Redshift, Snowflake, schema on read. <a href="/sightings/reaktor-live-2023/">Reaktor Live, June 2023</a>, a panel with Paramount. See <a href="/work/">Work</a>.</dd>
+      <dd>Lead Data Architect at <a href="https://reaktor.com">Reaktor</a>, 2022 to March 2025, on client work for Paramount Advanced Advertising and Viasat. Redshift, Snowflake, schema on read. <a href="/sightings/reaktor-live-2023/">Reaktor Live, June 2023</a>, a panel with Paramount. See <a href="/work/">Work</a>.</dd>
       <dt>Talks</dt>
       <dd>Reaktor Live with Paramount, 2023. Kyma International Sound Symposium, UC Santa Cruz, 2018, and De Montfort University, 2016. New York Live Arts, 2015. With Bob Ezrin at Cal State Long Beach, 2012. <a href="/work/#talks">The list</a>.</dd>
       <dt>Sites</dt>

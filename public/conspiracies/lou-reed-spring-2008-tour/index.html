@@ -43,9 +43,104 @@
         "@type": "Place",
         "name": "Brooklyn, New York"
       },
-      "worksFor": {
-        "@id": "https://www.sarth.net/#thirdwall"
-      },
+      "worksFor": [
+        {
+          "@type": "OrganizationRole",
+          "roleName": "Founder",
+          "startDate": "2025-05",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "Third Wall Studio",
+            "@id": "https://www.sarth.net/#thirdwall",
+            "url": "https://thirdwallstudio.com"
+          },
+          "description": "Founder, May 2025."
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "OrganizationRole",
+          "roleName": "Lead Data Architect",
+          "startDate": "2022",
+          "endDate": "2025-03",
+          "alumniOf": {
+            "@type": "Organization",
+            "name": "Reaktor",
+            "url": "https://reaktor.com"
+          },
+          "description": "Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration."
+        },
+        {
+          "@type": "OrganizationRole",
+          "roleName": "Director of Product",
+          "startDate": "2004",
+          "endDate": "2022",
+          "alumniOf": {
+            "@type": "Organization",
+            "name": "T.E.C. Systems"
+          },
+          "description": "2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end."
+        }
+      ],
+      "hasOccupation": [
+        {
+          "@type": "Role",
+          "roleName": "Founder, Third Wall Studio",
+          "startDate": "2025-05",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Founder"
+          },
+          "description": "Founder, May 2025.",
+          "url": "https://thirdwallstudio.com"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Creator, Burlap",
+          "startDate": "2025-04",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Creator"
+          },
+          "description": "Creator. Built since April 2025 by a team of four senior engineers.",
+          "url": "https://burlap.app"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Lead Data Architect, Reaktor",
+          "startDate": "2022",
+          "endDate": "2025-03",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Lead Data Architect"
+          },
+          "description": "Lead Data Architect, 2022 to March 2025, embedded with Paramount’s Advanced Advertising organization. Paramount’s Redshift-to-Snowflake migration.",
+          "url": "https://reaktor.com"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Director of Product, Ingather",
+          "startDate": "2021-08",
+          "endDate": "2022-03",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Director of Product"
+          },
+          "description": "A T.E.C. Systems product Sarth led, August 2021 to March 2022. SvelteKit, a nine-person team.",
+          "url": "https://ingather-demo.marshy-runner.workers.dev"
+        },
+        {
+          "@type": "Role",
+          "roleName": "Director of Product, T.E.C. Systems",
+          "startDate": "2004",
+          "endDate": "2022",
+          "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Director of Product"
+          },
+          "description": "2004 to 2022, building automation for Yankee Stadium, Hudson Yards, the Museum of Modern Art, the American Museum of Natural History, One World Trade Center, One Bryant Park, and Memorial Sloan Kettering. Joined as a UI designer; Director of Product and Developer Manager by the end."
+        }
+      ],
       "knowsAbout": [
         "Data engineering",
         "Generative AI",
@@ -60,7 +155,8 @@
         "Symbolic Sound Kyma",
         "Haken Continuum Fingerboard",
         "Live electronic processing",
-        "Visual reference prompting"
+        "Visual reference prompting",
+        "Data Engineering for Art"
       ],
       "sameAs": [
         "https://en.wikipedia.org/wiki/Sarth_Calhoun",
@@ -126,7 +222,8 @@
       "description": "Lou Reed's spring 2008 U.S. tour with Sarth Calhoun, Rob Wasserman, Kevin Hearn, Mike Rathke, Steve Hunter, and Tony Smith.",
       "creator": {
         "@id": "https://www.sarth.net/#person"
-      }
+      },
+      "dateModified": "2026-09-26"
     },
     {
       "@type": "WebPage",
@@ -141,7 +238,8 @@
       },
       "author": {
         "@id": "https://www.sarth.net/#person"
-      }
+      },
+      "dateModified": "2026-09-26"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "public/about/index.html": "2026-09-27",
+  "public/about/index.html": "2026-09-28",
   "public/bolted-for-the-briar-patch/index.html": "2026-09-27",
   "public/citations/index.html": "2026-09-24",
   "public/conspiracies/awakening-to-blacklist/index.html": "2026-09-24",
   "public/conspiracies/book-of-sarth/index.html": "2026-09-26",
-  "public/conspiracies/burlap/index.html": "2026-09-24",
+  "public/conspiracies/burlap/index.html": "2026-09-28",
   "public/conspiracies/creation-of-the-universe-ambisonic/index.html": "2026-09-24",
   "public/conspiracies/gralbum-collective/index.html": "2026-09-24",
   "public/conspiracies/hidden-books-hidden-stories/index.html": "2026-09-24",
@@ -100,7 +100,7 @@
   "public/transmissions/external-tables/building-on-external-tables/index.html": "2026-09-24",
   "public/transmissions/external-tables/current-truth-with-window-functions/index.html": "2026-09-24",
   "public/transmissions/external-tables/defending-the-boundary/index.html": "2026-09-24",
-  "public/transmissions/external-tables/index.html": "2026-09-24",
+  "public/transmissions/external-tables/index.html": "2026-09-28",
   "public/transmissions/external-tables/living-with-the-code/index.html": "2026-09-24",
   "public/transmissions/external-tables/why-append-only/index.html": "2026-09-24",
   "public/transmissions/i-before-e/index.html": "2026-09-24",
@@ -120,9 +120,9 @@
   "public/transmissions/the-family-album/index.html": "2026-09-26",
   "public/transmissions/through-the-brambles/index.html": "2026-09-26",
   "public/transmissions/transmissions-from-the-book-of-sarth/index.html": "2026-09-26",
-  "public/transmissions/visual-reference-prompting/index.html": "2026-09-24",
+  "public/transmissions/visual-reference-prompting/index.html": "2026-09-28",
   "public/transmissions/why-python-is-the-default-for-data-work/index.html": "2026-09-24",
   "public/transmissions/window-functions/index.html": "2026-09-24",
   "public/transmissions/you-might-not-need-pandas/index.html": "2026-09-24",
-  "public/work/index.html": "2026-09-26"
+  "public/work/index.html": "2026-09-28"
 }

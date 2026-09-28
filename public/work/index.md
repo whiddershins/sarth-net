@@ -17,7 +17,7 @@ What I do and have done, newest first. The things themselves are on [Transmissio
 
   [thirdwallstudio.com](https://thirdwallstudio.com) · [Instagram](https://www.instagram.com/3rdwallstudio/) · [the films](/transmissions/#optical) · [Through the Brambles](/transmissions/through-the-brambles/)
 
-- **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025. Built since April 2025 by a team of four senior engineers: three of us worked together as data engineers at Reaktor, and the fourth has twenty years of iOS development.
+- **[Burlap](/conspiracies/burlap/).** Creator. A native macOS infinite canvas for visual reference prompting, out of little genAI cubicles and free to roam. Started after Runway’s 48-hour film competition, spring 2025. Built since April 2025 by a team of four senior engineers: three of us worked together as data engineers at Reaktor, and the fourth has twenty years of iOS development. The other three are collaborators.
 
   [burlap.app](https://burlap.app) · [Introducing Burlap](https://www.youtube.com/watch?v=CP8939UdzSo) · [The AI canvas](https://www.youtube.com/watch?v=UYN5ijezg3k)
 

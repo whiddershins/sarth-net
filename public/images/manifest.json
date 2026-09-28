@@ -796,5 +796,12 @@
   "bytes": 721991,
   "source": "https://substack-post-media.s3.amazonaws.com/public/images/417678ef-62c5-4ca3-af6d-4fd3f546ee19_1024x1024.png",
   "subject": "Somersaulting Down the Slippery Slope, the elves illustration from the Noisegroove post"
+ },
+ {
+  "file": "og-vrp-frogs-goblins.jpg",
+  "width": "1200",
+  "height": "630",
+  "source": "https://i.ytimg.com/vi/wroKqbXfx5g/maxres1.jpg (a frame of What is Visual Reference Prompting, Frogs and Goblins), cropped to the swamp scene",
+  "subject": "Frogs and goblins in a green swamp around a cauldron, generated in Burlap for the Visual Reference Prompting demo"
  }
 ]

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.sarth.net/</loc><lastmod>2026-09-26</lastmod></url>
-  <url><loc>https://www.sarth.net/about/</loc><lastmod>2026-09-27</lastmod></url>
-  <url><loc>https://www.sarth.net/work/</loc><lastmod>2026-09-26</lastmod></url>
+  <url><loc>https://www.sarth.net/about/</loc><lastmod>2026-09-28</lastmod></url>
+  <url><loc>https://www.sarth.net/work/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://www.sarth.net/conspiracies/third-wall-studio/</loc><lastmod>2026-09-24</lastmod></url>
-  <url><loc>https://www.sarth.net/conspiracies/burlap/</loc><lastmod>2026-09-24</lastmod></url>
+  <url><loc>https://www.sarth.net/conspiracies/burlap/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://www.sarth.net/contraptions/</loc><lastmod>2026-09-26</lastmod></url>
   <url><loc>https://www.sarth.net/conspiracies/ingather/</loc><lastmod>2026-09-26</lastmod></url>
   <url><loc>https://www.sarth.net/transmissions/duckdb-where-have-you-been-all-my-life/</loc><lastmod>2026-09-24</lastmod></url>
-  <url><loc>https://www.sarth.net/transmissions/external-tables/</loc><lastmod>2026-09-24</lastmod></url>
+  <url><loc>https://www.sarth.net/transmissions/external-tables/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://www.sarth.net/transmissions/external-tables/why-append-only/</loc><lastmod>2026-09-24</lastmod></url>
   <url><loc>https://www.sarth.net/transmissions/external-tables/building-on-external-tables/</loc><lastmod>2026-09-24</lastmod></url>
   <url><loc>https://www.sarth.net/transmissions/external-tables/current-truth-with-window-functions/</loc><lastmod>2026-09-24</lastmod></url>
@@ -21,7 +21,7 @@
   <url><loc>https://www.sarth.net/transmissions/modern-postgres/</loc><lastmod>2026-09-24</lastmod></url>
   <url><loc>https://www.sarth.net/transmissions/node-vs-rails/</loc><lastmod>2026-09-24</lastmod></url>
   <url><loc>https://www.sarth.net/transmissions/somersaulting-down-the-slippery-slope/</loc><lastmod>2026-09-27</lastmod></url>
-  <url><loc>https://www.sarth.net/transmissions/visual-reference-prompting/</loc><lastmod>2026-09-24</lastmod></url>
+  <url><loc>https://www.sarth.net/transmissions/visual-reference-prompting/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://www.sarth.net/conspiracies/</loc><lastmod>2026-09-24</lastmod></url>
   <url><loc>https://www.sarth.net/conspiracies/gralbum-collective/</loc><lastmod>2026-09-24</lastmod></url>
   <url><loc>https://www.sarth.net/conspiracies/book-of-sarth/</loc><lastmod>2026-09-26</lastmod></url>

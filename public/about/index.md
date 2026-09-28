@@ -65,7 +65,7 @@ Third Wall Studio is an animation studio Sarth Calhoun founded in May 2025. It m
 **What is Burlap?**
 Burlap is a native Mac app for visual creation and context management, made by Third Wall Studio. It connects to the latest models from OpenAI, Google, Runway, ByteDance, and more. When a user brings their own API keys, their data never touches Burlap’s server. [burlap.app](https://burlap.app)
 **Who built Burlap?**
-Burlap was built over 18 months by a team of four senior engineers, starting in April 2025. Three of them, including Calhoun, worked together as data engineers at Reaktor. The fourth has 20 years of iOS development. It is a native macOS app for visual reference prompting and context management.
+Burlap was built over 18 months by a team of four senior engineers, starting in April 2025. Three of them, including Calhoun, worked together as data engineers at Reaktor. The fourth has 20 years of iOS development. Calhoun is its creator; the other three are collaborators. It is a native macOS app for visual reference prompting and context management.
 **What does Sarth Calhoun do in data engineering?**
 Sarth Calhoun is a data engineer. At [Reaktor](https://reaktor.com) he worked with Paramount’s Advanced Advertising organization. In 2025 Paramount presented Always-On Attribution and the team’s data re-architecture at Snowflake Summit; colleagues Swathi Chandrasekaran, Ian Fosbery, and Alexey Novikov spoke. He also worked for Viasat. He writes about append-only pipelines, external tables, window functions, SQL, and DuckDB on this site. [Work](/work/) · [External tables](/transmissions/external-tables/)
 **What is the external-tables series?**

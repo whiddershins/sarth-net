@@ -12,6 +12,8 @@ Page 2 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
 - **[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)** · November 30, 2012
 
+  Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
+
 - **The Book of Sarth in the app store now!** · October 18, 2012
 
   Not recovered.
@@ -20,13 +22,19 @@ Page 2 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
   Not recovered.
 
+  Tags: Moldover.
+
 - **Amsterdam Cafe** · June 15, 2012
 
   Amsterdam cafe-cat.
 
   The rest of the post was not recovered.
 
+  Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/conspiracies/creation-of-the-universe-ambisonic/)** · January 16, 2012
+
+  Tags: 10.1, ambisonic, arup soundlab, continuum fingerboard, csulb, [kyma](/tag/kyma/), live processing, [Lou Reed](/tag/lou-reed/), metal machine trio, [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 Page 2 of 5 · [1](/category/intrigue/) · 2 · [3](/category/intrigue/page/3/) · [4](/category/intrigue/page/4/) · [5](/category/intrigue/page/5/)
 

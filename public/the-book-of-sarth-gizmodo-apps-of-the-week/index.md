@@ -14,7 +14,7 @@ Dec 22, 2012 · Dream
 
 Filed under: [Book of Sarth](/conspiracies/book-of-sarth/), [Intrigue](/category/intrigue/), [Press](/category/press/), [Press Clips](/category/intrigue/press-clips/), [Reviews](/category/reviews/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/).
 
-Tags: Book of Sarth, Gizmodo.
+Tags: [Book of Sarth](/tag/book-of-sarth/), [Gizmodo](/tag/gizmodo/).
 
 ## The 2015 version
 

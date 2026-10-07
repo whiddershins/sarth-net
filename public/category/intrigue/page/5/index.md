@@ -20,6 +20,8 @@ Page 5 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
   Not recovered.
 
+  Tags: [Noise](/tag/noise/), sydney opera house.
+
 - **[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)** · April 21, 2010
 
 Page 5 of 5 · [1](/category/intrigue/) · [2](/category/intrigue/page/2/) · [3](/category/intrigue/page/3/) · [4](/category/intrigue/page/4/) · 5

@@ -18,11 +18,17 @@ Page 2 of the posts filed under Video on the WordPress sarth.net, newest first, 
 
 - **[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)** · March 22, 2010
 
+  Tags: [Video](/tag/video/).
+
 - **Video: Lucibel Crater – Noise I Groove – Blue Stationwagon** · March 22, 2010
 
   Not recovered.
 
+  Tags: [Video](/tag/video/).
+
 - **[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)** · March 22, 2010
+
+  Tags: [Video](/tag/video/).
 
 - **Video: Exactly Where You Are** · March 22, 2010
 

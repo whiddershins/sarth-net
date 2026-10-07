@@ -12,17 +12,29 @@ The posts filed under Press Clips on the WordPress sarth.net, newest first. 7 of
 
 - **[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)** · January 3, 2013
 
+  Tags: [Book of Sarth](/tag/book-of-sarth/), [Bryon Bishop](/tag/bryon-bishop/), [Reviews](/tag/reviews/), [Sketching Monkey](/tag/sketching-monkey/), [The Verge](/tag/the-verge/).
+
 - **[The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)** · December 22, 2012
+
+  Tags: [Book of Sarth](/tag/book-of-sarth/), [Gizmodo](/tag/gizmodo/).
 
 - **[Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)** · December 20, 2012
 
+  Tags: [Book of Sarth](/tag/book-of-sarth/), [Chain D.L.K.](/tag/chain-d-l-k/), [Marc Urselli](/tag/marc-urselli/).
+
 - **[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)** · November 30, 2012
 
+  Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
+
 - **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010
+
+  Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 - **Sydney Morning Herald is Bracing for our arrival** · May 8, 2010
 
   Not recovered.
+
+  Tags: [Noise](/tag/noise/), sydney opera house.
 
 - **[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)** · April 21, 2010
 

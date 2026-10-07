@@ -24,15 +24,23 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
   Not recovered.
 
+  Tags: [Lucibel Crater](/tag/lucibel-crater/).
+
 - **Some pics from Jools Holland and Taratata** · November 10, 2011
 
   Not recovered.
+
+  Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
 - **A couple of photos from hop farm** · July 4, 2011
 
   Not recovered.
 
+  Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
+
 - **[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)** · July 10, 2010
+
+  Tags: [Bardo Pond](/tag/bardo-pond/), [Lou Reed](/tag/lou-reed/), [Marc Ribot](/tag/marc-ribot/), [Melt Banana](/tag/melt-banana/), [MWMCG](/tag/mwmcg/), [Night Terrors](/tag/night-terrors/), [Noise](/tag/noise/), [Opera House](/tag/opera-house/), [Rice Corpse](/tag/rice-corpse/), [Sydney](/tag/sydney/), [Zond](/tag/zond/).
 
 ## [Video](/category/visuals/video/)
 
@@ -58,6 +66,8 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
   Not recovered.
 
+  Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
+
 - **mm3 in brussels, video from youtube** · July 1, 2010
 
   came across this randomly and always like to see myself jumping up and down. tommy’s tees in the house.
@@ -66,11 +76,17 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
 - **[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)** · March 22, 2010
 
+  Tags: [Video](/tag/video/).
+
 - **Video: Lucibel Crater – Noise I Groove – Blue Stationwagon** · March 22, 2010
 
   Not recovered.
 
+  Tags: [Video](/tag/video/).
+
 - **[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)** · March 22, 2010
+
+  Tags: [Video](/tag/video/).
 
 - **Video: Exactly Where You Are** · March 22, 2010
 
@@ -81,5 +97,7 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
   Not recovered.
 
 - **[Video: Lucibel Crater – Masticate](/masicate-video/)** · March 11, 2010
+
+  Tags: [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/), [Video](/tag/video/).
 
 The two lists come from the categories each recovered post carries, checked against the Internet Archive’s copy of this page of [September 14, 2014](https://web.archive.org/web/20140914180155/http://www.sarth.net/category/visuals/), which shows the photo strip as thumbnails only.

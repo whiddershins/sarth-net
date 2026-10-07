@@ -22,14 +22,22 @@ The posts filed under photo on the WordPress sarth.net, newest first. 6 of them,
 
   Not recovered.
 
+  Tags: [Lucibel Crater](/tag/lucibel-crater/).
+
 - **Some pics from Jools Holland and Taratata** · November 10, 2011
 
   Not recovered.
+
+  Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
 - **A couple of photos from hop farm** · July 4, 2011
 
   Not recovered.
 
+  Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
+
 - **[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)** · July 10, 2010
+
+  Tags: [Bardo Pond](/tag/bardo-pond/), [Lou Reed](/tag/lou-reed/), [Marc Ribot](/tag/marc-ribot/), [Melt Banana](/tag/melt-banana/), [MWMCG](/tag/mwmcg/), [Night Terrors](/tag/night-terrors/), [Noise](/tag/noise/), [Opera House](/tag/opera-house/), [Rice Corpse](/tag/rice-corpse/), [Sydney](/tag/sydney/), [Zond](/tag/zond/).
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 9, 2014](https://web.archive.org/web/20140909171858/http://www.sarth.net/category/visuals/photo/) and from the categories each recovered post carries.

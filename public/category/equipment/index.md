@@ -12,4 +12,6 @@ The posts filed under Equipment on the WordPress sarth.net, newest first. 1 of t
 
 - **[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)** · November 30, 2012
 
+  Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
+
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 17, 2014](https://web.archive.org/web/20140917054328/http://www.sarth.net/category/equipment/) and from the categories each recovered post carries.

@@ -22,7 +22,7 @@ The post also carried The Verge’s lead image, captioned “Book of Sarth Revie
 
 Filed under: [Alex Smith](/conspirators/alex-wyly/), [Archie P. Valdez](/conspirators/archie-p-valdez/), [Book of Sarth](/conspiracies/book-of-sarth/), [Contraptions](/category/contraptions/), [Press](/category/press/), [Press Clips](/category/intrigue/press-clips/), [Reviews](/category/reviews/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/).
 
-Tags: Book of Sarth, Bryon Bishop, Reviews, Sketching Monkey, The Verge.
+Tags: [Book of Sarth](/tag/book-of-sarth/), [Bryon Bishop](/tag/bryon-bishop/), [Reviews](/tag/reviews/), [Sketching Monkey](/tag/sketching-monkey/), [The Verge](/tag/the-verge/).
 
 ## The 2015 version
 

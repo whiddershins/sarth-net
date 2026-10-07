@@ -32,6 +32,8 @@ Page 1 of the posts filed under Video on the WordPress sarth.net, newest first, 
 
   Not recovered.
 
+  Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
+
 Page 1 of 3 · 1 · [2](/category/visuals/video/page/2/) · [3](/category/visuals/video/page/3/)
 
 Every capture of the video pages (for this page, [September 9, 2014](https://web.archive.org/web/20140909154928/http://www.sarth.net/category/visuals/video/)) shows the page count, three, but none of the posts, so this list is rebuilt from the categories each recovered post carries, newest first and five to a page. A video post that was never captured is missing from it.

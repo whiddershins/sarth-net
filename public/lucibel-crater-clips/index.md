@@ -16,6 +16,6 @@ Masitcate Brooklyn
 
 Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspiracies/lucibel-crater/), [Paul Chuffo](/conspirators/paul-chuffo/), [clips](/category/music/clips/).
 
-Tags: audioclips, featured_music, Lucibel Crater The Family Album.
+Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
 
 Posted on sarth.net at this address on February 27, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20101031043933/http://www.sarth.net/lucibel-crater-clips/) of October 31, 2010. Each title linked a live MP3 on thesearemybeats.com. Neither file was recovered, and the Internet Archive has no copy. The Music listing later titled the post “Sarth Clips”.

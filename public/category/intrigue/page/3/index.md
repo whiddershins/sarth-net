@@ -22,6 +22,8 @@ Page 3 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
   Not recovered.
 
+  Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
+
 - **Iced Honey on the Jools Holland show** · November 9, 2011
 
   Got to play some of these Lulu tracks on the Jools Holland show … the first live performances of this material!
@@ -31,6 +33,8 @@ Page 3 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 - **Lulu now officially released** · November 1, 2011
 
   Not recovered.
+
+  Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
 
 Page 3 of 5 · [1](/category/intrigue/) · [2](/category/intrigue/page/2/) · 3 · [4](/category/intrigue/page/4/) · [5](/category/intrigue/page/5/)
 

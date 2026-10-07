@@ -16,6 +16,6 @@ I am glad to get this shout out from SSC because Kyma was so central to the soun
 
 Filed under: [Alex Smith](/conspirators/alex-wyly/), [Book of Sarth](/conspiracies/book-of-sarth/), [Contraptions](/category/contraptions/), [Equipment](/category/equipment/), [Intrigue](/category/intrigue/), [Press](/category/press/), [Press Clips](/category/intrigue/press-clips/), [Reviews](/category/reviews/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/).
 
-Tags: Book of Sarth, Ear Worm, kyma, Symbolic Sound.
+Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
 Posted on sarth.net at this address on November 30, 2012, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140306214625/http://www.sarth.net/symbolic-sound-book-of-sarth-review/) of March 6, 2014.

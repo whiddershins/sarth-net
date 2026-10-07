@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (668 total)
+## Citations by page (722 total)
 
 ### Sarth Calhoun
 `/`
@@ -1047,6 +1047,276 @@ every page.
 
 - [Symbolic Sound](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
 - [Internet Archive’s copy](https://web.archive.org/web/20140306214625/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
+
+### Tag: aram bajakian
+`/tag/aram-bajakian/`
+
+- [March 6, 2014](https://web.archive.org/web/20140306060301/http://www.sarth.net/tag/aram-bajakian/)
+
+### Tag: audioclips
+`/tag/audioclips/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031043521/http://www.sarth.net/tag/audioclips/)
+
+### Tag: Bardo Pond
+`/tag/bardo-pond/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031050502/http://www.sarth.net/tag/bardo-pond/)
+
+### Tag: Book of Sarth
+`/tag/book-of-sarth/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084750/http://www.sarth.net/tag/book-of-sarth/)
+
+### Tag: Bryon Bishop
+`/tag/bryon-bishop/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314011907/http://www.sarth.net/tag/bryon-bishop/)
+
+### Tag: Chain D.L.K.
+`/tag/chain-d-l-k/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314002640/http://www.sarth.net/tag/chain-d-l-k/)
+
+### Tag: Creation of the Universe
+`/tag/creation-of-the-universe/`
+
+- [November 2, 2010](https://web.archive.org/web/20101102061240/http://www.sarth.net/tag/creation-of-the-universe/)
+
+### Tag: Ear Worm
+`/tag/ear-worm/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314002712/http://www.sarth.net/tag/ear-worm/)
+
+### Tag: featured_music
+`/tag/featured_music/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031045339/http://www.sarth.net/tag/featured_music/)
+
+### Tag: Gizmodo
+`/tag/gizmodo/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314032521/http://www.sarth.net/tag/gizmodo/)
+
+### Tag: hop farm
+`/tag/hop-farm/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082313/http://www.sarth.net/tag/hop-farm/)
+
+### Tag: Iced Honey
+`/tag/iced-honey/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084243/http://www.sarth.net/tag/iced-honey/)
+
+### Tag: Jools Holland
+`/tag/jools-holland/`
+
+- [March 6, 2014](https://web.archive.org/web/20140306060051/http://www.sarth.net/tag/jools-holland/)
+
+### Tag: Kevin Hearn
+`/tag/kevin-hearn/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082315/http://www.sarth.net/tag/kevin-hearn/)
+
+### Tag: kyma
+`/tag/kyma/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084248/http://www.sarth.net/tag/kyma/)
+
+### Tag: Leah Coloff
+`/tag/leah-coloff/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082320/http://www.sarth.net/tag/leah-coloff/)
+
+### Tag: London
+`/tag/london/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084254/http://www.sarth.net/tag/london/)
+
+### Tag: Lou Reed
+`/tag/lou-reed/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031045344/http://www.sarth.net/tag/lou-reed/)
+
+### Tag: Lucibel Crater The Family Album
+`/tag/lucibel-crater-the-family-album/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031045359/http://www.sarth.net/tag/lucibel-crater-the-family-album/)
+
+### Tag: Lucibel Crater
+`/tag/lucibel-crater/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082329/http://www.sarth.net/tag/lucibel-crater/)
+
+### Tag: Lulu
+`/tag/lulu/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/)
+
+### Tag: Marc Ribot
+`/tag/marc-ribot/`
+
+- [November 2, 2010](https://web.archive.org/web/20101102061320/http://www.sarth.net/tag/marc-ribot/)
+
+### Tag: Marc Urselli
+`/tag/marc-urselli/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314011912/http://www.sarth.net/tag/marc-urselli/)
+
+### Tag: Mark Righter
+`/tag/mark-righter/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082336/http://www.sarth.net/tag/mark-righter/)
+
+### Tag: Melt Banana
+`/tag/melt-banana/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031050006/http://www.sarth.net/tag/melt-banana/)
+
+### Tag: Metal Machine Music
+`/tag/metal-machine-music/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031050507/http://www.sarth.net/tag/metal-machine-music/)
+
+### Tag: Metallica
+`/tag/metallica/`
+
+- [March 6, 2014](https://web.archive.org/web/20140306060743/http://www.sarth.net/tag/metallica/)
+
+### Tag: MM3
+`/tag/mm3/`
+
+- [November 2, 2010](https://web.archive.org/web/20101102064124/http://www.sarth.net/tag/mm3/)
+
+### Tag: MWMCG
+`/tag/mwmcg/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031044713/http://www.sarth.net/tag/mwmcg/)
+
+### Tag: Night Terrors
+`/tag/night-terrors/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031043938/http://www.sarth.net/tag/night-terrors/)
+
+### Tag: Noise
+`/tag/noise/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031052406/http://www.sarth.net/tag/noise/)
+
+### Tag: Number 19
+`/tag/number-19/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/)
+
+### Tag: Opera House
+`/tag/opera-house/`
+
+- [November 2, 2010](https://web.archive.org/web/20101102061342/http://www.sarth.net/tag/opera-house/)
+
+### Tag: Paris
+`/tag/paris/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/)
+
+### Tag: recursion
+`/tag/recursion/`
+
+- [March 6, 2014](https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/)
+
+### Tag: Reviews
+`/tag/reviews/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314002412/http://www.sarth.net/tag/reviews/)
+
+### Tag: Rice Corpse
+`/tag/rice-corpse/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031045404/http://www.sarth.net/tag/rice-corpse/)
+
+### Tag: rob wasserman kevin hearn
+`/tag/rob-wasserman-kevin-hearn/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084817/http://www.sarth.net/tag/rob-wasserman-kevin-hearn/)
+
+### Tag: Rob Wasserman
+`/tag/rob-wasserman/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084820/http://www.sarth.net/tag/rob-wasserman/)
+
+### Tag: Sarth
+`/tag/sarth/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031045421/http://www.sarth.net/tag/sarth/)
+
+### Tag: Sketching Monkey
+`/tag/sketching-monkey/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314002754/http://www.sarth.net/tag/sketching-monkey/)
+
+### Tag: Super Nintendo
+`/tag/super-nintendo/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084826/http://www.sarth.net/tag/super-nintendo/)
+
+### Tag: Suspension
+`/tag/suspension/`
+
+- [March 6, 2014](https://web.archive.org/web/20140306060320/http://www.sarth.net/tag/suspension/)
+
+### Tag: Sydney
+`/tag/sydney/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031044003/http://www.sarth.net/tag/sydney/)
+
+### Tag: Symbolic Sound
+`/tag/symbolic-sound/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314011051/http://www.sarth.net/tag/symbolic-sound/)
+
+### Tag: Taratata
+`/tag/taratata/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084857/http://www.sarth.net/tag/taratata/)
+
+### Tag: The Verge
+`/tag/the-verge/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314011005/http://www.sarth.net/tag/the-verge/)
+
+### Tag: The View
+`/tag/the-view/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084901/http://www.sarth.net/tag/the-view/)
+
+### Tag: tony diodore
+`/tag/tony-diodore/`
+
+- [March 6, 2014](https://web.archive.org/web/20140306060337/http://www.sarth.net/tag/tony-diodore/)
+
+### Tag: tony smith
+`/tag/tony-smith/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082435/http://www.sarth.net/tag/tony-smith/)
+
+### Tag: Ulrich Krieger
+`/tag/ulrich-krieger/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031050029/http://www.sarth.net/tag/ulrich-krieger/)
+
+### Tag: Video
+`/tag/video/`
+
+- [November 2, 2010](https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/)
+
+### Tag: White Light White Heat
+`/tag/white-light-white-heat/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082445/http://www.sarth.net/tag/white-light-white-heat/)
+
+### Tag: Zond
+`/tag/zond/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031050049/http://www.sarth.net/tag/zond/)
 
 ### The Book of Sarth – Gizmodo Apps of the Week!
 `/the-book-of-sarth-gizmodo-apps-of-the-week/`

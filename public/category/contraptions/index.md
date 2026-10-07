@@ -16,11 +16,17 @@ The posts filed under Contraptions on the WordPress sarth.net, newest first. 5 o
 
 - **[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)** · January 3, 2013
 
+  Tags: [Book of Sarth](/tag/book-of-sarth/), [Bryon Bishop](/tag/bryon-bishop/), [Reviews](/tag/reviews/), [Sketching Monkey](/tag/sketching-monkey/), [The Verge](/tag/the-verge/).
+
 - **[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)** · November 30, 2012
+
+  Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
 - **JAMBOXES** · July 9, 2012
 
   Not recovered.
+
+  Tags: Moldover.
 
 - **Brain melt – double firewire 800 scare** · October 14, 2011
 

@@ -14,6 +14,6 @@ Mar 22, 2010 · Dream
 
 Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspiracies/lucibel-crater/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Paul Chuffo](/conspirators/paul-chuffo/), [Video](/category/visuals/video/).
 
-Tags: Video.
+Tags: [Video](/tag/video/).
 
 Posted on sarth.net at this address on March 22, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20101031043559/http://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/) of October 31, 2010. The post was the video alone.

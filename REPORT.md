@@ -188,6 +188,10 @@ captions, labels and data, with the first one on each page. About and Citations 
 - https://www.sarth.net/lucibel-crater-clips/ (1): Posted on sarth.net at this address on February 27, 2010, and reproduced here as written, from the Internet Archive’s co
 - https://www.sarth.net/photos-of-noise-night-sydney/ (1): Filed under: Intrigue, Laurie Anderson, Lou Reed, Marc Ribot, Metal Machine Trio, Sarth Solo Projects, photo.
 - https://www.sarth.net/power-and-serenity-for-sale/ (1): Conspiracy: Sarth Solo Projects
+- https://www.sarth.net/tag/audioclips/ (1): Sarth Clips · February 27, 2010
+- https://www.sarth.net/tag/featured_music/ (1): Sarth Clips · February 27, 2010
+- https://www.sarth.net/tag/lucibel-crater-the-family-album/ (1): Sarth Clips · February 27, 2010
+- https://www.sarth.net/tag/sarth/ (1): The posts tagged Sarth on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a po
 - https://www.sarth.net/transmissions/beautiful-tornado/rich-navs-positivity-mission/ (1): Songwriter, poet, firefighter, transatlantic sailor, dad… Richard Naviasky @the1nav does a LOT of stuff and then sings e
 
 ## Attribution

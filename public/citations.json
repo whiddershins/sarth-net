@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 602,
+  "citation_count": 648,
   "pages": [
     {
       "path": "/",
@@ -60,6 +60,24 @@
         {
           "url": "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
           "text": "Spotify"
+        }
+      ]
+    },
+    {
+      "path": "/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/",
+      "title": "A Wonderful writeup of The Book of Sarth on The Verge",
+      "citations": [
+        {
+          "url": "https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album",
+          "text": "The Verge"
+        },
+        {
+          "url": "https://web.archive.org/web/20140306173226/http://www.sarth.net/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/",
+          "text": "Internet Archive’s copy"
+        },
+        {
+          "url": "https://web.archive.org/web/20170927213250/http://www.sarth.net/rumors/2015/2/10/a-wonderful-write-up-of-the-book-of-sarth-on-the-verge",
+          "text": "copy of September 27, 2017"
         }
       ]
     },
@@ -122,6 +140,16 @@
         {
           "url": "https://en.wikipedia.org/wiki/Sarth_Calhoun",
           "text": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "path": "/amazing-amazing-drumming/",
+      "title": "Amazing, amazing, drumming",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140304023347/http://www.sarth.net/amazing-amazing-drumming",
+          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -288,6 +316,292 @@
         {
           "url": "https://web.archive.org/web/20120712221000/http://www.cbsnews.com/8301-201_162-57415181/ga-police-handcuff-arrest-kindergartner-for-tantrum/",
           "text": "kindergartener"
+        }
+      ]
+    },
+    {
+      "path": "/book-of-sarth-in-the-app-store/",
+      "title": "Book of Sarth in The App Store",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/2013/http://itunes.apple.com/us/app/the-book-of-sarth/id563200772",
+          "text": "App Store"
+        },
+        {
+          "url": "https://bookofsarth.com",
+          "text": "bookofsarth.com"
+        },
+        {
+          "url": "https://web.archive.org/web/20140306015204/http://www.sarth.net/book-of-sarth-in-the-app-store/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/book-of-sarth-sneak-preview/",
+      "title": "Book of Sarth clips",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140305174205/http://www.sarth.net/book-of-sarth-sneak-preview/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/category/conspiracies/sarth-solo-projects/",
+      "title": "Sarth Solo Projects",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/",
+          "text": "September 5, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/contraptions/",
+      "title": "Contraptions",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/",
+          "text": "September 10, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/equipment/",
+      "title": "Equipment",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140917054328/http://www.sarth.net/category/equipment/",
+          "text": "September 17, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/intrigue/",
+      "title": "Intrigue, page 1 of 5",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/",
+          "text": "September 5, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/intrigue/page/2/",
+      "title": "Intrigue, page 2 of 5",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/",
+          "text": "September 14, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/intrigue/page/3/",
+      "title": "Intrigue, page 3 of 5",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/",
+          "text": "September 18, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/intrigue/page/4/",
+      "title": "Intrigue, page 4 of 5",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140918025841/http://www.sarth.net/category/intrigue/page/4/",
+          "text": "September 18, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/intrigue/page/5/",
+      "title": "Intrigue, page 5 of 5",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/",
+          "text": "July 31, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/intrigue/press-clips/",
+      "title": "Press Clips",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/",
+          "text": "September 5, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/music/",
+      "title": "Music, page 1 of 2",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140906154156/http://www.sarth.net/category/music/",
+          "text": "September 6, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/music/clips/",
+      "title": "Clips",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140909192848/http://www.sarth.net/category/music/clips/",
+          "text": "September 9, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/music/discography/",
+      "title": "Discography",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140911092932/http://www.sarth.net/category/music/discography/",
+          "text": "September 11, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/music/page/2/",
+      "title": "Music, page 2 of 2",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140905182144/http://www.sarth.net/category/music/page/2/",
+          "text": "September 5, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/music/recordings/",
+      "title": "Recordings",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140910072009/http://www.sarth.net/category/music/recordings/",
+          "text": "September 10, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/musings/",
+      "title": "Musings",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/",
+          "text": "September 14, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/press/",
+      "title": "Press",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140909143954/http://www.sarth.net/category/press/",
+          "text": "September 9, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/reviews/",
+      "title": "Reviews",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/",
+          "text": "September 6, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/taiji/",
+      "title": "Taiji",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/",
+          "text": "September 10, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/uncategorized/",
+      "title": "Uncategorized",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140909160404/http://www.sarth.net/category/uncategorized/",
+          "text": "September 9, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/visuals/",
+      "title": "Visuals",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140914180155/http://www.sarth.net/category/visuals/",
+          "text": "September 14, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/visuals/photo/",
+      "title": "Photo",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140909171858/http://www.sarth.net/category/visuals/photo/",
+          "text": "September 9, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/visuals/video/",
+      "title": "Video, page 1 of 3",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140909154928/http://www.sarth.net/category/visuals/video/",
+          "text": "September 9, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/visuals/video/page/2/",
+      "title": "Video, page 2 of 3",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140905181534/http://www.sarth.net/category/visuals/video/page/2/",
+          "text": "September 5, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/category/visuals/video/page/3/",
+      "title": "Video, page 3 of 3",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140905180719/http://www.sarth.net/category/visuals/video/page/3/",
+          "text": "September 5, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/chain-d-l-k-book-of-sarth-review/",
+      "title": "Chain D.L.K. – Book of Sarth Review",
+      "citations": [
+        {
+          "url": "https://www.marcurselli.com/",
+          "text": "Marc Urselli"
+        },
+        {
+          "url": "https://www.chaindlk.com/reviews/7353",
+          "text": "Chain D.L.K."
+        },
+        {
+          "url": "https://web.archive.org/web/20140307100620/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/",
+          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -817,10 +1131,6 @@
       "title": "Power and Serenity",
       "citations": [
         {
-          "url": "https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/",
-          "text": "sarth.net, July 21, 2010"
-        },
-        {
           "url": "https://web.archive.org/web/20101230193716/http://loureed.com/power/",
           "text": "loureed.com, 2010"
         }
@@ -1096,10 +1406,6 @@
         {
           "url": "https://commons.wikimedia.org/wiki/File:CarlaScaletti.jpg",
           "text": "Wikimedia Commons"
-        },
-        {
-          "url": "https://web.archive.org/web/20140906084650/http://www.sarth.net/symbolic-sound-book-of-sarth-review/",
-          "text": "sarth.net, November 30, 2012"
         }
       ]
     },
@@ -1389,10 +1695,6 @@
       "title": "Marc Urselli",
       "citations": [
         {
-          "url": "https://web.archive.org/web/20140909155440/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/",
-          "text": "sarth.net, December 20, 2012"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Marc_Urselli",
           "text": "Marc Urselli"
         },
@@ -1423,10 +1725,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Lulu_(Lou_Reed_and_Metallica_album)",
           "text": "Lulu"
-        },
-        {
-          "url": "https://web.archive.org/web/20140905192608/http://www.sarth.net/lulucd/",
-          "text": "sarth.net, November 6, 2011"
         }
       ]
     },
@@ -1926,6 +2224,20 @@
       ]
     },
     {
+      "path": "/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/",
+      "title": "Cool review comparing Creation of The Universe to Metal Machine Music",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/2010/http://blogs.epicindia.com/leapinthedark/2010/04/music_review_lou_reed_thirtyfi.html",
+          "text": "http://blogs.epicindia.com/leapinthedark/2010/04/musicreviewloureedthirtyfi.html"
+        },
+        {
+          "url": "https://web.archive.org/web/20101031045309/http://www.sarth.net/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
       "path": "/devices/",
       "title": "Devices",
       "citations": []
@@ -2103,6 +2415,46 @@
       ]
     },
     {
+      "path": "/lucibel-crater-clips/",
+      "title": "Lucibel Crater Clips",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20101031043933/http://www.sarth.net/lucibel-crater-clips/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/lulucd/",
+      "title": "Lulu",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140305175009/http://www.sarth.net/lulucd/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/masicate-video/",
+      "title": "Video: Lucibel Crater – Masticate",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20101031050339/http://www.sarth.net/masicate-video/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/mm3-interviewed-in-art-rocker/",
+      "title": "MM3 interviewed in Art Rocker",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20101031050447/http://www.sarth.net/mm3-interviewed-in-art-rocker/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
       "path": "/photos-of-noise-night-sydney/",
       "title": "Photos of Noise Night, Sydney",
       "citations": [
@@ -2117,6 +2469,20 @@
         {
           "url": "http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html",
           "text": "A concert recording"
+        }
+      ]
+    },
+    {
+      "path": "/power-and-serenity-for-sale/",
+      "title": "Power and Serenity",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/2010/http://loureed.com/power/",
+          "text": "http://loureed.com/power/"
+        },
+        {
+          "url": "https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/",
+          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -2372,6 +2738,38 @@
         {
           "url": "https://www.linkedin.com/posts/ian-fosbery_very-excited-to-be-moderating-this-chat-with-activity-7074777948012105728-AzwC",
           "text": "Fosbery’s"
+        }
+      ]
+    },
+    {
+      "path": "/symbolic-sound-book-of-sarth-review/",
+      "title": "Symbolic Sound – Book of Sarth Review",
+      "citations": [
+        {
+          "url": "https://news.symbolicsound.com/2012/11/the-book-of-sarth/",
+          "text": "Symbolic Sound"
+        },
+        {
+          "url": "https://web.archive.org/web/20140306214625/http://www.sarth.net/symbolic-sound-book-of-sarth-review/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/the-book-of-sarth-gizmodo-apps-of-the-week/",
+      "title": "The Book of Sarth – Gizmodo Apps of the Week!",
+      "citations": [
+        {
+          "url": "https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597",
+          "text": "Gizmodo"
+        },
+        {
+          "url": "https://web.archive.org/web/20140306125224/http://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/",
+          "text": "Internet Archive’s copy"
+        },
+        {
+          "url": "https://web.archive.org/web/20170927211510/http://www.sarth.net/rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week",
+          "text": "copy of September 27, 2017"
         }
       ]
     },
@@ -3065,6 +3463,26 @@
       "path": "/transmissions/you-might-not-need-pandas/",
       "title": "You might not need Pandas",
       "citations": []
+    },
+    {
+      "path": "/video-lucibel-crater-elvis-costello-green-shirt/",
+      "title": "Video: Lucibel Crater – Elvis Costello – Green Shirt",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20101102064145/http://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/video-metal-machine-trio-infiltrates-lucibel-crater/",
+      "title": "Video: Metal Machine Trio infiltrates Lucibel Crater",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20101031043559/http://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/",
+          "text": "Internet Archive’s copy"
+        }
+      ]
     },
     {
       "path": "/work/",

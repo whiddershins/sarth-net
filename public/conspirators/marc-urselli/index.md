@@ -15,7 +15,7 @@ Grammy-winning engineer. He reviewed *The Book of Sarth* and mixed my Christmas 
 
 > Marc Urselli did a thoughtful, in-depth review of The Book of Sarth over at Chain D.L.K. I appreciated the detail of his feedback, and even where it wasn't 100% positive I thought he made many great points. 4 out of 5 stars?! I'll take it.
 > 
-> Sarth Calhoun, [sarth.net, December 20, 2012](https://web.archive.org/web/20140909155440/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/)
+> Sarth Calhoun, [sarth.net, December 20, 2012](/chain-d-l-k-book-of-sarth-review/)
 
 [Marc Urselli](https://en.wikipedia.org/wiki/Marc_Urselli) (born 1977, Aarau) is an Italian-Swiss audio engineer, producer and mixer based in New York, chief engineer at Eastside Sound and owner of Audio Confidential. He has won three Grammy Awards from seven nominations, with credits including U2, Foo Fighters, Lou Reed, Nick Cave, John Zorn and Laurie Anderson, and in 1994 he founded the online magazine Chain D.L.K., of which he is editor in chief.
 

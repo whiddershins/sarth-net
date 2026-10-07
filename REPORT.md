@@ -181,8 +181,13 @@ None.
 Sentences say I (Sarth's rule, 23 Sep 2026). Sentences that still name Sarth, outside quotes,
 captions, labels and data, with the first one on each page. About and Citations are exempt.
 
+- https://www.sarth.net/category/conspiracies/sarth-solo-projects/ (2): The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest first. 10 of them, with a link where the po
+- https://www.sarth.net/category/music/clips/ (1): Sarth Clips · February 27, 2010
+- https://www.sarth.net/category/music/page/2/ (1): Sarth Clips · February 27, 2010
 - https://www.sarth.net/conspirators/moldover/ (1): On December 30, 2025 his channel posted “Sarth plays Moldover’s Voice Crusher,” two and a half minutes of me on the Voic
+- https://www.sarth.net/lucibel-crater-clips/ (1): Posted on sarth.net at this address on February 27, 2010, and reproduced here as written, from the Internet Archive’s co
 - https://www.sarth.net/photos-of-noise-night-sydney/ (1): Filed under: Intrigue, Laurie Anderson, Lou Reed, Marc Ribot, Metal Machine Trio, Sarth Solo Projects, photo.
+- https://www.sarth.net/power-and-serenity-for-sale/ (1): Conspiracy: Sarth Solo Projects
 
 ## Attribution
 
@@ -285,4 +290,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 22 machine · 33 dream · 13 message
+- 22 machine · 48 dream · 13 message

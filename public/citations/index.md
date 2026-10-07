@@ -37,6 +37,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
 
+## [A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)
+
+`/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/`
+
+- [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
+- [Internet Archive’s copy](https://web.archive.org/web/20140306173226/http://www.sarth.net/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)
+- [copy of September 27, 2017](https://web.archive.org/web/20170927213250/http://www.sarth.net/rumors/2015/2/10/a-wonderful-write-up-of-the-book-of-sarth-on-the-verge)
+
 ## [About](/about/)
 
 `/about/`
@@ -55,6 +63,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Wikidata Q7424654](https://www.wikidata.org/wiki/Q7424654)
 - [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
 - [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
+
+## [Amazing, amazing, drumming](/amazing-amazing-drumming/)
+
+`/amazing-amazing-drumming/`
+
+- [Internet Archive’s copy](https://web.archive.org/web/20140304023347/http://www.sarth.net/amazing-amazing-drumming)
 
 ## [Bolted for the Briar Patch](/bolted-for-the-briar-patch/)
 
@@ -100,6 +114,172 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [disorderly conduct.](http://variety.com/2013/biz/news/reese-witherspoon-arrested-dui-husband-jim-toth-atlanta-1200401299/#!1/walk-the-line-2005/)
 - [Fortune 500 CEO](http://en.wikipedia.org/wiki/Joseph_Nacchio)
 - [kindergartener](https://web.archive.org/web/20120712221000/http://www.cbsnews.com/8301-201_162-57415181/ga-police-handcuff-arrest-kindergartner-for-tantrum/)
+
+## [Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/)
+
+`/book-of-sarth-in-the-app-store/`
+
+- [App Store](https://web.archive.org/web/2013/http://itunes.apple.com/us/app/the-book-of-sarth/id563200772)
+- [bookofsarth.com](https://bookofsarth.com)
+- [Internet Archive’s copy](https://web.archive.org/web/20140306015204/http://www.sarth.net/book-of-sarth-in-the-app-store/)
+
+## [Book of Sarth clips](/book-of-sarth-sneak-preview/)
+
+`/book-of-sarth-sneak-preview/`
+
+- [Internet Archive’s copy](https://web.archive.org/web/20140305174205/http://www.sarth.net/book-of-sarth-sneak-preview/)
+
+## [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/)
+
+`/category/conspiracies/sarth-solo-projects/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/)
+
+## [Contraptions](/category/contraptions/)
+
+`/category/contraptions/`
+
+- [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/)
+
+## [Equipment](/category/equipment/)
+
+`/category/equipment/`
+
+- [September 17, 2014](https://web.archive.org/web/20140917054328/http://www.sarth.net/category/equipment/)
+
+## [Intrigue, page 1 of 5](/category/intrigue/)
+
+`/category/intrigue/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/)
+
+## [Intrigue, page 2 of 5](/category/intrigue/page/2/)
+
+`/category/intrigue/page/2/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
+
+## [Intrigue, page 3 of 5](/category/intrigue/page/3/)
+
+`/category/intrigue/page/3/`
+
+- [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/)
+
+## [Intrigue, page 4 of 5](/category/intrigue/page/4/)
+
+`/category/intrigue/page/4/`
+
+- [September 18, 2014](https://web.archive.org/web/20140918025841/http://www.sarth.net/category/intrigue/page/4/)
+
+## [Intrigue, page 5 of 5](/category/intrigue/page/5/)
+
+`/category/intrigue/page/5/`
+
+- [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/)
+
+## [Press Clips](/category/intrigue/press-clips/)
+
+`/category/intrigue/press-clips/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/)
+
+## [Music, page 1 of 2](/category/music/)
+
+`/category/music/`
+
+- [September 6, 2014](https://web.archive.org/web/20140906154156/http://www.sarth.net/category/music/)
+
+## [Clips](/category/music/clips/)
+
+`/category/music/clips/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909192848/http://www.sarth.net/category/music/clips/)
+
+## [Discography](/category/music/discography/)
+
+`/category/music/discography/`
+
+- [September 11, 2014](https://web.archive.org/web/20140911092932/http://www.sarth.net/category/music/discography/)
+
+## [Music, page 2 of 2](/category/music/page/2/)
+
+`/category/music/page/2/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905182144/http://www.sarth.net/category/music/page/2/)
+
+## [Recordings](/category/music/recordings/)
+
+`/category/music/recordings/`
+
+- [September 10, 2014](https://web.archive.org/web/20140910072009/http://www.sarth.net/category/music/recordings/)
+
+## [Musings](/category/musings/)
+
+`/category/musings/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
+## [Press](/category/press/)
+
+`/category/press/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909143954/http://www.sarth.net/category/press/)
+
+## [Reviews](/category/reviews/)
+
+`/category/reviews/`
+
+- [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/)
+
+## [Taiji](/category/taiji/)
+
+`/category/taiji/`
+
+- [September 10, 2014](https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/)
+
+## [Uncategorized](/category/uncategorized/)
+
+`/category/uncategorized/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909160404/http://www.sarth.net/category/uncategorized/)
+
+## [Visuals](/category/visuals/)
+
+`/category/visuals/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914180155/http://www.sarth.net/category/visuals/)
+
+## [Photo](/category/visuals/photo/)
+
+`/category/visuals/photo/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909171858/http://www.sarth.net/category/visuals/photo/)
+
+## [Video, page 1 of 3](/category/visuals/video/)
+
+`/category/visuals/video/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909154928/http://www.sarth.net/category/visuals/video/)
+
+## [Video, page 2 of 3](/category/visuals/video/page/2/)
+
+`/category/visuals/video/page/2/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905181534/http://www.sarth.net/category/visuals/video/page/2/)
+
+## [Video, page 3 of 3](/category/visuals/video/page/3/)
+
+`/category/visuals/video/page/3/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905180719/http://www.sarth.net/category/visuals/video/page/3/)
+
+## [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)
+
+`/chain-d-l-k-book-of-sarth-review/`
+
+- [Marc Urselli](https://www.marcurselli.com/)
+- [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
+- [Internet Archive’s copy](https://web.archive.org/web/20140307100620/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/)
 
 ## [Citations](/citations/)
 
@@ -297,7 +477,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/conspiracies/power-and-serenity/`
 
-- [sarth.net, July 21, 2010](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
 - [loureed.com, 2010](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
 
 ## [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
@@ -402,7 +581,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Kyma](https://kyma.symbolicsound.com/)
 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CarlaScaletti.jpg)
-- [sarth.net, November 30, 2012](https://web.archive.org/web/20140906084650/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
 
 ## [Dominic Bouffard](/conspirators/dominic-bouffard/)
 
@@ -526,7 +704,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/conspirators/marc-urselli/`
 
-- [sarth.net, December 20, 2012](https://web.archive.org/web/20140909155440/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/)
 - [Marc Urselli](https://en.wikipedia.org/wiki/Marc_Urselli)
 - [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
 
@@ -542,7 +719,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Lulu](https://en.wikipedia.org/wiki/Lulu_(Lou_Reed_and_Metallica_album))
-- [sarth.net, November 6, 2011](https://web.archive.org/web/20140905192608/http://www.sarth.net/lulucd/)
 
 ## [Michael Patrick Flanagan Smith](/conspirators/michael-patrick-flanagan-smith/)
 
@@ -740,6 +916,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Paint with JavaScript](https://contraptions.bookofsarth.com/paint-with-javascript)
 - [Kick with Reverb](https://contraptions.bookofsarth.com/kick-with-reverb)
 
+## [Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)
+
+`/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/`
+
+- [http://blogs.epicindia.com/leapinthedark/2010/04/musicreviewloureedthirtyfi.html](https://web.archive.org/web/2010/http://blogs.epicindia.com/leapinthedark/2010/04/music_review_lou_reed_thirtyfi.html)
+- [Internet Archive’s copy](https://web.archive.org/web/20101031045309/http://www.sarth.net/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)
+
 ## [Ableton Live](/devices/ableton-live/)
 
 `/devices/ableton-live/`
@@ -825,6 +1008,30 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 
+## [Lucibel Crater Clips](/lucibel-crater-clips/)
+
+`/lucibel-crater-clips/`
+
+- [Internet Archive’s copy](https://web.archive.org/web/20101031043933/http://www.sarth.net/lucibel-crater-clips/)
+
+## [Lulu](/lulucd/)
+
+`/lulucd/`
+
+- [Internet Archive’s copy](https://web.archive.org/web/20140305175009/http://www.sarth.net/lulucd/)
+
+## [Video: Lucibel Crater – Masticate](/masicate-video/)
+
+`/masicate-video/`
+
+- [Internet Archive’s copy](https://web.archive.org/web/20101031050339/http://www.sarth.net/masicate-video/)
+
+## [MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)
+
+`/mm3-interviewed-in-art-rocker/`
+
+- [Internet Archive’s copy](https://web.archive.org/web/20101031050447/http://www.sarth.net/mm3-interviewed-in-art-rocker/)
+
 ## [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)
 
 `/photos-of-noise-night-sydney/`
@@ -832,6 +1039,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Laurie Anderson category page](https://web.archive.org/web/20101031023122/http://www.sarth.net/category/conspirators/laurie-anderson/)
 - [Marc Ribot category page](https://web.archive.org/web/20101030045241/http://www.sarth.net/category/conspirators/marc-ribot/)
 - [A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html)
+
+## [Power and Serenity](/power-and-serenity-for-sale/)
+
+`/power-and-serenity-for-sale/`
+
+- [http://loureed.com/power/](https://web.archive.org/web/2010/http://loureed.com/power/)
+- [Internet Archive’s copy](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
 
 ## [Rumors](/rumors/)
 
@@ -905,6 +1119,21 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Reaktor](https://reaktor.com)
 - [Stone’s](https://www.linkedin.com/posts/michele-stone-8150784_reaktorlive-engineering-data-activity-7074460781097955328-Qtbo)
 - [Fosbery’s](https://www.linkedin.com/posts/ian-fosbery_very-excited-to-be-moderating-this-chat-with-activity-7074777948012105728-AzwC)
+
+## [Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)
+
+`/symbolic-sound-book-of-sarth-review/`
+
+- [Symbolic Sound](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
+- [Internet Archive’s copy](https://web.archive.org/web/20140306214625/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
+
+## [The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)
+
+`/the-book-of-sarth-gizmodo-apps-of-the-week/`
+
+- [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)
+- [Internet Archive’s copy](https://web.archive.org/web/20140306125224/http://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/)
+- [copy of September 27, 2017](https://web.archive.org/web/20170927211510/http://www.sarth.net/rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week)
 
 ## [Transmissions](/transmissions/)
 
@@ -1159,6 +1388,18 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [official Postgres docs for window functions](https://www.postgresql.org/docs/current/tutorial-window.html)
 - [Snowflake documentation](https://docs.snowflake.com/en/user-guide/functions-window-using)
+
+## [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)
+
+`/video-lucibel-crater-elvis-costello-green-shirt/`
+
+- [Internet Archive’s copy](https://web.archive.org/web/20101102064145/http://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/)
+
+## [Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)
+
+`/video-metal-machine-trio-infiltrates-lucibel-crater/`
+
+- [Internet Archive’s copy](https://web.archive.org/web/20101031043559/http://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/)
 
 ## [Work](/work/)
 

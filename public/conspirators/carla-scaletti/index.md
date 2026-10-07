@@ -21,7 +21,7 @@ Carla Scaletti, April 2011. Photo: Kurt Hebel, [CC BY-SA 4.0](https://creativeco
 
 > I am glad to get this shout out from SSC because Kyma was so central to the sound and feel of The Book of Sarth, especially Primary Deforestation [vocal processing] and If I Can [pulse code cello played on continuum fingerboard].
 > 
-> Sarth Calhoun, [sarth.net, November 30, 2012](https://web.archive.org/web/20140906084650/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
+> Sarth Calhoun, [sarth.net, November 30, 2012](/symbolic-sound-book-of-sarth-review/)
 
 ## Kyma
 

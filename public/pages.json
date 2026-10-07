@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 126,
+ "count": 165,
  "pages": [
   {
    "route": "/",
@@ -12,7 +12,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "Dream (33)",
+    "Dream (48)",
     "Message (13)"
    ]
   },
@@ -1604,8 +1604,37 @@
    "headings": [
     "What first-party means here",
     "[Sarth Calhoun](/)",
+    "[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)",
     "[About](/about/)",
+    "[Amazing, amazing, drumming](/amazing-amazing-drumming/)",
     "[Bolted for the Briar Patch](/bolted-for-the-briar-patch/)",
+    "[Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/)",
+    "[Book of Sarth clips](/book-of-sarth-sneak-preview/)",
+    "[Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/)",
+    "[Contraptions](/category/contraptions/)",
+    "[Equipment](/category/equipment/)",
+    "[Intrigue, page 1 of 5](/category/intrigue/)",
+    "[Intrigue, page 2 of 5](/category/intrigue/page/2/)",
+    "[Intrigue, page 3 of 5](/category/intrigue/page/3/)",
+    "[Intrigue, page 4 of 5](/category/intrigue/page/4/)",
+    "[Intrigue, page 5 of 5](/category/intrigue/page/5/)",
+    "[Press Clips](/category/intrigue/press-clips/)",
+    "[Music, page 1 of 2](/category/music/)",
+    "[Clips](/category/music/clips/)",
+    "[Discography](/category/music/discography/)",
+    "[Music, page 2 of 2](/category/music/page/2/)",
+    "[Recordings](/category/music/recordings/)",
+    "[Musings](/category/musings/)",
+    "[Press](/category/press/)",
+    "[Reviews](/category/reviews/)",
+    "[Taiji](/category/taiji/)",
+    "[Uncategorized](/category/uncategorized/)",
+    "[Visuals](/category/visuals/)",
+    "[Photo](/category/visuals/photo/)",
+    "[Video, page 1 of 3](/category/visuals/video/)",
+    "[Video, page 2 of 3](/category/visuals/video/page/2/)",
+    "[Video, page 3 of 3](/category/visuals/video/page/3/)",
+    "[Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)",
     "[Citations](/citations/)",
     "[Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)",
     "[Book of Sarth](/conspiracies/book-of-sarth/)",
@@ -1674,6 +1703,7 @@
     "[Ulrich Krieger](/conspirators/ulrich-krieger/)",
     "[Contact](/contact/)",
     "[Contraptions](/contraptions/)",
+    "[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)",
     "[Ableton Live](/devices/ableton-live/)",
     "[Basses](/devices/basses/)",
     "[Continuum](/devices/continuum/)",
@@ -1686,10 +1716,17 @@
     "[Moog](/devices/moog/)",
     "[Runway](/devices/runway/)",
     "[Yamaha EX5](/devices/yamaha-ex5/)",
+    "[Lucibel Crater Clips](/lucibel-crater-clips/)",
+    "[Lulu](/lulucd/)",
+    "[Video: Lucibel Crater – Masticate](/masicate-video/)",
+    "[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)",
     "[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)",
+    "[Power and Serenity](/power-and-serenity-for-sale/)",
     "[Rumors](/rumors/)",
     "[Sightings](/sightings/)",
     "[Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)",
+    "[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)",
+    "[The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)",
     "[Transmissions](/transmissions/)",
     "[Beautiful Tornado](/transmissions/beautiful-tornado/)",
     "[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)",
@@ -1715,6 +1752,8 @@
     "[Visual Reference Prompting](/transmissions/visual-reference-prompting/)",
     "[Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/)",
     "[Window functions, the mental model](/transmissions/window-functions/)",
+    "[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)",
+    "[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)",
     "[Work](/work/)"
    ]
   },
@@ -1729,6 +1768,28 @@
    "headings": []
   },
   {
+   "route": "/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/",
+   "url": "https://www.sarth.net/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/",
+   "markdown": "https://www.sarth.net/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/index.md",
+   "title": "A Wonderful writeup of The Book of Sarth on The Verge",
+   "description": "A Wonderful writeup of The Book of Sarth on The Verge, a post by Sarth Calhoun first published at this address on sarth.net on January 3, 2013, about Bryan Bishop’s review of The Book of Sarth in The Verge, with its 2015 repost.",
+   "facet": "dream",
+   "published": "2013-01-03",
+   "headings": [
+    "The 2015 version"
+   ]
+  },
+  {
+   "route": "/amazing-amazing-drumming/",
+   "url": "https://www.sarth.net/amazing-amazing-drumming/",
+   "markdown": "https://www.sarth.net/amazing-amazing-drumming/index.md",
+   "title": "Amazing, amazing, drumming",
+   "description": "Amazing, amazing, drumming, a post by Sarth Calhoun first published at this address on sarth.net on July 1, 2013: a link to a drumming video on YouTube that is no longer available.",
+   "facet": "dream",
+   "published": "2013-07-01",
+   "headings": []
+  },
+  {
    "route": "/bolted-for-the-briar-patch/",
    "url": "https://www.sarth.net/bolted-for-the-briar-patch/",
    "markdown": "https://www.sarth.net/bolted-for-the-briar-patch/index.md",
@@ -1736,6 +1797,329 @@
    "description": "Bolted for the Briar Patch, an essay by Sarth Calhoun first published at this address on sarth.net on June 12, 2013: four hours in the deep web, the NSA phone-records order, surveillance, and prison.",
    "facet": "message",
    "published": "2013-06-12",
+   "headings": []
+  },
+  {
+   "route": "/book-of-sarth-in-the-app-store/",
+   "url": "https://www.sarth.net/book-of-sarth-in-the-app-store/",
+   "markdown": "https://www.sarth.net/book-of-sarth-in-the-app-store/index.md",
+   "title": "Book of Sarth in The App Store",
+   "description": "Book of Sarth in The App Store, a post by Sarth Calhoun first published at this address on sarth.net on January 24, 2013: the cover of The Book of Sarth, linking to the app on the App Store.",
+   "facet": "dream",
+   "published": "2013-01-24",
+   "headings": []
+  },
+  {
+   "route": "/book-of-sarth-sneak-preview/",
+   "url": "https://www.sarth.net/book-of-sarth-sneak-preview/",
+   "markdown": "https://www.sarth.net/book-of-sarth-sneak-preview/index.md",
+   "title": "Book of Sarth clips",
+   "description": "Book of Sarth clips, a post by Sarth Calhoun first published at this address on sarth.net on November 10, 2011, sharing For The Door Store, one of the hidden tracks of The Book of Sarth.",
+   "facet": "dream",
+   "published": "2011-11-10",
+   "headings": []
+  },
+  {
+   "route": "/category/conspiracies/sarth-solo-projects/",
+   "url": "https://www.sarth.net/category/conspiracies/sarth-solo-projects/",
+   "markdown": "https://www.sarth.net/category/conspiracies/sarth-solo-projects/index.md",
+   "title": "Sarth Solo Projects",
+   "description": "Sarth Solo Projects, a conspiracy of the WordPress sarth.net (2010 to 2014): The Book of Sarth and the Gralbum, Power and Serenity, Noise Night and Lucibel Crater clips.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/contraptions/",
+   "url": "https://www.sarth.net/category/contraptions/",
+   "markdown": "https://www.sarth.net/category/contraptions/index.md",
+   "title": "Contraptions",
+   "description": "Contraptions, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts on carpentry, Moldover’s Jamboxes, a FireWire scare and The Book of Sarth.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/equipment/",
+   "url": "https://www.sarth.net/category/equipment/",
+   "markdown": "https://www.sarth.net/category/equipment/index.md",
+   "title": "Equipment",
+   "description": "Equipment, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s post on Kyma and the sound of The Book of Sarth.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/intrigue/",
+   "url": "https://www.sarth.net/category/intrigue/",
+   "markdown": "https://www.sarth.net/category/intrigue/index.md",
+   "title": "Intrigue, page 1 of 5",
+   "description": "Intrigue, page 1 of 5, a category of the WordPress sarth.net (2010 to 2014): Gralbum has launched; Book of Sarth in The App Store; A Wonderful writeup of The Book of Sarth on The Verge; The Book of Sarth – Gizmodo Apps of the Week!; Chain D.L.K. – Book of Sarth Review.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/intrigue/page/2/",
+   "url": "https://www.sarth.net/category/intrigue/page/2/",
+   "markdown": "https://www.sarth.net/category/intrigue/page/2/index.md",
+   "title": "Intrigue, page 2 of 5",
+   "description": "Intrigue, page 2 of 5, a category of the WordPress sarth.net (2010 to 2014): Symbolic Sound – Book of Sarth Review; The Book of Sarth in the app store now!; JAMBOXES; Amsterdam Cafe; Metal Machine Trio in 10.1 Ambisonic Installation.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/intrigue/page/3/",
+   "url": "https://www.sarth.net/category/intrigue/page/3/",
+   "markdown": "https://www.sarth.net/category/intrigue/page/3/index.md",
+   "title": "Intrigue, page 3 of 5",
+   "description": "Intrigue, page 3 of 5, a category of the WordPress sarth.net (2010 to 2014): (re) Discovered some old bass playing; Lulu in Cologne; Some pics from Jools Holland and Taratata; Iced Honey on the Jools Holland show; Lulu now officially released.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/intrigue/page/4/",
+   "url": "https://www.sarth.net/category/intrigue/page/4/",
+   "markdown": "https://www.sarth.net/category/intrigue/page/4/index.md",
+   "title": "Intrigue, page 4 of 5",
+   "description": "Intrigue, page 4 of 5, a category of the WordPress sarth.net (2010 to 2014): A quick clip from Carhaix; A couple of photos from hop farm; Power and Serenity; Photos of Noise Night, Sydney; Cool review comparing Creation of The Universe to Metal Machine Music.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/intrigue/page/5/",
+   "url": "https://www.sarth.net/category/intrigue/page/5/",
+   "markdown": "https://www.sarth.net/category/intrigue/page/5/index.md",
+   "title": "Intrigue, page 5 of 5",
+   "description": "Intrigue, page 5 of 5, a category of the WordPress sarth.net (2010 to 2014): mm3 in brussels, video from youtube; Sydney Morning Herald is Bracing for our arrival; MM3 interviewed in Art Rocker.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/intrigue/press-clips/",
+   "url": "https://www.sarth.net/category/intrigue/press-clips/",
+   "markdown": "https://www.sarth.net/category/intrigue/press-clips/index.md",
+   "title": "Press Clips",
+   "description": "Press Clips, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts about press for The Book of Sarth and the Metal Machine Trio.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/music/",
+   "url": "https://www.sarth.net/category/music/",
+   "markdown": "https://www.sarth.net/category/music/index.md",
+   "title": "Music, page 1 of 2",
+   "description": "Music, page 1 of 2, a category of the WordPress sarth.net (2010 to 2014): Amazing, amazing, drumming; Book of Sarth clips; Lulu; Power and Serenity; Metal Machine Trio “The Creation of the Universe”.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/music/clips/",
+   "url": "https://www.sarth.net/category/music/clips/",
+   "markdown": "https://www.sarth.net/category/music/clips/index.md",
+   "title": "Clips",
+   "description": "Clips, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts sharing audio clips from The Book of Sarth and Lucibel Crater.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/music/recordings/",
+   "url": "https://www.sarth.net/category/music/recordings/",
+   "markdown": "https://www.sarth.net/category/music/recordings/index.md",
+   "title": "Recordings",
+   "description": "Recordings, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s post sharing a hidden track from The Book of Sarth.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/music/discography/",
+   "url": "https://www.sarth.net/category/music/discography/",
+   "markdown": "https://www.sarth.net/category/music/discography/index.md",
+   "title": "Discography",
+   "description": "Discography, a category of the WordPress sarth.net (2010 to 2014): Lulu, Power and Serenity, The Creation of the Universe, The Family Album and Suspension.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/music/page/2/",
+   "url": "https://www.sarth.net/category/music/page/2/",
+   "markdown": "https://www.sarth.net/category/music/page/2/index.md",
+   "title": "Music, page 2 of 2",
+   "description": "Music, page 2 of 2, a category of the WordPress sarth.net (2010 to 2014): Lucibel Crater : The Family Album; Sarth Clips; Number19 – Suspension.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/musings/",
+   "url": "https://www.sarth.net/category/musings/",
+   "markdown": "https://www.sarth.net/category/musings/index.md",
+   "title": "Musings",
+   "description": "Musings, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s essays and notes from 2013, including Bolted for the Briar Patch.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/press/",
+   "url": "https://www.sarth.net/category/press/",
+   "markdown": "https://www.sarth.net/category/press/index.md",
+   "title": "Press",
+   "description": "Press, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts about reviews of The Book of Sarth in The Verge, Gizmodo, Chain D.L.K. and Symbolic Sound.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/reviews/",
+   "url": "https://www.sarth.net/category/reviews/",
+   "markdown": "https://www.sarth.net/category/reviews/index.md",
+   "title": "Reviews",
+   "description": "Reviews, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts about reviews of The Book of Sarth, and about Lou Reed’s “Return to Darkness”.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/taiji/",
+   "url": "https://www.sarth.net/category/taiji/",
+   "markdown": "https://www.sarth.net/category/taiji/index.md",
+   "title": "Taiji",
+   "description": "Taiji, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s tai chi posts, the Power and Serenity meditation music with Lou Reed and clips of the 21 form.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/uncategorized/",
+   "url": "https://www.sarth.net/category/uncategorized/",
+   "markdown": "https://www.sarth.net/category/uncategorized/index.md",
+   "title": "Uncategorized",
+   "description": "Uncategorized, a category of the WordPress sarth.net (2010 to 2014): Book of Sarth in The App Store, and clips of the tai chi 21 form.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/visuals/",
+   "url": "https://www.sarth.net/category/visuals/",
+   "markdown": "https://www.sarth.net/category/visuals/index.md",
+   "title": "Visuals",
+   "description": "Visuals, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s photo and video posts, with Lucibel Crater, the Metal Machine Trio, Lulu and Lou Reed.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "[Photo](/category/visuals/photo/)",
+    "[Video](/category/visuals/video/)"
+   ]
+  },
+  {
+   "route": "/category/visuals/photo/",
+   "url": "https://www.sarth.net/category/visuals/photo/",
+   "markdown": "https://www.sarth.net/category/visuals/photo/index.md",
+   "title": "Photo",
+   "description": "Photo, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s photo posts, from Noise Night in Sydney to Lulu on Later… with Jools Holland.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/visuals/video/",
+   "url": "https://www.sarth.net/category/visuals/video/",
+   "markdown": "https://www.sarth.net/category/visuals/video/index.md",
+   "title": "Video, page 1 of 3",
+   "description": "Video, page 1 of 3, a category of the WordPress sarth.net (2010 to 2014): Amazing, amazing, drumming; Some clips of the 21 form; Lulu in Cologne; Iced Honey on the Jools Holland show; A quick clip from Carhaix.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/visuals/video/page/2/",
+   "url": "https://www.sarth.net/category/visuals/video/page/2/",
+   "markdown": "https://www.sarth.net/category/visuals/video/page/2/index.md",
+   "title": "Video, page 2 of 3",
+   "description": "Video, page 2 of 3, a category of the WordPress sarth.net (2010 to 2014): mm3 in brussels, video from youtube; Video: Metal Machine Trio infiltrates Lucibel Crater; Video: Lucibel Crater – Noise I Groove – Blue Stationwagon; Video: Lucibel Crater – Elvis Costello – Green Shirt; Video: Exactly Where You Are.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/visuals/video/page/3/",
+   "url": "https://www.sarth.net/category/visuals/video/page/3/",
+   "markdown": "https://www.sarth.net/category/visuals/video/page/3/index.md",
+   "title": "Video, page 3 of 3",
+   "description": "Video, page 3 of 3, a category of the WordPress sarth.net (2010 to 2014): Video: Could I; Video: Lucibel Crater – Masticate.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/chain-d-l-k-book-of-sarth-review/",
+   "url": "https://www.sarth.net/chain-d-l-k-book-of-sarth-review/",
+   "markdown": "https://www.sarth.net/chain-d-l-k-book-of-sarth-review/index.md",
+   "title": "Chain D.L.K. – Book of Sarth Review",
+   "description": "Chain D.L.K. – Book of Sarth Review, a post by Sarth Calhoun first published at this address on sarth.net on December 20, 2012, about Marc Urselli’s review of The Book of Sarth for Chain D.L.K.",
+   "facet": "dream",
+   "published": "2012-12-20",
+   "headings": []
+  },
+  {
+   "route": "/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/",
+   "url": "https://www.sarth.net/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/",
+   "markdown": "https://www.sarth.net/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/index.md",
+   "title": "Cool review comparing Creation of The Universe to Metal Machine Music",
+   "description": "Cool review comparing Creation of The Universe to Metal Machine Music, a post by Sarth Calhoun first published at this address on sarth.net on July 7, 2010, during the Metal Machine Trio’s 2010 tour.",
+   "facet": "dream",
+   "published": "2010-07-07",
+   "headings": []
+  },
+  {
+   "route": "/lucibel-crater-clips/",
+   "url": "https://www.sarth.net/lucibel-crater-clips/",
+   "markdown": "https://www.sarth.net/lucibel-crater-clips/index.md",
+   "title": "Lucibel Crater Clips",
+   "description": "Lucibel Crater Clips, a post by Sarth Calhoun first published at this address on sarth.net on February 27, 2010: two live Lucibel Crater recordings, from Forlì in 2009 and Brooklyn in 2008.",
+   "facet": "dream",
+   "published": "2010-02-27",
+   "headings": []
+  },
+  {
+   "route": "/lulucd/",
+   "url": "https://www.sarth.net/lulucd/",
+   "markdown": "https://www.sarth.net/lulucd/index.md",
+   "title": "Lulu",
+   "description": "Lulu, a discography post by Sarth Calhoun first published at this address on sarth.net on November 6, 2011, about the Lou Reed and Metallica double album, on which he played every track.",
+   "facet": "dream",
+   "published": "2011-11-06",
+   "headings": []
+  },
+  {
+   "route": "/masicate-video/",
+   "url": "https://www.sarth.net/masicate-video/",
+   "markdown": "https://www.sarth.net/masicate-video/index.md",
+   "title": "Video: Lucibel Crater – Masticate",
+   "description": "Video: Lucibel Crater – Masticate, a video post by Sarth Calhoun first published at this address on sarth.net on March 11, 2010.",
+   "facet": "dream",
+   "published": "2010-03-11",
+   "headings": []
+  },
+  {
+   "route": "/mm3-interviewed-in-art-rocker/",
+   "url": "https://www.sarth.net/mm3-interviewed-in-art-rocker/",
+   "markdown": "https://www.sarth.net/mm3-interviewed-in-art-rocker/index.md",
+   "title": "MM3 interviewed in Art Rocker",
+   "description": "MM3 interviewed in Art Rocker, a post by Sarth Calhoun first published at this address on sarth.net on April 21, 2010, about Art Rocker’s interview with the Metal Machine Trio before its 2010 tour.",
+   "facet": "dream",
+   "published": "2010-04-21",
    "headings": []
   },
   {
@@ -1752,6 +2136,16 @@
    ]
   },
   {
+   "route": "/power-and-serenity-for-sale/",
+   "url": "https://www.sarth.net/power-and-serenity-for-sale/",
+   "markdown": "https://www.sarth.net/power-and-serenity-for-sale/index.md",
+   "title": "Power and Serenity",
+   "description": "Power and Serenity, a post by Sarth Calhoun first published at this address on sarth.net on July 21, 2010, when Lou Reed put their tai chi meditation music up for sale: the first thing they worked on together.",
+   "facet": "dream",
+   "published": "2010-07-21",
+   "headings": []
+  },
+  {
    "route": "/search/",
    "url": "https://www.sarth.net/search/",
    "markdown": "https://www.sarth.net/search/index.md",
@@ -1762,6 +2156,48 @@
    "headings": [
     "Reading it another way"
    ]
+  },
+  {
+   "route": "/symbolic-sound-book-of-sarth-review/",
+   "url": "https://www.sarth.net/symbolic-sound-book-of-sarth-review/",
+   "markdown": "https://www.sarth.net/symbolic-sound-book-of-sarth-review/index.md",
+   "title": "Symbolic Sound – Book of Sarth Review",
+   "description": "Symbolic Sound – Book of Sarth Review, a post by Sarth Calhoun first published at this address on sarth.net on November 30, 2012, about Symbolic Sound’s review of The Book of Sarth and the Kyma sounds in it.",
+   "facet": "dream",
+   "published": "2012-11-30",
+   "headings": []
+  },
+  {
+   "route": "/the-book-of-sarth-gizmodo-apps-of-the-week/",
+   "url": "https://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/",
+   "markdown": "https://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/index.md",
+   "title": "The Book of Sarth – Gizmodo Apps of the Week!",
+   "description": "The Book of Sarth – Gizmodo Apps of the Week!, a post by Sarth Calhoun first published at this address on sarth.net on December 22, 2012, about The Book of Sarth in Gizmodo’s Apps of the Week, with its 2015 repost.",
+   "facet": "dream",
+   "published": "2012-12-22",
+   "headings": [
+    "The 2015 version"
+   ]
+  },
+  {
+   "route": "/video-lucibel-crater-elvis-costello-green-shirt/",
+   "url": "https://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/",
+   "markdown": "https://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/index.md",
+   "title": "Video: Lucibel Crater – Elvis Costello – Green Shirt",
+   "description": "Video: Lucibel Crater – Elvis Costello – Green Shirt, a video post by Sarth Calhoun first published at this address on sarth.net on March 22, 2010: Lucibel Crater playing Elvis Costello’s Green Shirt.",
+   "facet": "dream",
+   "published": "2010-03-22",
+   "headings": []
+  },
+  {
+   "route": "/video-metal-machine-trio-infiltrates-lucibel-crater/",
+   "url": "https://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/",
+   "markdown": "https://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/index.md",
+   "title": "Video: Metal Machine Trio infiltrates Lucibel Crater",
+   "description": "Video: Metal Machine Trio infiltrates Lucibel Crater, a video post by Sarth Calhoun first published at this address on sarth.net on March 22, 2010.",
+   "facet": "dream",
+   "published": "2010-03-22",
+   "headings": []
   }
  ]
 }

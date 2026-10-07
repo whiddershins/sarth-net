@@ -18,15 +18,19 @@ export async function directoryTarget(target, request, env) {
   if (!env || !env.ASSETS) return target;
   let probe;
   try {
-    probe = await env.ASSETS.fetch(new Request(CANONICAL_ORIGIN + path, { method: "HEAD" }));
+    // redirect: "manual", or the binding follows the 307 itself and answers 200.
+    probe = await env.ASSETS.fetch(new Request(CANONICAL_ORIGIN + path, { method: "HEAD", redirect: "manual" }));
   } catch {
     return target;
   }
-  if (!REDIRECT_STATUSES.has(probe.status)) return target;
-  const location = probe.headers.get("location");
-  if (!location) return target;
-  const next = new URL(location, CANONICAL_ORIGIN + path);
-  if (next.pathname !== path + "/") return target;
+  let next = null;
+  if (REDIRECT_STATUSES.has(probe.status)) {
+    const location = probe.headers.get("location");
+    if (location) next = new URL(location, CANONICAL_ORIGIN + path);
+  } else if (probe.redirected && probe.url) {
+    next = new URL(probe.url);
+  }
+  if (!next || next.pathname !== path + "/") return target;
   return CANONICAL_ORIGIN + next.pathname + url.search;
 }
 

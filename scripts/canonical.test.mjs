@@ -206,7 +206,11 @@ function slashingAssets(directories) {
           seen.push(request);
           const path = new URL(request.url).pathname;
           if (directories.includes(path)) {
-            return new Response(null, { status: 307, headers: { location: path + "/" } });
+            // Like the real binding: follow the 307 unless the request says manual.
+            if (request.redirect === "manual") {
+              return new Response(null, { status: 307, headers: { location: path + "/" } });
+            }
+            return { status: 200, redirected: true, url: new URL(path + "/", request.url).href, headers: new Headers() };
           }
           return new Response("ok", { status: 200 });
         },
@@ -231,6 +235,20 @@ test("the host redirect adds a directory's trailing slash in the same hop", asyn
   assert.equal(res.headers.get("location"), "https://www.sarth.net/about/?x=1");
   res = await worker.fetch(new Request("http://www.sarth.net/conspiracies/lulu", { headers: { host: "www.sarth.net" } }), env);
   assert.equal(res.headers.get("location"), "https://www.sarth.net/conspiracies/lulu/");
+});
+
+test("the slash probe asks the assets not to follow their own 307", async () => {
+  const { seen, env } = slashingAssets(["/about"]);
+  await worker.fetch(new Request("https://sarth.net/about", { headers: { host: "sarth.net" } }), env);
+  assert.equal(seen.length, 1);
+  assert.equal(seen[0].method, "HEAD");
+  assert.equal(seen[0].redirect, "manual");
+});
+
+test("the host redirect still adds the slash if the probe was followed", async () => {
+  const env = { ASSETS: { fetch: (request) => ({ status: 200, redirected: true, url: new URL("/about/", request.url).href, headers: new Headers() }) } };
+  const res = await worker.fetch(new Request("https://sarth.net/about?q=2", { headers: { host: "sarth.net" } }), env);
+  assert.equal(res.headers.get("location"), "https://www.sarth.net/about/?q=2");
 });
 
 test("the host redirect keeps the path when the assets serve it as is", async () => {

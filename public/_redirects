@@ -151,9 +151,9 @@
 /category/shows/ /sightings/ 200
 
 # The WordPress feed addresses are answered by the Worker (src/feeds.js).
+# This site's own renames.
+/conspirators/elik-smith /conspirators/alex-wyly/ 200
+/conspirators/elik-smith/ /conspirators/alex-wyly/ 200
 
-# Not yet converted.
-/me-time-score / 301
-/me-time-score/ / 301
-/sarth/* / 301
-/conspirators/elik-smith/ /conspirators/alex-wyly/ 301
+# Browsers and old crawlers ask for /favicon.ico.
+/favicon.ico /favicon.png 200

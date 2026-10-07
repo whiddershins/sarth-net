@@ -1062,6 +1062,28 @@ def load_redirects():
     return rules
 
 
+def redirects_problems(rules=None):
+    """Old addresses are never redirected (Sarth, 7 Oct 2026: long-lived URLs are worth
+    keeping). Every _redirects rule is a 200 rewrite of one address to a page that exists,
+    and none shadows a page of its own. The Worker's host and protocol 301 is the only
+    redirect on the site."""
+    problems = []
+    for source, dest, code in load_redirects() if rules is None else rules:
+        rule = f"public/_redirects: {source} {dest} {code}"
+        if code != 200:
+            problems.append(f"{rule} is a {code}; serve the old address with a 200 rewrite to its page instead")
+            continue
+        if "*" in source or ":" in source:
+            problems.append(f"{rule} is a splat; give each old address its own rule and page")
+        if "://" in dest or dest.startswith("//"):
+            problems.append(f"{rule} points off the site; a rewrite must serve a page here")
+        elif not redirect_target_ok(dest):
+            problems.append(f"{rule}: the target does not exist")
+        if source.endswith("/") and static_ok(source):
+            problems.append(f"{rule} hides the page at {source}; redirects win over files, so delete the rule")
+    return problems
+
+
 def match_redirect(path, rules):
     """First matching rule. A source ending in * is a prefix splat."""
     for source, dest, code in rules:
@@ -1560,7 +1582,7 @@ def build(mode):
         sys.exit(1)
 
     stale = [p for p, t in outputs if not p.exists() or p.read_text() != t]
-    problems = check_links(pages) + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems + headers_problems() + podcast_feed_problems(podcast)
+    problems = check_links(pages) + redirects_problems() + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems + headers_problems() + podcast_feed_problems(podcast)
     if mode == "check":
         for p in stale:
             print(f"stale: {p.relative_to(ROOT)}")

@@ -1,5 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
+import { readFileSync } from "node:fs";
 import { canonicalRedirect } from "../src/canonical.js";
 import { feedRewrite } from "../src/feeds.js";
 import worker, { directoryTarget } from "../src/index.js";
@@ -261,4 +262,19 @@ test("a slash probe that fails or points elsewhere leaves the target alone", asy
   );
   const post = new Request("https://sarth.net/about", { method: "POST" });
   assert.equal(await directoryTarget("https://www.sarth.net/about", post, elsewhere), "https://www.sarth.net/about");
+});
+
+test("every _redirects rule is a 200 rewrite to a page here, never a redirect", () => {
+  const text = readFileSync(new URL("../public/_redirects", import.meta.url), "utf8");
+  const rules = text
+    .split("\n")
+    .map((line) => line.trim())
+    .filter((line) => line && !line.startsWith("#"))
+    .map((line) => line.split(/\s+/));
+  assert.ok(rules.length > 0);
+  for (const [from, to, code] of rules) {
+    assert.equal(code, "200", `${from} -> ${to} is a ${code}`);
+    assert.ok(to.startsWith("/") && !to.startsWith("//"), `${from} -> ${to} leaves the site`);
+    assert.ok(!from.includes("*") && !from.includes(":"), `${from} is a splat`);
+  }
 });

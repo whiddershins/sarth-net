@@ -188,6 +188,7 @@ captions, labels and data, with the first one on each page. About and Citations 
 - https://www.sarth.net/lucibel-crater-clips/ (1): Posted on sarth.net at this address on February 27, 2010, and reproduced here as written, from the Internet Archive’s co
 - https://www.sarth.net/photos-of-noise-night-sydney/ (1): Filed under: Intrigue, Laurie Anderson, Lou Reed, Marc Ribot, Metal Machine Trio, Sarth Solo Projects, photo.
 - https://www.sarth.net/power-and-serenity-for-sale/ (1): Conspiracy: Sarth Solo Projects
+- https://www.sarth.net/transmissions/beautiful-tornado/rich-navs-positivity-mission/ (1): Songwriter, poet, firefighter, transatlantic sailor, dad… Richard Naviasky @the1nav does a LOT of stuff and then sings e
 
 ## Attribution
 
@@ -290,4 +291,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 22 machine · 48 dream · 13 message
+- 23 machine · 49 dream · 15 message

@@ -37,7 +37,7 @@ Cover, *Beautiful Tornado*.
 
   [YouTube](https://www.youtube.com/watch?v=MkGrvP7A1dA)
 
-- **4. Richard Naviasky’s Positivity Mission.** Songwriter, poet, firefighter, transatlantic sailor, dad. Rich Nav on round bottoms, why music’s better than art, and crapping off the side of boats. November 17, 2020. 42 min.
+- **[4. Richard Naviasky’s Positivity Mission.](/transmissions/beautiful-tornado/rich-navs-positivity-mission/)** Songwriter, poet, firefighter, transatlantic sailor, dad. Rich Nav on round bottoms, why music’s better than art, and crapping off the side of boats. November 17, 2020. 42 min.
 
   [YouTube](https://www.youtube.com/watch?v=GxIDY9XvvaA)
 
@@ -45,7 +45,7 @@ Cover, *Beautiful Tornado*.
 
   [YouTube](https://www.youtube.com/watch?v=SkvCEhxo4-g)
 
-- **6. The Re-Enchantment of the World.** With Michael Patrick Flanagan Smith, singer-songwriter, playwright and novelist, from New York to Kentucky via a North Dakota oil town, with covid-era songs performed live. February 15, 2021. 2 h 26 min.
+- **[6. The Re-Enchantment of the World.](/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/)** With Michael Patrick Flanagan Smith, singer-songwriter, playwright and novelist, from New York to Kentucky via a North Dakota oil town, with covid-era songs performed live. February 15, 2021. 2 h 26 min.
 
   [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho)
 

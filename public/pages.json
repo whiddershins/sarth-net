@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 165,
+ "count": 171,
  "pages": [
   {
    "route": "/",
@@ -12,8 +12,8 @@
    "facet": null,
    "published": null,
    "headings": [
-    "Dream (48)",
-    "Message (13)"
+    "Dream (49)",
+    "Message (15)"
    ]
   },
   {
@@ -1216,6 +1216,26 @@
    ]
   },
   {
+   "route": "/transmissions/beautiful-tornado/rich-navs-positivity-mission/",
+   "url": "https://www.sarth.net/transmissions/beautiful-tornado/rich-navs-positivity-mission/",
+   "markdown": "https://www.sarth.net/transmissions/beautiful-tornado/rich-navs-positivity-mission/index.md",
+   "title": "Rich Nav's Positivity Mission",
+   "description": "Rich Nav's Positivity Mission, episode 4 of Beautiful Tornado, the podcast by Sarth Calhoun and Dom Bouffard, first published on sarth.net on November 17, 2020: songwriter, poet and firefighter Richard Naviasky.",
+   "facet": "message",
+   "published": "2020-11-17",
+   "headings": []
+  },
+  {
+   "route": "/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/",
+   "url": "https://www.sarth.net/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/",
+   "markdown": "https://www.sarth.net/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/index.md",
+   "title": "The Re-Enchantment of the World - Michael Patrick F. Smith",
+   "description": "The Re-Enchantment of the World, episode 6 of Beautiful Tornado, the podcast by Sarth Calhoun and Dom Bouffard, first published on sarth.net on February 15, 2021: Michael Patrick Flanagan Smith, with covid-era songs performed live.",
+   "facet": "message",
+   "published": "2021-02-15",
+   "headings": []
+  },
+  {
    "route": "/transmissions/transmissions-from-the-book-of-sarth/",
    "url": "https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/",
    "markdown": "https://www.sarth.net/transmissions/transmissions-from-the-book-of-sarth/index.md",
@@ -1375,6 +1395,26 @@
    "description": "How the melody of Awakening (To Blacklist) came out of a recording of 60 cycle hum: a frequency shifter on the Spacebirds preset, wet/dry automation, and a happy accident with two frozen drum tracks. With the audio examples. By Sarth Calhoun, November 21, 2020.",
    "facet": "message",
    "published": "2020-11-21",
+   "headings": []
+  },
+  {
+   "route": "/transmissions/elementary-audio-day-1/",
+   "url": "https://www.sarth.net/transmissions/elementary-audio-day-1/",
+   "markdown": "https://www.sarth.net/transmissions/elementary-audio-day-1/index.md",
+   "title": "Elementary Audio, Day 1",
+   "description": "Elementary Audio, Day 1, a post by Sarth Calhoun first published on sarth.net on April 18, 2022: a first day with the Elementary Audio JavaScript library, and why there was no sound.",
+   "facet": "machine",
+   "published": "2022-04-18",
+   "headings": []
+  },
+  {
+   "route": "/transmissions/train-o-thots-at-the-new-york-transit-museum/",
+   "url": "https://www.sarth.net/transmissions/train-o-thots-at-the-new-york-transit-museum/",
+   "markdown": "https://www.sarth.net/transmissions/train-o-thots-at-the-new-york-transit-museum/index.md",
+   "title": "Train O' Thots at the New York Transit Museum!",
+   "description": "Train O' Thots at the New York Transit Museum!, a post by Sarth Calhoun first published on sarth.net on March 28, 2015, announcing the Gralbum Collective’s Train O' Thots app launch on April 1, 2015.",
+   "facet": "dream",
+   "published": "2015-03-28",
    "headings": []
   },
   {
@@ -1716,6 +1756,7 @@
     "[Moog](/devices/moog/)",
     "[Runway](/devices/runway/)",
     "[Yamaha EX5](/devices/yamaha-ex5/)",
+    "[Intrigue, the Squarespace news page](/intrigue/)",
     "[Lucibel Crater Clips](/lucibel-crater-clips/)",
     "[Lulu](/lulucd/)",
     "[Video: Lucibel Crater – Masticate](/masicate-video/)",
@@ -1729,7 +1770,10 @@
     "[The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)",
     "[Transmissions](/transmissions/)",
     "[Beautiful Tornado](/transmissions/beautiful-tornado/)",
+    "[Rich Nav's Positivity Mission](/transmissions/beautiful-tornado/rich-navs-positivity-mission/)",
+    "[The Re-Enchantment of the World - Michael Patrick F. Smith](/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/)",
     "[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)",
+    "[Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/)",
     "[External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/)",
     "[Building on external tables](/transmissions/external-tables/building-on-external-tables/)",
     "[Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/)",
@@ -1748,12 +1792,14 @@
     "[The Creation of the Universe](/transmissions/the-creation-of-the-universe/)",
     "[The Family Album](/transmissions/the-family-album/)",
     "[Through the Brambles](/transmissions/through-the-brambles/)",
+    "[Train O' Thots at the New York Transit Museum!](/transmissions/train-o-thots-at-the-new-york-transit-museum/)",
     "[Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/)",
     "[Visual Reference Prompting](/transmissions/visual-reference-prompting/)",
     "[Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/)",
     "[Window functions, the mental model](/transmissions/window-functions/)",
     "[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)",
     "[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)",
+    "[The transmissions have begun . . .](/words/)",
     "[Work](/work/)"
    ]
   },
@@ -2083,6 +2129,19 @@
    "headings": []
   },
   {
+   "route": "/intrigue/",
+   "url": "https://www.sarth.net/intrigue/",
+   "markdown": "https://www.sarth.net/intrigue/index.md",
+   "title": "Intrigue, the Squarespace news page",
+   "description": "Intrigue, the news page of the Squarespace sarth.net (2015 to 2026): Sarth Calhoun’s Rumors posts, from The Book of Sarth in The Verge to Elementary Audio, Day 1, and the conspiracies column.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "Rumors",
+    "Conspiracies"
+   ]
+  },
+  {
    "route": "/lucibel-crater-clips/",
    "url": "https://www.sarth.net/lucibel-crater-clips/",
    "markdown": "https://www.sarth.net/lucibel-crater-clips/index.md",
@@ -2197,6 +2256,16 @@
    "description": "Video: Metal Machine Trio infiltrates Lucibel Crater, a video post by Sarth Calhoun first published at this address on sarth.net on March 22, 2010.",
    "facet": "dream",
    "published": "2010-03-22",
+   "headings": []
+  },
+  {
+   "route": "/words/",
+   "url": "https://www.sarth.net/words/",
+   "markdown": "https://www.sarth.net/words/index.md",
+   "title": "The transmissions have begun . . .",
+   "description": "The transmissions have begun . . ., the blog of the Squarespace sarth.net (2015 to 2026): Visual Reference Prompting, About Awakening (To Blacklist), I Just Believe in Christmas and Bolted for the Briar Patch.",
+   "facet": null,
+   "published": null,
    "headings": []
   }
  ]

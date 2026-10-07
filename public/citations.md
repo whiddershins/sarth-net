@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (648 total)
+## Citations by page (661 total)
 
 ### Sarth Calhoun
 `/`
@@ -918,6 +918,12 @@ every page.
 
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 
+### Intrigue, the Squarespace news page
+`/intrigue/`
+
+- [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/intrigue)
+- [April 13, 2016](https://web.archive.org/web/20160413203255/http://www.sarth.net/intrigue)
+
 ### Lucibel Crater Clips
 `/lucibel-crater-clips/`
 
@@ -1072,11 +1078,29 @@ every page.
 - [YouTube](https://www.youtube.com/watch?v=SkvCEhxo4-g)
 - [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho)
 
+### Rich Nav's Positivity Mission
+`/transmissions/beautiful-tornado/rich-navs-positivity-mission/`
+
+- [YouTube](https://www.youtube.com/watch?v=GxIDY9XvvaA)
+- [Internet Archive’s copy](https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission)
+
+### The Re-Enchantment of the World - Michael Patrick F. Smith
+`/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/`
+
+- [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho)
+- [Internet Archive’s copy](https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith)
+
 ### DuckDB, where have you been all my life
 `/transmissions/duckdb-where-have-you-been-all-my-life/`
 
 - [DuckDB](https://duckdb.org/)
 - [set up credentials](https://duckdb.org/docs/current/core_extensions/httpfs/s3api)
+
+### Elementary Audio, Day 1
+`/transmissions/elementary-audio-day-1/`
+
+- [Elementary Audio JS Library.](https://www.elementary.audio)
+- [Internet Archive’s copy](https://web.archive.org/web/20260825201458/http://www.sarth.net/rumors/2022/4/18/elementary-audio-day-1)
 
 ### External Tables, Partitions, CTEs, Window Functions, and Partitions
 `/transmissions/external-tables/`
@@ -1237,6 +1261,13 @@ every page.
 
 - [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles)
 
+### Train O' Thots at the New York Transit Museum!
+`/transmissions/train-o-thots-at-the-new-york-transit-museum/`
+
+- [http://gralbumcollective.com/titles.html](https://web.archive.org/web/2015/http://gralbumcollective.com/titles.html)
+- [https://www.facebook.com/events/372887502897490/](https://www.facebook.com/events/372887502897490/)
+- [Internet Archive’s copy](https://web.archive.org/web/20170927214728/http://www.sarth.net/rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum)
+
 ### Transmissions from the Book of Sarth
 `/transmissions/transmissions-from-the-book-of-sarth/`
 
@@ -1272,6 +1303,12 @@ every page.
 `/video-metal-machine-trio-infiltrates-lucibel-crater/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101031043559/http://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/)
+
+### The transmissions have begun . . .
+`/words/`
+
+- [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/words/)
+- [April 13, 2016](https://web.archive.org/web/20160413141315/http://www.sarth.net/words/)
 
 ### Work
 `/work/`

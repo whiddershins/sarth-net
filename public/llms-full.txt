@@ -86,7 +86,7 @@ Machine-readable companions:
 
 ## Pages
 
-165 pages follow, in reading order, separated by a horizontal rule.
+171 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -115,17 +115,17 @@ I also write about data engineering: [an append-only pipeline on external tables
 
 Burlap. Download at [burlap.app](https://burlap.app/download).
 
-### Machine (22)
+### Machine (23)
 
-[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [Moog Guitar](/devices/moog-guitar/) · [Electrix Filter Queen](/devices/electrix-filter-queen/) · [Electrix Filter Factory](/devices/electrix-filter-factory/) · [Electrix Mo-FX](/devices/electrix-mo-fx/) · [DaVinci Resolve](/devices/davinci-resolve/)
+[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [Moog Guitar](/devices/moog-guitar/) · [Electrix Filter Queen](/devices/electrix-filter-queen/) · [Electrix Filter Factory](/devices/electrix-filter-factory/) · [Electrix Mo-FX](/devices/electrix-mo-fx/) · [DaVinci Resolve](/devices/davinci-resolve/)
 
-### Dream (48)
+### Dream (49)
 
-[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Power and Serenity](/conspiracies/power-and-serenity/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [I Before E](/transmissions/i-before-e/) · [Through the Brambles](/transmissions/through-the-brambles/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/) · [A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/) · [Amazing, amazing, drumming](/amazing-amazing-drumming/) · [Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/) · [Book of Sarth clips](/book-of-sarth-sneak-preview/) · [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/) · [Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/) · [Lucibel Crater Clips](/lucibel-crater-clips/) · [Lulu](/lulucd/) · [Video: Lucibel Crater – Masticate](/masicate-video/) · [MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/) · [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/) · [Power and Serenity](/power-and-serenity-for-sale/) · [Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/) · [The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/) · [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/) · [Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)
+[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Power and Serenity](/conspiracies/power-and-serenity/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [I Before E](/transmissions/i-before-e/) · [Through the Brambles](/transmissions/through-the-brambles/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/) · [Train O' Thots at the New York Transit Museum!](/transmissions/train-o-thots-at-the-new-york-transit-museum/) · [A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/) · [Amazing, amazing, drumming](/amazing-amazing-drumming/) · [Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/) · [Book of Sarth clips](/book-of-sarth-sneak-preview/) · [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/) · [Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/) · [Lucibel Crater Clips](/lucibel-crater-clips/) · [Lulu](/lulucd/) · [Video: Lucibel Crater – Masticate](/masicate-video/) · [MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/) · [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/) · [Power and Serenity](/power-and-serenity-for-sale/) · [Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/) · [The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/) · [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/) · [Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)
 
-### Message (13)
+### Message (15)
 
-[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) · [Window functions, the mental model](/transmissions/window-functions/) · [SQL as the data language](/transmissions/sql-as-the-data-language/) · [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · [Modern Postgres is shockingly capable](/transmissions/modern-postgres/) · [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/) · [Somersaulting Down the Slippery Slope](/transmissions/somersaulting-down-the-slippery-slope/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · [Beautiful Tornado](/transmissions/beautiful-tornado/) · [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/) · [Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/) · [Bolted for the Briar Patch](/bolted-for-the-briar-patch/)
+[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) · [Window functions, the mental model](/transmissions/window-functions/) · [SQL as the data language](/transmissions/sql-as-the-data-language/) · [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · [Modern Postgres is shockingly capable](/transmissions/modern-postgres/) · [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/) · [Somersaulting Down the Slippery Slope](/transmissions/somersaulting-down-the-slippery-slope/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · [Beautiful Tornado](/transmissions/beautiful-tornado/) · [Rich Nav's Positivity Mission](/transmissions/beautiful-tornado/rich-navs-positivity-mission/) · [The Re-Enchantment of the World - Michael Patrick F. Smith](/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/) · [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/) · [Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/) · [Bolted for the Briar Patch](/bolted-for-the-briar-patch/)
 
 Earlier
 
@@ -4425,7 +4425,7 @@ Cover, *Beautiful Tornado*.
 
   [YouTube](https://www.youtube.com/watch?v=MkGrvP7A1dA)
 
-- **4. Richard Naviasky’s Positivity Mission.** Songwriter, poet, firefighter, transatlantic sailor, dad. Rich Nav on round bottoms, why music’s better than art, and crapping off the side of boats. November 17, 2020. 42 min.
+- **[4. Richard Naviasky’s Positivity Mission.](/transmissions/beautiful-tornado/rich-navs-positivity-mission/)** Songwriter, poet, firefighter, transatlantic sailor, dad. Rich Nav on round bottoms, why music’s better than art, and crapping off the side of boats. November 17, 2020. 42 min.
 
   [YouTube](https://www.youtube.com/watch?v=GxIDY9XvvaA)
 
@@ -4433,7 +4433,7 @@ Cover, *Beautiful Tornado*.
 
   [YouTube](https://www.youtube.com/watch?v=SkvCEhxo4-g)
 
-- **6. The Re-Enchantment of the World.** With Michael Patrick Flanagan Smith, singer-songwriter, playwright and novelist, from New York to Kentucky via a North Dakota oil town, with covid-era songs performed live. February 15, 2021. 2 h 26 min.
+- **[6. The Re-Enchantment of the World.](/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/)** With Michael Patrick Flanagan Smith, singer-songwriter, playwright and novelist, from New York to Kentucky via a North Dakota oil town, with covid-era songs performed live. February 15, 2021. 2 h 26 min.
 
   [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho)
 
@@ -4448,6 +4448,52 @@ The credit: *Beautiful Tornado* was made by Sarth Calhoun and Dom Bouffard: six 
 The YouTube banner.
 
 Episode list and lengths from the YouTube playlist; dates from the podcast feeds where they carry them. The description is the show’s own.
+
+---
+
+# Rich Nav's Positivity Mission
+
+https://www.sarth.net/transmissions/beautiful-tornado/rich-navs-positivity-mission/
+
+Nov 17, 2020 · Message
+
+# Rich Nav's Positivity Mission
+
+Episode 4 of the Beautiful Tornado podcast features Rich Nav and his Positivity Mission.
+
+Songwriter, poet, firefighter, transatlantic sailor, dad… Richard Naviasky @the1nav does a LOT of stuff and then sings enchanting songs about it… Sarth and Dom get him to take time out from his #positivity mission and talk about round bottoms, why music’s better than art, and crapping off the side of boats…
+
+[Listen](https://media.sarth.net/beautiful-tornado/episode-4-rich-navs-positivity-mission.mp3)
+
+Beautiful Tornado Episode 4 - Rich Nav's Positivity Mission. 42 min.
+
+Episode 4 of [Beautiful Tornado](/transmissions/beautiful-tornado/). Also on [YouTube](https://www.youtube.com/watch?v=GxIDY9XvvaA).
+
+Posted on sarth.net at /beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission on November 17, 2020, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission) of August 25, 2026. That address serves this page. The text is from the Beautiful Tornado page, which ran each post in full; the player’s caption is as it was.
+
+---
+
+# The Re-Enchantment of the World - Michael Patrick F. Smith
+
+https://www.sarth.net/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/
+
+Feb 15, 2021 · Message
+
+# The Re-Enchantment of the World - Michael Patrick F. Smith
+
+Blood harmonies. Ayahuasca. Sleeping on flop house floors... singer-songwriter, playwright and novelist Michael Patrick Flanagan Smith takes us on a journey from New York to Kentucky via a small 'fairly dangerous' oil town in North Dakota. On the way we hear his metaphysical musings on the the sentience of words, the re-enchantment of the world and the research behind his new novel, based on his raw, travelling memoirs. Plus we get a selection of his latest, covid-era songs, performed LIVE for Beautiful Tornado!!
+
+Mike’s Book “The Good Hand: A Memoir of Work, Brotherhood, and Transformation in an American Boomtown” is available now, here’s an Amazon link, although I’m sure he would appreciate it if I sent it to that other place where writers get more of the money or something.
+
+https://www.amazon.com/Good-Hand-Brotherhood-Transformation-American-ebook/dp/B08D8K11HF
+
+[Listen](https://media.sarth.net/beautiful-tornado/episode-6-the-re-enchantment-of-the-world.m4a)
+
+The Re-Enchantment of the World. Dom Bouffard, Sarth Calhoun, and Michale Patrick F. Smith. 2 h 26 min.
+
+Episode 6 of [Beautiful Tornado](/transmissions/beautiful-tornado/). Also on [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho).
+
+Posted on sarth.net at /beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith on February 15, 2021, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith) of August 25, 2026. That address serves this page. The text is from the Beautiful Tornado page, which ran each post in full; the player’s caption is as it was.
 
 ---
 
@@ -5044,6 +5090,48 @@ More about happy accidents and automated effect controls to morph sources in fut
 — Sarth
 
 Posted on sarth.net on November 21, 2020, and reproduced here as written, with the audio examples and screenshots from that post. The track is [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), from [*The Book of Sarth*](/conspiracies/book-of-sarth/).
+
+---
+
+# Elementary Audio, Day 1
+
+https://www.sarth.net/transmissions/elementary-audio-day-1/
+
+Apr 18, 2022 · Machine
+
+# Elementary Audio, Day 1
+
+Day 1 with [Elementary Audio JS Library.](https://www.elementary.audio)
+
+I set out to get something cool happening in an hour or two. ended up burning the better part of the day. I started with an empty SvelteKit project because that’s what I had been using, and then messed around for a little while … aI mean several hours, troubleshooting why I had no sound.
+
+Although the tutorials and examples could be more fully featured, the real TL;DR is:
+
+Right. Most browser won’t allow sound to start automatically without user interaction.
+
+OK!
+
+Will try again later this week.
+
+Posted on sarth.net at /rumors/2022/4/18/elementary-audio-day-1 on April 18, 2022, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20260825201458/http://www.sarth.net/rumors/2022/4/18/elementary-audio-day-1) of August 25, 2026. That address serves this page. It was listed under [Intrigue](/intrigue/).
+
+---
+
+# Train O' Thots at the New York Transit Museum!
+
+https://www.sarth.net/transmissions/train-o-thots-at-the-new-york-transit-museum/
+
+Mar 28, 2015 · Dream
+
+# Train O' Thots at the New York Transit Museum!
+
+We are excited to launch the Train O' Thots app on April 1st, 2015 with a special showing at the New York Transit Museum. More info about Train O' Thots at: [http://gralbumcollective.com/titles.html](https://web.archive.org/web/2015/http://gralbumcollective.com/titles.html)
+
+and a link to the Facebook event here:
+
+[https://www.facebook.com/events/372887502897490/](https://www.facebook.com/events/372887502897490/)
+
+Posted on sarth.net at /rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum on March 28, 2015, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20170927214728/http://www.sarth.net/rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum) of September 27, 2017. That address serves this page. Between the two paragraphs the post showed an image linking to the Gralbum Collective’s titles page; it was not recovered. It was listed under [Intrigue](/intrigue/).
 
 ---
 
@@ -6802,6 +6890,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 
+## [Intrigue, the Squarespace news page](/intrigue/)
+
+`/intrigue/`
+
+- [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/intrigue)
+- [April 13, 2016](https://web.archive.org/web/20160413203255/http://www.sarth.net/intrigue)
+
 ## [Lucibel Crater Clips](/lucibel-crater-clips/)
 
 `/lucibel-crater-clips/`
@@ -6969,12 +7064,33 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [YouTube](https://www.youtube.com/watch?v=SkvCEhxo4-g)
 - [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho)
 
+## [Rich Nav's Positivity Mission](/transmissions/beautiful-tornado/rich-navs-positivity-mission/)
+
+`/transmissions/beautiful-tornado/rich-navs-positivity-mission/`
+
+- [YouTube](https://www.youtube.com/watch?v=GxIDY9XvvaA)
+- [Internet Archive’s copy](https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission)
+
+## [The Re-Enchantment of the World - Michael Patrick F. Smith](/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/)
+
+`/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/`
+
+- [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho)
+- [Internet Archive’s copy](https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith)
+
 ## [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 
 `/transmissions/duckdb-where-have-you-been-all-my-life/`
 
 - [DuckDB](https://duckdb.org/)
 - [set up credentials](https://duckdb.org/docs/current/core_extensions/httpfs/s3api)
+
+## [Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/)
+
+`/transmissions/elementary-audio-day-1/`
+
+- [Elementary Audio JS Library.](https://www.elementary.audio)
+- [Internet Archive’s copy](https://web.archive.org/web/20260825201458/http://www.sarth.net/rumors/2022/4/18/elementary-audio-day-1)
 
 ## [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/)
 
@@ -7153,6 +7269,14 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [thirdwallstudio.com/through-the-brambles](https://www.thirdwallstudio.com/through-the-brambles)
 
+## [Train O' Thots at the New York Transit Museum!](/transmissions/train-o-thots-at-the-new-york-transit-museum/)
+
+`/transmissions/train-o-thots-at-the-new-york-transit-museum/`
+
+- [http://gralbumcollective.com/titles.html](https://web.archive.org/web/2015/http://gralbumcollective.com/titles.html)
+- [https://www.facebook.com/events/372887502897490/](https://www.facebook.com/events/372887502897490/)
+- [Internet Archive’s copy](https://web.archive.org/web/20170927214728/http://www.sarth.net/rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum)
+
 ## [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/)
 
 `/transmissions/transmissions-from-the-book-of-sarth/`
@@ -7194,6 +7318,13 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/video-metal-machine-trio-infiltrates-lucibel-crater/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101031043559/http://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/)
+
+## [The transmissions have begun . . .](/words/)
+
+`/words/`
+
+- [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/words/)
+- [April 13, 2016](https://web.archive.org/web/20160413141315/http://www.sarth.net/words/)
 
 ## [Work](/work/)
 
@@ -8189,6 +8320,46 @@ Posted on sarth.net at this address on July 7, 2010, and reproduced here as writ
 
 ---
 
+# Intrigue, the Squarespace news page
+
+https://www.sarth.net/intrigue/
+
+The Squarespace sarth.net, 2015 to 2026
+
+# Intrigue
+
+Intrigue was the news page of the Squarespace sarth.net, from 2015 until this site replaced it in 2026. It carried the Rumors posts, newest first, and a column of conspiracies. Each post is on this site now, at the link, and its old address under /rumors/ serves it. Its sister blog was [The transmissions have begun . . .](/words/)
+
+## Rumors
+
+- **[Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/)** · April 18, 2022
+
+- **[Reflections, Vol. 1](/conspiracies/reflections-vol-1/)** · November 20, 2020
+
+- **[I Just Believe In Christmas](/conspiracies/i-just-believe-in-christmas/)** · December 1, 2015
+
+- **[Reflections, Vol 1, available on iTunes now](/conspiracies/reflections-vol-1/)** · November 29, 2015
+
+- **[Train O' Thots at the New York Transit Museum!](/transmissions/train-o-thots-at-the-new-york-transit-museum/)** · March 28, 2015
+
+  We are excited to launch the Train O' Thots app on April 1st, 2015 with a special showing at the New York Transit Museum.
+
+- **[(Gr)album has launched!](/conspiracies/gralbum-collective/)** · April 9, 2014
+
+  With free (gr)albums from Bora Yoon, Adam Matta, Leah Coloff, and Tom Hart/Moon Hooch!
+
+- **[The Book of Sarth Review on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)** · January 3, 2013
+
+- **[The Book of Sarth in Gizmodo's "Apps of the Week"](/the-book-of-sarth-gizmodo-apps-of-the-week/)** · December 22, 2012
+
+## Conspiracies
+
+[The Book of Sarth](/conspiracies/book-of-sarth/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [Lulu](/conspiracies/lulu/) with Lou Reed and Metallica · [Yellow Pony](/conspiracies/yellow-pony/) · [Lucibel Crater](/conspiracies/lucibel-crater/)
+
+The posts and the conspiracies column are from the Internet Archive’s copies of this page of [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/intrigue) and [April 13, 2016](https://web.archive.org/web/20160413203255/http://www.sarth.net/intrigue). The 2015 and 2013 dates are the ones Intrigue showed; the Book of Sarth posts were reposts of the WordPress originals.
+
+---
+
 # Lucibel Crater Clips
 
 https://www.sarth.net/lucibel-crater-clips/
@@ -8413,3 +8584,29 @@ Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspi
 Tags: Video.
 
 Posted on sarth.net at this address on March 22, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20101031043559/http://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/) of October 31, 2010. The post was the video alone.
+
+---
+
+# The transmissions have begun . . .
+
+https://www.sarth.net/words/
+
+The Squarespace sarth.net, 2015 to 2026
+
+# The transmissions have begun . . .
+
+The blog of the Squarespace sarth.net, which ran at /words from 2015 until this site replaced it in 2026. Each post is on this site now, at the link, and its old address serves it. Its sister blog was [Intrigue](/intrigue/).
+
+- **[Visual Reference Prompting](/transmissions/visual-reference-prompting/)** · July 31, 2026
+
+- **[About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/)** · November 21, 2020
+
+- **[I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/)** · December 1, 2015
+
+  The long-awaited Christmas song is here!
+
+- **[Aural and Optical Transmissions can be found here](/transmissions/)** · November 29, 2015
+
+- **[bolted for the briar patch](/bolted-for-the-briar-patch/)** · June 12, 2013
+
+The title and the five posts are from the Internet Archive’s copies of this page of [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/words/) and [April 13, 2016](https://web.archive.org/web/20160413141315/http://www.sarth.net/words/). The briar patch essay, first posted on the WordPress site on June 12, 2013, sat at /words/2015/2/6/gralbum-has-launched.

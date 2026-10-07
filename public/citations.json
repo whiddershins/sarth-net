@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 648,
+  "citation_count": 661,
   "pages": [
     {
       "path": "/",
@@ -2415,6 +2415,20 @@
       ]
     },
     {
+      "path": "/intrigue/",
+      "title": "Intrigue, the Squarespace news page",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20260825202037/http://www.sarth.net/intrigue",
+          "text": "August 25, 2026"
+        },
+        {
+          "url": "https://web.archive.org/web/20160413203255/http://www.sarth.net/intrigue",
+          "text": "April 13, 2016"
+        }
+      ]
+    },
+    {
       "path": "/lucibel-crater-clips/",
       "title": "Lucibel Crater Clips",
       "citations": [
@@ -2911,6 +2925,34 @@
       ]
     },
     {
+      "path": "/transmissions/beautiful-tornado/rich-navs-positivity-mission/",
+      "title": "Rich Nav's Positivity Mission",
+      "citations": [
+        {
+          "url": "https://www.youtube.com/watch?v=GxIDY9XvvaA",
+          "text": "YouTube"
+        },
+        {
+          "url": "https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/",
+      "title": "The Re-Enchantment of the World - Michael Patrick F. Smith",
+      "citations": [
+        {
+          "url": "https://www.youtube.com/watch?v=zDAzJr382Ho",
+          "text": "YouTube"
+        },
+        {
+          "url": "https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
       "path": "/transmissions/duckdb-where-have-you-been-all-my-life/",
       "title": "DuckDB, where have you been all my life",
       "citations": [
@@ -2921,6 +2963,20 @@
         {
           "url": "https://duckdb.org/docs/current/core_extensions/httpfs/s3api",
           "text": "set up credentials"
+        }
+      ]
+    },
+    {
+      "path": "/transmissions/elementary-audio-day-1/",
+      "title": "Elementary Audio, Day 1",
+      "citations": [
+        {
+          "url": "https://www.elementary.audio",
+          "text": "Elementary Audio JS Library."
+        },
+        {
+          "url": "https://web.archive.org/web/20260825201458/http://www.sarth.net/rumors/2022/4/18/elementary-audio-day-1",
+          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -3396,6 +3452,24 @@
       ]
     },
     {
+      "path": "/transmissions/train-o-thots-at-the-new-york-transit-museum/",
+      "title": "Train O' Thots at the New York Transit Museum!",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/2015/http://gralbumcollective.com/titles.html",
+          "text": "http://gralbumcollective.com/titles.html"
+        },
+        {
+          "url": "https://www.facebook.com/events/372887502897490/",
+          "text": "https://www.facebook.com/events/372887502897490/"
+        },
+        {
+          "url": "https://web.archive.org/web/20170927214728/http://www.sarth.net/rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum",
+          "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
       "path": "/transmissions/transmissions-from-the-book-of-sarth/",
       "title": "Transmissions from the Book of Sarth",
       "citations": [
@@ -3481,6 +3555,20 @@
         {
           "url": "https://web.archive.org/web/20101031043559/http://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/",
           "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/words/",
+      "title": "The transmissions have begun . . .",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20260825202037/http://www.sarth.net/words/",
+          "text": "August 25, 2026"
+        },
+        {
+          "url": "https://web.archive.org/web/20160413141315/http://www.sarth.net/words/",
+          "text": "April 13, 2016"
         }
       ]
     },

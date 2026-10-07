@@ -477,6 +477,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/conspiracies/power-and-serenity/`
 
+- [sarth.net, July 21, 2010](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
 - [loureed.com, 2010](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
 
 ## [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
@@ -581,6 +582,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Kyma](https://kyma.symbolicsound.com/)
 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CarlaScaletti.jpg)
+- [sarth.net, November 30, 2012](https://web.archive.org/web/20140906084650/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
 
 ## [Dominic Bouffard](/conspirators/dominic-bouffard/)
 
@@ -704,6 +706,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/conspirators/marc-urselli/`
 
+- [sarth.net, December 20, 2012](https://web.archive.org/web/20140909155440/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/)
 - [Marc Urselli](https://en.wikipedia.org/wiki/Marc_Urselli)
 - [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
 
@@ -719,6 +722,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Lulu](https://en.wikipedia.org/wiki/Lulu_(Lou_Reed_and_Metallica_album))
+- [sarth.net, November 6, 2011](https://web.archive.org/web/20140905192608/http://www.sarth.net/lulucd/)
 
 ## [Michael Patrick Flanagan Smith](/conspirators/michael-patrick-flanagan-smith/)
 

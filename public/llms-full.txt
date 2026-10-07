@@ -115,17 +115,17 @@ I also write about data engineering: [an append-only pipeline on external tables
 
 Burlap. Download at [burlap.app](https://burlap.app/download).
 
-### Machine (24)
+### Machine (22)
 
-[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Elementary Audio, Day 1](/transmissions/elementary-audio-day-1/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [Moog Guitar](/devices/moog-guitar/) · [Electrix Filter Queen](/devices/electrix-filter-queen/) · [Electrix Filter Factory](/devices/electrix-filter-factory/) · [Electrix Mo-FX](/devices/electrix-mo-fx/) · [DaVinci Resolve](/devices/davinci-resolve/) · [Recursive functions in teapots](/recursive-functions-in-teapots/)
+[Burlap](/conspiracies/burlap/) · [Contraptions](/contraptions/) · [Ingather](/conspiracies/ingather/) · [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/) · [Why append-only](/transmissions/external-tables/why-append-only/) · [Building on external tables](/transmissions/external-tables/building-on-external-tables/) · [Current truth with window functions](/transmissions/external-tables/current-truth-with-window-functions/) · [Defending the boundary](/transmissions/external-tables/defending-the-boundary/) · [Living with the code](/transmissions/external-tables/living-with-the-code/) · [Devices](/devices/) · [Kyma](/devices/kyma/) · [Continuum](/devices/continuum/) · [Ableton Live](/devices/ableton-live/) · [Runway](/devices/runway/) · [Basses](/devices/basses/) · [Yamaha EX5](/devices/yamaha-ex5/) · [Moog](/devices/moog/) · [Moog Guitar](/devices/moog-guitar/) · [Electrix Filter Queen](/devices/electrix-filter-queen/) · [Electrix Filter Factory](/devices/electrix-filter-factory/) · [Electrix Mo-FX](/devices/electrix-mo-fx/) · [DaVinci Resolve](/devices/davinci-resolve/)
 
-### Dream (49)
+### Dream (33)
 
-[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Power and Serenity](/conspiracies/power-and-serenity/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [I Before E](/transmissions/i-before-e/) · [Through the Brambles](/transmissions/through-the-brambles/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/) · [Train O' Thots at the New York Transit Museum!](/transmissions/train-o-thots-at-the-new-york-transit-museum/) · [A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/) · [Amazing, amazing, drumming](/amazing-amazing-drumming/) · [Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/) · [Book of Sarth clips](/book-of-sarth-sneak-preview/) · [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/) · [Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/) · [Lucibel Crater Clips](/lucibel-crater-clips/) · [Lulu](/lulucd/) · [Video: Lucibel Crater – Masticate](/masicate-video/) · [MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/) · [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/) · [Power and Serenity](/power-and-serenity-for-sale/) · [Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/) · [The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/) · [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/) · [Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)
+[Third Wall Studio](/conspiracies/third-wall-studio/) · [The Gralbum Collective](/conspiracies/gralbum-collective/) · [Book of Sarth](/conspiracies/book-of-sarth/) · [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/) · [Lulu](/conspiracies/lulu/) · [Junior Dad](/conspiracies/junior-dad/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · [Yellow Pony](/conspiracies/yellow-pony/) · [Poughkeepsie](/conspiracies/poughkeepsie/) · [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · [Vivid LIVE 2010](/conspiracies/vivid-live/) · [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · [Lou Reed spring 2008 U.S. tour](/conspiracies/lou-reed-spring-2008-tour/) · [Power and Serenity](/conspiracies/power-and-serenity/) · [Lucibel Crater](/conspiracies/lucibel-crater/) · [Number19](/conspiracies/number19/) · [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · [Singles](/transmissions/singles/) · [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · [Solsbury Hill](/transmissions/solsbury-hill/) · [Peggy Sue](/transmissions/peggy-sue/) · [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Family Album](/transmissions/the-family-album/) · [Miracles](/transmissions/miracles/) · [Suspension](/transmissions/suspension/) · [I Before E](/transmissions/i-before-e/) · [Through the Brambles](/transmissions/through-the-brambles/) · [Introspections](/transmissions/introspections/) · [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/) · [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)
 
-### Message (16)
+### Message (13)
 
-[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) · [Window functions, the mental model](/transmissions/window-functions/) · [SQL as the data language](/transmissions/sql-as-the-data-language/) · [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · [Modern Postgres is shockingly capable](/transmissions/modern-postgres/) · [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/) · [Somersaulting Down the Slippery Slope](/transmissions/somersaulting-down-the-slippery-slope/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · [Beautiful Tornado](/transmissions/beautiful-tornado/) · [Rich Nav's Positivity Mission](/transmissions/beautiful-tornado/rich-navs-positivity-mission/) · [The Re-Enchantment of the World - Michael Patrick F. Smith](/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/) · [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/) · [Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/) · [Bolted for the Briar Patch](/bolted-for-the-briar-patch/) · [Our “Security” is an Auto-Immune Disease](/our-security-apparatus-is-an-auto-immune-disease-pt-1/)
+[DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/) · [Window functions, the mental model](/transmissions/window-functions/) · [SQL as the data language](/transmissions/sql-as-the-data-language/) · [You might not need Pandas](/transmissions/you-might-not-need-pandas/) · [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · [Modern Postgres is shockingly capable](/transmissions/modern-postgres/) · [Node vs Rails: agnostic vs batteries included](/transmissions/node-vs-rails/) · [Somersaulting Down the Slippery Slope](/transmissions/somersaulting-down-the-slippery-slope/) · [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · [Beautiful Tornado](/transmissions/beautiful-tornado/) · [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/) · [Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/) · [Bolted for the Briar Patch](/bolted-for-the-briar-patch/)
 
 Earlier
 
@@ -2169,7 +2169,7 @@ Tai chi meditation music Lou Reed and I made together over four years, for Maste
 
 > It is interesting to me to reflect on the notion that this meditation music was the first thing I ever worked on with Lou. Really this was what started our collaborations, and I have always loved the music on this. It is in a similar vein, but of a different character, than the Creation of the Universe or Hudson Wind Meditations. The compositions were conceived of, improvised upon, reworked, edited, remixed and transformed over a period of 4 years.
 > 
-> Sarth Calhoun, [sarth.net, July 21, 2010](/power-and-serenity-for-sale/)
+> Sarth Calhoun, [sarth.net, July 21, 2010](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
 
 *Power and Serenity* is the DVD of [Lou Reed](/conspirators/lou-reed/)’s tai chi teacher, Master Ren Guangyi, with six pieces of original music that Lou and I composed and performed: “The Power of Red,” “Cymbalism,” “Power and Serenity,” “Liquid,” “Metallic Opera,” and “Guitar Mountain.” Lou, Master Ren, Scott Richman and I produced it; Scott Richman directed; Matt Bockelman edited. Lou put it up for sale on his site in July 2010.
 
@@ -3095,7 +3095,7 @@ Grammy-winning engineer. He reviewed *The Book of Sarth* and mixed my Christmas 
 
 > Marc Urselli did a thoughtful, in-depth review of The Book of Sarth over at Chain D.L.K. I appreciated the detail of his feedback, and even where it wasn't 100% positive I thought he made many great points. 4 out of 5 stars?! I'll take it.
 > 
-> Sarth Calhoun, [sarth.net, December 20, 2012](/chain-d-l-k-book-of-sarth-review/)
+> Sarth Calhoun, [sarth.net, December 20, 2012](https://web.archive.org/web/20140909155440/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/)
 
 [Marc Urselli](https://en.wikipedia.org/wiki/Marc_Urselli) (born 1977, Aarau) is an Italian-Swiss audio engineer, producer and mixer based in New York, chief engineer at Eastside Sound and owner of Audio Confidential. He has won three Grammy Awards from seven nominations, with credits including U2, Foo Fighters, Lou Reed, Nick Cave, John Zorn and Laurie Anderson, and in 1994 he founded the online magazine Chain D.L.K., of which he is editor in chief.
 
@@ -3707,7 +3707,7 @@ Lou Reed and Metallica on television, November 2011: Kirk Hammett, Sarth Calhoun
 
 > A double-cd rendering of the entire collaboration between Lou Reed and Metallica, I was excited to have the opportunity to not only see our score reinterpreted by one of the greatest bands of all time, but also to play on every track.
 > 
-> Sarth Calhoun, [sarth.net, November 6, 2011](/lulucd/)
+> Sarth Calhoun, [sarth.net, November 6, 2011](https://web.archive.org/web/20140905192608/http://www.sarth.net/lulucd/)
 
 ## Lulu
 
@@ -3991,7 +3991,7 @@ Carla Scaletti, April 2011. Photo: Kurt Hebel, [CC BY-SA 4.0](https://creativeco
 
 > I am glad to get this shout out from SSC because Kyma was so central to the sound and feel of The Book of Sarth, especially Primary Deforestation [vocal processing] and If I Can [pulse code cello played on continuum fingerboard].
 > 
-> Sarth Calhoun, [sarth.net, November 30, 2012](/symbolic-sound-book-of-sarth-review/)
+> Sarth Calhoun, [sarth.net, November 30, 2012](https://web.archive.org/web/20140906084650/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
 
 ## Kyma
 
@@ -6359,6 +6359,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/conspiracies/power-and-serenity/`
 
+- [sarth.net, July 21, 2010](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
 - [loureed.com, 2010](https://web.archive.org/web/20101230193716/http://loureed.com/power/)
 
 ## [Reflections, Vol. 1](/conspiracies/reflections-vol-1/)
@@ -6463,6 +6464,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Kyma](https://kyma.symbolicsound.com/)
 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CarlaScaletti.jpg)
+- [sarth.net, November 30, 2012](https://web.archive.org/web/20140906084650/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
 
 ## [Dominic Bouffard](/conspirators/dominic-bouffard/)
 
@@ -6586,6 +6588,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 `/conspirators/marc-urselli/`
 
+- [sarth.net, December 20, 2012](https://web.archive.org/web/20140909155440/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/)
 - [Marc Urselli](https://en.wikipedia.org/wiki/Marc_Urselli)
 - [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
 
@@ -6601,6 +6604,7 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Lulu](https://en.wikipedia.org/wiki/Lulu_(Lou_Reed_and_Metallica_album))
+- [sarth.net, November 6, 2011](https://web.archive.org/web/20140905192608/http://www.sarth.net/lulucd/)
 
 ## [Michael Patrick Flanagan Smith](/conspirators/michael-patrick-flanagan-smith/)
 

@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 722,
+  "citation_count": 726,
   "pages": [
     {
       "path": "/",
@@ -1131,6 +1131,10 @@
       "title": "Power and Serenity",
       "citations": [
         {
+          "url": "https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/",
+          "text": "sarth.net, July 21, 2010"
+        },
+        {
           "url": "https://web.archive.org/web/20101230193716/http://loureed.com/power/",
           "text": "loureed.com, 2010"
         }
@@ -1406,6 +1410,10 @@
         {
           "url": "https://commons.wikimedia.org/wiki/File:CarlaScaletti.jpg",
           "text": "Wikimedia Commons"
+        },
+        {
+          "url": "https://web.archive.org/web/20140906084650/http://www.sarth.net/symbolic-sound-book-of-sarth-review/",
+          "text": "sarth.net, November 30, 2012"
         }
       ]
     },
@@ -1695,6 +1703,10 @@
       "title": "Marc Urselli",
       "citations": [
         {
+          "url": "https://web.archive.org/web/20140909155440/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/",
+          "text": "sarth.net, December 20, 2012"
+        },
+        {
           "url": "https://en.wikipedia.org/wiki/Marc_Urselli",
           "text": "Marc Urselli"
         },
@@ -1725,6 +1737,10 @@
         {
           "url": "https://en.wikipedia.org/wiki/Lulu_(Lou_Reed_and_Metallica_album)",
           "text": "Lulu"
+        },
+        {
+          "url": "https://web.archive.org/web/20140905192608/http://www.sarth.net/lulucd/",
+          "text": "sarth.net, November 6, 2011"
         }
       ]
     },

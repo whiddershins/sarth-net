@@ -334,6 +334,10 @@ def load_pages():
             "route": route, "file": f, "html": s, "title": title, "description": desc,
             "url": url, "published": published, "main_html": main_html, "main": parse(main_html),
             "facet": m.group(1) if m else None,
+            # Old posts brought back at their old addresses keep their facet but stay off the
+            # homepage index, which stays engineering-first (Sarth, 7 Oct 2026). Their
+            # listings, tags and the sitemap reach them.
+            "restored": bool(re.search(r"<main[^>]*\sdata-restored[\s>]", s)),
         }
     return pages
 
@@ -521,9 +525,15 @@ def splice(text, inner, start="<!-- build:citations -->", end="<!-- /build:citat
 
 
 # ----------------------------------------------------------------- feed, sitemap, llms
+# A search box has no content of its own; listed, it reads as thin or soft-404.
+SITEMAP_SKIP = {"/search/"}
+
+
 def sitemap(pages, order, dates):
     lines = []
     for r in order:
+        if r in SITEMAP_SKIP:
+            continue
         rel = pages[r]["file"].relative_to(ROOT).as_posix()
         lines.append(f"  <url><loc>{pages[r]['url']}</loc><lastmod>{dates[rel]}</lastmod></url>")
     body = "\n".join(lines)
@@ -923,7 +933,7 @@ def facets_html(pages, order):
     exclusive where the browser supports it."""
     drawers = []
     for f in FACETS:
-        links = [f'<a href="{pages[r]["route"]}">{html.escape(pages[r]["title"])}</a>' for r in order if pages[r]["facet"] == f]
+        links = [f'<a href="{pages[r]["route"]}">{html.escape(pages[r]["title"])}</a>' for r in order if pages[r]["facet"] == f and not pages[r]["restored"]]
         drawers.append(f'    <details class="facet" name="facet" id="{f}">\n'
                        f'      <summary>{f.title()}<span class="count">{len(links)}</span></summary>\n'
                        f'      <p>' + " · ".join(links) + "</p>\n"

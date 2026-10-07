@@ -21,7 +21,7 @@ Lou Reed and Metallica on television, November 2011: Kirk Hammett, Sarth Calhoun
 
 > A double-cd rendering of the entire collaboration between Lou Reed and Metallica, I was excited to have the opportunity to not only see our score reinterpreted by one of the greatest bands of all time, but also to play on every track.
 > 
-> Sarth Calhoun, [sarth.net, November 6, 2011](/lulucd/)
+> Sarth Calhoun, [sarth.net, November 6, 2011](https://web.archive.org/web/20140905192608/http://www.sarth.net/lulucd/)
 
 ## Lulu
 

@@ -296,3 +296,20 @@ test("every _redirects rule is a 200 rewrite to a page here, never a redirect", 
     assert.ok(!from.includes("*") && !from.includes(":"), `${from} is a splat`);
   }
 });
+
+test("the sitemap leaves out the search page", () => {
+  const sitemap = readFileSync(new URL("../public/sitemap.xml", import.meta.url), "utf8");
+  assert.ok(sitemap.includes("<loc>https://www.sarth.net/</loc>"));
+  assert.ok(!sitemap.includes("https://www.sarth.net/search/"));
+});
+
+test("restored old posts stay off the homepage index", () => {
+  const home = readFileSync(new URL("../public/index.html", import.meta.url), "utf8");
+  const facets = home.slice(home.indexOf("<!-- build:facets -->"), home.indexOf("<!-- /build:facets -->"));
+  assert.ok(facets.length > 0);
+  for (const route of ["/lulucd/", "/power-and-serenity-for-sale/", "/transmissions/elementary-audio-day-1/"]) {
+    const page = readFileSync(new URL(`../public${route}index.html`, import.meta.url), "utf8");
+    assert.match(page, /<main[^>]*\sdata-restored[\s>]/);
+    assert.ok(!facets.includes(`href="${route}"`), route);
+  }
+});

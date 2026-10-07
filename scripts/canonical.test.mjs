@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import { canonicalRedirect } from "../src/canonical.js";
 import { feedRewrite } from "../src/feeds.js";
-import worker from "../src/index.js";
+import worker, { directoryTarget } from "../src/index.js";
 
 function req(url, headers = {}) {
   return new Request(url, { headers });
@@ -193,3 +193,72 @@ test("http on the podcast feed still redirects to https and keeps the query", as
   assert.equal(seen.length, 0);
 });
 
+// The asset layer as deployed: a directory URL without its slash is a 307 to
+// the slashed path; files, slashed directories and 200 rewrites are a 200.
+function slashingAssets(directories) {
+  const seen = [];
+  return {
+    seen,
+    env: {
+      ASSETS: {
+        fetch(request) {
+          seen.push(request);
+          const path = new URL(request.url).pathname;
+          if (directories.includes(path)) {
+            return new Response(null, { status: 307, headers: { location: path + "/" } });
+          }
+          return new Response("ok", { status: 200 });
+        },
+      },
+    },
+  };
+}
+
+test("the host redirect carries no X-Robots-Tag", async () => {
+  const { env } = slashingAssets([]);
+  for (const url of ["https://sarth.net/about/", "http://sarth.net/", "http://www.sarth.net/llms.txt"]) {
+    const res = await worker.fetch(new Request(url, { headers: { host: new URL(url).host } }), env);
+    assert.equal(res.status, 301);
+    assert.equal(res.headers.get("x-robots-tag"), null);
+  }
+});
+
+test("the host redirect adds a directory's trailing slash in the same hop", async () => {
+  const { env } = slashingAssets(["/about", "/conspiracies/lulu"]);
+  let res = await worker.fetch(new Request("https://sarth.net/about?x=1", { headers: { host: "sarth.net" } }), env);
+  assert.equal(res.status, 301);
+  assert.equal(res.headers.get("location"), "https://www.sarth.net/about/?x=1");
+  res = await worker.fetch(new Request("http://www.sarth.net/conspiracies/lulu", { headers: { host: "www.sarth.net" } }), env);
+  assert.equal(res.headers.get("location"), "https://www.sarth.net/conspiracies/lulu/");
+});
+
+test("the host redirect keeps the path when the assets serve it as is", async () => {
+  const { seen, env } = slashingAssets(["/about"]);
+  const cases = [
+    ["https://sarth.net/sarth", "https://www.sarth.net/sarth"],              // a 200 rewrite
+    ["https://sarth.net/llms.txt", "https://www.sarth.net/llms.txt"],        // a file: not probed
+    ["https://sarth.net/about/", "https://www.sarth.net/about/"],            // already slashed: not probed
+    ["https://sarth.net/words?format=RSS", "https://www.sarth.net/words?format=RSS"], // a feed: not probed
+    ["https://sarth.net/feed", "https://www.sarth.net/feed"],                // a feed: not probed
+  ];
+  for (const [from, to] of cases) {
+    const res = await worker.fetch(new Request(from, { headers: { host: "sarth.net" } }), env);
+    assert.equal(res.headers.get("location"), to);
+  }
+  assert.deepEqual(seen.map((r) => new URL(r.url).pathname), ["/sarth"]);
+});
+
+test("a slash probe that fails or points elsewhere leaves the target alone", async () => {
+  const broken = { ASSETS: { fetch() { throw new Error("down"); } } };
+  assert.equal(
+    await directoryTarget("https://www.sarth.net/about", new Request("https://sarth.net/about"), broken),
+    "https://www.sarth.net/about",
+  );
+  const elsewhere = { ASSETS: { fetch() { return new Response(null, { status: 307, headers: { location: "/other/" } }); } } };
+  assert.equal(
+    await directoryTarget("https://www.sarth.net/about", new Request("https://sarth.net/about"), elsewhere),
+    "https://www.sarth.net/about",
+  );
+  const post = new Request("https://sarth.net/about", { method: "POST" });
+  assert.equal(await directoryTarget("https://www.sarth.net/about", post, elsewhere), "https://www.sarth.net/about");
+});

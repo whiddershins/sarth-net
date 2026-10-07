@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (661 total)
+## Citations by page (668 total)
 
 ### Sarth Calhoun
 `/`
@@ -944,6 +944,12 @@ every page.
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101031050447/http://www.sarth.net/mm3-interviewed-in-art-rocker/)
 
+### Our “Security” is an Auto-Immune Disease
+`/our-security-apparatus-is-an-auto-immune-disease-pt-1/`
+
+- [http://www.huffingtonpost.com/2013/02/18/robert-saylors-death-homicide-mentally-illn2711629.html](http://www.huffingtonpost.com/2013/02/18/robert-saylors-death-homicide-mentally-ill_n_2711629.html)
+- [Internet Archive’s copy](https://web.archive.org/web/20140305053511/http://www.sarth.net/our-security-apparatus-is-an-auto-immune-disease-pt-1)
+
 ### Photos of Noise Night, Sydney
 `/photos-of-noise-night-sydney/`
 
@@ -956,6 +962,15 @@ every page.
 
 - [http://loureed.com/power/](https://web.archive.org/web/2010/http://loureed.com/power/)
 - [Internet Archive’s copy](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
+
+### Recursive functions in teapots
+`/recursive-functions-in-teapots/`
+
+- [Project Euler problem 4](http://projecteuler.net/)
+- [palindrome](http://en.wikipedia.org/wiki/Palindrome)
+- [functional programming languages](http://www.haskell.org/haskellwiki/Haskell)
+- [repost](http://thebookofsarth.tumblr.com/post/42906472855/emailing-ramses3000-fuckk-no-this-is-not)
+- [Internet Archive’s copy](https://web.archive.org/web/20140304024014/http://www.sarth.net/recursive-functions-in-teapots)
 
 ### Rumors
 `/rumors/`

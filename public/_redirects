@@ -90,6 +90,10 @@
 /yellow-pony-madrid-july-2009 /conspiracies/yellow-pony/ 200
 /yellow-pony-madrid-july-2009/ /conspiracies/yellow-pony/ 200
 
+# WordPress posts the Internet Archive captured without the trailing slash.
+/recursive-functions-in-teapots /recursive-functions-in-teapots/ 200
+/our-security-apparatus-is-an-auto-immune-disease-pt-1 /our-security-apparatus-is-an-auto-immune-disease-pt-1/ 200
+
 # WordPress categories that were a person or a project: that page.
 /category/conspirators /conspirators/ 200
 /category/conspirators/ /conspirators/ 200

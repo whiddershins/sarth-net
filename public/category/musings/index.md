@@ -12,16 +12,12 @@ The posts filed under Musings on the WordPress sarth.net, newest first. 4 of the
 
 - **[Bolted for the Briar Patch](/bolted-for-the-briar-patch/)** · June 12, 2013
 
-- **Our “Security” is an Auto-Immune Disease** · February 19, 2013
-
-  Not recovered.
+- **[Our “Security” is an Auto-Immune Disease](/our-security-apparatus-is-an-auto-immune-disease-pt-1/)** · February 19, 2013
 
 - **I wish I had thought of this** · February 16, 2013
 
   Not recovered.
 
-- **Recursive functions in teapots** · February 12, 2013
-
-  Not recovered.
+- **[Recursive functions in teapots](/recursive-functions-in-teapots/)** · February 12, 2013
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/) and from the categories each recovered post carries.

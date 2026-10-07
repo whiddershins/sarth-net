@@ -99,6 +99,10 @@
 /category/music/page/2 /category/music/page/2/ 200
 /category/visuals/video/page/2 /category/visuals/video/page/2/ 200
 /category/visuals/video/page/3 /category/visuals/video/page/3/ 200
+# Slashless addresses the old _redirects answered (seen in Search Console).
+/category/press /category/press/ 200
+/category/reviews /category/reviews/ 200
+/book-of-sarth-in-the-app-store /book-of-sarth-in-the-app-store/ 200
 
 # WordPress categories that were a person or a project: that page.
 /category/conspirators /conspirators/ 200

@@ -89,6 +89,30 @@ test("format=rss on the old Squarespace feed paths is a feed file", () => {
   });
 });
 
+test("format=RSS is a feed in any case", () => {
+  for (const value of ["RSS", "Rss", "rSs"]) {
+    assert.deepEqual(feedRewrite(`https://www.sarth.net/words?format=${value}`), {
+      path: "/feed.xml",
+      contentType: "application/atom+xml; charset=utf-8",
+    });
+    assert.deepEqual(feedRewrite(`https://www.sarth.net/beautiful-tornado?format=${value}`), {
+      path: "/transmissions/beautiful-tornado/podcast.xml",
+      contentType: "application/rss+xml; charset=utf-8",
+    });
+  }
+});
+
+test("the WordPress feed addresses are the site feed", () => {
+  for (const path of ["/feed", "/feed/", "/feed/rss", "/feed/rss/", "/feed/atom", "/feed/atom/"]) {
+    assert.deepEqual(feedRewrite(`https://www.sarth.net${path}`), {
+      path: "/feed.xml",
+      contentType: "application/atom+xml; charset=utf-8",
+    });
+  }
+  assert.equal(feedRewrite("https://www.sarth.net/feed/other/"), null);
+  assert.equal(feedRewrite("https://www.sarth.net/category/music/feed/"), null);
+});
+
 test("other paths and formats are not feeds", () => {
   for (const url of [
     "https://www.sarth.net/beautiful-tornado",
@@ -137,6 +161,18 @@ test("the worker serves the atom feed for the old blog feed URL", async () => {
   assert.equal(new URL(seen[0].url).search, "");
 });
 
+test("the worker serves the site feed for /words?format=RSS and /feed/", async () => {
+  for (const url of ["https://www.sarth.net/words?format=RSS", "https://www.sarth.net/feed/", "https://www.sarth.net/feed/rss/"]) {
+    const { seen, env } = assets("<feed/>", "application/xml");
+    const res = await worker.fetch(new Request(url, {
+      headers: { host: "www.sarth.net", "cf-visitor": '{"scheme":"https"}' },
+    }), env);
+    assert.equal(res.status, 200);
+    assert.equal(res.headers.get("content-type"), "application/atom+xml; charset=utf-8");
+    assert.equal(new URL(seen[0].url).pathname, "/feed.xml");
+  }
+});
+
 test("a beautiful-tornado page is passed to assets as requested", async () => {
   const request = new Request("https://www.sarth.net/beautiful-tornado", {
     headers: { host: "www.sarth.net", "cf-visitor": '{"scheme":"https"}' },
@@ -156,3 +192,4 @@ test("http on the podcast feed still redirects to https and keeps the query", as
   assert.equal(res.headers.get("location"), "https://www.sarth.net/beautiful-tornado?format=rss");
   assert.equal(seen.length, 0);
 });
+

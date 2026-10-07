@@ -14,7 +14,8 @@ export default {
       });
     }
     // Apple Podcasts and podcastrepublic subscribe to the old Squarespace
-    // feed address, and the old blog feed was /words?format=rss.
+    // feed address, and the old blog feeds were /words?format=rss and the
+    // WordPress /feed/.
     // _redirects cannot match a query string.
     const feed = feedRewrite(request.url);
     if (feed) {

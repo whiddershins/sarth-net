@@ -181,6 +181,7 @@ None.
 Sentences say I (Sarth's rule, 23 Sep 2026). Sentences that still name Sarth, outside quotes,
 captions, labels and data, with the first one on each page. About and Citations are exempt.
 
+- https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/ (1): Sarth Clips · February 27, 2010
 - https://www.sarth.net/category/conspiracies/sarth-solo-projects/ (2): The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest first. 10 of them, with a link where the po
 - https://www.sarth.net/category/music/clips/ (1): Sarth Clips · February 27, 2010
 - https://www.sarth.net/category/music/page/2/ (1): Sarth Clips · February 27, 2010
@@ -193,6 +194,7 @@ captions, labels and data, with the first one on each page. About and Citations 
 - https://www.sarth.net/tag/lucibel-crater-the-family-album/ (1): Sarth Clips · February 27, 2010
 - https://www.sarth.net/tag/sarth/ (1): The posts tagged Sarth on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a po
 - https://www.sarth.net/transmissions/beautiful-tornado/rich-navs-positivity-mission/ (1): Songwriter, poet, firefighter, transatlantic sailor, dad… Richard Naviasky @the1nav does a LOT of stuff and then sings e
+- https://www.sarth.net/video-exactly-where-you-are/ (1): Posted on sarth.net at this address on March 22, 2010, from Common Crawl’s copy of the page of November 1, 2014. The pos
 
 ## Attribution
 
@@ -295,4 +297,4 @@ excerpt. The check fails a slot that lacks its attribution. Pages with no slots 
 Machine · Dream · Message (Sarth, 23 Sep 2026): one per story or essay page, `data-facet` on <main>,
 shown in the kicker and listed on the homepage by the build. The check fails a page without one.
 
-- 24 machine · 49 dream · 16 message
+- 24 machine · 72 dream · 16 message

@@ -42,6 +42,11 @@
 /introspections-about/ /transmissions/introspections/ 200
 /introspections-collection /transmissions/introspections/ 200
 /introspections-collection/ /transmissions/introspections/ 200
+# Squarespace image pages that came back as pages at their own addresses.
+/gralbum /gralbum/ 200
+/lucibel-crater /lucibel-crater/ 200
+/the-book-of-sarth /the-book-of-sarth/ 200
+/me-time-score /me-time-score/ 200
 
 # Squarespace blog posts: The transmissions have begun (/words).
 /words/2026/7/31/visual-reference-prompting /transmissions/visual-reference-prompting/ 200

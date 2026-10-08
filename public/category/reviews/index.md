@@ -26,9 +26,7 @@ The posts filed under Reviews on the WordPress sarth.net, newest first. 5 of the
 
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
-- **Talking about Lou’s “Return to Darkness”** · July 16, 2012
-
-  Not recovered.
+- **[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)** · July 16, 2012
 
   Tags: Germany, [Lou Reed](/tag/lou-reed/).
 

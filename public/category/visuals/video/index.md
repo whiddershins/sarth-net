@@ -12,25 +12,13 @@ Page 1 of the posts filed under Video on the WordPress sarth.net, newest first, 
 
 - **[Amazing, amazing, drumming](/amazing-amazing-drumming/)** · July 1, 2013
 
-- **Some clips of the 21 form** · June 12, 2013
+- **[Some clips of the 21 form](/some-clips-of-the-21-form/)** · June 12, 2013
 
-  Not recovered.
+- **[Lulu in Cologne](/lulu-in-cologne/)** · November 12, 2011
 
-- **Lulu in Cologne** · November 12, 2011
+- **[Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)** · November 9, 2011
 
-  Had a great time performing 5 songs from Lulu in Cologne … it was such and intense experience. Here’s a video of Mistress Dread
-
-  The rest of the post was not recovered.
-
-- **Iced Honey on the Jools Holland show** · November 9, 2011
-
-  Got to play some of these Lulu tracks on the Jools Holland show … the first live performances of this material!
-
-  The rest of the post was not recovered.
-
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 

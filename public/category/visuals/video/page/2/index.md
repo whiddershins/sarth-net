@@ -10,19 +10,13 @@ The WordPress sarth.net, 2010 to 2014
 
 Page 2 of the posts filed under Video on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **mm3 in brussels, video from youtube** · July 1, 2010
-
-  came across this randomly and always like to see myself jumping up and down. tommy’s tees in the house.
-
-  The rest of the post was not recovered.
+- **[mm3 in brussels, video from youtube](/mm3-in-brussels-video-from-youtube/)** · July 1, 2010
 
 - **[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)** · March 22, 2010
 
   Tags: [Video](/tag/video/).
 
-- **Video: Lucibel Crater – Noise I Groove – Blue Stationwagon** · March 22, 2010
-
-  Not recovered.
+- **[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)** · March 22, 2010
 
   Tags: [Video](/tag/video/).
 
@@ -30,9 +24,7 @@ Page 2 of the posts filed under Video on the WordPress sarth.net, newest first, 
 
   Tags: [Video](/tag/video/).
 
-- **Video: Exactly Where You Are** · March 22, 2010
-
-  Not recovered.
+- **[Video: Exactly Where You Are](/video-exactly-where-you-are/)** · March 22, 2010
 
 Page 2 of 3 · [1](/category/visuals/video/) · 2 · [3](/category/visuals/video/page/3/)
 

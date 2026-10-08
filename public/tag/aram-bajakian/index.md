@@ -10,9 +10,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged aram bajakian on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 

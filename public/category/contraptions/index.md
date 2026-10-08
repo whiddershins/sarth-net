@@ -22,9 +22,7 @@ The posts filed under Contraptions on the WordPress sarth.net, newest first. 5 o
 
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
-- **JAMBOXES** · July 9, 2012
-
-  Not recovered.
+- **[JAMBOXES](/moldovers-jam-boxes/)** · July 9, 2012
 
   Tags: Moldover.
 

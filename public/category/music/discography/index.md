@@ -18,7 +18,7 @@ The posts filed under discography on the WordPress sarth.net, newest first. 5 of
 
 - **[Lucibel Crater : The Family Album](/transmissions/the-family-album/)** · March 11, 2010
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 

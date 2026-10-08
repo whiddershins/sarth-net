@@ -16,7 +16,7 @@ Page 2 of the posts filed under Music on the WordPress sarth.net, newest first, 
 
   Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 

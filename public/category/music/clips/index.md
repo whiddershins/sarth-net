@@ -8,7 +8,9 @@ The WordPress sarth.net, 2010 to 2014
 
 # Clips
 
-The posts filed under clips on the WordPress sarth.net, newest first. 2 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
+The posts filed under clips on the WordPress sarth.net, newest first. 3 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
+
+- **[Book of Sarth clips](/to-your-rescue/)** · November 10, 2011
 
 - **[Book of Sarth clips](/book-of-sarth-sneak-preview/)** · November 10, 2011
 

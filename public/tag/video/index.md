@@ -14,9 +14,7 @@ The posts tagged Video on the WordPress sarth.net, newest first, with a link whe
 
   Tags: [Video](/tag/video/).
 
-- **Video: Lucibel Crater – Noise I Groove – Blue Stationwagon** · March 22, 2010
-
-  Not recovered.
+- **[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)** · March 22, 2010
 
   Tags: [Video](/tag/video/).
 

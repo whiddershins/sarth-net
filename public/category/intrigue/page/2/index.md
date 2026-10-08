@@ -14,27 +14,19 @@ Page 2 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
-- **The Book of Sarth in the app store now!** · October 18, 2012
+- **[The Book of Sarth in the app store now!](/the-book-of-sarth-in-the-app-store-now/)** · October 18, 2012
 
-  Not recovered.
-
-- **JAMBOXES** · July 9, 2012
-
-  Not recovered.
+- **[JAMBOXES](/moldovers-jam-boxes/)** · July 9, 2012
 
   Tags: Moldover.
 
-- **Amsterdam Cafe** · June 15, 2012
-
-  Amsterdam cafe-cat.
-
-  The rest of the post was not recovered.
+- **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
   Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
-- **[Metal Machine Trio in 10.1 Ambisonic Installation](/conspiracies/creation-of-the-universe-ambisonic/)** · January 16, 2012
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
-  Tags: 10.1, ambisonic, arup soundlab, continuum fingerboard, csulb, [kyma](/tag/kyma/), live processing, [Lou Reed](/tag/lou-reed/), metal machine trio, [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 Page 2 of 5 · [1](/category/intrigue/) · 2 · [3](/category/intrigue/page/3/) · [4](/category/intrigue/page/4/) · [5](/category/intrigue/page/5/)
 

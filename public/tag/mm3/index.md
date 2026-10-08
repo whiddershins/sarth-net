@@ -10,9 +10,9 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged MM3 on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **[Metal Machine Trio in 10.1 Ambisonic Installation](/conspiracies/creation-of-the-universe-ambisonic/)** · January 16, 2012
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
-  Tags: 10.1, ambisonic, arup soundlab, continuum fingerboard, csulb, [kyma](/tag/kyma/), live processing, [Lou Reed](/tag/lou-reed/), metal machine trio, [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 - **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010
 

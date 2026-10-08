@@ -14,8 +14,8 @@ The posts tagged kyma on the WordPress sarth.net, newest first, with a link wher
 
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
-- **[Metal Machine Trio in 10.1 Ambisonic Installation](/conspiracies/creation-of-the-universe-ambisonic/)** · January 16, 2012
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
-  Tags: 10.1, ambisonic, arup soundlab, continuum fingerboard, csulb, [kyma](/tag/kyma/), live processing, [Lou Reed](/tag/lou-reed/), metal machine trio, [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 From the Internet Archive’s copy of this tag page of [March 5, 2014](https://web.archive.org/web/20140305084248/http://www.sarth.net/tag/kyma/), and the tags each recovered post carries.

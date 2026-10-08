@@ -14,9 +14,7 @@ The posts filed under Musings on the WordPress sarth.net, newest first. 4 of the
 
 - **[Our “Security” is an Auto-Immune Disease](/our-security-apparatus-is-an-auto-immune-disease-pt-1/)** · February 19, 2013
 
-- **I wish I had thought of this** · February 16, 2013
-
-  Not recovered.
+- **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
 
   Tags: drm, ip, piracy, pirate bay, [recursion](/tag/recursion/), surreal.
 

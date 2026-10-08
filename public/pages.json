@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 227,
+ "count": 265,
  "pages": [
   {
    "route": "/",
@@ -1644,9 +1644,11 @@
    "headings": [
     "What first-party means here",
     "[Sarth Calhoun](/)",
+    "[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)",
     "[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)",
     "[About](/about/)",
     "[Amazing, amazing, drumming](/amazing-amazing-drumming/)",
+    "[Amsterdam Cafe](/amsterdam-cafe/)",
     "[Bolted for the Briar Patch](/bolted-for-the-briar-patch/)",
     "[Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/)",
     "[Book of Sarth clips](/book-of-sarth-sneak-preview/)",
@@ -1756,18 +1758,31 @@
     "[Moog](/devices/moog/)",
     "[Runway](/devices/runway/)",
     "[Yamaha EX5](/devices/yamaha-ex5/)",
+    "[Gralbum has launched](/gralbum-has-launched/)",
+    "[I wish I had thought of this](/i-wish-i-had-thought-of-this/)",
+    "[Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)",
     "[Intrigue, the Squarespace news page](/intrigue/)",
     "[Lucibel Crater Clips](/lucibel-crater-clips/)",
+    "[Lulu in Cologne](/lulu-in-cologne/)",
     "[Lulu](/lulucd/)",
+    "[Lulu now officially released](/lulureleased/)",
     "[Video: Lucibel Crater – Masticate](/masicate-video/)",
+    "[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)",
     "[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)",
+    "[JAMBOXES](/moldovers-jam-boxes/)",
+    "[Number19 – Suspension](/number19-suspension/)",
     "[Our “Security” is an Auto-Immune Disease](/our-security-apparatus-is-an-auto-immune-disease-pt-1/)",
     "[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)",
     "[Power and Serenity](/power-and-serenity-for-sale/)",
+    "[(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/)",
     "[Recursive functions in teapots](/recursive-functions-in-teapots/)",
     "[Rumors](/rumors/)",
     "[Sightings](/sightings/)",
     "[Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)",
+    "[Some clips of the 21 form](/some-clips-of-the-21-form/)",
+    "[Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)",
+    "[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)",
+    "[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)",
     "[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)",
     "[Tag: aram bajakian](/tag/aram-bajakian/)",
     "[Tag: audioclips](/tag/audioclips/)",
@@ -1823,7 +1838,9 @@
     "[Tag: Video](/tag/video/)",
     "[Tag: White Light White Heat](/tag/white-light-white-heat/)",
     "[Tag: Zond](/tag/zond/)",
+    "[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)",
     "[The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)",
+    "[The Book of Sarth in the app store now!](/the-book-of-sarth-in-the-app-store-now/)",
     "[Transmissions](/transmissions/)",
     "[Beautiful Tornado](/transmissions/beautiful-tornado/)",
     "[Rich Nav's Positivity Mission](/transmissions/beautiful-tornado/rich-navs-positivity-mission/)",
@@ -1854,6 +1871,7 @@
     "[Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/)",
     "[Window functions, the mental model](/transmissions/window-functions/)",
     "[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)",
+    "[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)",
     "[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)",
     "[The transmissions have begun . . .](/words/)",
     "[Work](/work/)"
@@ -1867,6 +1885,16 @@
    "description": "Contact Sarth Calhoun. mailto:sayhello@sarth.net. X @noisegroove.",
    "facet": null,
    "published": null,
+   "headings": []
+  },
+  {
+   "route": "/a-quick-clip-from-carhaix/",
+   "url": "https://www.sarth.net/a-quick-clip-from-carhaix/",
+   "markdown": "https://www.sarth.net/a-quick-clip-from-carhaix/index.md",
+   "title": "A quick clip from Carhaix",
+   "description": "A quick clip from Carhaix, a post by Sarth Calhoun first published at this address on sarth.net on July 20, 2011, linking a clip of the Lou Reed band at Carhaix in 2011.",
+   "facet": "dream",
+   "published": "2011-07-20",
    "headings": []
   },
   {
@@ -1889,6 +1917,16 @@
    "description": "Amazing, amazing, drumming, a post by Sarth Calhoun first published at this address on sarth.net on July 1, 2013: a link to a drumming video on YouTube that is no longer available.",
    "facet": "dream",
    "published": "2013-07-01",
+   "headings": []
+  },
+  {
+   "route": "/amsterdam-cafe/",
+   "url": "https://www.sarth.net/amsterdam-cafe/",
+   "markdown": "https://www.sarth.net/amsterdam-cafe/index.md",
+   "title": "Amsterdam Cafe",
+   "description": "Amsterdam Cafe, a post by Sarth Calhoun first published at this address on sarth.net on June 15, 2012, a photo of a cafe cat in Amsterdam, filed under the Lou Reed Band.",
+   "facet": "dream",
+   "published": "2012-06-15",
    "headings": []
   },
   {
@@ -1922,11 +1960,41 @@
    "headings": []
   },
   {
+   "route": "/category/conspiracies/lucibel-crater/page/2/",
+   "url": "https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/",
+   "markdown": "https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/index.md",
+   "title": "Lucibel Crater, page 2 of 2",
+   "description": "Lucibel Crater, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): Video: Lucibel Crater – Elvis Costello – Green Shirt; Video: Lucibel Crater – Masticate; Lucibel Crater : The Family Album; Sarth Clips.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/conspiracies/metal-machine-trio/page/2/",
+   "url": "https://www.sarth.net/category/conspiracies/metal-machine-trio/page/2/",
+   "markdown": "https://www.sarth.net/category/conspiracies/metal-machine-trio/page/2/index.md",
+   "title": "Metal Machine Trio, page 2 of 2",
+   "description": "Metal Machine Trio, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): MM3 interviewed in Art Rocker; Video: Metal Machine Trio infiltrates Lucibel Crater; Metal Machine Trio “The Creation of the Universe”.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/category/conspiracies/sarth-solo-projects/",
    "url": "https://www.sarth.net/category/conspiracies/sarth-solo-projects/",
    "markdown": "https://www.sarth.net/category/conspiracies/sarth-solo-projects/index.md",
    "title": "Sarth Solo Projects",
    "description": "Sarth Solo Projects, a conspiracy of the WordPress sarth.net (2010 to 2014): The Book of Sarth and the Gralbum, Power and Serenity, Noise Night and Lucibel Crater clips.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/conspirators/lou-reed/page/3/",
+   "url": "https://www.sarth.net/category/conspirators/lou-reed/page/3/",
+   "markdown": "https://www.sarth.net/category/conspirators/lou-reed/page/3/index.md",
+   "title": "Lou Reed, page 3 of 3",
+   "description": "Lou Reed, page 3 of 3, a category of the WordPress sarth.net (2010 to 2014): Cool review comparing Creation of The Universe to Metal Machine Music; mm3 in brussels, video from youtube; Yellow Pony, Madrid, July 2009; Metal Machine Trio “The Creation of the Universe”.",
    "facet": null,
    "published": null,
    "headings": []
@@ -2185,6 +2253,56 @@
    "headings": []
   },
   {
+   "route": "/gralbum-has-launched/",
+   "url": "https://www.sarth.net/gralbum-has-launched/",
+   "markdown": "https://www.sarth.net/gralbum-has-launched/index.md",
+   "title": "Gralbum has launched",
+   "description": "Gralbum has launched, a post by Sarth Calhoun first published at this address on sarth.net on April 9, 2014, announcing the launch of the Gralbum.",
+   "facet": "dream",
+   "published": "2014-04-09",
+   "headings": []
+  },
+  {
+   "route": "/gralbum/",
+   "url": "https://www.sarth.net/gralbum/",
+   "markdown": "https://www.sarth.net/gralbum/index.md",
+   "title": "(Gr)album",
+   "description": "(Gr)album, a page of the Squarespace sarth.net dated February 9, 2015: 5 images, with no text, restored at its own address.",
+   "facet": null,
+   "published": "2015-02-09",
+   "headings": []
+  },
+  {
+   "route": "/hop-farm-201/",
+   "url": "https://www.sarth.net/hop-farm-201/",
+   "markdown": "https://www.sarth.net/hop-farm-201/index.md",
+   "title": "A couple of photos from hop farm",
+   "description": "A couple of photos from hop farm, a post by Sarth Calhoun first published at this address on sarth.net on July 4, 2011, two photos of the crowd taken from the stage at Hop Farm, filed under the Lou Reed Band.",
+   "facet": "dream",
+   "published": "2011-07-04",
+   "headings": []
+  },
+  {
+   "route": "/i-wish-i-had-thought-of-this/",
+   "url": "https://www.sarth.net/i-wish-i-had-thought-of-this/",
+   "markdown": "https://www.sarth.net/i-wish-i-had-thought-of-this/index.md",
+   "title": "I wish I had thought of this",
+   "description": "I wish I had thought of this, a post by Sarth Calhoun first published at this address on sarth.net on February 16, 2013, a Musings post.",
+   "facet": "dream",
+   "published": "2013-02-16",
+   "headings": []
+  },
+  {
+   "route": "/iced-honey-on-the-jools-holland-show/",
+   "url": "https://www.sarth.net/iced-honey-on-the-jools-holland-show/",
+   "markdown": "https://www.sarth.net/iced-honey-on-the-jools-holland-show/index.md",
+   "title": "Iced Honey on the Jools Holland show",
+   "description": "Iced Honey on the Jools Holland show, a post by Sarth Calhoun first published at this address on sarth.net on November 9, 2011, on playing Lulu tracks with Lou Reed and Metallica on Later… with Jools Holland.",
+   "facet": "dream",
+   "published": "2011-11-09",
+   "headings": []
+  },
+  {
    "route": "/intrigue/",
    "url": "https://www.sarth.net/intrigue/",
    "markdown": "https://www.sarth.net/intrigue/index.md",
@@ -2208,6 +2326,26 @@
    "headings": []
   },
   {
+   "route": "/lucibel-crater/",
+   "url": "https://www.sarth.net/lucibel-crater/",
+   "markdown": "https://www.sarth.net/lucibel-crater/index.md",
+   "title": "Lucibel Crater",
+   "description": "Lucibel Crater, a page of the Squarespace sarth.net dated February 17, 2015: 5 images, with no text, restored at its own address.",
+   "facet": null,
+   "published": "2015-02-17",
+   "headings": []
+  },
+  {
+   "route": "/lulu-in-cologne/",
+   "url": "https://www.sarth.net/lulu-in-cologne/",
+   "markdown": "https://www.sarth.net/lulu-in-cologne/index.md",
+   "title": "Lulu in Cologne",
+   "description": "Lulu in Cologne, a post by Sarth Calhoun first published at this address on sarth.net on November 12, 2011, on performing five songs from Lulu in Cologne, with the video of Mistress Dread.",
+   "facet": "dream",
+   "published": "2011-11-12",
+   "headings": []
+  },
+  {
    "route": "/lulucd/",
    "url": "https://www.sarth.net/lulucd/",
    "markdown": "https://www.sarth.net/lulucd/index.md",
@@ -2215,6 +2353,16 @@
    "description": "Lulu, a discography post by Sarth Calhoun first published at this address on sarth.net on November 6, 2011, about the Lou Reed and Metallica double album, on which he played every track.",
    "facet": "dream",
    "published": "2011-11-06",
+   "headings": []
+  },
+  {
+   "route": "/lulureleased/",
+   "url": "https://www.sarth.net/lulureleased/",
+   "markdown": "https://www.sarth.net/lulureleased/index.md",
+   "title": "Lulu now officially released",
+   "description": "Lulu now officially released, a post by Sarth Calhoun first published at this address on sarth.net on November 1, 2011, marking the release of Lulu, by Lou Reed and Metallica.",
+   "facet": "dream",
+   "published": "2011-11-01",
    "headings": []
   },
   {
@@ -2228,6 +2376,36 @@
    "headings": []
   },
   {
+   "route": "/me-time-score/",
+   "url": "https://www.sarth.net/me-time-score/",
+   "markdown": "https://www.sarth.net/me-time-score/index.md",
+   "title": "Me Time Score",
+   "description": "Me Time Score, a page of the Squarespace sarth.net dated February 16, 2021: a single image, with no text, restored at its own address.",
+   "facet": null,
+   "published": "2021-02-16",
+   "headings": []
+  },
+  {
+   "route": "/metal-machine-trio-in-10-1-ambisonic-installation/",
+   "url": "https://www.sarth.net/metal-machine-trio-in-10-1-ambisonic-installation/",
+   "markdown": "https://www.sarth.net/metal-machine-trio-in-10-1-ambisonic-installation/index.md",
+   "title": "Metal Machine Trio in 10.1 Ambisonic Installation",
+   "description": "Metal Machine Trio in 10.1 Ambisonic Installation, a post by Sarth Calhoun first published at this address on sarth.net on January 16, 2012, on the Metal Machine Trio’s Blender Theater shows reborn as a 10.1 ambisonic installation at California State University, Long Beach.",
+   "facet": "dream",
+   "published": "2012-01-16",
+   "headings": []
+  },
+  {
+   "route": "/mm3-in-brussels-video-from-youtube/",
+   "url": "https://www.sarth.net/mm3-in-brussels-video-from-youtube/",
+   "markdown": "https://www.sarth.net/mm3-in-brussels-video-from-youtube/index.md",
+   "title": "mm3 in brussels, video from youtube",
+   "description": "mm3 in brussels, video from youtube, a post by Sarth Calhoun first published at this address on sarth.net on July 1, 2010, on a video of the Metal Machine Trio in Brussels.",
+   "facet": "dream",
+   "published": "2010-07-01",
+   "headings": []
+  },
+  {
    "route": "/mm3-interviewed-in-art-rocker/",
    "url": "https://www.sarth.net/mm3-interviewed-in-art-rocker/",
    "markdown": "https://www.sarth.net/mm3-interviewed-in-art-rocker/index.md",
@@ -2235,6 +2413,36 @@
    "description": "MM3 interviewed in Art Rocker, a post by Sarth Calhoun first published at this address on sarth.net on April 21, 2010, about Art Rocker’s interview with the Metal Machine Trio before its 2010 tour.",
    "facet": "dream",
    "published": "2010-04-21",
+   "headings": []
+  },
+  {
+   "route": "/moldovers-jam-boxes/",
+   "url": "https://www.sarth.net/moldovers-jam-boxes/",
+   "markdown": "https://www.sarth.net/moldovers-jam-boxes/index.md",
+   "title": "JAMBOXES",
+   "description": "JAMBOXES, a post by Sarth Calhoun first published at this address on sarth.net on July 9, 2012, an image of Moldover’s jamboxes.",
+   "facet": "dream",
+   "published": "2012-07-09",
+   "headings": []
+  },
+  {
+   "route": "/number19-suspension/",
+   "url": "https://www.sarth.net/number19-suspension/",
+   "markdown": "https://www.sarth.net/number19-suspension/index.md",
+   "title": "Number19 – Suspension",
+   "description": "Number19 – Suspension, a post by Sarth Calhoun first published at this address on sarth.net on November 6, 2008, the discography entry for Number 19’s CD Suspension.",
+   "facet": "dream",
+   "published": "2008-11-06",
+   "headings": []
+  },
+  {
+   "route": "/original-carve-the-ham-photo/",
+   "url": "https://www.sarth.net/original-carve-the-ham-photo/",
+   "markdown": "https://www.sarth.net/original-carve-the-ham-photo/index.md",
+   "title": "Original “carve the ham” photo",
+   "description": "Original “carve the ham” photo, a post by Sarth Calhoun first published at this address on sarth.net on December 6, 2011, the original Lucibel Crater “carve the ham” photo.",
+   "facet": "dream",
+   "published": "2011-12-06",
    "headings": []
   },
   {
@@ -2271,6 +2479,16 @@
    "headings": []
   },
   {
+   "route": "/re-discovered-some-old-bass-playing/",
+   "url": "https://www.sarth.net/re-discovered-some-old-bass-playing/",
+   "markdown": "https://www.sarth.net/re-discovered-some-old-bass-playing/index.md",
+   "title": "(re) Discovered some old bass playing",
+   "description": "(re) Discovered some old bass playing, a post by Sarth Calhoun first published at this address on sarth.net on January 14, 2012, on rediscovering his bass playing on Mike Acerbo’s “Trilby”, with Rich Kulsar and Leah Coloff.",
+   "facet": "dream",
+   "published": "2012-01-14",
+   "headings": []
+  },
+  {
    "route": "/recursive-functions-in-teapots/",
    "url": "https://www.sarth.net/recursive-functions-in-teapots/",
    "markdown": "https://www.sarth.net/recursive-functions-in-teapots/index.md",
@@ -2293,6 +2511,46 @@
    ]
   },
   {
+   "route": "/some-clips-of-the-21-form/",
+   "url": "https://www.sarth.net/some-clips-of-the-21-form/",
+   "markdown": "https://www.sarth.net/some-clips-of-the-21-form/index.md",
+   "title": "Some clips of the 21 form",
+   "description": "Some clips of the 21 form, a post by Sarth Calhoun first published at this address on sarth.net on June 12, 2013, clips of the tai chi 21 form.",
+   "facet": "dream",
+   "published": "2013-06-12",
+   "headings": []
+  },
+  {
+   "route": "/some-photos-from-the-blender-theater/",
+   "url": "https://www.sarth.net/some-photos-from-the-blender-theater/",
+   "markdown": "https://www.sarth.net/some-photos-from-the-blender-theater/index.md",
+   "title": "Some photos from the Blender Theater",
+   "description": "Some photos from the Blender Theater, a post by Sarth Calhoun first published at this address on sarth.net on December 6, 2011, photos of the Metal Machine Trio at the Blender Theater.",
+   "facet": "dream",
+   "published": "2011-12-06",
+   "headings": []
+  },
+  {
+   "route": "/some-pics-from-jools-holland-and-taratata/",
+   "url": "https://www.sarth.net/some-pics-from-jools-holland-and-taratata/",
+   "markdown": "https://www.sarth.net/some-pics-from-jools-holland-and-taratata/index.md",
+   "title": "Some pics from Jools Holland and Taratata",
+   "description": "Some pics from Jools Holland and Taratata, a post by Sarth Calhoun first published at this address on sarth.net on November 10, 2011, photos from Jools Holland and Taratata.",
+   "facet": "dream",
+   "published": "2011-11-10",
+   "headings": []
+  },
+  {
+   "route": "/sydney-morning-herald-is-bracing-for-our-arrival/",
+   "url": "https://www.sarth.net/sydney-morning-herald-is-bracing-for-our-arrival/",
+   "markdown": "https://www.sarth.net/sydney-morning-herald-is-bracing-for-our-arrival/index.md",
+   "title": "Sydney Morning Herald is Bracing for our arrival",
+   "description": "Sydney Morning Herald is Bracing for our arrival, a post by Sarth Calhoun first published at this address on sarth.net on May 8, 2010, a Sydney Morning Herald press clip filed under the Metal Machine Trio.",
+   "facet": "dream",
+   "published": "2010-05-08",
+   "headings": []
+  },
+  {
    "route": "/symbolic-sound-book-of-sarth-review/",
    "url": "https://www.sarth.net/symbolic-sound-book-of-sarth-review/",
    "markdown": "https://www.sarth.net/symbolic-sound-book-of-sarth-review/index.md",
@@ -2303,11 +2561,41 @@
    "headings": []
   },
   {
+   "route": "/tag/10-1/",
+   "url": "https://www.sarth.net/tag/10-1/",
+   "markdown": "https://www.sarth.net/tag/10-1/index.md",
+   "title": "Tag: 10.1",
+   "description": "10.1, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/tag/ambisonic/",
+   "url": "https://www.sarth.net/tag/ambisonic/",
+   "markdown": "https://www.sarth.net/tag/ambisonic/index.md",
+   "title": "Tag: ambisonic",
+   "description": "ambisonic, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/tag/aram-bajakian/",
    "url": "https://www.sarth.net/tag/aram-bajakian/",
    "markdown": "https://www.sarth.net/tag/aram-bajakian/index.md",
    "title": "Tag: aram bajakian",
    "description": "aram bajakian, a tag of the WordPress sarth.net (2010 to 2014): A couple of photos from hop farm.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/tag/arup-soundlab/",
+   "url": "https://www.sarth.net/tag/arup-soundlab/",
+   "markdown": "https://www.sarth.net/tag/arup-soundlab/index.md",
+   "title": "Tag: arup soundlab",
+   "description": "arup soundlab, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.",
    "facet": null,
    "published": null,
    "headings": []
@@ -2363,11 +2651,31 @@
    "headings": []
   },
   {
+   "route": "/tag/continuum-fingerboard/",
+   "url": "https://www.sarth.net/tag/continuum-fingerboard/",
+   "markdown": "https://www.sarth.net/tag/continuum-fingerboard/index.md",
+   "title": "Tag: continuum fingerboard",
+   "description": "continuum fingerboard, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/tag/creation-of-the-universe/",
    "url": "https://www.sarth.net/tag/creation-of-the-universe/",
    "markdown": "https://www.sarth.net/tag/creation-of-the-universe/index.md",
    "title": "Tag: Creation of the Universe",
    "description": "Creation of the Universe, a tag of the WordPress sarth.net (2010 to 2014): Cool review comparing Creation of The Universe to Metal Machine Music.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/tag/csulb/",
+   "url": "https://www.sarth.net/tag/csulb/",
+   "markdown": "https://www.sarth.net/tag/csulb/index.md",
+   "title": "Tag: csulb",
+   "description": "csulb, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.",
    "facet": null,
    "published": null,
    "headings": []
@@ -2463,6 +2771,16 @@
    "headings": []
   },
   {
+   "route": "/tag/live-processing/",
+   "url": "https://www.sarth.net/tag/live-processing/",
+   "markdown": "https://www.sarth.net/tag/live-processing/index.md",
+   "title": "Tag: live processing",
+   "description": "live processing, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/tag/london/",
    "url": "https://www.sarth.net/tag/london/",
    "markdown": "https://www.sarth.net/tag/london/index.md",
@@ -2478,6 +2796,16 @@
    "markdown": "https://www.sarth.net/tag/lou-reed/index.md",
    "title": "Tag: Lou Reed",
    "description": "Lou Reed, a tag of the WordPress sarth.net (2010 to 2014): Talking about Lou’s “Return to Darkness”; Amsterdam Cafe; Metal Machine Trio in 10.1 Ambisonic Installation; Some pics from Jools Holland and Taratata; Lulu now officially released; A quick clip from Carhaix; A couple of photos from hop farm; Photos of Noise Night, Sydney; Cool review comparing Creation of The Universe to Metal Machine Music.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/tag/lou-reed/page/2/",
+   "url": "https://www.sarth.net/tag/lou-reed/page/2/",
+   "markdown": "https://www.sarth.net/tag/lou-reed/page/2/index.md",
+   "title": "Tag: Lou Reed, page 2 of 2",
+   "description": "Lou Reed, page 2 of 2, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney; Cool review comparing Creation of The Universe to Metal Machine Music.",
    "facet": null,
    "published": null,
    "headings": []
@@ -2558,6 +2886,16 @@
    "markdown": "https://www.sarth.net/tag/metal-machine-music/index.md",
    "title": "Tag: Metal Machine Music",
    "description": "Metal Machine Music, a tag of the WordPress sarth.net (2010 to 2014): Cool review comparing Creation of The Universe to Metal Machine Music.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/tag/metal-machine-trio-2/",
+   "url": "https://www.sarth.net/tag/metal-machine-trio-2/",
+   "markdown": "https://www.sarth.net/tag/metal-machine-trio-2/index.md",
+   "title": "Tag: metal machine trio",
+   "description": "metal machine trio, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.",
    "facet": null,
    "published": null,
    "headings": []
@@ -2843,6 +3181,16 @@
    "headings": []
   },
   {
+   "route": "/talking-about-lous-return-to-darkness/",
+   "url": "https://www.sarth.net/talking-about-lous-return-to-darkness/",
+   "markdown": "https://www.sarth.net/talking-about-lous-return-to-darkness/index.md",
+   "title": "Talking about Lou’s “Return to Darkness”",
+   "description": "Talking about Lou’s “Return to Darkness”, a post by Sarth Calhoun first published at this address on sarth.net on July 16, 2012, filed under Reviews and the Lou Reed Band.",
+   "facet": "dream",
+   "published": "2012-07-16",
+   "headings": []
+  },
+  {
    "route": "/the-book-of-sarth-gizmodo-apps-of-the-week/",
    "url": "https://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/",
    "markdown": "https://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/index.md",
@@ -2855,11 +3203,61 @@
    ]
   },
   {
+   "route": "/the-book-of-sarth-in-the-app-store-now/",
+   "url": "https://www.sarth.net/the-book-of-sarth-in-the-app-store-now/",
+   "markdown": "https://www.sarth.net/the-book-of-sarth-in-the-app-store-now/index.md",
+   "title": "The Book of Sarth in the app store now!",
+   "description": "The Book of Sarth in the app store now!, a post by Sarth Calhoun first published at this address on sarth.net on October 18, 2012, announcing The Book of Sarth in the App Store.",
+   "facet": "dream",
+   "published": "2012-10-18",
+   "headings": []
+  },
+  {
+   "route": "/the-book-of-sarth/",
+   "url": "https://www.sarth.net/the-book-of-sarth/",
+   "markdown": "https://www.sarth.net/the-book-of-sarth/index.md",
+   "title": "The Book of Sarth",
+   "description": "The Book of Sarth, a page of the Squarespace sarth.net dated February 17, 2015: 10 images, with no text, restored at its own address.",
+   "facet": null,
+   "published": "2015-02-17",
+   "headings": []
+  },
+  {
+   "route": "/to-your-rescue/",
+   "url": "https://www.sarth.net/to-your-rescue/",
+   "markdown": "https://www.sarth.net/to-your-rescue/index.md",
+   "title": "Book of Sarth clips",
+   "description": "Book of Sarth clips, a post by Sarth Calhoun first published at this address on sarth.net on November 10, 2011, sharing an audio clip from The Book of Sarth.",
+   "facet": "dream",
+   "published": "2011-11-10",
+   "headings": []
+  },
+  {
+   "route": "/video-exactly-where-you-are/",
+   "url": "https://www.sarth.net/video-exactly-where-you-are/",
+   "markdown": "https://www.sarth.net/video-exactly-where-you-are/index.md",
+   "title": "Video: Exactly Where You Are",
+   "description": "Video: Exactly Where You Are, a post by Sarth Calhoun first published at this address on sarth.net on March 22, 2010, the Lucibel Crater video Exactly Where You Are.",
+   "facet": "dream",
+   "published": "2010-03-22",
+   "headings": []
+  },
+  {
    "route": "/video-lucibel-crater-elvis-costello-green-shirt/",
    "url": "https://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/",
    "markdown": "https://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/index.md",
    "title": "Video: Lucibel Crater – Elvis Costello – Green Shirt",
    "description": "Video: Lucibel Crater – Elvis Costello – Green Shirt, a video post by Sarth Calhoun first published at this address on sarth.net on March 22, 2010: Lucibel Crater playing Elvis Costello’s Green Shirt.",
+   "facet": "dream",
+   "published": "2010-03-22",
+   "headings": []
+  },
+  {
+   "route": "/video-lucibel-crater-noise-i-groove-blue-stationwagon/",
+   "url": "https://www.sarth.net/video-lucibel-crater-noise-i-groove-blue-stationwagon/",
+   "markdown": "https://www.sarth.net/video-lucibel-crater-noise-i-groove-blue-stationwagon/index.md",
+   "title": "Video: Lucibel Crater – Noise I Groove – Blue Stationwagon",
+   "description": "Video: Lucibel Crater – Noise I Groove – Blue Stationwagon, a post by Sarth Calhoun first published at this address on sarth.net on March 22, 2010, the Lucibel Crater video Blue Stationwagon.",
    "facet": "dream",
    "published": "2010-03-22",
    "headings": []

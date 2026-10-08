@@ -10,9 +10,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Lucibel Crater on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Original “carve the ham” photo** · December 6, 2011
-
-  Not recovered.
+- **[Original “carve the ham” photo](/original-carve-the-ham-photo/)** · December 6, 2011
 
   Tags: [Lucibel Crater](/tag/lucibel-crater/).
 

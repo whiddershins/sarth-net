@@ -86,7 +86,7 @@ Machine-readable companions:
 
 ## Pages
 
-227 pages follow, in reading order, separated by a horizontal rule.
+265 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -5919,6 +5919,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
 
+## [A quick clip from Carhaix](/a-quick-clip-from-carhaix/)
+
+`/a-quick-clip-from-carhaix/`
+
+- [Lou Reed band in Carhaix, 2011](http://www.dailymotion.com/video/xjyp1m_lou-reed-aux-vieilles-charrues-2011_music)
+
 ## [A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)
 
 `/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/`
@@ -5951,6 +5957,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/amazing-amazing-drumming/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20140304023347/http://www.sarth.net/amazing-amazing-drumming)
+
+## [Amsterdam Cafe](/amsterdam-cafe/)
+
+`/amsterdam-cafe/`
+
+- [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/)
 
 ## [Bolted for the Briar Patch](/bolted-for-the-briar-patch/)
 
@@ -6894,6 +6906,24 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 
+## [Gralbum has launched](/gralbum-has-launched/)
+
+`/gralbum-has-launched/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/)
+
+## [I wish I had thought of this](/i-wish-i-had-thought-of-this/)
+
+`/i-wish-i-had-thought-of-this/`
+
+- [March 6, 2014](https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/)
+
+## [Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)
+
+`/iced-honey-on-the-jools-holland-show/`
+
+- [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/)
+
 ## [Intrigue, the Squarespace news page](/intrigue/)
 
 `/intrigue/`
@@ -6907,11 +6937,23 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101031043933/http://www.sarth.net/lucibel-crater-clips/)
 
+## [Lulu in Cologne](/lulu-in-cologne/)
+
+`/lulu-in-cologne/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314002635/http://www.sarth.net/category/intrigue/page/3/)
+
 ## [Lulu](/lulucd/)
 
 `/lulucd/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20140305175009/http://www.sarth.net/lulucd/)
+
+## [Lulu now officially released](/lulureleased/)
+
+`/lulureleased/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/)
 
 ## [Video: Lucibel Crater – Masticate](/masicate-video/)
 
@@ -6919,11 +6961,29 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101031050339/http://www.sarth.net/masicate-video/)
 
+## [Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)
+
+`/metal-machine-trio-in-10-1-ambisonic-installation/`
+
+- [10.1 ambisonic installation](https://web.archive.org/web/20120131143544/http://www.csulb.edu:80/org/uam/EXHIBITIONSupcoming.html)
+
 ## [MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)
 
 `/mm3-interviewed-in-art-rocker/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101031050447/http://www.sarth.net/mm3-interviewed-in-art-rocker/)
+
+## [JAMBOXES](/moldovers-jam-boxes/)
+
+`/moldovers-jam-boxes/`
+
+- [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/)
+
+## [Number19 – Suspension](/number19-suspension/)
+
+`/number19-suspension/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/)
 
 ## [Our “Security” is an Auto-Immune Disease](/our-security-apparatus-is-an-auto-immune-disease-pt-1/)
 
@@ -6946,6 +7006,20 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [http://loureed.com/power/](https://web.archive.org/web/2010/http://loureed.com/power/)
 - [Internet Archive’s copy](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
+
+## [(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/)
+
+`/re-discovered-some-old-bass-playing/`
+
+- [Mike Acerbo](http://www.mikeacerbo.com/home.html)
+- [written up in CMJ](https://web.archive.org/web/20120303062942/http://www.cmj.com/news/cmj-exclusive-mike-acerbo-premieres-trilby/)
+- [I played bass](http://mikeacerbo.bandcamp.com/)
+- [Trilby](http://soundcloud.com/cmjnetwork/trilby)
+- [CMJ Network](https://web.archive.org/web/20120419205101/http://soundcloud.com/cmjnetwork)
+- [Rich Kulsar](https://web.archive.org/web/20121012062316/http://www.richkulsar.com:80/)
+- [Leah Coloff](https://web.archive.org/web/20110815153100/http://www.leahcoloff.com/news.html)
+- [The Search by Mike Acerbo](http://mikeacerbo.bandcamp.com/album/the-search)
+- [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/)
 
 ## [Recursive functions in teapots](/recursive-functions-in-teapots/)
 
@@ -7029,6 +7103,30 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Reaktor](https://reaktor.com)
 - [Stone’s](https://www.linkedin.com/posts/michele-stone-8150784_reaktorlive-engineering-data-activity-7074460781097955328-Qtbo)
 - [Fosbery’s](https://www.linkedin.com/posts/ian-fosbery_very-excited-to-be-moderating-this-chat-with-activity-7074777948012105728-AzwC)
+
+## [Some clips of the 21 form](/some-clips-of-the-21-form/)
+
+`/some-clips-of-the-21-form/`
+
+- [September 10, 2014](https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/)
+
+## [Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)
+
+`/some-photos-from-the-blender-theater/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/)
+
+## [Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)
+
+`/some-pics-from-jools-holland-and-taratata/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/)
+
+## [Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)
+
+`/sydney-morning-herald-is-bracing-for-our-arrival/`
+
+- [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/)
 
 ## [Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)
 
@@ -7361,6 +7459,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [October 31, 2010](https://web.archive.org/web/20101031050049/http://www.sarth.net/tag/zond/)
 
+## [Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)
+
+`/talking-about-lous-return-to-darkness/`
+
+- [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/)
+
 ## [The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)
 
 `/the-book-of-sarth-gizmodo-apps-of-the-week/`
@@ -7368,6 +7472,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)
 - [Internet Archive’s copy](https://web.archive.org/web/20140306125224/http://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/)
 - [copy of September 27, 2017](https://web.archive.org/web/20170927211510/http://www.sarth.net/rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week)
+
+## [The Book of Sarth in the app store now!](/the-book-of-sarth-in-the-app-store-now/)
+
+`/the-book-of-sarth-in-the-app-store-now/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
 
 ## [Transmissions](/transmissions/)
 
@@ -7658,6 +7768,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101102064145/http://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/)
 
+## [Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)
+
+`/video-lucibel-crater-noise-i-groove-blue-stationwagon/`
+
+- [November 2, 2010](https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/)
+
 ## [Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)
 
 `/video-metal-machine-trio-infiltrates-lucibel-crater/`
@@ -7721,6 +7837,26 @@ Third Wall Studio: [studio@thirdwallstudio.com](mailto:studio@thirdwallstudio.co
 
 ---
 
+# A quick clip from Carhaix
+
+https://www.sarth.net/a-quick-clip-from-carhaix/
+
+Jul 20, 2011 · Dream
+
+# A quick clip from Carhaix
+
+Yeah, you can see me in the back there for a second, ends with a great shot of the crowd in Carhaix. PJ Harvey and the Chemical Brothers followed us.
+
+[Lou Reed band in Carhaix, 2011](http://www.dailymotion.com/video/xjyp1m_lou-reed-aux-vieilles-charrues-2011_music)
+
+Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Lou Reed Band](/conspiracies/lou-reed-song-band/), [Video](/category/visuals/video/).
+
+Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
+
+Posted on sarth.net at this address on July 20, 2011, and reproduced here as written, from Common Crawl’s copy of the page of October 31, 2014. The Internet Archive has no copy of the post’s own page. The clip is on Dailymotion.
+
+---
+
 # A Wonderful writeup of The Book of Sarth on The Verge
 
 https://www.sarth.net/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/
@@ -7774,6 +7910,26 @@ The post was this one link, to a drumming video on YouTube. The video is no long
 Filed under: [Music](/category/music/), [Video](/category/visuals/video/).
 
 Posted on sarth.net at this address on July 1, 2013, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140304023347/http://www.sarth.net/amazing-amazing-drumming) of March 4, 2014.
+
+---
+
+# Amsterdam Cafe
+
+https://www.sarth.net/amsterdam-cafe/
+
+Jun 15, 2012 · Dream
+
+# Amsterdam Cafe
+
+Amsterdam cafe-cat.
+
+The post’s photo, titled “Amsterdam Cafe Cat” and captioned “looking for meeces?”, was not recovered.
+
+Filed under: [Intrigue](/category/intrigue/), [Lou Reed Band](/conspiracies/lou-reed-song-band/).
+
+Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+
+Posted on sarth.net at this address on June 15, 2012, and reproduced here as written, from the Internet Archive’s copy of the Intrigue page of [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/), which shows the post’s text and a thumbnail of the photo. The Internet Archive has no copy of the post’s own page.
 
 ---
 
@@ -7931,6 +8087,70 @@ Posted on sarth.net at this address on November 10, 2011, and reproduced here as
 
 ---
 
+# Lucibel Crater, page 2 of 2
+
+https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Lucibel Crater, page 2 of 2
+
+Page 2 of the posts filed under Lucibel Crater on the WordPress sarth.net, newest first, as the site showed them in May 2012. The page opened with the category’s description:
+
+> The rock/electronic group Sarth always dreamed he could have but never realized he would is called Lucibel Crater.
+> 
+> Often described as "cubist," this trio has been called "Bjork crossed with the White Stripes" and is fronted by singer/songwriter/cellist Leah Coloff, who has recorded for artists ranging from Dr. John to Ziggy Marley to Joel Thome to David Bowie, as well as receiving critical praise and radio play for her solo album "Dark Sweet Heart."
+> 
+> and with Paul Chuffo on drums. Lucibel Crater uses experimental methods to create music with familiar structure and grooves; A typical Lucibel Crater show might begin by meticulous live looping of syncopated drum parts, build into a crescendo of noise, then dissolve and coalesce into a catchy melody sung over a brooklyn-style groove.
+
+- **[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)** · March 22, 2010
+
+  Tags: [Video](/tag/video/).
+
+- **[Video: Lucibel Crater – Masticate](/masicate-video/)** · March 11, 2010
+
+  Tags: [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/), [Video](/tag/video/).
+
+- **[Lucibel Crater : The Family Album](/transmissions/the-family-album/)** · March 11, 2010
+
+- **[Sarth Clips](/lucibel-crater-clips/)** · February 27, 2010
+
+  Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
+
+Page 2 of 2 · [1](/category/conspiracies/lucibel-crater/) · 2
+
+As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it.
+
+---
+
+# Metal Machine Trio, page 2 of 2
+
+https://www.sarth.net/category/conspiracies/metal-machine-trio/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Metal Machine Trio, page 2 of 2
+
+Page 2 of the posts filed under Metal Machine Trio on the WordPress sarth.net, newest first, as the site showed them in May 2012. The page opened with the category’s description:
+
+> "We have formed a recording unit Called BEST SEAT IN THE HOUSE. We intend to put out different types of my music - from industrial to meditative to songs and all subway stops in between. - CREATE!"
+> 
+> --Lou Reed
+
+- **[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)** · April 21, 2010
+
+- **[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)** · March 22, 2010
+
+  Tags: [Video](/tag/video/).
+
+- **[Metal Machine Trio “The Creation of the Universe”](/transmissions/the-creation-of-the-universe/)** · March 22, 2010
+
+Page 2 of 2 · [1](/category/conspiracies/metal-machine-trio/) · 2
+
+As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it.
+
+---
+
 # Sarth Solo Projects
 
 https://www.sarth.net/category/conspiracies/sarth-solo-projects/
@@ -7941,7 +8161,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest first. 10 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
-- **[Gralbum has launched](/conspiracies/gralbum-collective/)** · April 9, 2014
+- **[Gralbum has launched](/gralbum-has-launched/)** · April 9, 2014
 
 - **[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)** · January 3, 2013
 
@@ -7979,6 +8199,32 @@ The category held these posts on the WordPress sarth.net, from 2010 to 2014. The
 
 ---
 
+# Lou Reed, page 3 of 3
+
+https://www.sarth.net/category/conspirators/lou-reed/page/3/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Lou Reed, page 3 of 3
+
+Page 3 of the posts filed under Lou Reed on the WordPress sarth.net, newest first, as the site showed them in May 2012.
+
+- **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010
+
+  Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+- **[mm3 in brussels, video from youtube](/mm3-in-brussels-video-from-youtube/)** · July 1, 2010
+
+- **[Yellow Pony, Madrid, July 2009](/conspiracies/yellow-pony/)** · June 18, 2010
+
+- **[Metal Machine Trio “The Creation of the Universe”](/transmissions/the-creation-of-the-universe/)** · March 22, 2010
+
+Page 3 of 3 · [1](/category/conspirators/lou-reed/) · 2 · 3
+
+As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it. No copy of page 2 survives.
+
+---
+
 # Contraptions
 
 https://www.sarth.net/category/contraptions/
@@ -8001,9 +8247,7 @@ The posts filed under Contraptions on the WordPress sarth.net, newest first. 5 o
 
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
-- **JAMBOXES** · July 9, 2012
-
-  Not recovered.
+- **[JAMBOXES](/moldovers-jam-boxes/)** · July 9, 2012
 
   Tags: Moldover.
 
@@ -8043,7 +8287,7 @@ The WordPress sarth.net, 2010 to 2014
 
 Page 1 of the posts filed under Intrigue on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **[Gralbum has launched](/conspiracies/gralbum-collective/)** · April 9, 2014
+- **[Gralbum has launched](/gralbum-has-launched/)** · April 9, 2014
 
 - **[Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/)** · January 24, 2013
 
@@ -8079,27 +8323,19 @@ Page 2 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
-- **The Book of Sarth in the app store now!** · October 18, 2012
+- **[The Book of Sarth in the app store now!](/the-book-of-sarth-in-the-app-store-now/)** · October 18, 2012
 
-  Not recovered.
-
-- **JAMBOXES** · July 9, 2012
-
-  Not recovered.
+- **[JAMBOXES](/moldovers-jam-boxes/)** · July 9, 2012
 
   Tags: Moldover.
 
-- **Amsterdam Cafe** · June 15, 2012
-
-  Amsterdam cafe-cat.
-
-  The rest of the post was not recovered.
+- **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
   Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
-- **[Metal Machine Trio in 10.1 Ambisonic Installation](/conspiracies/creation-of-the-universe-ambisonic/)** · January 16, 2012
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
-  Tags: 10.1, ambisonic, arup soundlab, continuum fingerboard, csulb, [kyma](/tag/kyma/), live processing, [Lou Reed](/tag/lou-reed/), metal machine trio, [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 Page 2 of 5 · [1](/category/intrigue/) · 2 · [3](/category/intrigue/page/3/) · [4](/category/intrigue/page/4/) · [5](/category/intrigue/page/5/)
 
@@ -8117,29 +8353,17 @@ The WordPress sarth.net, 2010 to 2014
 
 Page 3 of the posts filed under Intrigue on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **[(re) Discovered some old bass playing](/conspirators/mike-acerbo/)** · January 14, 2012
+- **[(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/)** · January 14, 2012
 
-- **Lulu in Cologne** · November 12, 2011
+- **[Lulu in Cologne](/lulu-in-cologne/)** · November 12, 2011
 
-  Had a great time performing 5 songs from Lulu in Cologne … it was such and intense experience. Here’s a video of Mistress Dread
-
-  The rest of the post was not recovered.
-
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
-- **Iced Honey on the Jools Holland show** · November 9, 2011
+- **[Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)** · November 9, 2011
 
-  Got to play some of these Lulu tracks on the Jools Holland show … the first live performances of this material!
-
-  The rest of the post was not recovered.
-
-- **Lulu now officially released** · November 1, 2011
-
-  Not recovered.
+- **[Lulu now officially released](/lulureleased/)** · November 1, 2011
 
   Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
 
@@ -8159,15 +8383,11 @@ The WordPress sarth.net, 2010 to 2014
 
 Page 4 of the posts filed under Intrigue on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -8197,15 +8417,9 @@ The WordPress sarth.net, 2010 to 2014
 
 Page 5 of the posts filed under Intrigue on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **mm3 in brussels, video from youtube** · July 1, 2010
+- **[mm3 in brussels, video from youtube](/mm3-in-brussels-video-from-youtube/)** · July 1, 2010
 
-  came across this randomly and always like to see myself jumping up and down. tommy’s tees in the house.
-
-  The rest of the post was not recovered.
-
-- **Sydney Morning Herald is Bracing for our arrival** · May 8, 2010
-
-  Not recovered.
+- **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
   Tags: [Noise](/tag/noise/), sydney opera house.
 
@@ -8247,9 +8461,7 @@ The posts filed under Press Clips on the WordPress sarth.net, newest first. 7 of
 
   Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
-- **Sydney Morning Herald is Bracing for our arrival** · May 8, 2010
-
-  Not recovered.
+- **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
   Tags: [Noise](/tag/noise/), sydney opera house.
 
@@ -8291,7 +8503,9 @@ The WordPress sarth.net, 2010 to 2014
 
 # Clips
 
-The posts filed under clips on the WordPress sarth.net, newest first. 2 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
+The posts filed under clips on the WordPress sarth.net, newest first. 3 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
+
+- **[Book of Sarth clips](/to-your-rescue/)** · November 10, 2011
 
 - **[Book of Sarth clips](/book-of-sarth-sneak-preview/)** · November 10, 2011
 
@@ -8337,7 +8551,7 @@ The posts filed under discography on the WordPress sarth.net, newest first. 5 of
 
 - **[Lucibel Crater : The Family Album](/transmissions/the-family-album/)** · March 11, 2010
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
@@ -8361,7 +8575,7 @@ Page 2 of the posts filed under Music on the WordPress sarth.net, newest first, 
 
   Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
@@ -8385,9 +8599,7 @@ The posts filed under Musings on the WordPress sarth.net, newest first. 4 of the
 
 - **[Our “Security” is an Auto-Immune Disease](/our-security-apparatus-is-an-auto-immune-disease-pt-1/)** · February 19, 2013
 
-- **I wish I had thought of this** · February 16, 2013
-
-  Not recovered.
+- **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
 
   Tags: drm, ip, piracy, pirate bay, [recursion](/tag/recursion/), surreal.
 
@@ -8455,9 +8667,7 @@ The posts filed under Reviews on the WordPress sarth.net, newest first. 5 of the
 
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
-- **Talking about Lou’s “Return to Darkness”** · July 16, 2012
-
-  Not recovered.
+- **[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)** · July 16, 2012
 
   Tags: Germany, [Lou Reed](/tag/lou-reed/).
 
@@ -8475,10 +8685,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts filed under Taiji on the WordPress sarth.net, newest first. 2 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
-- **Some clips of the 21 form** · June 12, 2013
-
-  Not recovered.
-
+- **[Some clips of the 21 form](/some-clips-of-the-21-form/)** · June 12, 2013
 - **[Power and Serenity](/power-and-serenity-for-sale/)** · July 21, 2010
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 10, 2014](https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/) and from the categories each recovered post carries.
@@ -8495,10 +8702,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts filed under uncategorized on the WordPress sarth.net, newest first. 2 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
-- **Some clips of the 21 form** · June 12, 2013
-
-  Not recovered.
-
+- **[Some clips of the 21 form](/some-clips-of-the-21-form/)** · June 12, 2013
 - **[Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/)** · January 24, 2013
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 9, 2014](https://web.archive.org/web/20140909160404/http://www.sarth.net/category/uncategorized/) and from the categories each recovered post carries.
@@ -8521,25 +8725,17 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
   Not recovered.
 
-- **Some photos from the Blender Theater** · December 6, 2011
+- **[Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)** · December 6, 2011
 
-  Not recovered.
-
-- **Original “carve the ham” photo** · December 6, 2011
-
-  Not recovered.
+- **[Original “carve the ham” photo](/original-carve-the-ham-photo/)** · December 6, 2011
 
   Tags: [Lucibel Crater](/tag/lucibel-crater/).
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -8551,41 +8747,23 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
 - **[Amazing, amazing, drumming](/amazing-amazing-drumming/)** · July 1, 2013
 
-- **Some clips of the 21 form** · June 12, 2013
+- **[Some clips of the 21 form](/some-clips-of-the-21-form/)** · June 12, 2013
 
-  Not recovered.
+- **[Lulu in Cologne](/lulu-in-cologne/)** · November 12, 2011
 
-- **Lulu in Cologne** · November 12, 2011
+- **[Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)** · November 9, 2011
 
-  Had a great time performing 5 songs from Lulu in Cologne … it was such and intense experience. Here’s a video of Mistress Dread
-
-  The rest of the post was not recovered.
-
-- **Iced Honey on the Jools Holland show** · November 9, 2011
-
-  Got to play some of these Lulu tracks on the Jools Holland show … the first live performances of this material!
-
-  The rest of the post was not recovered.
-
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
-- **mm3 in brussels, video from youtube** · July 1, 2010
-
-  came across this randomly and always like to see myself jumping up and down. tommy’s tees in the house.
-
-  The rest of the post was not recovered.
+- **[mm3 in brussels, video from youtube](/mm3-in-brussels-video-from-youtube/)** · July 1, 2010
 
 - **[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)** · March 22, 2010
 
   Tags: [Video](/tag/video/).
 
-- **Video: Lucibel Crater – Noise I Groove – Blue Stationwagon** · March 22, 2010
-
-  Not recovered.
+- **[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)** · March 22, 2010
 
   Tags: [Video](/tag/video/).
 
@@ -8593,9 +8771,7 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
   Tags: [Video](/tag/video/).
 
-- **Video: Exactly Where You Are** · March 22, 2010
-
-  Not recovered.
+- **[Video: Exactly Where You Are](/video-exactly-where-you-are/)** · March 22, 2010
 
 - **Video: Could I** · March 22, 2010
 
@@ -8623,25 +8799,17 @@ The posts filed under photo on the WordPress sarth.net, newest first. 6 of them,
 
   Not recovered.
 
-- **Some photos from the Blender Theater** · December 6, 2011
+- **[Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)** · December 6, 2011
 
-  Not recovered.
-
-- **Original “carve the ham” photo** · December 6, 2011
-
-  Not recovered.
+- **[Original “carve the ham” photo](/original-carve-the-ham-photo/)** · December 6, 2011
 
   Tags: [Lucibel Crater](/tag/lucibel-crater/).
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -8665,25 +8833,13 @@ Page 1 of the posts filed under Video on the WordPress sarth.net, newest first, 
 
 - **[Amazing, amazing, drumming](/amazing-amazing-drumming/)** · July 1, 2013
 
-- **Some clips of the 21 form** · June 12, 2013
+- **[Some clips of the 21 form](/some-clips-of-the-21-form/)** · June 12, 2013
 
-  Not recovered.
+- **[Lulu in Cologne](/lulu-in-cologne/)** · November 12, 2011
 
-- **Lulu in Cologne** · November 12, 2011
+- **[Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)** · November 9, 2011
 
-  Had a great time performing 5 songs from Lulu in Cologne … it was such and intense experience. Here’s a video of Mistress Dread
-
-  The rest of the post was not recovered.
-
-- **Iced Honey on the Jools Holland show** · November 9, 2011
-
-  Got to play some of these Lulu tracks on the Jools Holland show … the first live performances of this material!
-
-  The rest of the post was not recovered.
-
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -8703,19 +8859,13 @@ The WordPress sarth.net, 2010 to 2014
 
 Page 2 of the posts filed under Video on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **mm3 in brussels, video from youtube** · July 1, 2010
-
-  came across this randomly and always like to see myself jumping up and down. tommy’s tees in the house.
-
-  The rest of the post was not recovered.
+- **[mm3 in brussels, video from youtube](/mm3-in-brussels-video-from-youtube/)** · July 1, 2010
 
 - **[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)** · March 22, 2010
 
   Tags: [Video](/tag/video/).
 
-- **Video: Lucibel Crater – Noise I Groove – Blue Stationwagon** · March 22, 2010
-
-  Not recovered.
+- **[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)** · March 22, 2010
 
   Tags: [Video](/tag/video/).
 
@@ -8723,9 +8873,7 @@ Page 2 of the posts filed under Video on the WordPress sarth.net, newest first, 
 
   Tags: [Video](/tag/video/).
 
-- **Video: Exactly Where You Are** · March 22, 2010
-
-  Not recovered.
+- **[Video: Exactly Where You Are](/video-exactly-where-you-are/)** · March 22, 2010
 
 Page 2 of 3 · [1](/category/visuals/video/) · 2 · [3](/category/visuals/video/page/3/)
 
@@ -8801,6 +8949,100 @@ Posted on sarth.net at this address on July 7, 2010, and reproduced here as writ
 
 ---
 
+# Gralbum has launched
+
+https://www.sarth.net/gralbum-has-launched/
+
+Apr 9, 2014 · Dream
+
+# Gralbum has launched
+
+The WordPress copies show the post’s title and nothing else. Its text survives in the version reposted when the site moved to Squarespace in 2015, which kept this date: [(Gr)album has launched!](/rumors/2015/2/10/gralbum-has-launched)
+
+Filed under: [Alex Smith](/conspirators/alex-wyly/), [Archie P. Valdez](/conspirators/archie-p-valdez/), [Billy Martin](/conspirators/billy-martin/), [Book of Sarth](/conspiracies/book-of-sarth/), [Intrigue](/category/intrigue/), [Leah Coloff](/conspirators/leah-coloff/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/), [The Gralbum Collective](/conspiracies/gralbum-collective/).
+
+Posted on sarth.net at this address on April 9, 2014. The Internet Archive has no copy of the post’s own page. The title, date and categories come from the Internet Archive’s copy of the Intrigue page of [September 5, 2014](https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/); no copy shows more of the post than is given here.
+
+---
+
+# (Gr)album
+
+https://www.sarth.net/gralbum/
+
+Feb 9, 2015 · The Squarespace sarth.net
+
+# (Gr)album
+
+![An ornate gold S on a patterned brown and turquoise cover.](/images/book-cover-1.jpg)
+
+![Thomas Hart, “Train of Thots”, in bright bands of lettering: “This is New York, it aint pretty. All Train’o’Thots are drawn in transit on the New York City subway.”](/images/tot-cover.jpg)
+
+![A woman’s face crossed by thin white lines.](/images/sunken-cathedral-cover.jpg)
+
+![A pen sketch of a head behind a microphone.](/images/am-12.png)
+
+![A painted tree trunk among branches against a blue sky.](/images/cover-this-tree.jpg)
+
+A page of the Squarespace sarth.net, dated February 9, 2015 in the site’s own Squarespace export of September 22, 2026, which is where these images come from. The page was 5 images, in this order, with no text, captions or alt text; the alt text here is new. The Internet Archive has no copy of the page.
+
+---
+
+# A couple of photos from hop farm
+
+https://www.sarth.net/hop-farm-201/
+
+Jul 4, 2011 · Dream
+
+# A couple of photos from hop farm
+
+Have a coupe of photos of the crowd taken from the stage at hop farm. The 8-piece band is functioning as well as I had hoped, each player contributes soething really wonderful and unique. Next stop: London/Hammersmith.
+
+The post’s two photos, 20110704-010210.jpg and 20110704-010247.jpg, were not recovered.
+
+Filed under: [Intrigue](/category/intrigue/), [Lou Reed Band](/conspiracies/lou-reed-song-band/), [photo](/category/visuals/photo/).
+
+Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
+
+Posted on sarth.net at this address on July 4, 2011, and reproduced here as written, from Common Crawl’s copy of the page of November 1, 2014. The Internet Archive has no copy of the post’s own page.
+
+---
+
+# I wish I had thought of this
+
+https://www.sarth.net/i-wish-i-had-thought-of-this/
+
+Feb 16, 2013 · Dream
+
+# I wish I had thought of this
+
+The post was an image, tpb.jpg, which was not recovered; the feed gave the image’s address as the whole summary of the post.
+
+Filed under: [Musings](/category/musings/).
+
+Tags: drm, ip, piracy, pirate bay, [recursion](/tag/recursion/), surreal.
+
+Posted on sarth.net at this address on February 16, 2013. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the recursion tag page of [March 6, 2014](https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/), and the site’s Atom feed as Common Crawl captured it on May 25, 2013; no copy shows more of the post than is given here.
+
+---
+
+# Iced Honey on the Jools Holland show
+
+https://www.sarth.net/iced-honey-on-the-jools-holland-show/
+
+Nov 9, 2011 · Dream
+
+# Iced Honey on the Jools Holland show
+
+Got to play some of these Lulu tracks on the Jools Holland show … the first live performances of this material!
+
+The post embedded a YouTube video (8pXFRgxThkY) that is no longer on YouTube.
+
+Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Lulu](/conspiracies/lulu/), [Metallica](/conspirators/metallica/), [Video](/category/visuals/video/).
+
+Posted on sarth.net at this address on November 9, 2011, and reproduced here as written, from the site’s RSS feed as Common Crawl captured it on May 20, 2012, checked against the Internet Archive’s copy of the Intrigue page of [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/). The Internet Archive has no copy of the post’s own page.
+
+---
+
 # Intrigue, the Squarespace news page
 
 https://www.sarth.net/intrigue/
@@ -8861,6 +9103,48 @@ Posted on sarth.net at this address on February 27, 2010, and reproduced here as
 
 ---
 
+# Lucibel Crater
+
+https://www.sarth.net/lucibel-crater/
+
+Feb 17, 2015 · The Squarespace sarth.net
+
+# Lucibel Crater
+
+![Lucibel Crater, inside gatefold panel.](/images/lucibel-crater-inside-panel.jpg)
+
+![The original carve the ham photo: three people at a table laden with food.](/images/lucibel-crater-carve-the-ham.jpg)
+
+![Lucibel Crater on stage: Sarth Calhoun, Leah Coloff, Paul Chuffo.](/images/mwm-5991.jpg)
+
+![Lucibel Crater at a table: Leah Coloff, Sarth Calhoun, Paul Chuffo.](/images/mwm-6816.jpg)
+
+![Lucibel Crater outdoors in Brooklyn, black and white: Paul Chuffo, Sarth Calhoun, Leah Coloff.](/images/l1000209.jpg)
+
+A page of the Squarespace sarth.net, dated February 17, 2015 in the site’s own Squarespace export of September 22, 2026, which is where these images come from. The page was 5 images, in this order, with no text, captions or alt text; the alt text here is new. The Internet Archive has no copy of the page.
+
+---
+
+# Lulu in Cologne
+
+https://www.sarth.net/lulu-in-cologne/
+
+Nov 12, 2011 · Dream
+
+# Lulu in Cologne
+
+Had a great time performing 5 songs from Lulu in Cologne … it was such and intense experience.
+
+Here’s a video of Mistress Dread
+
+[Embedded player](https://www.youtube.com/embed/Sdrgdh5U3z0)
+
+Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Lulu](/conspiracies/lulu/), [Metallica](/conspirators/metallica/), [Video](/category/visuals/video/).
+
+Posted on sarth.net at this address on November 12, 2011, and reproduced here as written, from the Internet Archive’s copy of the Intrigue page of [March 14, 2014](https://web.archive.org/web/20140314002635/http://www.sarth.net/category/intrigue/page/3/), which shows the whole post. The Internet Archive has no copy of the post’s own page. The video is the one the post embedded, still on YouTube.
+
+---
+
 # Lulu
 
 https://www.sarth.net/lulucd/
@@ -8878,6 +9162,24 @@ Conspirators: [Lou Reed](/conspirators/lou-reed/), [Metallica](/conspirators/met
 Filed under: [discography](/category/music/discography/), [Lou Reed](/conspirators/lou-reed/), [Lulu](/conspiracies/lulu/), [Metallica](/conspirators/metallica/).
 
 Posted on sarth.net at this address on November 6, 2011 (the date the site’s Music listing gives it), and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140305175009/http://www.sarth.net/lulucd/) of March 5, 2014. The post opened with the album cover, which was not recovered.
+
+---
+
+# Lulu now officially released
+
+https://www.sarth.net/lulureleased/
+
+Nov 1, 2011 · Dream
+
+# Lulu now officially released
+
+Every copy of the post shows its title and nothing else; the body was not captured.
+
+Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Lulu](/conspiracies/lulu/), [Metallica](/conspirators/metallica/).
+
+Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
+
+Posted on sarth.net at this address on November 1, 2011. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the Lulu tag page of [March 5, 2014](https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/); no copy shows more of the post than is given here.
 
 ---
 
@@ -8899,6 +9201,66 @@ Posted on sarth.net at this address on March 11, 2010, and reproduced here as wr
 
 ---
 
+# Me Time Score
+
+https://www.sarth.net/me-time-score/
+
+Feb 16, 2021 · The Squarespace sarth.net
+
+# Me Time Score
+
+![A handwritten notebook page of rhythm notation headed “Me time hook is 3+3+2 pattern”, with the words “can’t stop thinking” written over the bars.](/images/me-time-score.jpg)
+
+A page of the Squarespace sarth.net, dated February 16, 2021 in the site’s own Squarespace export of September 22, 2026, which is where the image comes from. The page was a single image, with no text, caption or alt text; the alt text here is new. It was still at this address in August 2026. The Internet Archive has no copy of the page.
+
+---
+
+# Metal Machine Trio in 10.1 Ambisonic Installation
+
+https://www.sarth.net/metal-machine-trio-in-10-1-ambisonic-installation/
+
+Jan 16, 2012 · Dream
+
+# Metal Machine Trio in 10.1 Ambisonic Installation
+
+The MM3 Blender Theater shows have been reborn as a[10.1 ambisonic installation](https://web.archive.org/web/20120131143544/http://www.csulb.edu:80/org/uam/EXHIBITIONSupcoming.html) hosted by California State University at Long Beach (that’s csulb for those in the know) and I do wonder what it sounds like!
+
+Lou and Ulrich both say it sounds amazing so it must be true.
+
+It utilizes some mad technology by the guys at Arup Engineering SoundLab. Oh yeah. They had mics all over that place, and now they present the music to you as if you are there on stage, or something.
+
+More details to come?
+
+Maybe!
+
+The post ended with the exhibition’s photo from the CSULB site, titled “MM3 with secret guy in the background”. It was not recovered.
+
+Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Ulrich Krieger](/conspirators/ulrich-krieger/).
+
+Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+Posted on sarth.net at this address on January 16, 2012, and reproduced here as written, from Common Crawl’s copy of the page of February 23, 2012. The Internet Archive has no copy of the post’s own page. The link to the exhibition page now goes to the Internet Archive’s copy of it of January 31, 2012, because the CSULB page is gone.
+
+---
+
+# mm3 in brussels, video from youtube
+
+https://www.sarth.net/mm3-in-brussels-video-from-youtube/
+
+Jul 1, 2010 · Dream
+
+# mm3 in brussels, video from youtube
+
+The post opened with a YouTube video (yiyoNy2aNKs) that is no longer on YouTube.
+
+came across this randomly and always like to see myself jumping up and down. tommy’s tees in the house.
+
+Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Ulrich Krieger](/conspirators/ulrich-krieger/), [Video](/category/visuals/video/).
+
+Posted on sarth.net at this address on July 1, 2010, and reproduced here as written, from Common Crawl’s copy of page 3 of the Lou Reed category of May 20, 2012, which shows the whole post. The Internet Archive has no copy of the post’s own page.
+
+---
+
 # MM3 interviewed in Art Rocker
 
 https://www.sarth.net/mm3-interviewed-in-art-rocker/
@@ -8914,6 +9276,60 @@ The post showed the printed interview, captioned “MM3 in Art Rocker” (file L
 Filed under: [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Press Clips](/category/intrigue/press-clips/).
 
 Posted on sarth.net at this address on April 21, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20101031050447/http://www.sarth.net/mm3-interviewed-in-art-rocker/) of October 31, 2010.
+
+---
+
+# JAMBOXES
+
+https://www.sarth.net/moldovers-jam-boxes/
+
+Jul 9, 2012 · Dream
+
+# JAMBOXES
+
+![An octagonal instrument with eight small keyboards around a central hub, marked www.octamasher.com.](http://1.bp.blogspot.com/-By0VflbFwtU/T_aGKAYcpfI/AAAAAAAACNw/ABmxzTcjO9s/s640/SP_Octamasher_portrait.jpg)
+
+Filed under: [Contraptions](/category/contraptions/), [Intrigue](/category/intrigue/).
+
+Tags: Moldover.
+
+Posted on sarth.net at this address on July 9, 2012, from the Internet Archive’s copy of the Intrigue page of [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/), which shows the whole post: this one image, from Moldover’s blog. The Internet Archive has no copy of the post’s own page.
+
+---
+
+# Number19 – Suspension
+
+https://www.sarth.net/number19-suspension/
+
+Nov 6, 2008 · Dream
+
+# Number19 – Suspension
+
+The post showed the cover of the Number 19 CD Suspension (the thumbnail was titled “Suspension”, with the caption “Number 19 - Suspension CD Cover”). Its text, if it had any, was not captured.
+
+Filed under: [discography](/category/music/discography/), [Leah Coloff](/conspirators/leah-coloff/), [Mark Righter](/conspirators/mark-righter/), [Number 19](/conspiracies/number19/), [Tony Diodore](/conspirators/tony-diodore/).
+
+Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
+
+Posted on sarth.net at this address on November 6, 2008. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the Number 19 tag page of [March 5, 2014](https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/); no copy shows more of the post than is given here.
+
+---
+
+# Original “carve the ham” photo
+
+https://www.sarth.net/original-carve-the-ham-photo/
+
+Dec 6, 2011 · Dream
+
+# Original “carve the ham” photo
+
+![The original carve the ham photo: three people at a table laden with food.](/images/lucibel-crater-carve-the-ham.jpg)
+
+Filed under: [Lucibel Crater](/conspiracies/lucibel-crater/), [photo](/category/visuals/photo/).
+
+Tags: [Lucibel Crater](/tag/lucibel-crater/).
+
+Posted on sarth.net at this address on December 6, 2011. The Internet Archive has no copy of the post’s own page. The post was this photo; the site’s RSS feed as Common Crawl captured it on February 23, 2012 and May 20, 2012 shows it as LucibelCrater-CarveTheHam-300x241.jpg. The copy here is the same file, LucibelCrater-CarveTheHam-300x241.jpg, as it was uploaded to the Squarespace site on February 17, 2015, taken from the site’s own Squarespace export.
 
 ---
 
@@ -8989,6 +9405,44 @@ Conspirators: [Lou Reed](/conspirators/lou-reed/)
 Filed under: [discography](/category/music/discography/), [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/), [Taiji](/category/taiji/).
 
 Posted on sarth.net at this address on July 21, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/) of September 5, 2014. In 2010 the post was titled “Power and Serenity for sale”. It opened with the album cover, which was not recovered.
+
+---
+
+# (re) Discovered some old bass playing
+
+https://www.sarth.net/re-discovered-some-old-bass-playing/
+
+Jan 14, 2012 · Dream
+
+# (re) Discovered some old bass playing
+
+And a great track, too.
+
+[Mike Acerbo](http://www.mikeacerbo.com/home.html) was just [written up in CMJ](https://web.archive.org/web/20120303062942/http://www.cmj.com/news/cmj-exclusive-mike-acerbo-premieres-trilby/) for his new record, which reminds me that I went to the video release celebration last night and (re) discovered[I played bass](http://mikeacerbo.bandcamp.com/) on that track! Blast from the past … it’s probably been a decade since we recorded some of those initial parts but the song is good as ever and Mike did a wonderful job not only writing it but arranging it, singing it, playing guitar on it, and generally making it happen.
+
+As he should, since it is his thing. Go Mike!
+
+[Embedded player](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/33285679&color=%23333333&auto_play=false&show_comments=false)
+
+[Trilby](http://soundcloud.com/cmjnetwork/trilby) by [CMJ Network](https://web.archive.org/web/20120419205101/http://soundcloud.com/cmjnetwork)
+
+You know who else is really featured on this record (besides Mike A) is [Rich Kulsar](https://web.archive.org/web/20121012062316/http://www.richkulsar.com:80/) and [Leah Coloff](https://web.archive.org/web/20110815153100/http://www.leahcoloff.com/news.html) … two great musicians who I get never enough chance to work with.
+
+[Embedded player](https://bandcamp.com/EmbeddedPlayer/album=2514196261/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/)
+
+[The Search by Mike Acerbo](http://mikeacerbo.bandcamp.com/album/the-search)
+
+What next in the vein of hidden past efforts recurring if not recanting?
+
+A Beacon Theater performance reborn as a museum installation in 10.1 ambisonics?
+
+Taiji meditation music transforming into a multipart photo essay?
+
+Stay tuned.
+
+Filed under: [Intrigue](/category/intrigue/), [Leah Coloff](/conspirators/leah-coloff/), [Mike Acerbo](/conspirators/mike-acerbo/), [Rich Kulsar](/conspirators/rich-kulsar/).
+
+Posted on sarth.net at this address on January 14, 2012, and reproduced here as written, from the Internet Archive’s copy of the Intrigue page of [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/), which shows the whole post, and the site’s RSS feed as Common Crawl captured it on May 20, 2012. The Internet Archive has no copy of the post’s own page. The SoundCloud and Bandcamp players are today’s versions of the ones the post embedded. Four links that no longer work now go to the Internet Archive’s copies: the CMJ article (March 3, 2012), CMJ Network’s SoundCloud page (April 19, 2012), Rich Kulsar’s site (October 12, 2012) and Leah Coloff’s news page (August 15, 2011). The post’s link to the Trilby page on SoundCloud no longer works and the Internet Archive has no copy of it; the player above still plays the track.
 
 ---
 
@@ -9094,6 +9548,74 @@ Every page has a markdown twin beside it, at its own address with `index.md` on 
 
 ---
 
+# Some clips of the 21 form
+
+https://www.sarth.net/some-clips-of-the-21-form/
+
+Jun 12, 2013 · Dream
+
+# Some clips of the 21 form
+
+Every copy of the post shows its title and nothing else; the clips (the post was filed under Video) were not captured.
+
+Filed under: [Lou Reed](/conspirators/lou-reed/), [Taiji](/category/taiji/), [uncategorized](/category/uncategorized/), [Video](/category/visuals/video/).
+
+Posted on sarth.net at this address on June 12, 2013. The Internet Archive has no copy of the post’s own page. The title, date and categories come from the Internet Archive’s copy of the Taiji page of [September 10, 2014](https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/); no copy shows more of the post than is given here.
+
+---
+
+# Some photos from the Blender Theater
+
+https://www.sarth.net/some-photos-from-the-blender-theater/
+
+Dec 6, 2011 · Dream
+
+# Some photos from the Blender Theater
+
+The post was photos. None was captured.
+
+Filed under: [Lou Reed](/conspirators/lou-reed/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [photo](/category/visuals/photo/), [Ulrich Krieger](/conspirators/ulrich-krieger/).
+
+Posted on sarth.net at this address on December 6, 2011. The Internet Archive has no copy of the post’s own page. The title, date and categories come from the Internet Archive’s copy of the Metal Machine Trio page of [September 9, 2014](https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/), and the site’s RSS feed as Common Crawl captured it on May 20, 2012; no copy shows more of the post than is given here.
+
+---
+
+# Some pics from Jools Holland and Taratata
+
+https://www.sarth.net/some-pics-from-jools-holland-and-taratata/
+
+Nov 10, 2011 · Dream
+
+# Some pics from Jools Holland and Taratata
+
+The post was photos. The one thumbnail captured is titled “Metallica+Sarth”; the photos themselves were not recovered.
+
+Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Lulu](/conspiracies/lulu/), [Metallica](/conspirators/metallica/), [photo](/category/visuals/photo/).
+
+Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
+
+Posted on sarth.net at this address on November 10, 2011. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the Paris tag page of [March 5, 2014](https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/), and the site’s RSS feed as Common Crawl captured it on May 20, 2012; no copy shows more of the post than is given here.
+
+---
+
+# Sydney Morning Herald is Bracing for our arrival
+
+https://www.sarth.net/sydney-morning-herald-is-bracing-for-our-arrival/
+
+May 8, 2010 · Dream
+
+# Sydney Morning Herald is Bracing for our arrival
+
+Every copy of the post shows its title and nothing else; the press clip it shared was not captured.
+
+Filed under: [Lou Reed](/conspirators/lou-reed/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Press Clips](/category/intrigue/press-clips/), [Ulrich Krieger](/conspirators/ulrich-krieger/).
+
+Tags: [Noise](/tag/noise/), sydney opera house.
+
+Posted on sarth.net at this address on May 8, 2010. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the Intrigue page of [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/); no copy shows more of the post than is given here.
+
+---
+
 # Symbolic Sound – Book of Sarth Review
 
 https://www.sarth.net/symbolic-sound-book-of-sarth-review/
@@ -9114,6 +9636,42 @@ Posted on sarth.net at this address on November 30, 2012, and reproduced here as
 
 ---
 
+# Tag: 10.1
+
+https://www.sarth.net/tag/10-1/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: 10.1
+
+The posts tagged 10.1 on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
+
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+From Common Crawl’s copy of this tag page of February 23, 2012, which lists this one post. The Internet Archive has no copy of the tag page.
+
+---
+
+# Tag: ambisonic
+
+https://www.sarth.net/tag/ambisonic/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: ambisonic
+
+The posts tagged ambisonic on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
+
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+From Common Crawl’s copy of this tag page of February 23, 2012, which lists this one post. The Internet Archive has no copy of the tag page.
+
+---
+
 # Tag: aram bajakian
 
 https://www.sarth.net/tag/aram-bajakian/
@@ -9124,13 +9682,29 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged aram bajakian on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
 From the Internet Archive’s copy of this tag page of [March 6, 2014](https://web.archive.org/web/20140306060301/http://www.sarth.net/tag/aram-bajakian/), and the tags each recovered post carries.
+
+---
+
+# Tag: arup soundlab
+
+https://www.sarth.net/tag/arup-soundlab/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: arup soundlab
+
+The posts tagged arup soundlab on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
+
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+From Common Crawl’s copy of this tag page of February 23, 2012, which lists this one post. The Internet Archive has no copy of the tag page.
 
 ---
 
@@ -9236,6 +9810,24 @@ From the Internet Archive’s copy of this tag page of [March 14, 2014](https://
 
 ---
 
+# Tag: continuum fingerboard
+
+https://www.sarth.net/tag/continuum-fingerboard/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: continuum fingerboard
+
+The posts tagged continuum fingerboard on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
+
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+From Common Crawl’s copy of this tag page of February 23, 2012, which lists this one post. The Internet Archive has no copy of the tag page.
+
+---
+
 # Tag: Creation of the Universe
 
 https://www.sarth.net/tag/creation-of-the-universe/
@@ -9251,6 +9843,24 @@ The posts tagged Creation of the Universe on the WordPress sarth.net, newest fir
   Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 From the Internet Archive’s copy of this tag page of [November 2, 2010](https://web.archive.org/web/20101102061240/http://www.sarth.net/tag/creation-of-the-universe/), and the tags each recovered post carries.
+
+---
+
+# Tag: csulb
+
+https://www.sarth.net/tag/csulb/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: csulb
+
+The posts tagged csulb on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
+
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+From Common Crawl’s copy of this tag page of February 23, 2012, which lists this one post. The Internet Archive has no copy of the tag page.
 
 ---
 
@@ -9318,9 +9928,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged hop farm on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -9338,9 +9946,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Iced Honey on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
@@ -9358,9 +9964,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Jools Holland on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
@@ -9378,9 +9982,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Kevin Hearn on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -9402,9 +10004,9 @@ The posts tagged kyma on the WordPress sarth.net, newest first, with a link wher
 
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
 
-- **[Metal Machine Trio in 10.1 Ambisonic Installation](/conspiracies/creation-of-the-universe-ambisonic/)** · January 16, 2012
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
-  Tags: 10.1, ambisonic, arup soundlab, continuum fingerboard, csulb, [kyma](/tag/kyma/), live processing, [Lou Reed](/tag/lou-reed/), metal machine trio, [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 From the Internet Archive’s copy of this tag page of [March 5, 2014](https://web.archive.org/web/20140305084248/http://www.sarth.net/tag/kyma/), and the tags each recovered post carries.
 
@@ -9420,11 +10022,29 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Leah Coloff on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
 From the Internet Archive’s copy of this tag page of [March 5, 2014](https://web.archive.org/web/20140305082320/http://www.sarth.net/tag/leah-coloff/), and the tags each recovered post carries.
+
+---
+
+# Tag: live processing
+
+https://www.sarth.net/tag/live-processing/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: live processing
+
+The posts tagged live processing on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
+
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+From Common Crawl’s copy of this tag page of February 23, 2012, which lists this one post. The Internet Archive has no copy of the tag page.
 
 ---
 
@@ -9438,9 +10058,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged London on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
@@ -9458,45 +10076,31 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Lou Reed on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Talking about Lou’s “Return to Darkness”** · July 16, 2012
-
-  Not recovered.
+- **[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)** · July 16, 2012
 
   Tags: Germany, [Lou Reed](/tag/lou-reed/).
 
-- **Amsterdam Cafe** · June 15, 2012
-
-  Amsterdam cafe-cat.
-
-  The rest of the post was not recovered.
+- **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
   Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
-- **[Metal Machine Trio in 10.1 Ambisonic Installation](/conspiracies/creation-of-the-universe-ambisonic/)** · January 16, 2012
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
-  Tags: 10.1, ambisonic, arup soundlab, continuum fingerboard, csulb, [kyma](/tag/kyma/), live processing, [Lou Reed](/tag/lou-reed/), metal machine trio, [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
-- **Lulu now officially released** · November 1, 2011
-
-  Not recovered.
+- **[Lulu now officially released](/lulureleased/)** · November 1, 2011
 
   Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
 
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -9508,7 +10112,33 @@ The posts tagged Lou Reed on the WordPress sarth.net, newest first, with a link 
 
   Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
+In May 2012 the tag ran to two pages; [page 2](/tag/lou-reed/page/2/) is kept as Common Crawl captured it.
+
 From the Internet Archive’s copy of this tag page of [October 31, 2010](https://web.archive.org/web/20101031045344/http://www.sarth.net/tag/lou-reed/), and the tags each recovered post carries.
+
+---
+
+# Tag: Lou Reed, page 2 of 2
+
+https://www.sarth.net/tag/lou-reed/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: Lou Reed, page 2 of 2
+
+Page 2 of the posts tagged Lou Reed on the WordPress sarth.net, newest first, as the site showed them in May 2012. [The tag page](/tag/lou-reed/) lists every post with the tag.
+
+- **[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)** · July 10, 2010
+
+  Tags: [Bardo Pond](/tag/bardo-pond/), [Lou Reed](/tag/lou-reed/), [Marc Ribot](/tag/marc-ribot/), [Melt Banana](/tag/melt-banana/), [MWMCG](/tag/mwmcg/), [Night Terrors](/tag/night-terrors/), [Noise](/tag/noise/), [Opera House](/tag/opera-house/), [Rice Corpse](/tag/rice-corpse/), [Sydney](/tag/sydney/), [Zond](/tag/zond/).
+
+- **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010
+
+  Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+Page 2 of 2 · [1](/tag/lou-reed/) · 2
+
+As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it.
 
 ---
 
@@ -9544,9 +10174,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Lucibel Crater on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Original “carve the ham” photo** · December 6, 2011
-
-  Not recovered.
+- **[Original “carve the ham” photo](/original-carve-the-ham-photo/)** · December 6, 2011
 
   Tags: [Lucibel Crater](/tag/lucibel-crater/).
 
@@ -9564,15 +10192,11 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Lulu on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
-- **Lulu now officially released** · November 1, 2011
-
-  Not recovered.
+- **[Lulu now officially released](/lulureleased/)** · November 1, 2011
 
   Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
 
@@ -9626,7 +10250,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Mark Righter on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
@@ -9670,6 +10294,24 @@ From the Internet Archive’s copy of this tag page of [October 31, 2010](https:
 
 ---
 
+# Tag: metal machine trio
+
+https://www.sarth.net/tag/metal-machine-trio-2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: metal machine trio
+
+The posts tagged metal machine trio on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
+
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+
+From Common Crawl’s copy of this tag page of February 23, 2012, which lists this one post. The Internet Archive has no copy of the tag page.
+
+---
+
 # Tag: Metallica
 
 https://www.sarth.net/tag/metallica/
@@ -9680,15 +10322,11 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Metallica on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
-- **Lulu now officially released** · November 1, 2011
-
-  Not recovered.
+- **[Lulu now officially released](/lulureleased/)** · November 1, 2011
 
   Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
 
@@ -9706,9 +10344,9 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged MM3 on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **[Metal Machine Trio in 10.1 Ambisonic Installation](/conspiracies/creation-of-the-universe-ambisonic/)** · January 16, 2012
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
-  Tags: 10.1, ambisonic, arup soundlab, continuum fingerboard, csulb, [kyma](/tag/kyma/), live processing, [Lou Reed](/tag/lou-reed/), metal machine trio, [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 - **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010
 
@@ -9768,9 +10406,7 @@ The posts tagged Noise on the WordPress sarth.net, newest first, with a link whe
 
   Tags: [Bardo Pond](/tag/bardo-pond/), [Lou Reed](/tag/lou-reed/), [Marc Ribot](/tag/marc-ribot/), [Melt Banana](/tag/melt-banana/), [MWMCG](/tag/mwmcg/), [Night Terrors](/tag/night-terrors/), [Noise](/tag/noise/), [Opera House](/tag/opera-house/), [Rice Corpse](/tag/rice-corpse/), [Sydney](/tag/sydney/), [Zond](/tag/zond/).
 
-- **Sydney Morning Herald is Bracing for our arrival** · May 8, 2010
-
-  Not recovered.
+- **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
   Tags: [Noise](/tag/noise/), sydney opera house.
 
@@ -9788,7 +10424,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Number 19 on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
@@ -9824,9 +10460,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Paris on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
@@ -9844,9 +10478,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged recursion on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **I wish I had thought of this** · February 16, 2013
-
-  Not recovered.
+- **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
 
   Tags: drm, ip, piracy, pirate bay, [recursion](/tag/recursion/), surreal.
 
@@ -9904,9 +10536,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged rob wasserman kevin hearn on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -9924,9 +10554,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Rob Wasserman on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -9944,17 +10572,11 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Sarth on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Amsterdam Cafe** · June 15, 2012
-
-  Amsterdam cafe-cat.
-
-  The rest of the post was not recovered.
+- **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
   Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
@@ -9994,7 +10616,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Super Nintendo on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
@@ -10012,7 +10634,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Suspension on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
@@ -10066,9 +10688,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Taratata on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
@@ -10104,9 +10724,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged The View on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
@@ -10124,19 +10742,15 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged tony diodore on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
-- **[Number19 – Suspension](/transmissions/suspension/)** · November 6, 2008
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
@@ -10154,15 +10768,11 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged tony smith on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
-- **A couple of photos from hop farm** · July 4, 2011
-
-  Not recovered.
+- **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011
 
   Tags: [aram bajakian](/tag/aram-bajakian/), [hop farm](/tag/hop-farm/), [Lou Reed](/tag/lou-reed/), [rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
@@ -10180,9 +10790,9 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Ulrich Krieger on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **[Metal Machine Trio in 10.1 Ambisonic Installation](/conspiracies/creation-of-the-universe-ambisonic/)** · January 16, 2012
+- **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
-  Tags: 10.1, ambisonic, arup soundlab, continuum fingerboard, csulb, [kyma](/tag/kyma/), live processing, [Lou Reed](/tag/lou-reed/), metal machine trio, [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
+  Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 - **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010
 
@@ -10206,9 +10816,7 @@ The posts tagged Video on the WordPress sarth.net, newest first, with a link whe
 
   Tags: [Video](/tag/video/).
 
-- **Video: Lucibel Crater – Noise I Groove – Blue Stationwagon** · March 22, 2010
-
-  Not recovered.
+- **[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)** · March 22, 2010
 
   Tags: [Video](/tag/video/).
 
@@ -10234,9 +10842,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged White Light White Heat on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
@@ -10259,6 +10865,24 @@ The posts tagged Zond on the WordPress sarth.net, newest first, with a link wher
   Tags: [Bardo Pond](/tag/bardo-pond/), [Lou Reed](/tag/lou-reed/), [Marc Ribot](/tag/marc-ribot/), [Melt Banana](/tag/melt-banana/), [MWMCG](/tag/mwmcg/), [Night Terrors](/tag/night-terrors/), [Noise](/tag/noise/), [Opera House](/tag/opera-house/), [Rice Corpse](/tag/rice-corpse/), [Sydney](/tag/sydney/), [Zond](/tag/zond/).
 
 From the Internet Archive’s copy of this tag page of [October 31, 2010](https://web.archive.org/web/20101031050049/http://www.sarth.net/tag/zond/), and the tags each recovered post carries.
+
+---
+
+# Talking about Lou’s “Return to Darkness”
+
+https://www.sarth.net/talking-about-lous-return-to-darkness/
+
+Jul 16, 2012 · Dream
+
+# Talking about Lou’s “Return to Darkness”
+
+Every copy of the post shows its title and nothing else; the body was not captured.
+
+Filed under: [Lou Reed Band](/conspiracies/lou-reed-song-band/), [Reviews](/category/reviews/).
+
+Tags: Germany, [Lou Reed](/tag/lou-reed/).
+
+Posted on sarth.net at this address on July 16, 2012. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the Reviews page of [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/), and the site’s Atom feed as Common Crawl captured it on May 25, 2013; no copy shows more of the post than is given here.
 
 ---
 
@@ -10286,6 +10910,86 @@ Posted on sarth.net at this address on December 22, 2012, and reproduced here as
 
 ---
 
+# The Book of Sarth in the app store now!
+
+https://www.sarth.net/the-book-of-sarth-in-the-app-store-now/
+
+Oct 18, 2012 · Dream
+
+# The Book of Sarth in the app store now!
+
+Every copy of the post shows its title and nothing else; the body was not captured.
+
+Filed under: [Book of Sarth](/conspiracies/book-of-sarth/), [Intrigue](/category/intrigue/), Inventions.
+
+Posted on sarth.net at this address on October 18, 2012. The Internet Archive has no copy of the post’s own page. The title, date and categories come from the Internet Archive’s copy of the Intrigue page of [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/), and the site’s Atom feed as Common Crawl captured it on May 25, 2013; no copy shows more of the post than is given here.
+
+---
+
+# The Book of Sarth
+
+https://www.sarth.net/the-book-of-sarth/
+
+Feb 17, 2015 · The Squarespace sarth.net
+
+# The Book of Sarth
+
+![Artwork from The Book of Sarth: three figures in a doorway above a large face streaked with coloured lines.](/images/book-of-sarth-aa5a3.jpg)
+
+![Boxy Barren, artwork by Archie P. Valdez for The Book of Sarth.](/images/boxy-barren-archie-art.jpg)
+
+![An ornate gold S on a patterned brown and turquoise cover.](/images/book-cover-1.jpg)
+
+![Artwork from The Book of Sarth: a riot in a city street around a van scrawled “War machine”.](/images/pp26-riot.jpg)
+
+![Artwork from The Book of Sarth: a crowd at a concert under coloured light, split by a waveform.](/images/pp44-frenzy.jpg)
+
+![Artwork from The Book of Sarth: a man on a cell bunk surrounded by handwritten signs.](/images/sarth-prison-cell.jpg)
+
+![Artwork from The Book of Sarth: a circle of people meditating in a warehouse under a rainbow.](/images/meditation-room.jpg)
+
+![Artwork from The Book of Sarth, colour rain.](/images/book-of-sarth-color-rain.jpg)
+
+![Heroes on Horses, artwork by Archie P. Valdez for The Book of Sarth: riders on horseback in a stylised landscape.](/images/heroes-on-horses-archie.jpg)
+
+![Artwork from The Book of Sarth: koi in three panels.](/images/book-of-sarth-fish.jpg)
+
+A page of the Squarespace sarth.net, dated February 17, 2015 in the site’s own Squarespace export of September 22, 2026, which is where these images come from. The page was 10 images, in this order, with no text, captions or alt text; the alt text here is new. The Internet Archive has no copy of the page.
+
+---
+
+# Book of Sarth clips
+
+https://www.sarth.net/to-your-rescue/
+
+Nov 10, 2011 · Dream
+
+# Book of Sarth clips
+
+The post carried an audio file, 01_To_Your_Rescue.mp3. Its address no longer works and no archive holds a copy.
+
+Filed under: [clips](/category/music/clips/).
+
+Posted on sarth.net at this address on November 10, 2011. The Internet Archive has no copy of the post’s own page. The title, date, category and audio file come from the site’s RSS feed as Common Crawl captured it on February 23, 2012 and May 20, 2012; the feed shows no text for the post. The same day, [a post with the same title](/book-of-sarth-sneak-preview/) went up at /book-of-sarth-sneak-preview/, sharing a hidden track from the record.
+
+---
+
+# Video: Exactly Where You Are
+
+https://www.sarth.net/video-exactly-where-you-are/
+
+Mar 22, 2010 · Dream
+
+# Video: Exactly Where You Are
+
+[Embedded player](https://www.youtube.com/embed/3oFHUSBIXX8)
+
+Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspiracies/lucibel-crater/), [Paul Chuffo](/conspirators/paul-chuffo/), [Video](/category/visuals/video/).
+
+Posted on sarth.net at this address on March 22, 2010, from Common Crawl’s copy of the page of November 1, 2014. The post was this video and nothing else; it is still on Sarth’s YouTube channel. The Internet Archive has no copy of the post’s own page.
+
+---
+
 # Video: Lucibel Crater – Elvis Costello – Green Shirt
 
 https://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/
@@ -10301,6 +11005,24 @@ Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspi
 Tags: [Video](/tag/video/).
 
 Posted on sarth.net at this address on March 22, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20101102064145/http://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/) of November 2, 2010. The post was the video alone.
+
+---
+
+# Video: Lucibel Crater – Noise I Groove – Blue Stationwagon
+
+https://www.sarth.net/video-lucibel-crater-noise-i-groove-blue-stationwagon/
+
+Mar 22, 2010 · Dream
+
+# Video: Lucibel Crater – Noise I Groove – Blue Stationwagon
+
+[Embedded player](https://www.youtube.com/embed/zNl3CzG_SRo)
+
+Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspiracies/lucibel-crater/), [Paul Chuffo](/conspirators/paul-chuffo/), [Video](/category/visuals/video/).
+
+Tags: [Video](/tag/video/).
+
+Posted on sarth.net at this address on March 22, 2010. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the video tag page of [November 2, 2010](https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/), and the video, which was the whole post and is still on YouTube, from Common Crawl’s copy of the Lucibel Crater category page of June 20, 2013; no copy shows more of the post than is given here.
 
 ---
 

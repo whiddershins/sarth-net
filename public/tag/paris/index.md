@@ -10,9 +10,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Paris on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 

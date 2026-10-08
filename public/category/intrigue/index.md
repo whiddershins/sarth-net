@@ -10,7 +10,7 @@ The WordPress sarth.net, 2010 to 2014
 
 Page 1 of the posts filed under Intrigue on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **[Gralbum has launched](/conspiracies/gralbum-collective/)** · April 9, 2014
+- **[Gralbum has launched](/gralbum-has-launched/)** · April 9, 2014
 
 - **[Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/)** · January 24, 2013
 

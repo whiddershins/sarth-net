@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (726 total)
+## Citations by page (752 total)
 
 ### Sarth Calhoun
 `/`
@@ -58,6 +58,11 @@ every page.
 - [Berliner Ensemble](https://en.wikipedia.org/wiki/Berliner_Ensemble)
 - [Metallica](https://en.wikipedia.org/wiki/Metallica)
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+
+### A quick clip from Carhaix
+`/a-quick-clip-from-carhaix/`
+
+- [Lou Reed band in Carhaix, 2011](http://www.dailymotion.com/video/xjyp1m_lou-reed-aux-vieilles-charrues-2011_music)
 
 ### A Wonderful writeup of The Book of Sarth on The Verge
 `/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/`
@@ -88,6 +93,11 @@ every page.
 `/amazing-amazing-drumming/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20140304023347/http://www.sarth.net/amazing-amazing-drumming)
+
+### Amsterdam Cafe
+`/amsterdam-cafe/`
+
+- [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/)
 
 ### Bolted for the Briar Patch
 `/bolted-for-the-briar-patch/`
@@ -922,6 +932,21 @@ every page.
 
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 
+### Gralbum has launched
+`/gralbum-has-launched/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/)
+
+### I wish I had thought of this
+`/i-wish-i-had-thought-of-this/`
+
+- [March 6, 2014](https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/)
+
+### Iced Honey on the Jools Holland show
+`/iced-honey-on-the-jools-holland-show/`
+
+- [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/)
+
 ### Intrigue, the Squarespace news page
 `/intrigue/`
 
@@ -933,20 +958,45 @@ every page.
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101031043933/http://www.sarth.net/lucibel-crater-clips/)
 
+### Lulu in Cologne
+`/lulu-in-cologne/`
+
+- [March 14, 2014](https://web.archive.org/web/20140314002635/http://www.sarth.net/category/intrigue/page/3/)
+
 ### Lulu
 `/lulucd/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20140305175009/http://www.sarth.net/lulucd/)
+
+### Lulu now officially released
+`/lulureleased/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/)
 
 ### Video: Lucibel Crater – Masticate
 `/masicate-video/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101031050339/http://www.sarth.net/masicate-video/)
 
+### Metal Machine Trio in 10.1 Ambisonic Installation
+`/metal-machine-trio-in-10-1-ambisonic-installation/`
+
+- [10.1 ambisonic installation](https://web.archive.org/web/20120131143544/http://www.csulb.edu:80/org/uam/EXHIBITIONSupcoming.html)
+
 ### MM3 interviewed in Art Rocker
 `/mm3-interviewed-in-art-rocker/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101031050447/http://www.sarth.net/mm3-interviewed-in-art-rocker/)
+
+### JAMBOXES
+`/moldovers-jam-boxes/`
+
+- [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/)
+
+### Number19 – Suspension
+`/number19-suspension/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/)
 
 ### Our “Security” is an Auto-Immune Disease
 `/our-security-apparatus-is-an-auto-immune-disease-pt-1/`
@@ -966,6 +1016,19 @@ every page.
 
 - [http://loureed.com/power/](https://web.archive.org/web/2010/http://loureed.com/power/)
 - [Internet Archive’s copy](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
+
+### (re) Discovered some old bass playing
+`/re-discovered-some-old-bass-playing/`
+
+- [Mike Acerbo](http://www.mikeacerbo.com/home.html)
+- [written up in CMJ](https://web.archive.org/web/20120303062942/http://www.cmj.com/news/cmj-exclusive-mike-acerbo-premieres-trilby/)
+- [I played bass](http://mikeacerbo.bandcamp.com/)
+- [Trilby](http://soundcloud.com/cmjnetwork/trilby)
+- [CMJ Network](https://web.archive.org/web/20120419205101/http://soundcloud.com/cmjnetwork)
+- [Rich Kulsar](https://web.archive.org/web/20121012062316/http://www.richkulsar.com:80/)
+- [Leah Coloff](https://web.archive.org/web/20110815153100/http://www.leahcoloff.com/news.html)
+- [The Search by Mike Acerbo](http://mikeacerbo.bandcamp.com/album/the-search)
+- [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/)
 
 ### Recursive functions in teapots
 `/recursive-functions-in-teapots/`
@@ -1045,6 +1108,26 @@ every page.
 - [Reaktor](https://reaktor.com)
 - [Stone’s](https://www.linkedin.com/posts/michele-stone-8150784_reaktorlive-engineering-data-activity-7074460781097955328-Qtbo)
 - [Fosbery’s](https://www.linkedin.com/posts/ian-fosbery_very-excited-to-be-moderating-this-chat-with-activity-7074777948012105728-AzwC)
+
+### Some clips of the 21 form
+`/some-clips-of-the-21-form/`
+
+- [September 10, 2014](https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/)
+
+### Some photos from the Blender Theater
+`/some-photos-from-the-blender-theater/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/)
+
+### Some pics from Jools Holland and Taratata
+`/some-pics-from-jools-holland-and-taratata/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/)
+
+### Sydney Morning Herald is Bracing for our arrival
+`/sydney-morning-herald-is-bracing-for-our-arrival/`
+
+- [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/)
 
 ### Symbolic Sound – Book of Sarth Review
 `/symbolic-sound-book-of-sarth-review/`
@@ -1322,12 +1405,22 @@ every page.
 
 - [October 31, 2010](https://web.archive.org/web/20101031050049/http://www.sarth.net/tag/zond/)
 
+### Talking about Lou’s “Return to Darkness”
+`/talking-about-lous-return-to-darkness/`
+
+- [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/)
+
 ### The Book of Sarth – Gizmodo Apps of the Week!
 `/the-book-of-sarth-gizmodo-apps-of-the-week/`
 
 - [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)
 - [Internet Archive’s copy](https://web.archive.org/web/20140306125224/http://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/)
 - [copy of September 27, 2017](https://web.archive.org/web/20170927211510/http://www.sarth.net/rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week)
+
+### The Book of Sarth in the app store now!
+`/the-book-of-sarth-in-the-app-store-now/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
 
 ### Transmissions
 `/transmissions/`
@@ -1587,6 +1680,11 @@ every page.
 `/video-lucibel-crater-elvis-costello-green-shirt/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20101102064145/http://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/)
+
+### Video: Lucibel Crater – Noise I Groove – Blue Stationwagon
+`/video-lucibel-crater-noise-i-groove-blue-stationwagon/`
+
+- [November 2, 2010](https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/)
 
 ### Video: Metal Machine Trio infiltrates Lucibel Crater
 `/video-metal-machine-trio-infiltrates-lucibel-crater/`

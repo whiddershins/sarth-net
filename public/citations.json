@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 726,
+  "citation_count": 752,
   "pages": [
     {
       "path": "/",
@@ -60,6 +60,16 @@
         {
           "url": "https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9",
           "text": "Spotify"
+        }
+      ]
+    },
+    {
+      "path": "/a-quick-clip-from-carhaix/",
+      "title": "A quick clip from Carhaix",
+      "citations": [
+        {
+          "url": "http://www.dailymotion.com/video/xjyp1m_lou-reed-aux-vieilles-charrues-2011_music",
+          "text": "Lou Reed band in Carhaix, 2011"
         }
       ]
     },
@@ -150,6 +160,16 @@
         {
           "url": "https://web.archive.org/web/20140304023347/http://www.sarth.net/amazing-amazing-drumming",
           "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/amsterdam-cafe/",
+      "title": "Amsterdam Cafe",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/",
+          "text": "July 15, 2014"
         }
       ]
     },
@@ -348,6 +368,16 @@
       ]
     },
     {
+      "path": "/category/conspiracies/lucibel-crater/page/2/",
+      "title": "Lucibel Crater, page 2 of 2",
+      "citations": []
+    },
+    {
+      "path": "/category/conspiracies/metal-machine-trio/page/2/",
+      "title": "Metal Machine Trio, page 2 of 2",
+      "citations": []
+    },
+    {
       "path": "/category/conspiracies/sarth-solo-projects/",
       "title": "Sarth Solo Projects",
       "citations": [
@@ -356,6 +386,11 @@
           "text": "September 5, 2014"
         }
       ]
+    },
+    {
+      "path": "/category/conspirators/lou-reed/page/3/",
+      "title": "Lou Reed, page 3 of 3",
+      "citations": []
     },
     {
       "path": "/category/contraptions/",
@@ -2431,6 +2466,46 @@
       ]
     },
     {
+      "path": "/gralbum-has-launched/",
+      "title": "Gralbum has launched",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/",
+          "text": "September 5, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/gralbum/",
+      "title": "(Gr)album",
+      "citations": []
+    },
+    {
+      "path": "/hop-farm-201/",
+      "title": "A couple of photos from hop farm",
+      "citations": []
+    },
+    {
+      "path": "/i-wish-i-had-thought-of-this/",
+      "title": "I wish I had thought of this",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/",
+          "text": "March 6, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/iced-honey-on-the-jools-holland-show/",
+      "title": "Iced Honey on the Jools Holland show",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/",
+          "text": "September 18, 2014"
+        }
+      ]
+    },
+    {
       "path": "/intrigue/",
       "title": "Intrigue, the Squarespace news page",
       "citations": [
@@ -2455,12 +2530,37 @@
       ]
     },
     {
+      "path": "/lucibel-crater/",
+      "title": "Lucibel Crater",
+      "citations": []
+    },
+    {
+      "path": "/lulu-in-cologne/",
+      "title": "Lulu in Cologne",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140314002635/http://www.sarth.net/category/intrigue/page/3/",
+          "text": "March 14, 2014"
+        }
+      ]
+    },
+    {
       "path": "/lulucd/",
       "title": "Lulu",
       "citations": [
         {
           "url": "https://web.archive.org/web/20140305175009/http://www.sarth.net/lulucd/",
           "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/lulureleased/",
+      "title": "Lulu now officially released",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/",
+          "text": "March 5, 2014"
         }
       ]
     },
@@ -2475,6 +2575,26 @@
       ]
     },
     {
+      "path": "/me-time-score/",
+      "title": "Me Time Score",
+      "citations": []
+    },
+    {
+      "path": "/metal-machine-trio-in-10-1-ambisonic-installation/",
+      "title": "Metal Machine Trio in 10.1 Ambisonic Installation",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20120131143544/http://www.csulb.edu:80/org/uam/EXHIBITIONSupcoming.html",
+          "text": "10.1 ambisonic installation"
+        }
+      ]
+    },
+    {
+      "path": "/mm3-in-brussels-video-from-youtube/",
+      "title": "mm3 in brussels, video from youtube",
+      "citations": []
+    },
+    {
       "path": "/mm3-interviewed-in-art-rocker/",
       "title": "MM3 interviewed in Art Rocker",
       "citations": [
@@ -2483,6 +2603,31 @@
           "text": "Internet Archive’s copy"
         }
       ]
+    },
+    {
+      "path": "/moldovers-jam-boxes/",
+      "title": "JAMBOXES",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/",
+          "text": "July 15, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/number19-suspension/",
+      "title": "Number19 – Suspension",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/",
+          "text": "March 5, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/original-carve-the-ham-photo/",
+      "title": "Original “carve the ham” photo",
+      "citations": []
     },
     {
       "path": "/our-security-apparatus-is-an-auto-immune-disease-pt-1/",
@@ -2527,6 +2672,48 @@
         {
           "url": "https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/",
           "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/re-discovered-some-old-bass-playing/",
+      "title": "(re) Discovered some old bass playing",
+      "citations": [
+        {
+          "url": "http://www.mikeacerbo.com/home.html",
+          "text": "Mike Acerbo"
+        },
+        {
+          "url": "https://web.archive.org/web/20120303062942/http://www.cmj.com/news/cmj-exclusive-mike-acerbo-premieres-trilby/",
+          "text": "written up in CMJ"
+        },
+        {
+          "url": "http://mikeacerbo.bandcamp.com/",
+          "text": "I played bass"
+        },
+        {
+          "url": "http://soundcloud.com/cmjnetwork/trilby",
+          "text": "Trilby"
+        },
+        {
+          "url": "https://web.archive.org/web/20120419205101/http://soundcloud.com/cmjnetwork",
+          "text": "CMJ Network"
+        },
+        {
+          "url": "https://web.archive.org/web/20121012062316/http://www.richkulsar.com:80/",
+          "text": "Rich Kulsar"
+        },
+        {
+          "url": "https://web.archive.org/web/20110815153100/http://www.leahcoloff.com/news.html",
+          "text": "Leah Coloff"
+        },
+        {
+          "url": "http://mikeacerbo.bandcamp.com/album/the-search",
+          "text": "The Search by Mike Acerbo"
+        },
+        {
+          "url": "https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/",
+          "text": "September 18, 2014"
         }
       ]
     },
@@ -2812,6 +2999,46 @@
       ]
     },
     {
+      "path": "/some-clips-of-the-21-form/",
+      "title": "Some clips of the 21 form",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/",
+          "text": "September 10, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/some-photos-from-the-blender-theater/",
+      "title": "Some photos from the Blender Theater",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/",
+          "text": "September 9, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/some-pics-from-jools-holland-and-taratata/",
+      "title": "Some pics from Jools Holland and Taratata",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/",
+          "text": "March 5, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/sydney-morning-herald-is-bracing-for-our-arrival/",
+      "title": "Sydney Morning Herald is Bracing for our arrival",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/",
+          "text": "July 31, 2014"
+        }
+      ]
+    },
+    {
       "path": "/symbolic-sound-book-of-sarth-review/",
       "title": "Symbolic Sound – Book of Sarth Review",
       "citations": [
@@ -2826,6 +3053,16 @@
       ]
     },
     {
+      "path": "/tag/10-1/",
+      "title": "Tag: 10.1",
+      "citations": []
+    },
+    {
+      "path": "/tag/ambisonic/",
+      "title": "Tag: ambisonic",
+      "citations": []
+    },
+    {
       "path": "/tag/aram-bajakian/",
       "title": "Tag: aram bajakian",
       "citations": [
@@ -2834,6 +3071,11 @@
           "text": "March 6, 2014"
         }
       ]
+    },
+    {
+      "path": "/tag/arup-soundlab/",
+      "title": "Tag: arup soundlab",
+      "citations": []
     },
     {
       "path": "/tag/audioclips/",
@@ -2886,6 +3128,11 @@
       ]
     },
     {
+      "path": "/tag/continuum-fingerboard/",
+      "title": "Tag: continuum fingerboard",
+      "citations": []
+    },
+    {
       "path": "/tag/creation-of-the-universe/",
       "title": "Tag: Creation of the Universe",
       "citations": [
@@ -2894,6 +3141,11 @@
           "text": "November 2, 2010"
         }
       ]
+    },
+    {
+      "path": "/tag/csulb/",
+      "title": "Tag: csulb",
+      "citations": []
     },
     {
       "path": "/tag/ear-worm/",
@@ -2986,6 +3238,11 @@
       ]
     },
     {
+      "path": "/tag/live-processing/",
+      "title": "Tag: live processing",
+      "citations": []
+    },
+    {
       "path": "/tag/london/",
       "title": "Tag: London",
       "citations": [
@@ -3004,6 +3261,11 @@
           "text": "October 31, 2010"
         }
       ]
+    },
+    {
+      "path": "/tag/lou-reed/page/2/",
+      "title": "Tag: Lou Reed, page 2 of 2",
+      "citations": []
     },
     {
       "path": "/tag/lucibel-crater-the-family-album/",
@@ -3084,6 +3346,11 @@
           "text": "October 31, 2010"
         }
       ]
+    },
+    {
+      "path": "/tag/metal-machine-trio-2/",
+      "title": "Tag: metal machine trio",
+      "citations": []
     },
     {
       "path": "/tag/metallica/",
@@ -3366,6 +3633,16 @@
       ]
     },
     {
+      "path": "/talking-about-lous-return-to-darkness/",
+      "title": "Talking about Lou’s “Return to Darkness”",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/",
+          "text": "September 6, 2014"
+        }
+      ]
+    },
+    {
       "path": "/the-book-of-sarth-gizmodo-apps-of-the-week/",
       "title": "The Book of Sarth – Gizmodo Apps of the Week!",
       "citations": [
@@ -3382,6 +3659,26 @@
           "text": "copy of September 27, 2017"
         }
       ]
+    },
+    {
+      "path": "/the-book-of-sarth-in-the-app-store-now/",
+      "title": "The Book of Sarth in the app store now!",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/",
+          "text": "September 14, 2014"
+        }
+      ]
+    },
+    {
+      "path": "/the-book-of-sarth/",
+      "title": "The Book of Sarth",
+      "citations": []
+    },
+    {
+      "path": "/to-your-rescue/",
+      "title": "Book of Sarth clips",
+      "citations": []
     },
     {
       "path": "/transmissions/",
@@ -4135,12 +4432,27 @@
       "citations": []
     },
     {
+      "path": "/video-exactly-where-you-are/",
+      "title": "Video: Exactly Where You Are",
+      "citations": []
+    },
+    {
       "path": "/video-lucibel-crater-elvis-costello-green-shirt/",
       "title": "Video: Lucibel Crater – Elvis Costello – Green Shirt",
       "citations": [
         {
           "url": "https://web.archive.org/web/20101102064145/http://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/",
           "text": "Internet Archive’s copy"
+        }
+      ]
+    },
+    {
+      "path": "/video-lucibel-crater-noise-i-groove-blue-stationwagon/",
+      "title": "Video: Lucibel Crater – Noise I Groove – Blue Stationwagon",
+      "citations": [
+        {
+          "url": "https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/",
+          "text": "November 2, 2010"
         }
       ]
     },

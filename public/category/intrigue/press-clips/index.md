@@ -30,9 +30,7 @@ The posts filed under Press Clips on the WordPress sarth.net, newest first. 7 of
 
   Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
-- **Sydney Morning Herald is Bracing for our arrival** · May 8, 2010
-
-  Not recovered.
+- **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
   Tags: [Noise](/tag/noise/), sydney opera house.
 

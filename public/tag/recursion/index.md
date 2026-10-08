@@ -10,9 +10,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged recursion on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **I wish I had thought of this** · February 16, 2013
-
-  Not recovered.
+- **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
 
   Tags: drm, ip, piracy, pirate bay, [recursion](/tag/recursion/), surreal.
 

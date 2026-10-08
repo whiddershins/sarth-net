@@ -10,9 +10,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts tagged Kevin Hearn on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
-- **A quick clip from Carhaix** · July 20, 2011
-
-  Not recovered.
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
   Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 

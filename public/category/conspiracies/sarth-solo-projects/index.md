@@ -10,7 +10,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest first. 10 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
-- **[Gralbum has launched](/conspiracies/gralbum-collective/)** · April 9, 2014
+- **[Gralbum has launched](/gralbum-has-launched/)** · April 9, 2014
 
 - **[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)** · January 3, 2013
 

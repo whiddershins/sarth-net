@@ -10,29 +10,17 @@ The WordPress sarth.net, 2010 to 2014
 
 Page 3 of the posts filed under Intrigue on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **[(re) Discovered some old bass playing](/conspirators/mike-acerbo/)** · January 14, 2012
+- **[(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/)** · January 14, 2012
 
-- **Lulu in Cologne** · November 12, 2011
+- **[Lulu in Cologne](/lulu-in-cologne/)** · November 12, 2011
 
-  Had a great time performing 5 songs from Lulu in Cologne … it was such and intense experience. Here’s a video of Mistress Dread
-
-  The rest of the post was not recovered.
-
-- **Some pics from Jools Holland and Taratata** · November 10, 2011
-
-  Not recovered.
+- **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
-- **Iced Honey on the Jools Holland show** · November 9, 2011
+- **[Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)** · November 9, 2011
 
-  Got to play some of these Lulu tracks on the Jools Holland show … the first live performances of this material!
-
-  The rest of the post was not recovered.
-
-- **Lulu now officially released** · November 1, 2011
-
-  Not recovered.
+- **[Lulu now officially released](/lulureleased/)** · November 1, 2011
 
   Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
 

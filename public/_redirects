@@ -92,9 +92,10 @@
 /metal-machine-trio-the-creation-of-the-universe/lou-reeds-metal-machine-trio_1269275870303/ /transmissions/the-creation-of-the-universe/ 200
 /yellow-pony-madrid-july-2009 /conspiracies/yellow-pony/ 200
 /yellow-pony-madrid-july-2009/ /conspiracies/yellow-pony/ 200
-# WordPress image (attachment) pages: the post they belonged to, as that post's address serves it.
-/lucibel-crater-the-family-album/lucibelcrater-carvetheham /transmissions/the-family-album/ 200
-/lucibel-crater-the-family-album/lucibelcrater-carvetheham/ /transmissions/the-family-album/ 200
+# WordPress image (attachment) pages: the post they belonged to, as that post's address serves it;
+# the carve-the-ham image serves its own restored post, which shows that same photo.
+/lucibel-crater-the-family-album/lucibelcrater-carvetheham /original-carve-the-ham-photo/ 200
+/lucibel-crater-the-family-album/lucibelcrater-carvetheham/ /original-carve-the-ham-photo/ 200
 /number19-suspension/number19suspensioncdcover /number19-suspension/ 200
 /number19-suspension/number19suspensioncdcover/ /number19-suspension/ 200
 /power-and-serenity-for-sale/power-and-serenity /power-and-serenity-for-sale/ 200

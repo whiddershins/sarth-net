@@ -189,6 +189,9 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Sightings https://www.sarth.net/sightings/
 - Reaktor Live, June 27, 2023 https://www.sarth.net/sightings/reaktor-live-2023/
 - Rumors https://www.sarth.net/rumors/
+  - Reflections, Vol 1, available on iTunes now https://www.sarth.net/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/
+  - (Gr)album has launched! https://www.sarth.net/rumors/2015/2/10/gralbum-has-launched/
+  - Reflections, Vol. 1 https://www.sarth.net/rumors/2020/11/20/reflections-vol-1/
 - Devices https://www.sarth.net/devices/
 - Kyma https://www.sarth.net/devices/kyma/
 - Continuum https://www.sarth.net/devices/continuum/
@@ -211,9 +214,18 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Bolted for the Briar Patch https://www.sarth.net/bolted-for-the-briar-patch/
 - Book of Sarth in The App Store https://www.sarth.net/book-of-sarth-in-the-app-store/
 - Book of Sarth clips https://www.sarth.net/book-of-sarth-sneak-preview/
-  - Lucibel Crater, page 2 of 2 https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/
+- Bio https://www.sarth.net/category/bio/
+- Conspiracies https://www.sarth.net/category/conspiracies/
+  - Metal Machine Trio https://www.sarth.net/category/conspiracies/metal-machine-trio/
   - Metal Machine Trio, page 2 of 2 https://www.sarth.net/category/conspiracies/metal-machine-trio/page/2/
+  - Lulu https://www.sarth.net/category/conspiracies/lou-reed-metallica-project/
+  - Book of Sarth https://www.sarth.net/category/conspiracies/book-of-sarth/
+  - Lucibel Crater, page 2 of 2 https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/
   - Sarth Solo Projects https://www.sarth.net/category/conspiracies/sarth-solo-projects/
+- Conspirators https://www.sarth.net/category/conspirators/
+  - Leah Coloff https://www.sarth.net/category/conspirators/leah-coloff/
+  - Paul Chuffo https://www.sarth.net/category/conspirators/paul-chuffo/
+  - Tony Diodore https://www.sarth.net/category/conspirators/tony-diodore-conspirators/
   - Lou Reed, page 3 of 3 https://www.sarth.net/category/conspirators/lou-reed/page/3/
 - Contraptions https://www.sarth.net/category/contraptions/
 - Equipment https://www.sarth.net/category/equipment/
@@ -246,6 +258,8 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - I wish I had thought of this https://www.sarth.net/i-wish-i-had-thought-of-this/
 - Iced Honey on the Jools Holland show https://www.sarth.net/iced-honey-on-the-jools-holland-show/
 - Intrigue, the Squarespace news page https://www.sarth.net/intrigue/
+- Introspections-About https://www.sarth.net/introspections-about/
+- Introspections https://www.sarth.net/introspections/
 - Lucibel Crater Clips https://www.sarth.net/lucibel-crater-clips/
 - Lucibel Crater https://www.sarth.net/lucibel-crater/
 - Lulu in Cologne https://www.sarth.net/lulu-in-cologne/
@@ -254,6 +268,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Video: Lucibel Crater – Masticate https://www.sarth.net/masicate-video/
 - Me Time Score https://www.sarth.net/me-time-score/
 - Metal Machine Trio in 10.1 Ambisonic Installation https://www.sarth.net/metal-machine-trio-in-10-1-ambisonic-installation/
+- Metal Machine Trio “The Creation of the Universe” https://www.sarth.net/metal-machine-trio-the-creation-of-the-universe/
 - mm3 in brussels, video from youtube https://www.sarth.net/mm3-in-brussels-video-from-youtube/
 - MM3 interviewed in Art Rocker https://www.sarth.net/mm3-interviewed-in-art-rocker/
 - JAMBOXES https://www.sarth.net/moldovers-jam-boxes/
@@ -264,6 +279,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Power and Serenity https://www.sarth.net/power-and-serenity-for-sale/
 - (re) Discovered some old bass playing https://www.sarth.net/re-discovered-some-old-bass-playing/
 - Recursive functions in teapots https://www.sarth.net/recursive-functions-in-teapots/
+- Sarth.net in Transition https://www.sarth.net/sarthnet-in-transition/
 - Search https://www.sarth.net/search/
 - Some clips of the 21 form https://www.sarth.net/some-clips-of-the-21-form/
 - Some photos from the Blender Theater https://www.sarth.net/some-photos-from-the-blender-theater/

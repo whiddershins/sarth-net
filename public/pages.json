@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 265,
+ "count": 281,
  "pages": [
   {
    "route": "/",
@@ -1469,6 +1469,36 @@
    ]
   },
   {
+   "route": "/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/",
+   "url": "https://www.sarth.net/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/",
+   "markdown": "https://www.sarth.net/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/index.md",
+   "title": "Reflections, Vol 1, available on iTunes now",
+   "description": "Reflections, Vol 1, available on iTunes now, as originally published on sarth.net, November 29, 2015: the release of the Reflections EP. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": "2015-11-29",
+   "headings": []
+  },
+  {
+   "route": "/rumors/2015/2/10/gralbum-has-launched/",
+   "url": "https://www.sarth.net/rumors/2015/2/10/gralbum-has-launched/",
+   "markdown": "https://www.sarth.net/rumors/2015/2/10/gralbum-has-launched/index.md",
+   "title": "(Gr)album has launched!",
+   "description": "(Gr)album has launched!, as originally published on sarth.net, April 9, 2014: the launch of the (Gr)album app. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": "2014-04-09",
+   "headings": []
+  },
+  {
+   "route": "/rumors/2020/11/20/reflections-vol-1/",
+   "url": "https://www.sarth.net/rumors/2020/11/20/reflections-vol-1/",
+   "markdown": "https://www.sarth.net/rumors/2020/11/20/reflections-vol-1/index.md",
+   "title": "Reflections, Vol. 1",
+   "description": "Reflections, Vol. 1, as originally published on sarth.net, November 20, 2020: about the Reflections EP and its name. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": "2020-11-20",
+   "headings": []
+  },
+  {
    "route": "/devices/",
    "url": "https://www.sarth.net/devices/",
    "markdown": "https://www.sarth.net/devices/index.md",
@@ -1652,7 +1682,16 @@
     "[Bolted for the Briar Patch](/bolted-for-the-briar-patch/)",
     "[Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/)",
     "[Book of Sarth clips](/book-of-sarth-sneak-preview/)",
+    "[Bio](/category/bio/)",
+    "[Conspiracies](/category/conspiracies/)",
+    "[Book of Sarth](/category/conspiracies/book-of-sarth/)",
+    "[Lulu](/category/conspiracies/lou-reed-metallica-project/)",
+    "[Metal Machine Trio](/category/conspiracies/metal-machine-trio/)",
     "[Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/)",
+    "[Conspirators](/category/conspirators/)",
+    "[Leah Coloff](/category/conspirators/leah-coloff/)",
+    "[Paul Chuffo](/category/conspirators/paul-chuffo/)",
+    "[Tony Diodore](/category/conspirators/tony-diodore-conspirators/)",
     "[Contraptions](/category/contraptions/)",
     "[Equipment](/category/equipment/)",
     "[Intrigue, page 1 of 5](/category/intrigue/)",
@@ -1768,6 +1807,7 @@
     "[Lulu now officially released](/lulureleased/)",
     "[Video: Lucibel Crater – Masticate](/masicate-video/)",
     "[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)",
+    "[Metal Machine Trio “The Creation of the Universe”](/metal-machine-trio-the-creation-of-the-universe/)",
     "[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)",
     "[JAMBOXES](/moldovers-jam-boxes/)",
     "[Number19 – Suspension](/number19-suspension/)",
@@ -1777,6 +1817,9 @@
     "[(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/)",
     "[Recursive functions in teapots](/recursive-functions-in-teapots/)",
     "[Rumors](/rumors/)",
+    "[Reflections, Vol 1, available on iTunes now](/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/)",
+    "[(Gr)album has launched!](/rumors/2015/2/10/gralbum-has-launched/)",
+    "[Sarth.net in Transition](/sarthnet-in-transition/)",
     "[Sightings](/sightings/)",
     "[Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)",
     "[Some clips of the 21 form](/some-clips-of-the-21-form/)",
@@ -1960,14 +2003,87 @@
    "headings": []
   },
   {
-   "route": "/category/conspiracies/lucibel-crater/page/2/",
-   "url": "https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/",
-   "markdown": "https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/index.md",
-   "title": "Lucibel Crater, page 2 of 2",
-   "description": "Lucibel Crater, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): Video: Lucibel Crater – Elvis Costello – Green Shirt; Video: Lucibel Crater – Masticate; Lucibel Crater : The Family Album; Sarth Clips.",
+   "route": "/category/bio/",
+   "url": "https://www.sarth.net/category/bio/",
+   "markdown": "https://www.sarth.net/category/bio/index.md",
+   "title": "Bio",
+   "description": "Bio, as originally published on sarth.net, 2010 and 2014: the two bios of the WordPress site. Kept as it was, with a link to today’s page.",
    "facet": null,
    "published": null,
-   "headings": []
+   "headings": [
+    "October 30, 2010",
+    "September 10, 2014"
+   ]
+  },
+  {
+   "route": "/category/conspiracies/",
+   "url": "https://www.sarth.net/category/conspiracies/",
+   "markdown": "https://www.sarth.net/category/conspiracies/index.md",
+   "title": "Conspiracies",
+   "description": "Conspiracies, as originally published on sarth.net, 2010 and 2014: the projects page of the WordPress site, from the Metal Machine Trio and Lucibel Crater to Lulu and The Book of Sarth. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "October 31, 2010",
+    "[Metal Machine Trio](/category/conspiracies/metal-machine-trio/):",
+    "Discography:",
+    "Links:",
+    "[Lucibel Crater](/category/conspiracies/lucibel-crater/):",
+    "Latest Clips:",
+    "Discography:",
+    "Conspirators:",
+    "Links:",
+    "[Yellow Pony](/category/conspiracies/yellow-pony/):",
+    "September 9, 2014",
+    "[Metal Machine Trio](/category/conspiracies/metal-machine-trio/):",
+    "Discography:",
+    "Links:",
+    "[Lucibel Crater](/category/conspiracies/lucibel-crater/):",
+    "Latest Clips:",
+    "Discography:",
+    "Conspirators:",
+    "Links:",
+    "[Yellow Pony](/category/conspiracies/yellow-pony/):",
+    "[Lulu](/category/conspiracies/lou-reed-metallica-project/):",
+    "Discography:",
+    "[Book of Sarth](/category/conspiracies/book-of-sarth/):",
+    "Latest Clips:",
+    "[Number 19](/category/conspiracies/number-19/):",
+    "Discography:",
+    "[Mike Acerbo](/category/conspiracies/mike-acerbo/):",
+    "[The Gralbum Collective](/category/conspiracies/the-gralbum-collective/):"
+   ]
+  },
+  {
+   "route": "/category/conspiracies/metal-machine-trio/",
+   "url": "https://www.sarth.net/category/conspiracies/metal-machine-trio/",
+   "markdown": "https://www.sarth.net/category/conspiracies/metal-machine-trio/index.md",
+   "title": "Metal Machine Trio",
+   "description": "Metal Machine Trio, as originally published on sarth.net, 2010 and 2014: the Metal Machine Trio page of the WordPress site, with its posts. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "October 30, 2010",
+    "Latest:",
+    "[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)",
+    "[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)",
+    "[mm3 in brussels, video from youtube](/mm3-in-brussels-video-from-youtube/)",
+    "[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)",
+    "[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)",
+    "Discography:",
+    "Videos:",
+    "Links:",
+    "September 9, 2014",
+    "Latest:",
+    "[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)",
+    "[Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)",
+    "[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)",
+    "[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)",
+    "[mm3 in brussels, video from youtube](/mm3-in-brussels-video-from-youtube/)",
+    "Discography:",
+    "Videos:",
+    "Links:"
+   ]
   },
   {
    "route": "/category/conspiracies/metal-machine-trio/page/2/",
@@ -1975,6 +2091,55 @@
    "markdown": "https://www.sarth.net/category/conspiracies/metal-machine-trio/page/2/index.md",
    "title": "Metal Machine Trio, page 2 of 2",
    "description": "Metal Machine Trio, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): MM3 interviewed in Art Rocker; Video: Metal Machine Trio infiltrates Lucibel Crater; Metal Machine Trio “The Creation of the Universe”.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/conspiracies/lou-reed-metallica-project/",
+   "url": "https://www.sarth.net/category/conspiracies/lou-reed-metallica-project/",
+   "markdown": "https://www.sarth.net/category/conspiracies/lou-reed-metallica-project/index.md",
+   "title": "Lulu",
+   "description": "Lulu, as originally published on sarth.net, 2014: the Lulu page of the WordPress site, the record with Lou Reed and Metallica. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "March 5, 2014 and September 5, 2014",
+    "Latest:",
+    "[Lulu in Cologne](/lulu-in-cologne/)",
+    "[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)",
+    "[Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)",
+    "[Lulu](/lulucd/)",
+    "[Lulu now officially released](/lulureleased/)",
+    "Discography:",
+    "Videos:"
+   ]
+  },
+  {
+   "route": "/category/conspiracies/book-of-sarth/",
+   "url": "https://www.sarth.net/category/conspiracies/book-of-sarth/",
+   "markdown": "https://www.sarth.net/category/conspiracies/book-of-sarth/index.md",
+   "title": "Book of Sarth",
+   "description": "Book of Sarth, as originally published on sarth.net, 2014: the Book of Sarth page of the WordPress site, with its latest posts and reviews. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "Latest:",
+    "[Gralbum has launched](/gralbum-has-launched/)",
+    "Book of Sarth Quicklist",
+    "[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)",
+    "[The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)",
+    "[Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)",
+    "Listen:",
+    "Reviews:"
+   ]
+  },
+  {
+   "route": "/category/conspiracies/lucibel-crater/page/2/",
+   "url": "https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/",
+   "markdown": "https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/index.md",
+   "title": "Lucibel Crater, page 2 of 2",
+   "description": "Lucibel Crater, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): Video: Lucibel Crater – Elvis Costello – Green Shirt; Video: Lucibel Crater – Masticate; Lucibel Crater : The Family Album; Sarth Clips.",
    "facet": null,
    "published": null,
    "headings": []
@@ -1988,6 +2153,124 @@
    "facet": null,
    "published": null,
    "headings": []
+  },
+  {
+   "route": "/category/conspirators/",
+   "url": "https://www.sarth.net/category/conspirators/",
+   "markdown": "https://www.sarth.net/category/conspirators/index.md",
+   "title": "Conspirators",
+   "description": "Conspirators, as originally published on sarth.net, 2010 and 2014: the collaborators page of the WordPress site. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "October 30, 2010",
+    "[Leah Coloff](/category/conspirators/leah-coloff/):",
+    "Latest Clips:",
+    "Discography:",
+    "Conspiracies:",
+    "Links:",
+    "[Paul Chuffo](/category/conspirators/paul-chuffo/):",
+    "Latest Clips:",
+    "Discography:",
+    "Conspiracies:",
+    "[Lou Reed](/category/conspirators/lou-reed/):",
+    "[Marc Ribot](/category/conspirators/marc-ribot/):",
+    "September 14, 2014",
+    "[Leah Coloff](/category/conspirators/leah-coloff/):",
+    "Latest Clips:",
+    "Discography:",
+    "Conspiracies:",
+    "Links:",
+    "[Paul Chuffo](/category/conspirators/paul-chuffo/):",
+    "Latest Clips:",
+    "Discography:",
+    "Conspiracies:",
+    "[Lou Reed](/category/conspirators/lou-reed/):",
+    "Discography:",
+    "[Metallica](/category/conspirators/metallica-conspirators/):",
+    "Discography:",
+    "[Tony Diodore](/category/conspirators/tony-diodore-conspirators/):",
+    "Discography:",
+    "[Mark Righter](/category/conspirators/mark-righter/):",
+    "Discography:",
+    "[Rich Kulsar](/category/conspirators/rich-kulsar/):",
+    "[Alex Smith](/category/conspirators/alex-smith/):",
+    "[Archie P. Valdez](/category/conspirators/archie-p-valdez/):",
+    "[Billy Martin](/category/conspirators/billy-martin/):"
+   ]
+  },
+  {
+   "route": "/category/conspirators/leah-coloff/",
+   "url": "https://www.sarth.net/category/conspirators/leah-coloff/",
+   "markdown": "https://www.sarth.net/category/conspirators/leah-coloff/index.md",
+   "title": "Leah Coloff",
+   "description": "Leah Coloff, as originally published on sarth.net, 2010 and 2014: the Leah Coloff page of the WordPress site, with its posts. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "October 31, 2010",
+    "Latest:",
+    "Video: Could I",
+    "[Video: Exactly Where You Are](/video-exactly-where-you-are/)",
+    "[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)",
+    "[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)",
+    "[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)",
+    "Listen:",
+    "Discography:",
+    "Videos:",
+    "Conspiracies:",
+    "Links:",
+    "September 9, 2014",
+    "Latest:",
+    "[Gralbum has launched](/gralbum-has-launched/)",
+    "Book of Sarth Quicklist",
+    "[Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)",
+    "[(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/)",
+    "Video: Could I",
+    "Listen:",
+    "Discography:",
+    "Reviews:",
+    "Videos:",
+    "Conspiracies:",
+    "Links:"
+   ]
+  },
+  {
+   "route": "/category/conspirators/paul-chuffo/",
+   "url": "https://www.sarth.net/category/conspirators/paul-chuffo/",
+   "markdown": "https://www.sarth.net/category/conspirators/paul-chuffo/index.md",
+   "title": "Paul Chuffo",
+   "description": "Paul Chuffo, as originally published on sarth.net, 2010 and 2014: the Paul Chuffo page of the WordPress site, with its posts. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "November 11, 2010 and September 5, 2014",
+    "Latest:",
+    "Video: Could I",
+    "[Video: Exactly Where You Are](/video-exactly-where-you-are/)",
+    "[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)",
+    "[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)",
+    "[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)",
+    "Listen:",
+    "Discography:",
+    "Videos:",
+    "Conspiracies:"
+   ]
+  },
+  {
+   "route": "/category/conspirators/tony-diodore-conspirators/",
+   "url": "https://www.sarth.net/category/conspirators/tony-diodore-conspirators/",
+   "markdown": "https://www.sarth.net/category/conspirators/tony-diodore-conspirators/index.md",
+   "title": "Tony Diodore",
+   "description": "Tony Diodore, as originally published on sarth.net, 2014: the Tony Diodore page of the WordPress site, with its posts. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "March 5, 2014 and September 9, 2014",
+    "Latest:",
+    "[Number19 – Suspension](/number19-suspension/)",
+    "Discography:"
+   ]
   },
   {
    "route": "/category/conspirators/lou-reed/page/3/",
@@ -2333,6 +2616,33 @@
    ]
   },
   {
+   "route": "/introspections-about/",
+   "url": "https://www.sarth.net/introspections-about/",
+   "markdown": "https://www.sarth.net/introspections-about/index.md",
+   "title": "Introspections-About",
+   "description": "Introspections-About, as originally published on sarth.net, July 25, 2016: about the Introspections sets and about Sarth. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": "2016-07-25",
+   "headings": [
+    "Introspections",
+    "About Sarth",
+    "reflections",
+    "contemplations"
+   ]
+  },
+  {
+   "route": "/introspections/",
+   "url": "https://www.sarth.net/introspections/",
+   "markdown": "https://www.sarth.net/introspections/index.md",
+   "title": "Introspections",
+   "description": "Introspections, as originally published on sarth.net, July 22, 2016: the page for the Introspections sets, with its videos and tracks. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": "2016-07-22",
+   "headings": [
+    "INTROSPECTIONS"
+   ]
+  },
+  {
    "route": "/lucibel-crater-clips/",
    "url": "https://www.sarth.net/lucibel-crater-clips/",
    "markdown": "https://www.sarth.net/lucibel-crater-clips/index.md",
@@ -2411,6 +2721,20 @@
    "facet": "dream",
    "published": "2012-01-16",
    "headings": []
+  },
+  {
+   "route": "/metal-machine-trio-the-creation-of-the-universe/",
+   "url": "https://www.sarth.net/metal-machine-trio-the-creation-of-the-universe/",
+   "markdown": "https://www.sarth.net/metal-machine-trio-the-creation-of-the-universe/index.md",
+   "title": "Metal Machine Trio “The Creation of the Universe”",
+   "description": "Metal Machine Trio “The Creation of the Universe”, as originally published on sarth.net, March 22, 2010: the post announcing the first Metal Machine Trio release, with its comments. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": "2010-03-22",
+   "headings": [
+    "Conspiracy:",
+    "Conspirators:",
+    "2 Comments"
+   ]
   },
   {
    "route": "/mm3-in-brussels-video-from-youtube/",
@@ -2514,6 +2838,18 @@
    "facet": "machine",
    "published": "2013-02-12",
    "headings": []
+  },
+  {
+   "route": "/sarthnet-in-transition/",
+   "url": "https://www.sarth.net/sarthnet-in-transition/",
+   "markdown": "https://www.sarth.net/sarthnet-in-transition/index.md",
+   "title": "Sarth.net in Transition",
+   "description": "Sarth.net in Transition, as originally published on sarth.net, September 8, 2026: the holding page of the Squarespace site. Kept as it was, with a link to today’s page.",
+   "facet": null,
+   "published": "2026-09-08",
+   "headings": [
+    "Sarth Calhoun • Machine • Dream • Message"
+   ]
   },
   {
    "route": "/search/",

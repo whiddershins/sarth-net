@@ -181,14 +181,25 @@ None.
 Sentences say I (Sarth's rule, 23 Sep 2026). Sentences that still name Sarth, outside quotes,
 captions, labels and data, with the first one on each page. About and Citations are exempt.
 
+- https://www.sarth.net/category/bio/ (6): Sarth Calhoun is a musician who stubbornly refuses to choose. Rather he seeks to synthesize: electronic and acoustic, im
+- https://www.sarth.net/category/conspiracies/ (2): Sarth's current brainchild is Brooklyn-based electronic/rock group Lucibel Crater.
+- https://www.sarth.net/category/conspiracies/book-of-sarth/ (4): Filed Under: Alex Smith, Archie P. Valdez, Billy Martin, Book of Sarth, Intrigue, Leah Coloff, Sarth Solo Projects, The 
+- https://www.sarth.net/category/conspiracies/lou-reed-metallica-project/ (1): Filed Under: Intrigue, Lou Reed, Lulu, Metallica, photo Tags: Iced Honey, Jools Holland, London, Lou Reed, Lulu, Metalli
 - https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/ (1): Sarth Clips · February 27, 2010
+- https://www.sarth.net/category/conspiracies/metal-machine-trio/ (4): Filed Under: Intrigue, Laurie Anderson, Lou Reed, Marc Ribot, Metal Machine Trio, Sarth Solo Projects, photo Tags: Bardo
 - https://www.sarth.net/category/conspiracies/sarth-solo-projects/ (2): The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest first. 10 of them, with a link where the po
+- https://www.sarth.net/category/conspirators/ (1): Tony, Sarth, Leah Coloff, and Marcus Righter formed Number19 in 1999. After we released Suspension, Tony went on to play
+- https://www.sarth.net/category/conspirators/leah-coloff/ (2): Filed Under: Alex Smith, Archie P. Valdez, Billy Martin, Book of Sarth, Intrigue, Leah Coloff, Sarth Solo Projects, The 
+- https://www.sarth.net/category/conspirators/tony-diodore-conspirators/ (1): Tony, Sarth, Leah Coloff, and Marcus Righter formed Number19 in 1999. After we released Suspension, Tony went on to play
 - https://www.sarth.net/category/music/clips/ (1): Sarth Clips · February 27, 2010
 - https://www.sarth.net/category/music/page/2/ (1): Sarth Clips · February 27, 2010
 - https://www.sarth.net/conspirators/moldover/ (1): On December 30, 2025 his channel posted “Sarth plays Moldover’s Voice Crusher,” two and a half minutes of me on the Voic
+- https://www.sarth.net/introspections-about/ (1): Sarth started developing the techniques of improvised live processing with his band Lucibel Crater, creating a sound des
 - https://www.sarth.net/lucibel-crater-clips/ (1): Posted on sarth.net at this address on February 27, 2010, and reproduced here as written, from the Internet Archive’s co
+- https://www.sarth.net/metal-machine-trio-the-creation-of-the-universe/ (1): These two special live concert recordings of non-vocal music featuring Lou on guitar and electronics, Ulrich Krieger on 
 - https://www.sarth.net/photos-of-noise-night-sydney/ (1): Filed under: Intrigue, Laurie Anderson, Lou Reed, Marc Ribot, Metal Machine Trio, Sarth Solo Projects, photo.
 - https://www.sarth.net/power-and-serenity-for-sale/ (1): Conspiracy: Sarth Solo Projects
+- https://www.sarth.net/sarthnet-in-transition/ (1): This is the old page, kept as it was. Today’s page: Sarth Calhoun.
 - https://www.sarth.net/tag/audioclips/ (1): Sarth Clips · February 27, 2010
 - https://www.sarth.net/tag/featured_music/ (1): Sarth Clips · February 27, 2010
 - https://www.sarth.net/tag/lucibel-crater-the-family-album/ (1): Sarth Clips · February 27, 2010

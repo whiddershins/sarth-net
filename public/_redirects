@@ -19,8 +19,7 @@
 /sarth3/ /sightings/ 200
 /sarth4 /intrigue/ 200
 /sarth4/ /intrigue/ 200
-/sarthnet-in-transition / 200
-/sarthnet-in-transition/ / 200
+/sarthnet-in-transition /sarthnet-in-transition/ 200
 /i-just-believe-in-christmas /conspiracies/i-just-believe-in-christmas/ 200
 /i-just-believe-in-christmas/ /conspiracies/i-just-believe-in-christmas/ 200
 /conspiracies /conspiracies/ 200
@@ -36,10 +35,8 @@
 /new-blog/ /words/ 200
 /intrigue /intrigue/ 200
 /words /words/ 200
-/introspections /transmissions/introspections/ 200
-/introspections/ /transmissions/introspections/ 200
-/introspections-about /transmissions/introspections/ 200
-/introspections-about/ /transmissions/introspections/ 200
+/introspections /introspections/ 200
+/introspections-about /introspections-about/ 200
 /introspections-collection /transmissions/introspections/ 200
 /introspections-collection/ /transmissions/introspections/ 200
 # Squarespace image pages that came back as pages at their own addresses.
@@ -64,16 +61,13 @@
 # Squarespace blog posts: Rumors (listed on /intrigue).
 /rumors/2022/4/18/elementary-audio-day-1 /transmissions/elementary-audio-day-1/ 200
 /rumors/2022/4/18/elementary-audio-day-1/ /transmissions/elementary-audio-day-1/ 200
-/rumors/2020/11/20/reflections-vol-1 /conspiracies/reflections-vol-1/ 200
-/rumors/2020/11/20/reflections-vol-1/ /conspiracies/reflections-vol-1/ 200
+/rumors/2020/11/20/reflections-vol-1 /rumors/2020/11/20/reflections-vol-1/ 200
 /rumors/2015/11/29/i-just-believe-in-christmas /conspiracies/i-just-believe-in-christmas/ 200
 /rumors/2015/11/29/i-just-believe-in-christmas/ /conspiracies/i-just-believe-in-christmas/ 200
-/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now /conspiracies/reflections-vol-1/ 200
-/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/ /conspiracies/reflections-vol-1/ 200
+/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now /rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/ 200
 /rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum /transmissions/train-o-thots-at-the-new-york-transit-museum/ 200
 /rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum/ /transmissions/train-o-thots-at-the-new-york-transit-museum/ 200
-/rumors/2015/2/10/gralbum-has-launched /conspiracies/gralbum-collective/ 200
-/rumors/2015/2/10/gralbum-has-launched/ /conspiracies/gralbum-collective/ 200
+/rumors/2015/2/10/gralbum-has-launched /rumors/2015/2/10/gralbum-has-launched/ 200
 /rumors/2015/2/10/a-wonderful-write-up-of-the-book-of-sarth-on-the-verge /a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/ 200
 /rumors/2015/2/10/a-wonderful-write-up-of-the-book-of-sarth-on-the-verge/ /a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/ 200
 /rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week /the-book-of-sarth-gizmodo-apps-of-the-week/ 200
@@ -89,8 +83,7 @@
 
 # WordPress posts, 2010 to 2014, whose subject has its own page here.
 /photos-of-noise-night-sydney /photos-of-noise-night-sydney/ 200
-/metal-machine-trio-the-creation-of-the-universe /transmissions/the-creation-of-the-universe/ 200
-/metal-machine-trio-the-creation-of-the-universe/ /transmissions/the-creation-of-the-universe/ 200
+/metal-machine-trio-the-creation-of-the-universe /metal-machine-trio-the-creation-of-the-universe/ 200
 /metal-machine-trio-the-creation-of-the-universe/lou-reeds-metal-machine-trio_1269275870303 /transmissions/the-creation-of-the-universe/ 200
 /metal-machine-trio-the-creation-of-the-universe/lou-reeds-metal-machine-trio_1269275870303/ /transmissions/the-creation-of-the-universe/ 200
 /yellow-pony-madrid-july-2009 /conspiracies/yellow-pony/ 200
@@ -110,8 +103,7 @@
 /book-of-sarth-in-the-app-store /book-of-sarth-in-the-app-store/ 200
 
 # WordPress categories that were a person or a project: that page.
-/category/conspirators /conspirators/ 200
-/category/conspirators/ /conspirators/ 200
+/category/conspirators /category/conspirators/ 200
 /category/conspirators/alex-smith /conspirators/alex-wyly/ 200
 /category/conspirators/alex-smith/ /conspirators/alex-wyly/ 200
 /category/conspirators/archie-p-valdez /conspirators/archie-p-valdez/ 200
@@ -120,8 +112,7 @@
 /category/conspirators/billy-martin/ /conspirators/billy-martin/ 200
 /category/conspirators/laurie-anderson /conspirators/laurie-anderson/ 200
 /category/conspirators/laurie-anderson/ /conspirators/laurie-anderson/ 200
-/category/conspirators/leah-coloff /conspirators/leah-coloff/ 200
-/category/conspirators/leah-coloff/ /conspirators/leah-coloff/ 200
+/category/conspirators/leah-coloff /category/conspirators/leah-coloff/ 200
 /category/conspirators/lou-reed /conspirators/lou-reed/ 200
 /category/conspirators/lou-reed/ /conspirators/lou-reed/ 200
 /category/conspirators/marc-ribot /conspirators/marc-ribot/ 200
@@ -130,28 +121,22 @@
 /category/conspirators/mark-righter/ /conspirators/mark-righter/ 200
 /category/conspirators/metallica-conspirators /conspirators/metallica/ 200
 /category/conspirators/metallica-conspirators/ /conspirators/metallica/ 200
-/category/conspirators/paul-chuffo /conspirators/paul-chuffo/ 200
-/category/conspirators/paul-chuffo/ /conspirators/paul-chuffo/ 200
+/category/conspirators/paul-chuffo /category/conspirators/paul-chuffo/ 200
 /category/conspirators/rich-kulsar /conspirators/rich-kulsar/ 200
 /category/conspirators/rich-kulsar/ /conspirators/rich-kulsar/ 200
 /category/conspirators/rob-wasserman /conspirators/rob-wasserman/ 200
 /category/conspirators/rob-wasserman/ /conspirators/rob-wasserman/ 200
-/category/conspirators/tony-diodore-conspirators /conspirators/tony-diodore/ 200
-/category/conspirators/tony-diodore-conspirators/ /conspirators/tony-diodore/ 200
+/category/conspirators/tony-diodore-conspirators /category/conspirators/tony-diodore-conspirators/ 200
 /category/conspirators/ulrich-krieger /conspirators/ulrich-krieger/ 200
 /category/conspirators/ulrich-krieger/ /conspirators/ulrich-krieger/ 200
-/category/conspiracies /conspiracies/ 200
-/category/conspiracies/ /conspiracies/ 200
-/category/conspiracies/book-of-sarth /conspiracies/book-of-sarth/ 200
-/category/conspiracies/book-of-sarth/ /conspiracies/book-of-sarth/ 200
+/category/conspiracies /category/conspiracies/ 200
+/category/conspiracies/book-of-sarth /category/conspiracies/book-of-sarth/ 200
 /category/conspiracies/lou-reed-band /conspiracies/lou-reed-song-band/ 200
 /category/conspiracies/lou-reed-band/ /conspiracies/lou-reed-song-band/ 200
-/category/conspiracies/lou-reed-metallica-project /conspiracies/lulu/ 200
-/category/conspiracies/lou-reed-metallica-project/ /conspiracies/lulu/ 200
+/category/conspiracies/lou-reed-metallica-project /category/conspiracies/lou-reed-metallica-project/ 200
 /category/conspiracies/lucibel-crater /conspiracies/lucibel-crater/ 200
 /category/conspiracies/lucibel-crater/ /conspiracies/lucibel-crater/ 200
-/category/conspiracies/metal-machine-trio /conspiracies/metal-machine-trio/ 200
-/category/conspiracies/metal-machine-trio/ /conspiracies/metal-machine-trio/ 200
+/category/conspiracies/metal-machine-trio /category/conspiracies/metal-machine-trio/ 200
 /category/conspiracies/mike-acerbo /conspirators/mike-acerbo/ 200
 /category/conspiracies/mike-acerbo/ /conspirators/mike-acerbo/ 200
 /category/conspiracies/number-19 /conspiracies/number19/ 200
@@ -162,8 +147,7 @@
 /category/conspiracies/yellow-pony/ /conspiracies/yellow-pony/ 200
 
 # WordPress pages that were a single page: that page.
-/category/bio /about/ 200
-/category/bio/ /about/ 200
+/category/bio /category/bio/ 200
 /category/contact /contact/ 200
 /category/contact/ /contact/ 200
 /category/shows /sightings/ 200

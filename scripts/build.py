@@ -338,6 +338,8 @@ def load_pages():
             # homepage index, which stays engineering-first (Sarth, 7 Oct 2026). Their
             # listings, tags and the sitemap reach them.
             "restored": bool(re.search(r"<main[^>]*\sdata-restored[\s>]", s)),
+            # An "As originally published on sarth.net" page names the page that replaced it.
+            "archive_of": (re.search(r'<main[^>]*\sdata-archive-of="([^"]+)"', s) or [None, None])[1],
         }
     return pages
 
@@ -541,7 +543,8 @@ def sitemap(pages, order, dates):
 
 
 def feed(pages):
-    dated = sorted((p for p in pages.values() if p["published"]), key=lambda p: (p["published"], p["url"]), reverse=True)
+    # Archive pages are old pages kept as they were, not new writing: they stay out of the feed.
+    dated = sorted((p for p in pages.values() if p["published"] and not p["archive_of"]), key=lambda p: (p["published"], p["url"]), reverse=True)
     home = pages["/"]
     e = html.escape
     entries = "".join(
@@ -1003,7 +1006,7 @@ def tagmap_everywhere(route, entry, pages, order):
     got = []
     for r in order:
         p = pages[r]
-        if r in skip or r.startswith(("/tag/", "/category/")):
+        if r in skip or r.startswith(("/tag/", "/category/")) or p["archive_of"]:
             continue
         text = parse(without_tagmap(p["main_html"])).text() if (terms or all_terms) else ""
         hit = r in listed
@@ -1040,6 +1043,32 @@ def splice_tagmap(text, inner):
         return splice(text, inner, TAGMAP_START, TAGMAP_END)
     a = re.search(r"<main.*?</h1>\n", text, re.S).end()
     return text[:a] + "    " + TAGMAP_START + "\n" + inner + TAGMAP_END + "\n" + text[a:]
+
+
+def archive_problems(pages):
+    """Every archive page ("As originally published on sarth.net, <date>") links, inside its
+    main, to the current page it names in data-archive-of; that page exists and is not the
+    archive itself; the archive is its own canonical; and its slashless twin, if it has a
+    rule, serves the archive and nothing else."""
+    problems = []
+    rules = {source: dest for source, dest, code in load_redirects()}
+    for route, page in pages.items():
+        now = page["archive_of"]
+        if not now:
+            continue
+        if now == route or now not in pages:
+            problems.append(f"{route}: data-archive-of {now} is not another page of the site")
+        linked = {normalize_path(h) for h in hrefs(page["main"], internal_only=True)}
+        if now not in linked:
+            problems.append(f"{route} is an archive page that does not link to its current page {now}")
+        if page["url"] != HOST + route:
+            problems.append(f"{route}: an archive page is its own canonical, not {page['url']}")
+        if "As originally published on sarth.net" not in page["main_html"]:
+            problems.append(f"{route}: an archive page says it is as originally published on sarth.net")
+        bare = route.rstrip("/")
+        if bare and bare in rules and rules[bare] != route:
+            problems.append(f"public/_redirects: {bare} serves {rules[bare]}, not the archive page {route}")
+    return problems
 
 
 def tagmap_problems(pages, tagmap):
@@ -1735,7 +1764,7 @@ def build(mode):
         sys.exit(1)
 
     stale = [p for p, t in outputs if not p.exists() or p.read_text() != t]
-    problems = tagmap_problems(pages, tagmap) + check_links(pages) + redirects_problems() + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems + headers_problems() + podcast_feed_problems(podcast)
+    problems = tagmap_problems(pages, tagmap) + archive_problems(pages) + check_links(pages) + redirects_problems() + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems + headers_problems() + podcast_feed_problems(podcast)
     if mode == "check":
         for p in stale:
             print(f"stale: {p.relative_to(ROOT)}")

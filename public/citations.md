@@ -40,7 +40,7 @@ every page.
 - Burlap https://burlap.app
 
 <!-- build:citations -->
-## Citations by page (752 total)
+## Citations by page (793 total)
 
 ### Sarth Calhoun
 `/`
@@ -155,10 +155,73 @@ every page.
 
 - [Internet Archive’s copy](https://web.archive.org/web/20140305174205/http://www.sarth.net/book-of-sarth-sneak-preview/)
 
+### Bio
+`/category/bio/`
+
+- [October 30, 2010](https://web.archive.org/web/20101030053745/http://www.sarth.net/category/bio/)
+- [September 10, 2014](https://web.archive.org/web/20140910073331/http://www.sarth.net/category/bio/)
+
+### Conspiracies
+`/category/conspiracies/`
+
+- [Metal Machine Trio](https://web.archive.org/web/20100510123208/http://www.loureed.com/metalmachinetrio/)
+- [Lucibel Crater](https://web.archive.org/web/20100515011929/http://lucibelcrater.com/)
+- [Lucibel Crater's Facebook](http://www.facebook.com/lucibelcrater)
+- [Anticipation of our noise madness in Sydney](http://www.smh.com.au/entertainment/music/the-art-of-noise-20100507-uiwi.html)
+- [October 31, 2010](https://web.archive.org/web/20101031201233/http://www.sarth.net/category/conspiracies/)
+- [September 9, 2014](https://web.archive.org/web/20140909155420/http://www.sarth.net/category/conspiracies/)
+
+### Book of Sarth
+`/category/conspiracies/book-of-sarth/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
+
+### Lulu
+`/category/conspiracies/lou-reed-metallica-project/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305091847/http://www.sarth.net/category/conspiracies/lou-reed-metallica-project/)
+- [September 5, 2014](https://web.archive.org/web/20140905191203/http://www.sarth.net/category/conspiracies/lou-reed-metallica-project/)
+
+### Metal Machine Trio
+`/category/conspiracies/metal-machine-trio/`
+
+- [Metal Machine Trio](https://web.archive.org/web/20100510123208/http://www.loureed.com/metalmachinetrio/)
+- [Anticipation of our noise madness in Sydney](http://www.smh.com.au/entertainment/music/the-art-of-noise-20100507-uiwi.html)
+- [October 30, 2010](https://web.archive.org/web/20101030011406/http://www.sarth.net/category/conspiracies/metal-machine-trio/)
+- [September 9, 2014](https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/)
+
 ### Sarth Solo Projects
 `/category/conspiracies/sarth-solo-projects/`
 
 - [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/)
+
+### Conspirators
+`/category/conspirators/`
+
+- [Leah Coloff's website](http://leahcoloff.com/)
+- [Leah Coloff's Myspace Page](http://www.myspace.com/leahcoloff)
+- [October 30, 2010](https://web.archive.org/web/20101030053756/http://www.sarth.net/category/conspirators/)
+- [September 14, 2014](https://web.archive.org/web/20140914185321/http://www.sarth.net/category/conspirators/)
+
+### Leah Coloff
+`/category/conspirators/leah-coloff/`
+
+- [Leah Coloff's website](http://leahcoloff.com/)
+- [Leah Coloff's Myspace Page](http://www.myspace.com/leahcoloff)
+- [October 31, 2010](https://web.archive.org/web/20101031201238/http://www.sarth.net/category/conspirators/leah-coloff/)
+- [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
+
+### Paul Chuffo
+`/category/conspirators/paul-chuffo/`
+
+- [November 11, 2010](https://web.archive.org/web/20101111011708/http://www.sarth.net/category/conspirators/paul-chuffo/)
+- [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/)
+
+### Tony Diodore
+`/category/conspirators/tony-diodore-conspirators/`
+
+- [March 5, 2014](https://web.archive.org/web/20140305082304/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/)
+- [September 9, 2014](https://web.archive.org/web/20140909154824/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/)
 
 ### Contraptions
 `/category/contraptions/`
@@ -983,6 +1046,11 @@ every page.
 
 - [10.1 ambisonic installation](https://web.archive.org/web/20120131143544/http://www.csulb.edu:80/org/uam/EXHIBITIONSupcoming.html)
 
+### Metal Machine Trio “The Creation of the Universe”
+`/metal-machine-trio-the-creation-of-the-universe/`
+
+- [October 28, 2010](https://web.archive.org/web/20101028105838/http://www.sarth.net/metal-machine-trio-the-creation-of-the-universe)
+
 ### MM3 interviewed in Art Rocker
 `/mm3-interviewed-in-art-rocker/`
 
@@ -1068,6 +1136,31 @@ every page.
 - [The Kitchen Sisters](https://kitchensisters.org/podcast/lou-reeds-tai-chi/)
 - [Kevin Hearn](https://en.wikipedia.org/wiki/Kevin_Hearn)
 - [Laurie Anderson](https://en.wikipedia.org/wiki/Laurie_Anderson)
+
+### Reflections, Vol 1, available on iTunes now
+`/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/`
+
+- [Reflections](https://itunes.apple.com/us/album/reflections-vol.-1-noise-akin/id1061852160)
+
+### (Gr)album has launched!
+`/rumors/2015/2/10/gralbum-has-launched/`
+
+- [http://bit.ly/gralbum](https://web.archive.org/web/20141020195257/http://bit.ly/gralbum)
+- [The (Gr)album Collective](https://www.gralbumcollective.com)
+- [Stereophile Magazine](https://www.facebook.com/stereophilemag)
+- [SoundCtrl](https://www.facebook.com/SoundCtrl)
+- [http://www.stereophile.com/content/gralbum-re-thinking-concept-album](http://www.stereophile.com/content/gralbum-re-thinking-concept-album)
+- [http://www.soundctrl.com/blog/gralbum/](http://www.soundctrl.com/blog/gralbum/)
+- [Book of Sarth](https://www.facebook.com/BookOfSarth?ref=hl)
+- [MOREimages](https://www.facebook.com/moreimages.net)
+- [here](https://www.facebook.com/media/set/?set=a.394893913981892.1073741834.150030408468245&type=3)
+
+### Sarth.net in Transition
+`/sarthnet-in-transition/`
+
+- [latest contraptions here.](https://contraptions.bookofsarth.com)
+- [here](https://www.youtube.com/watch?v=wroKqbXfx5g)
+- [@noisegroove](https://x.com/noisegroove)
 
 ### Sightings
 `/sightings/`

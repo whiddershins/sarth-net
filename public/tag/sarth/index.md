@@ -16,7 +16,7 @@ The posts tagged Sarth on the WordPress sarth.net, newest first, with a link whe
 
 - **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
-  Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+  Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
 - **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 

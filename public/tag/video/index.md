@@ -21,6 +21,7 @@ Start here: [Transmissions](/transmissions/)
 - [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · July 31, 2026
 - [Through the Brambles](/transmissions/through-the-brambles/) · May 11, 2026
 - [Lulu in Cologne](/lulu-in-cologne/) · November 12, 2011
+- [Video: Could I](/video-could-i/) · March 22, 2010
 - [Video: Exactly Where You Are](/video-exactly-where-you-are/) · March 22, 2010
 - [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · Conspiracy
 - [Savas](/conspirators/savas/) · Conspirator

@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 281,
+ "count": 308,
  "pages": [
   {
    "route": "/",
@@ -1681,17 +1681,26 @@
     "[Amsterdam Cafe](/amsterdam-cafe/)",
     "[Bolted for the Briar Patch](/bolted-for-the-briar-patch/)",
     "[Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/)",
+    "[Book of Sarth Quicklist](/book-of-sarth-quicklist/)",
     "[Book of Sarth clips](/book-of-sarth-sneak-preview/)",
+    "[Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)",
     "[Bio](/category/bio/)",
     "[Conspiracies](/category/conspiracies/)",
     "[Book of Sarth](/category/conspiracies/book-of-sarth/)",
+    "[Book of Sarth, page 2 of 2](/category/conspiracies/book-of-sarth/page/2/)",
     "[Lulu](/category/conspiracies/lou-reed-metallica-project/)",
     "[Metal Machine Trio](/category/conspiracies/metal-machine-trio/)",
     "[Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/)",
+    "[Sarth Solo Projects, page 2 of 2](/category/conspiracies/sarth-solo-projects/page/2/)",
     "[Conspirators](/category/conspirators/)",
     "[Leah Coloff](/category/conspirators/leah-coloff/)",
+    "[Leah Coloff, page 2 of 3](/category/conspirators/leah-coloff/page/2/)",
+    "[Leah Coloff, page 3 of 3](/category/conspirators/leah-coloff/page/3/)",
+    "[Lou Reed, page 4 of 4](/category/conspirators/lou-reed/page/4/)",
     "[Paul Chuffo](/category/conspirators/paul-chuffo/)",
+    "[Paul Chuffo, page 2 of 2](/category/conspirators/paul-chuffo/page/2/)",
     "[Tony Diodore](/category/conspirators/tony-diodore-conspirators/)",
+    "[Ulrich Krieger, page 2 of 2](/category/conspirators/ulrich-krieger/page/2/)",
     "[Contraptions](/category/contraptions/)",
     "[Equipment](/category/equipment/)",
     "[Intrigue, page 1 of 5](/category/intrigue/)",
@@ -1700,6 +1709,7 @@
     "[Intrigue, page 4 of 5](/category/intrigue/page/4/)",
     "[Intrigue, page 5 of 5](/category/intrigue/page/5/)",
     "[Press Clips](/category/intrigue/press-clips/)",
+    "[Press Clips, page 2 of 2](/category/intrigue/press-clips/page/2/)",
     "[Music, page 1 of 2](/category/music/)",
     "[Clips](/category/music/clips/)",
     "[Discography](/category/music/discography/)",
@@ -1717,6 +1727,7 @@
     "[Video, page 3 of 3](/category/visuals/video/page/3/)",
     "[Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)",
     "[Citations](/citations/)",
+    "[ConnecTable carpentry …](/connectable-carpentry/)",
     "[Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)",
     "[Book of Sarth](/conspiracies/book-of-sarth/)",
     "[Burlap](/conspiracies/burlap/)",
@@ -1827,18 +1838,25 @@
     "[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)",
     "[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)",
     "[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)",
+    "[Tag: Amsterdam](/tag/amsterdam/)",
     "[Tag: aram bajakian](/tag/aram-bajakian/)",
     "[Tag: audioclips](/tag/audioclips/)",
     "[Tag: Bardo Pond](/tag/bardo-pond/)",
     "[Tag: Book of Sarth](/tag/book-of-sarth/)",
     "[Tag: Bryon Bishop](/tag/bryon-bishop/)",
+    "[Tag: Cafe](/tag/cafe/)",
+    "[Tag: Cat](/tag/cat/)",
     "[Tag: Chain D.L.K.](/tag/chain-d-l-k/)",
     "[Tag: Creation of the Universe](/tag/creation-of-the-universe/)",
+    "[Tag: cs 6.00](/tag/cs-6-00/)",
+    "[Tag: drm](/tag/drm/)",
     "[Tag: Ear Worm](/tag/ear-worm/)",
     "[Tag: featured_music](/tag/featured_music/)",
+    "[Tag: Germany](/tag/germany/)",
     "[Tag: Gizmodo](/tag/gizmodo/)",
     "[Tag: hop farm](/tag/hop-farm/)",
     "[Tag: Iced Honey](/tag/iced-honey/)",
+    "[Tag: ip](/tag/ip/)",
     "[Tag: Jools Holland](/tag/jools-holland/)",
     "[Tag: Kevin Hearn](/tag/kevin-hearn/)",
     "[Tag: kyma](/tag/kyma/)",
@@ -1855,12 +1873,16 @@
     "[Tag: Metal Machine Music](/tag/metal-machine-music/)",
     "[Tag: Metallica](/tag/metallica/)",
     "[Tag: MM3](/tag/mm3/)",
+    "[Tag: Moldover](/tag/moldover/)",
     "[Tag: MWMCG](/tag/mwmcg/)",
     "[Tag: Night Terrors](/tag/night-terrors/)",
     "[Tag: Noise](/tag/noise/)",
     "[Tag: Number 19](/tag/number-19/)",
+    "[Tag: opencourseware](/tag/opencourseware/)",
     "[Tag: Opera House](/tag/opera-house/)",
     "[Tag: Paris](/tag/paris/)",
+    "[Tag: piracy](/tag/piracy/)",
+    "[Tag: pirate bay](/tag/pirate-bay/)",
     "[Tag: recursion](/tag/recursion/)",
     "[Tag: Reviews](/tag/reviews/)",
     "[Tag: Rice Corpse](/tag/rice-corpse/)",
@@ -1869,7 +1891,9 @@
     "[Tag: Sarth](/tag/sarth/)",
     "[Tag: Sketching Monkey](/tag/sketching-monkey/)",
     "[Tag: Super Nintendo](/tag/super-nintendo/)",
+    "[Tag: surreal](/tag/surreal/)",
     "[Tag: Suspension](/tag/suspension/)",
+    "[Tag: sydney opera house](/tag/sydney-opera-house/)",
     "[Tag: Sydney](/tag/sydney/)",
     "[Tag: Symbolic Sound](/tag/symbolic-sound/)",
     "[Tag: Taratata](/tag/taratata/)",
@@ -1913,6 +1937,7 @@
     "[Visual Reference Prompting](/transmissions/visual-reference-prompting/)",
     "[Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/)",
     "[Window functions, the mental model](/transmissions/window-functions/)",
+    "[Video: Could I](/video-could-i/)",
     "[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)",
     "[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)",
     "[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)",
@@ -1993,6 +2018,16 @@
    "headings": []
   },
   {
+   "route": "/book-of-sarth-quicklist/",
+   "url": "https://www.sarth.net/book-of-sarth-quicklist/",
+   "markdown": "https://www.sarth.net/book-of-sarth-quicklist/index.md",
+   "title": "Book of Sarth Quicklist",
+   "description": "Book of Sarth Quicklist, a post by Sarth Calhoun first published at this address on sarth.net on June 12, 2013, filed under Book of Sarth.",
+   "facet": "dream",
+   "published": "2013-06-12",
+   "headings": []
+  },
+  {
    "route": "/book-of-sarth-sneak-preview/",
    "url": "https://www.sarth.net/book-of-sarth-sneak-preview/",
    "markdown": "https://www.sarth.net/book-of-sarth-sneak-preview/index.md",
@@ -2000,6 +2035,16 @@
    "description": "Book of Sarth clips, a post by Sarth Calhoun first published at this address on sarth.net on November 10, 2011, sharing For The Door Store, one of the hidden tracks of The Book of Sarth.",
    "facet": "dream",
    "published": "2011-11-10",
+   "headings": []
+  },
+  {
+   "route": "/brain-melt-double-firewire-800-scare/",
+   "url": "https://www.sarth.net/brain-melt-double-firewire-800-scare/",
+   "markdown": "https://www.sarth.net/brain-melt-double-firewire-800-scare/index.md",
+   "title": "Brain melt – double firewire 800 scare",
+   "description": "Brain melt – double firewire 800 scare, a post by Sarth Calhoun first published at this address on sarth.net on October 14, 2011, filed under Contraptions and Sarth Solo Projects.",
+   "facet": "dream",
+   "published": "2011-10-14",
    "headings": []
   },
   {
@@ -2135,6 +2180,16 @@
    ]
   },
   {
+   "route": "/category/conspiracies/book-of-sarth/page/2/",
+   "url": "https://www.sarth.net/category/conspiracies/book-of-sarth/page/2/",
+   "markdown": "https://www.sarth.net/category/conspiracies/book-of-sarth/page/2/index.md",
+   "title": "Book of Sarth, page 2 of 2",
+   "description": "Book of Sarth, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): Symbolic Sound – Book of Sarth Review; The Book of Sarth in the app store now!; Book of Sarth clips.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/category/conspiracies/lucibel-crater/page/2/",
    "url": "https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/",
    "markdown": "https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/index.md",
@@ -2150,6 +2205,16 @@
    "markdown": "https://www.sarth.net/category/conspiracies/sarth-solo-projects/index.md",
    "title": "Sarth Solo Projects",
    "description": "Sarth Solo Projects, a conspiracy of the WordPress sarth.net (2010 to 2014): The Book of Sarth and the Gralbum, Power and Serenity, Noise Night and Lucibel Crater clips.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/conspiracies/sarth-solo-projects/page/2/",
+   "url": "https://www.sarth.net/category/conspiracies/sarth-solo-projects/page/2/",
+   "markdown": "https://www.sarth.net/category/conspiracies/sarth-solo-projects/page/2/index.md",
+   "title": "Sarth Solo Projects, page 2 of 2",
+   "description": "Sarth Solo Projects, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): Book of Sarth clips; Brain melt – double firewire 800 scare; Power and Serenity; Photos of Noise Night, Sydney; Sarth Clips.",
    "facet": null,
    "published": null,
    "headings": []
@@ -2236,6 +2301,26 @@
    ]
   },
   {
+   "route": "/category/conspirators/leah-coloff/page/2/",
+   "url": "https://www.sarth.net/category/conspirators/leah-coloff/page/2/",
+   "markdown": "https://www.sarth.net/category/conspirators/leah-coloff/page/2/index.md",
+   "title": "Leah Coloff, page 2 of 3",
+   "description": "Leah Coloff, page 2 of 3, a category of the WordPress sarth.net (2010 to 2014): Video: Exactly Where You Are; Video: Metal Machine Trio infiltrates Lucibel Crater; Video: Lucibel Crater – Noise I Groove – Blue Stationwagon; Video: Lucibel Crater – Elvis Costello – Green Shirt; Video: Lucibel Crater – Masticate.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/conspirators/leah-coloff/page/3/",
+   "url": "https://www.sarth.net/category/conspirators/leah-coloff/page/3/",
+   "markdown": "https://www.sarth.net/category/conspirators/leah-coloff/page/3/index.md",
+   "title": "Leah Coloff, page 3 of 3",
+   "description": "Leah Coloff, page 3 of 3, a category of the WordPress sarth.net (2010 to 2014): Lucibel Crater : The Family Album; Sarth Clips; Number19 – Suspension.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/category/conspirators/paul-chuffo/",
    "url": "https://www.sarth.net/category/conspirators/paul-chuffo/",
    "markdown": "https://www.sarth.net/category/conspirators/paul-chuffo/index.md",
@@ -2258,6 +2343,16 @@
    ]
   },
   {
+   "route": "/category/conspirators/paul-chuffo/page/2/",
+   "url": "https://www.sarth.net/category/conspirators/paul-chuffo/page/2/",
+   "markdown": "https://www.sarth.net/category/conspirators/paul-chuffo/page/2/index.md",
+   "title": "Paul Chuffo, page 2 of 2",
+   "description": "Paul Chuffo, page 2 of 2, a category of the WordPress sarth.net (2010 to 2014): Video: Lucibel Crater – Masticate; Lucibel Crater : The Family Album; Sarth Clips.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/category/conspirators/tony-diodore-conspirators/",
    "url": "https://www.sarth.net/category/conspirators/tony-diodore-conspirators/",
    "markdown": "https://www.sarth.net/category/conspirators/tony-diodore-conspirators/index.md",
@@ -2273,11 +2368,41 @@
    ]
   },
   {
+   "route": "/category/conspirators/lou-reed/page/2/",
+   "url": "https://www.sarth.net/category/conspirators/lou-reed/page/2/",
+   "markdown": "https://www.sarth.net/category/conspirators/lou-reed/page/2/index.md",
+   "title": "Lou Reed, page 2 of 3",
+   "description": "Lou Reed, page 2 of 3, a category of the WordPress sarth.net (2010 to 2014): Lulu; Lulu now officially released; A quick clip from Carhaix; Power and Serenity; Photos of Noise Night, Sydney.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/category/conspirators/lou-reed/page/3/",
    "url": "https://www.sarth.net/category/conspirators/lou-reed/page/3/",
    "markdown": "https://www.sarth.net/category/conspirators/lou-reed/page/3/index.md",
    "title": "Lou Reed, page 3 of 3",
    "description": "Lou Reed, page 3 of 3, a category of the WordPress sarth.net (2010 to 2014): Cool review comparing Creation of The Universe to Metal Machine Music; mm3 in brussels, video from youtube; Yellow Pony, Madrid, July 2009; Metal Machine Trio “The Creation of the Universe”.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/conspirators/lou-reed/page/4/",
+   "url": "https://www.sarth.net/category/conspirators/lou-reed/page/4/",
+   "markdown": "https://www.sarth.net/category/conspirators/lou-reed/page/4/index.md",
+   "title": "Lou Reed, page 4 of 4",
+   "description": "Lou Reed, page 4 of 4, a category of the WordPress sarth.net (2010 to 2014): Metal Machine Trio “The Creation of the Universe”.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/conspirators/ulrich-krieger/page/2/",
+   "url": "https://www.sarth.net/category/conspirators/ulrich-krieger/page/2/",
+   "markdown": "https://www.sarth.net/category/conspirators/ulrich-krieger/page/2/index.md",
+   "title": "Ulrich Krieger, page 2 of 2",
+   "description": "Ulrich Krieger, page 2 of 2, a category of the WordPress sarth.net (2010 to 2014): Metal Machine Trio “The Creation of the Universe”.",
    "facet": null,
    "published": null,
    "headings": []
@@ -2361,6 +2486,26 @@
    "markdown": "https://www.sarth.net/category/intrigue/press-clips/index.md",
    "title": "Press Clips",
    "description": "Press Clips, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts about press for The Book of Sarth and the Metal Machine Trio.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/intrigue/press-clips/page/2/",
+   "url": "https://www.sarth.net/category/intrigue/press-clips/page/2/",
+   "markdown": "https://www.sarth.net/category/intrigue/press-clips/page/2/index.md",
+   "title": "Press Clips, page 2 of 2",
+   "description": "Press Clips, page 2 of 2, a category of the WordPress sarth.net (2010 to 2014): Sydney Morning Herald is Bracing for our arrival; MM3 interviewed in Art Rocker.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/category/inventions/",
+   "url": "https://www.sarth.net/category/inventions/",
+   "markdown": "https://www.sarth.net/category/inventions/index.md",
+   "title": "Inventions",
+   "description": "Inventions, a category of the WordPress sarth.net (2010 to 2014): The Book of Sarth in the app store now!.",
    "facet": null,
    "published": null,
    "headings": []
@@ -2540,6 +2685,16 @@
    "description": "Chain D.L.K. – Book of Sarth Review, a post by Sarth Calhoun first published at this address on sarth.net on December 20, 2012, about Marc Urselli’s review of The Book of Sarth for Chain D.L.K.",
    "facet": "dream",
    "published": "2012-12-20",
+   "headings": []
+  },
+  {
+   "route": "/connectable-carpentry/",
+   "url": "https://www.sarth.net/connectable-carpentry/",
+   "markdown": "https://www.sarth.net/connectable-carpentry/index.md",
+   "title": "ConnecTable carpentry …",
+   "description": "ConnecTable carpentry …, a post by Sarth Calhoun first published at this address on sarth.net on July 1, 2013, filed under Contraptions and photo.",
+   "facet": "dream",
+   "published": "2013-07-01",
    "headings": []
   },
   {
@@ -2940,6 +3095,19 @@
    ]
   },
   {
+   "route": "/tag/amsterdam/",
+   "url": "https://www.sarth.net/tag/amsterdam/",
+   "markdown": "https://www.sarth.net/tag/amsterdam/index.md",
+   "title": "Tag: Amsterdam",
+   "description": "Amsterdam, a tag of the WordPress sarth.net (2010 to 2014): Amsterdam Cafe.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "Everywhere on sarth.net",
+    "The old site’s posts"
+   ]
+  },
+  {
    "route": "/tag/aram-bajakian/",
    "url": "https://www.sarth.net/tag/aram-bajakian/",
    "markdown": "https://www.sarth.net/tag/aram-bajakian/index.md",
@@ -3016,6 +3184,26 @@
    ]
   },
   {
+   "route": "/tag/cafe/",
+   "url": "https://www.sarth.net/tag/cafe/",
+   "markdown": "https://www.sarth.net/tag/cafe/index.md",
+   "title": "Tag: Cafe",
+   "description": "Cafe, a tag of the WordPress sarth.net (2010 to 2014): Amsterdam Cafe.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/tag/cat/",
+   "url": "https://www.sarth.net/tag/cat/",
+   "markdown": "https://www.sarth.net/tag/cat/index.md",
+   "title": "Tag: Cat",
+   "description": "Cat, a tag of the WordPress sarth.net (2010 to 2014): Amsterdam Cafe.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/tag/chain-d-l-k/",
    "url": "https://www.sarth.net/tag/chain-d-l-k/",
    "markdown": "https://www.sarth.net/tag/chain-d-l-k/index.md",
@@ -3055,6 +3243,19 @@
    ]
   },
   {
+   "route": "/tag/cs-6-00/",
+   "url": "https://www.sarth.net/tag/cs-6-00/",
+   "markdown": "https://www.sarth.net/tag/cs-6-00/index.md",
+   "title": "Tag: cs 6.00",
+   "description": "cs 6.00, a tag of the WordPress sarth.net (2010 to 2014): Recursive functions in teapots.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "Everywhere on sarth.net",
+    "The old site’s posts"
+   ]
+  },
+  {
    "route": "/tag/csulb/",
    "url": "https://www.sarth.net/tag/csulb/",
    "markdown": "https://www.sarth.net/tag/csulb/index.md",
@@ -3066,6 +3267,16 @@
     "Everywhere on sarth.net",
     "The old site’s posts"
    ]
+  },
+  {
+   "route": "/tag/drm/",
+   "url": "https://www.sarth.net/tag/drm/",
+   "markdown": "https://www.sarth.net/tag/drm/index.md",
+   "title": "Tag: drm",
+   "description": "drm, a tag of the WordPress sarth.net (2010 to 2014): I wish I had thought of this.",
+   "facet": null,
+   "published": null,
+   "headings": []
   },
   {
    "route": "/tag/ear-worm/",
@@ -3085,6 +3296,19 @@
    "markdown": "https://www.sarth.net/tag/featured_music/index.md",
    "title": "Tag: featured_music",
    "description": "featured_music, a tag of the WordPress sarth.net (2010 to 2014): Sarth Clips.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "Everywhere on sarth.net",
+    "The old site’s posts"
+   ]
+  },
+  {
+   "route": "/tag/germany/",
+   "url": "https://www.sarth.net/tag/germany/",
+   "markdown": "https://www.sarth.net/tag/germany/index.md",
+   "title": "Tag: Germany",
+   "description": "Germany, a tag of the WordPress sarth.net (2010 to 2014): Talking about Lou’s “Return to Darkness”.",
    "facet": null,
    "published": null,
    "headings": [
@@ -3130,6 +3354,16 @@
     "Everywhere on sarth.net",
     "The old site’s posts"
    ]
+  },
+  {
+   "route": "/tag/ip/",
+   "url": "https://www.sarth.net/tag/ip/",
+   "markdown": "https://www.sarth.net/tag/ip/index.md",
+   "title": "Tag: ip",
+   "description": "ip, a tag of the WordPress sarth.net (2010 to 2014): I wish I had thought of this.",
+   "facet": null,
+   "published": null,
+   "headings": []
   },
   {
    "route": "/tag/jools-holland/",
@@ -3376,6 +3610,19 @@
    ]
   },
   {
+   "route": "/tag/moldover/",
+   "url": "https://www.sarth.net/tag/moldover/",
+   "markdown": "https://www.sarth.net/tag/moldover/index.md",
+   "title": "Tag: Moldover",
+   "description": "Moldover, a tag of the WordPress sarth.net (2010 to 2014): JAMBOXES.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "Everywhere on sarth.net",
+    "The old site’s posts"
+   ]
+  },
+  {
    "route": "/tag/mwmcg/",
    "url": "https://www.sarth.net/tag/mwmcg/",
    "markdown": "https://www.sarth.net/tag/mwmcg/index.md",
@@ -3426,6 +3673,16 @@
    ]
   },
   {
+   "route": "/tag/opencourseware/",
+   "url": "https://www.sarth.net/tag/opencourseware/",
+   "markdown": "https://www.sarth.net/tag/opencourseware/index.md",
+   "title": "Tag: opencourseware",
+   "description": "opencourseware, a tag of the WordPress sarth.net (2010 to 2014): Recursive functions in teapots.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
    "route": "/tag/opera-house/",
    "url": "https://www.sarth.net/tag/opera-house/",
    "markdown": "https://www.sarth.net/tag/opera-house/index.md",
@@ -3450,6 +3707,26 @@
     "Everywhere on sarth.net",
     "The old site’s posts"
    ]
+  },
+  {
+   "route": "/tag/piracy/",
+   "url": "https://www.sarth.net/tag/piracy/",
+   "markdown": "https://www.sarth.net/tag/piracy/index.md",
+   "title": "Tag: piracy",
+   "description": "piracy, a tag of the WordPress sarth.net (2010 to 2014): I wish I had thought of this.",
+   "facet": null,
+   "published": null,
+   "headings": []
+  },
+  {
+   "route": "/tag/pirate-bay/",
+   "url": "https://www.sarth.net/tag/pirate-bay/",
+   "markdown": "https://www.sarth.net/tag/pirate-bay/index.md",
+   "title": "Tag: pirate bay",
+   "description": "pirate bay, a tag of the WordPress sarth.net (2010 to 2014): I wish I had thought of this.",
+   "facet": null,
+   "published": null,
+   "headings": []
   },
   {
    "route": "/tag/recursion/",
@@ -3552,11 +3829,37 @@
    ]
   },
   {
+   "route": "/tag/surreal/",
+   "url": "https://www.sarth.net/tag/surreal/",
+   "markdown": "https://www.sarth.net/tag/surreal/index.md",
+   "title": "Tag: surreal",
+   "description": "surreal, a tag of the WordPress sarth.net (2010 to 2014): I wish I had thought of this.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "Everywhere on sarth.net",
+    "The old site’s posts"
+   ]
+  },
+  {
    "route": "/tag/suspension/",
    "url": "https://www.sarth.net/tag/suspension/",
    "markdown": "https://www.sarth.net/tag/suspension/index.md",
    "title": "Tag: Suspension",
    "description": "Suspension, a tag of the WordPress sarth.net (2010 to 2014): Number19 – Suspension.",
+   "facet": null,
+   "published": null,
+   "headings": [
+    "Everywhere on sarth.net",
+    "The old site’s posts"
+   ]
+  },
+  {
+   "route": "/tag/sydney-opera-house/",
+   "url": "https://www.sarth.net/tag/sydney-opera-house/",
+   "markdown": "https://www.sarth.net/tag/sydney-opera-house/index.md",
+   "title": "Tag: sydney opera house",
+   "description": "sydney opera house, a tag of the WordPress sarth.net (2010 to 2014): Sydney Morning Herald is Bracing for our arrival.",
    "facet": null,
    "published": null,
    "headings": [
@@ -3755,6 +4058,16 @@
    "description": "Book of Sarth clips, a post by Sarth Calhoun first published at this address on sarth.net on November 10, 2011, sharing an audio clip from The Book of Sarth.",
    "facet": "dream",
    "published": "2011-11-10",
+   "headings": []
+  },
+  {
+   "route": "/video-could-i/",
+   "url": "https://www.sarth.net/video-could-i/",
+   "markdown": "https://www.sarth.net/video-could-i/index.md",
+   "title": "Video: Could I",
+   "description": "Video: Could I, a post by Sarth Calhoun first published at this address on sarth.net on March 22, 2010, the Lucibel Crater video Could I.",
+   "facet": "dream",
+   "published": "2010-03-22",
    "headings": []
   },
   {

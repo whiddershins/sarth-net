@@ -92,6 +92,13 @@
 /metal-machine-trio-the-creation-of-the-universe/lou-reeds-metal-machine-trio_1269275870303/ /transmissions/the-creation-of-the-universe/ 200
 /yellow-pony-madrid-july-2009 /conspiracies/yellow-pony/ 200
 /yellow-pony-madrid-july-2009/ /conspiracies/yellow-pony/ 200
+# WordPress image (attachment) pages: the post they belonged to, as that post's address serves it.
+/lucibel-crater-the-family-album/lucibelcrater-carvetheham /transmissions/the-family-album/ 200
+/lucibel-crater-the-family-album/lucibelcrater-carvetheham/ /transmissions/the-family-album/ 200
+/number19-suspension/number19suspensioncdcover /number19-suspension/ 200
+/number19-suspension/number19suspensioncdcover/ /number19-suspension/ 200
+/power-and-serenity-for-sale/power-and-serenity /power-and-serenity-for-sale/ 200
+/power-and-serenity-for-sale/power-and-serenity/ /power-and-serenity-for-sale/ 200
 
 # WordPress addresses the Internet Archive captured without the trailing slash.
 /recursive-functions-in-teapots /recursive-functions-in-teapots/ 200
@@ -101,6 +108,16 @@
 /category/music/page/2 /category/music/page/2/ 200
 /category/visuals/video/page/2 /category/visuals/video/page/2/ 200
 /category/visuals/video/page/3 /category/visuals/video/page/3/ 200
+/category/contraptions /category/contraptions/ 200
+/category/intrigue /category/intrigue/ 200
+/category/taiji /category/taiji/ 200
+/category/music /category/music/ 200
+/category/music/clips /category/music/clips/ 200
+/category/music/discography /category/music/discography/ 200
+/category/music/recordings /category/music/recordings/ 200
+/category/visuals /category/visuals/ 200
+/category/visuals/photo /category/visuals/photo/ 200
+/category/visuals/video /category/visuals/video/ 200
 # Slashless addresses the old _redirects answered (seen in Search Console).
 /category/press /category/press/ 200
 /category/reviews /category/reviews/ 200

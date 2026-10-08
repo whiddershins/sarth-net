@@ -16,10 +16,10 @@ The posts filed under Musings on the WordPress sarth.net, newest first. 4 of the
 
 - **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
 
-  Tags: drm, ip, piracy, pirate bay, [recursion](/tag/recursion/), surreal.
+  Tags: [drm](/tag/drm/), [ip](/tag/ip/), [piracy](/tag/piracy/), [pirate bay](/tag/pirate-bay/), [recursion](/tag/recursion/), [surreal](/tag/surreal/).
 
 - **[Recursive functions in teapots](/recursive-functions-in-teapots/)** · February 12, 2013
 
-  Tags: cs 6.00, opencourseware, [recursion](/tag/recursion/).
+  Tags: [cs 6.00](/tag/cs-6-00/), [opencourseware](/tag/opencourseware/), [recursion](/tag/recursion/).
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/) and from the categories each recovered post carries.

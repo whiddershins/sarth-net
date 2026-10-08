@@ -135,11 +135,24 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [bookofsarth.com](https://bookofsarth.com)
 - [Internet Archive’s copy](https://web.archive.org/web/20140306015204/http://www.sarth.net/book-of-sarth-in-the-app-store/)
 
+## [Book of Sarth Quicklist](/book-of-sarth-quicklist/)
+
+`/book-of-sarth-quicklist/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
+- [March 5, 2014](https://web.archive.org/web/20140305091900/http://www.sarth.net/category/conspirators/alex-smith/)
+
 ## [Book of Sarth clips](/book-of-sarth-sneak-preview/)
 
 `/book-of-sarth-sneak-preview/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20140305174205/http://www.sarth.net/book-of-sarth-sneak-preview/)
+
+## [Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)
+
+`/brain-melt-double-firewire-800-scare/`
+
+- [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/)
 
 ## [Bio](/category/bio/)
 
@@ -165,6 +178,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
 
+## [Book of Sarth, page 2 of 2](/category/conspiracies/book-of-sarth/page/2/)
+
+`/category/conspiracies/book-of-sarth/page/2/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
+
 ## [Lulu](/category/conspiracies/lou-reed-metallica-project/)
 
 `/category/conspiracies/lou-reed-metallica-project/`
@@ -187,6 +206,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/)
 
+## [Sarth Solo Projects, page 2 of 2](/category/conspiracies/sarth-solo-projects/page/2/)
+
+`/category/conspiracies/sarth-solo-projects/page/2/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/)
+
 ## [Conspirators](/category/conspirators/)
 
 `/category/conspirators/`
@@ -205,11 +230,35 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [October 31, 2010](https://web.archive.org/web/20101031201238/http://www.sarth.net/category/conspirators/leah-coloff/)
 - [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
 
+## [Leah Coloff, page 2 of 3](/category/conspirators/leah-coloff/page/2/)
+
+`/category/conspirators/leah-coloff/page/2/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
+
+## [Leah Coloff, page 3 of 3](/category/conspirators/leah-coloff/page/3/)
+
+`/category/conspirators/leah-coloff/page/3/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
+
+## [Lou Reed, page 4 of 4](/category/conspirators/lou-reed/page/4/)
+
+`/category/conspirators/lou-reed/page/4/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905174209/http://www.sarth.net/category/conspirators/lou-reed/)
+
 ## [Paul Chuffo](/category/conspirators/paul-chuffo/)
 
 `/category/conspirators/paul-chuffo/`
 
 - [November 11, 2010](https://web.archive.org/web/20101111011708/http://www.sarth.net/category/conspirators/paul-chuffo/)
+- [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/)
+
+## [Paul Chuffo, page 2 of 2](/category/conspirators/paul-chuffo/page/2/)
+
+`/category/conspirators/paul-chuffo/page/2/`
+
 - [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/)
 
 ## [Tony Diodore](/category/conspirators/tony-diodore-conspirators/)
@@ -218,6 +267,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [March 5, 2014](https://web.archive.org/web/20140305082304/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/)
 - [September 9, 2014](https://web.archive.org/web/20140909154824/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/)
+
+## [Ulrich Krieger, page 2 of 2](/category/conspirators/ulrich-krieger/page/2/)
+
+`/category/conspirators/ulrich-krieger/page/2/`
+
+- [September 3, 2014](https://web.archive.org/web/20140903051508/http://www.sarth.net/category/conspirators/ulrich-krieger/)
 
 ## [Contraptions](/category/contraptions/)
 
@@ -264,6 +319,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 ## [Press Clips](/category/intrigue/press-clips/)
 
 `/category/intrigue/press-clips/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/)
+
+## [Press Clips, page 2 of 2](/category/intrigue/press-clips/page/2/)
+
+`/category/intrigue/press-clips/page/2/`
 
 - [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/)
 
@@ -374,6 +435,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
 - [Discogs](https://www.discogs.com/artist/2310400-Sarth-Calhoun)
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+
+## [ConnecTable carpentry …](/connectable-carpentry/)
+
+`/connectable-carpentry/`
+
+- [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/)
 
 ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
 
@@ -1359,6 +1426,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Symbolic Sound](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
 - [Internet Archive’s copy](https://web.archive.org/web/20140306214625/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
 
+## [Tag: Amsterdam](/tag/amsterdam/)
+
+`/tag/amsterdam/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
+
 ## [Tag: aram bajakian](/tag/aram-bajakian/)
 
 `/tag/aram-bajakian/`
@@ -1389,6 +1462,18 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [March 14, 2014](https://web.archive.org/web/20140314011907/http://www.sarth.net/tag/bryon-bishop/)
 
+## [Tag: Cafe](/tag/cafe/)
+
+`/tag/cafe/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
+
+## [Tag: Cat](/tag/cat/)
+
+`/tag/cat/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
+
 ## [Tag: Chain D.L.K.](/tag/chain-d-l-k/)
 
 `/tag/chain-d-l-k/`
@@ -1401,6 +1486,18 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [November 2, 2010](https://web.archive.org/web/20101102061240/http://www.sarth.net/tag/creation-of-the-universe/)
 
+## [Tag: cs 6.00](/tag/cs-6-00/)
+
+`/tag/cs-6-00/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
+## [Tag: drm](/tag/drm/)
+
+`/tag/drm/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
 ## [Tag: Ear Worm](/tag/ear-worm/)
 
 `/tag/ear-worm/`
@@ -1412,6 +1509,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/tag/featured_music/`
 
 - [October 31, 2010](https://web.archive.org/web/20101031045339/http://www.sarth.net/tag/featured_music/)
+
+## [Tag: Germany](/tag/germany/)
+
+`/tag/germany/`
+
+- [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/)
 
 ## [Tag: Gizmodo](/tag/gizmodo/)
 
@@ -1430,6 +1533,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/tag/iced-honey/`
 
 - [March 5, 2014](https://web.archive.org/web/20140305084243/http://www.sarth.net/tag/iced-honey/)
+
+## [Tag: ip](/tag/ip/)
+
+`/tag/ip/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
 
 ## [Tag: Jools Holland](/tag/jools-holland/)
 
@@ -1527,6 +1636,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [November 2, 2010](https://web.archive.org/web/20101102064124/http://www.sarth.net/tag/mm3/)
 
+## [Tag: Moldover](/tag/moldover/)
+
+`/tag/moldover/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
+
 ## [Tag: MWMCG](/tag/mwmcg/)
 
 `/tag/mwmcg/`
@@ -1551,6 +1666,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [March 5, 2014](https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/)
 
+## [Tag: opencourseware](/tag/opencourseware/)
+
+`/tag/opencourseware/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
 ## [Tag: Opera House](/tag/opera-house/)
 
 `/tag/opera-house/`
@@ -1562,6 +1683,18 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/tag/paris/`
 
 - [March 5, 2014](https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/)
+
+## [Tag: piracy](/tag/piracy/)
+
+`/tag/piracy/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
+## [Tag: pirate bay](/tag/pirate-bay/)
+
+`/tag/pirate-bay/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
 
 ## [Tag: recursion](/tag/recursion/)
 
@@ -1611,11 +1744,23 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [March 5, 2014](https://web.archive.org/web/20140305084826/http://www.sarth.net/tag/super-nintendo/)
 
+## [Tag: surreal](/tag/surreal/)
+
+`/tag/surreal/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
 ## [Tag: Suspension](/tag/suspension/)
 
 `/tag/suspension/`
 
 - [March 6, 2014](https://web.archive.org/web/20140306060320/http://www.sarth.net/tag/suspension/)
+
+## [Tag: sydney opera house](/tag/sydney-opera-house/)
+
+`/tag/sydney-opera-house/`
+
+- [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/)
 
 ## [Tag: Sydney](/tag/sydney/)
 
@@ -1985,6 +2130,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [official Postgres docs for window functions](https://www.postgresql.org/docs/current/tutorial-window.html)
 - [Snowflake documentation](https://docs.snowflake.com/en/user-guide/functions-window-using)
+
+## [Video: Could I](/video-could-i/)
+
+`/video-could-i/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031023118/http://www.sarth.net/category/conspiracies/lucibel-crater/)
 
 ## [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)
 

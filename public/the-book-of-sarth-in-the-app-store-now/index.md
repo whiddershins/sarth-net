@@ -12,6 +12,6 @@ Oct 18, 2012 · Dream
 
 Every copy of the post shows its title and nothing else; the body was not captured.
 
-Filed under: [Book of Sarth](/conspiracies/book-of-sarth/), [Intrigue](/category/intrigue/), Inventions.
+Filed under: [Book of Sarth](/conspiracies/book-of-sarth/), [Intrigue](/category/intrigue/), [Inventions](/category/inventions/).
 
 Posted on sarth.net at this address on October 18, 2012. The Internet Archive has no copy of the post’s own page. The title, date and categories come from the Internet Archive’s copy of the Intrigue page of [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/), and the site’s Atom feed as Common Crawl captured it on May 25, 2013; no copy shows more of the post than is given here.

@@ -30,9 +30,7 @@ The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest fir
 
 - **[Book of Sarth clips](/book-of-sarth-sneak-preview/)** · November 10, 2011
 
-- **Brain melt – double firewire 800 scare** · October 14, 2011
-
-  Not recovered.
+- **[Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)** · October 14, 2011
 
 - **[Power and Serenity](/power-and-serenity-for-sale/)** · July 21, 2010
 
@@ -43,5 +41,7 @@ The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest fir
 - **[Sarth Clips](/lucibel-crater-clips/)** · February 27, 2010
 
   Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
+
+On the old site the list ran to two pages, five posts to a page; [page 2](/category/conspiracies/sarth-solo-projects/page/2/) keeps the posts that ran there in September 2014.
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/) and from the categories each recovered post carries.

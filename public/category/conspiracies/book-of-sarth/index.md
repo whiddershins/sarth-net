@@ -56,4 +56,6 @@ Tags: [Book of Sarth](/tag/book-of-sarth/), [Chain D.L.K.](/tag/chain-d-l-k/), [
 - [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)
 - [Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)
 
+In September 2014 the list ran to two pages, five posts to a page: 1 · [2](/category/conspiracies/book-of-sarth/page/2/).
+
 Reproduced word for word from the Internet Archive’s copy of [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/). Its thumbnail images are not reproduced.

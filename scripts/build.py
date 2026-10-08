@@ -1025,7 +1025,9 @@ def tagmap_everywhere(route, entry, pages, order):
 def tagmap_html(route, entry, pages, order):
     def link(r):
         return f'<a href="{r}">{html.escape(pages[r]["title"], quote=False)}</a>'
-    out = ['    <p class="meta start-here">Start here: ' + " · ".join(link(r) for r in entry["start"]) + "</p>"]
+    out = []
+    if entry["start"]:
+        out.append('    <p class="meta start-here">Start here: ' + " · ".join(link(r) for r in entry["start"]) + "</p>")
     every = tagmap_everywhere(route, entry, pages, order)
     if every:
         out.append("    <h2>Everywhere on sarth.net</h2>")
@@ -1034,7 +1036,8 @@ def tagmap_html(route, entry, pages, order):
             label = page_label(pages[r])
             out.append(f"      <li>{link(r)}" + (f" · {html.escape(label, quote=False)}" if label else "") + "</li>")
         out.append("    </ul>")
-    out.append("    <h2>The old site’s posts</h2>")
+    if out:
+        out.append("    <h2>The old site’s posts</h2>")
     return "\n".join(out) + "\n    "
 
 
@@ -1077,8 +1080,9 @@ def tagmap_problems(pages, tagmap):
         if route not in pages:
             problems.append(f"content/tags.json: {route} is not a page")
             continue
-        if not entry.get("start"):
-            problems.append(f"content/tags.json: {route} has no start page")
+        # "start": [] is allowed, and means no page of the site today is about the tag.
+        if not isinstance(entry.get("start"), list):
+            problems.append(f"content/tags.json: {route} has no start list")
         for r in entry.get("start", []) + entry.get("pages", []):
             if r not in pages:
                 problems.append(f"content/tags.json: {route} points to {r}, which is not a page")

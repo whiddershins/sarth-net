@@ -20,6 +20,8 @@ Page 3 of the posts filed under Lou Reed on the WordPress sarth.net, newest firs
 
 - **[Metal Machine Trio “The Creation of the Universe”](/transmissions/the-creation-of-the-universe/)** · March 22, 2010
 
-Page 3 of 3 · [1](/category/conspirators/lou-reed/) · 2 · 3
+Page 3 of 3 · [1](/category/conspirators/lou-reed/) · [2](/category/conspirators/lou-reed/page/2/) · 3
 
-As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it. No copy of page 2 survives.
+By September 2014 the list ran to four pages; [page 4](/category/conspirators/lou-reed/page/4/) holds its last post.
+
+As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it.

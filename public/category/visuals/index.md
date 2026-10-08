@@ -12,9 +12,7 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
 ## [Photo](/category/visuals/photo/)
 
-- **ConnecTable carpentry …** · July 1, 2013
-
-  Not recovered.
+- **[ConnecTable carpentry …](/connectable-carpentry/)** · July 1, 2013
 
 - **[Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)** · December 6, 2011
 
@@ -64,9 +62,7 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
 - **[Video: Exactly Where You Are](/video-exactly-where-you-are/)** · March 22, 2010
 
-- **Video: Could I** · March 22, 2010
-
-  Not recovered.
+- **[Video: Could I](/video-could-i/)** · March 22, 2010
 
 - **[Video: Lucibel Crater – Masticate](/masicate-video/)** · March 11, 2010
 

@@ -6,7 +6,8 @@
     "or names all of 'all_terms', or sits under 'prefix' (with 'facet' if given), or embeds a video or audio player",
     "('embeds'), or is listed in 'pages'. Tag, category, home, search and citations pages are never listed, nor",
     "pages the tag page already links. 'identical' lists the tag groups that stay the same: nothing more is known",
-    "about them without inventing facts."
+    "about them without inventing facts.",
+    "A tag with \"start\": [] has no page of the site today that is about it, so its page has no Start here line (the 13 tags added on 8 Oct 2026 for the old addresses the sweep found)."
   ],
   "identical": [
     [
@@ -30,6 +31,16 @@
     [
       "/tag/the-view/",
       "/tag/white-light-white-heat/"
+    ],
+    [
+      "/tag/cafe/",
+      "/tag/cat/"
+    ],
+    [
+      "/tag/drm/",
+      "/tag/ip/",
+      "/tag/piracy/",
+      "/tag/pirate-bay/"
     ]
   ],
   "pages": {
@@ -576,6 +587,80 @@
       ],
       "terms": [
         "Zond"
+      ]
+    },
+    "/tag/amsterdam/": {
+      "start": [],
+      "terms": [
+        "Amsterdam"
+      ]
+    },
+    "/tag/cafe/": {
+      "start": []
+    },
+    "/tag/cat/": {
+      "start": []
+    },
+    "/tag/cs-6-00/": {
+      "start": [],
+      "terms": [
+        "6.00"
+      ]
+    },
+    "/tag/drm/": {
+      "start": [],
+      "terms": [
+        "DRM"
+      ]
+    },
+    "/tag/germany/": {
+      "start": [],
+      "terms": [
+        "Germany"
+      ]
+    },
+    "/tag/ip/": {
+      "start": []
+    },
+    "/tag/moldover/": {
+      "start": [
+        "/conspirators/moldover/"
+      ],
+      "terms": [
+        "Moldover"
+      ]
+    },
+    "/tag/opencourseware/": {
+      "start": [],
+      "terms": [
+        "OpenCourseWare",
+        "Opencourseware"
+      ]
+    },
+    "/tag/piracy/": {
+      "start": [],
+      "terms": [
+        "piracy"
+      ]
+    },
+    "/tag/pirate-bay/": {
+      "start": [],
+      "terms": [
+        "Pirate Bay"
+      ]
+    },
+    "/tag/surreal/": {
+      "start": [],
+      "terms": [
+        "surreal"
+      ]
+    },
+    "/tag/sydney-opera-house/": {
+      "start": [
+        "/conspiracies/vivid-live/"
+      ],
+      "terms": [
+        "Sydney Opera House"
       ]
     }
   }

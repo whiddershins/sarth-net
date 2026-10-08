@@ -32,8 +32,10 @@ The posts filed under Press Clips on the WordPress sarth.net, newest first. 7 of
 
 - **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
-  Tags: [Noise](/tag/noise/), sydney opera house.
+  Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
 
 - **[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)** · April 21, 2010
+
+On the old site the list ran to two pages, five posts to a page; [page 2](/category/intrigue/press-clips/page/2/) keeps the posts that ran there in September 2014.
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/) and from the categories each recovered post carries.

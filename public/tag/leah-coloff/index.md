@@ -14,9 +14,11 @@ Start here: [Leah Coloff](/conspirators/leah-coloff/)
 
 - [Work](/work/) · September 22, 2026
 - [Gralbum has launched](/gralbum-has-launched/) · April 9, 2014
+- [Book of Sarth Quicklist](/book-of-sarth-quicklist/) · June 12, 2013
 - [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/) · December 20, 2012
 - [(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/) · January 14, 2012
 - [Book of Sarth](/conspiracies/book-of-sarth/) · 2012
+- [Video: Could I](/video-could-i/) · March 22, 2010
 - [Video: Exactly Where You Are](/video-exactly-where-you-are/) · March 22, 2010
 - [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/) · March 22, 2010
 - [Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/) · March 22, 2010

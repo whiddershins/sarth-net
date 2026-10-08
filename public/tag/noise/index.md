@@ -26,6 +26,6 @@ The posts tagged Noise on the WordPress sarth.net, newest first, with a link whe
 
 - **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
-  Tags: [Noise](/tag/noise/), sydney opera house.
+  Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
 
 From the Internet Archive’s copy of this tag page of [October 31, 2010](https://web.archive.org/web/20101031052406/http://www.sarth.net/tag/noise/), and the tags each recovered post carries.

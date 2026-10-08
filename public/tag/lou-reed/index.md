@@ -86,11 +86,11 @@ The posts tagged Lou Reed on the WordPress sarth.net, newest first, with a link 
 
 - **[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)** · July 16, 2012
 
-  Tags: Germany, [Lou Reed](/tag/lou-reed/).
+  Tags: [Germany](/tag/germany/), [Lou Reed](/tag/lou-reed/).
 
 - **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
-  Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+  Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 

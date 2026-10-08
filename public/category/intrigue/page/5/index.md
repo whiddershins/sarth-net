@@ -14,7 +14,7 @@ Page 5 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
 - **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
-  Tags: [Noise](/tag/noise/), sydney opera house.
+  Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
 
 - **[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)** · April 21, 2010
 

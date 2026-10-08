@@ -15,6 +15,7 @@ Start here: [Lucibel Crater](/conspiracies/lucibel-crater/)
 - [About](/about/) · September 23, 2026
 - [Work](/work/) · September 22, 2026
 - [Lucibel Crater](/lucibel-crater/) · February 17, 2015
+- [Video: Could I](/video-could-i/) · March 22, 2010
 - [Video: Exactly Where You Are](/video-exactly-where-you-are/) · March 22, 2010
 - [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/) · March 22, 2010
 - [Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/) · March 22, 2010

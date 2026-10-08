@@ -18,11 +18,11 @@ Page 2 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
 - **[JAMBOXES](/moldovers-jam-boxes/)** · July 9, 2012
 
-  Tags: Moldover.
+  Tags: [Moldover](/tag/moldover/).
 
 - **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
-  Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+  Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 

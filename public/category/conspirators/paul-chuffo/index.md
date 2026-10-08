@@ -78,4 +78,6 @@ Tags: [Video](/tag/video/)
 
 - [Lucibel Crater](/category/conspiracies/lucibel-crater/)
 
+In 2010 and in September 2014 the list ran to two pages, five posts to a page: 1 · [2](/category/conspirators/paul-chuffo/page/2/).
+
 Reproduced word for word from the Internet Archive’s copy of [November 11, 2010](https://web.archive.org/web/20101111011708/http://www.sarth.net/category/conspirators/paul-chuffo/) and the Internet Archive’s copy of [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/).

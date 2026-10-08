@@ -10,9 +10,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts filed under photo on the WordPress sarth.net, newest first. 6 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
-- **ConnecTable carpentry …** · July 1, 2013
-
-  Not recovered.
+- **[ConnecTable carpentry …](/connectable-carpentry/)** · July 1, 2013
 
 - **[Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)** · December 6, 2011
 

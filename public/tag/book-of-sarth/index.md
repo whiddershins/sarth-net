@@ -18,6 +18,7 @@ Start here: [Book of Sarth](/conspiracies/book-of-sarth/)
 - [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/) · November 21, 2020
 - [The Book of Sarth](/the-book-of-sarth/) · February 17, 2015
 - [Gralbum has launched](/gralbum-has-launched/) · April 9, 2014
+- [Book of Sarth Quicklist](/book-of-sarth-quicklist/) · June 12, 2013
 - [Recursive functions in teapots](/recursive-functions-in-teapots/) · February 12, 2013
 - [Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/) · January 24, 2013
 - [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · 2013

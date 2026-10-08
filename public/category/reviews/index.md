@@ -28,6 +28,6 @@ The posts filed under Reviews on the WordPress sarth.net, newest first. 5 of the
 
 - **[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)** · July 16, 2012
 
-  Tags: Germany, [Lou Reed](/tag/lou-reed/).
+  Tags: [Germany](/tag/germany/), [Lou Reed](/tag/lou-reed/).
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/) and from the categories each recovered post carries.

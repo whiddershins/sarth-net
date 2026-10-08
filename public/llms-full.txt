@@ -86,7 +86,7 @@ Machine-readable companions:
 
 ## Pages
 
-281 pages follow, in reading order, separated by a horizontal rule.
+308 pages follow, in reading order, separated by a horizontal rule.
 
 ---
 
@@ -6093,11 +6093,24 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [bookofsarth.com](https://bookofsarth.com)
 - [Internet Archive’s copy](https://web.archive.org/web/20140306015204/http://www.sarth.net/book-of-sarth-in-the-app-store/)
 
+## [Book of Sarth Quicklist](/book-of-sarth-quicklist/)
+
+`/book-of-sarth-quicklist/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
+- [March 5, 2014](https://web.archive.org/web/20140305091900/http://www.sarth.net/category/conspirators/alex-smith/)
+
 ## [Book of Sarth clips](/book-of-sarth-sneak-preview/)
 
 `/book-of-sarth-sneak-preview/`
 
 - [Internet Archive’s copy](https://web.archive.org/web/20140305174205/http://www.sarth.net/book-of-sarth-sneak-preview/)
+
+## [Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)
+
+`/brain-melt-double-firewire-800-scare/`
+
+- [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/)
 
 ## [Bio](/category/bio/)
 
@@ -6123,6 +6136,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
 
+## [Book of Sarth, page 2 of 2](/category/conspiracies/book-of-sarth/page/2/)
+
+`/category/conspiracies/book-of-sarth/page/2/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
+
 ## [Lulu](/category/conspiracies/lou-reed-metallica-project/)
 
 `/category/conspiracies/lou-reed-metallica-project/`
@@ -6145,6 +6164,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/)
 
+## [Sarth Solo Projects, page 2 of 2](/category/conspiracies/sarth-solo-projects/page/2/)
+
+`/category/conspiracies/sarth-solo-projects/page/2/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/)
+
 ## [Conspirators](/category/conspirators/)
 
 `/category/conspirators/`
@@ -6163,11 +6188,35 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [October 31, 2010](https://web.archive.org/web/20101031201238/http://www.sarth.net/category/conspirators/leah-coloff/)
 - [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
 
+## [Leah Coloff, page 2 of 3](/category/conspirators/leah-coloff/page/2/)
+
+`/category/conspirators/leah-coloff/page/2/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
+
+## [Leah Coloff, page 3 of 3](/category/conspirators/leah-coloff/page/3/)
+
+`/category/conspirators/leah-coloff/page/3/`
+
+- [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
+
+## [Lou Reed, page 4 of 4](/category/conspirators/lou-reed/page/4/)
+
+`/category/conspirators/lou-reed/page/4/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905174209/http://www.sarth.net/category/conspirators/lou-reed/)
+
 ## [Paul Chuffo](/category/conspirators/paul-chuffo/)
 
 `/category/conspirators/paul-chuffo/`
 
 - [November 11, 2010](https://web.archive.org/web/20101111011708/http://www.sarth.net/category/conspirators/paul-chuffo/)
+- [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/)
+
+## [Paul Chuffo, page 2 of 2](/category/conspirators/paul-chuffo/page/2/)
+
+`/category/conspirators/paul-chuffo/page/2/`
+
 - [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/)
 
 ## [Tony Diodore](/category/conspirators/tony-diodore-conspirators/)
@@ -6176,6 +6225,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [March 5, 2014](https://web.archive.org/web/20140305082304/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/)
 - [September 9, 2014](https://web.archive.org/web/20140909154824/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/)
+
+## [Ulrich Krieger, page 2 of 2](/category/conspirators/ulrich-krieger/page/2/)
+
+`/category/conspirators/ulrich-krieger/page/2/`
+
+- [September 3, 2014](https://web.archive.org/web/20140903051508/http://www.sarth.net/category/conspirators/ulrich-krieger/)
 
 ## [Contraptions](/category/contraptions/)
 
@@ -6222,6 +6277,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 ## [Press Clips](/category/intrigue/press-clips/)
 
 `/category/intrigue/press-clips/`
+
+- [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/)
+
+## [Press Clips, page 2 of 2](/category/intrigue/press-clips/page/2/)
+
+`/category/intrigue/press-clips/page/2/`
 
 - [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/)
 
@@ -6332,6 +6393,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
 - [Discogs](https://www.discogs.com/artist/2310400-Sarth-Calhoun)
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
+
+## [ConnecTable carpentry …](/connectable-carpentry/)
+
+`/connectable-carpentry/`
+
+- [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/)
 
 ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
 
@@ -7317,6 +7384,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Symbolic Sound](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
 - [Internet Archive’s copy](https://web.archive.org/web/20140306214625/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
 
+## [Tag: Amsterdam](/tag/amsterdam/)
+
+`/tag/amsterdam/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
+
 ## [Tag: aram bajakian](/tag/aram-bajakian/)
 
 `/tag/aram-bajakian/`
@@ -7347,6 +7420,18 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [March 14, 2014](https://web.archive.org/web/20140314011907/http://www.sarth.net/tag/bryon-bishop/)
 
+## [Tag: Cafe](/tag/cafe/)
+
+`/tag/cafe/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
+
+## [Tag: Cat](/tag/cat/)
+
+`/tag/cat/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
+
 ## [Tag: Chain D.L.K.](/tag/chain-d-l-k/)
 
 `/tag/chain-d-l-k/`
@@ -7359,6 +7444,18 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [November 2, 2010](https://web.archive.org/web/20101102061240/http://www.sarth.net/tag/creation-of-the-universe/)
 
+## [Tag: cs 6.00](/tag/cs-6-00/)
+
+`/tag/cs-6-00/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
+## [Tag: drm](/tag/drm/)
+
+`/tag/drm/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
 ## [Tag: Ear Worm](/tag/ear-worm/)
 
 `/tag/ear-worm/`
@@ -7370,6 +7467,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/tag/featured_music/`
 
 - [October 31, 2010](https://web.archive.org/web/20101031045339/http://www.sarth.net/tag/featured_music/)
+
+## [Tag: Germany](/tag/germany/)
+
+`/tag/germany/`
+
+- [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/)
 
 ## [Tag: Gizmodo](/tag/gizmodo/)
 
@@ -7388,6 +7491,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/tag/iced-honey/`
 
 - [March 5, 2014](https://web.archive.org/web/20140305084243/http://www.sarth.net/tag/iced-honey/)
+
+## [Tag: ip](/tag/ip/)
+
+`/tag/ip/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
 
 ## [Tag: Jools Holland](/tag/jools-holland/)
 
@@ -7485,6 +7594,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [November 2, 2010](https://web.archive.org/web/20101102064124/http://www.sarth.net/tag/mm3/)
 
+## [Tag: Moldover](/tag/moldover/)
+
+`/tag/moldover/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
+
 ## [Tag: MWMCG](/tag/mwmcg/)
 
 `/tag/mwmcg/`
@@ -7509,6 +7624,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [March 5, 2014](https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/)
 
+## [Tag: opencourseware](/tag/opencourseware/)
+
+`/tag/opencourseware/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
 ## [Tag: Opera House](/tag/opera-house/)
 
 `/tag/opera-house/`
@@ -7520,6 +7641,18 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/tag/paris/`
 
 - [March 5, 2014](https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/)
+
+## [Tag: piracy](/tag/piracy/)
+
+`/tag/piracy/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
+## [Tag: pirate bay](/tag/pirate-bay/)
+
+`/tag/pirate-bay/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
 
 ## [Tag: recursion](/tag/recursion/)
 
@@ -7569,11 +7702,23 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [March 5, 2014](https://web.archive.org/web/20140305084826/http://www.sarth.net/tag/super-nintendo/)
 
+## [Tag: surreal](/tag/surreal/)
+
+`/tag/surreal/`
+
+- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
+
 ## [Tag: Suspension](/tag/suspension/)
 
 `/tag/suspension/`
 
 - [March 6, 2014](https://web.archive.org/web/20140306060320/http://www.sarth.net/tag/suspension/)
+
+## [Tag: sydney opera house](/tag/sydney-opera-house/)
+
+`/tag/sydney-opera-house/`
+
+- [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/)
 
 ## [Tag: Sydney](/tag/sydney/)
 
@@ -7944,6 +8089,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [official Postgres docs for window functions](https://www.postgresql.org/docs/current/tutorial-window.html)
 - [Snowflake documentation](https://docs.snowflake.com/en/user-guide/functions-window-using)
 
+## [Video: Could I](/video-could-i/)
+
+`/video-could-i/`
+
+- [October 31, 2010](https://web.archive.org/web/20101031023118/http://www.sarth.net/category/conspiracies/lucibel-crater/)
+
 ## [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)
 
 `/video-lucibel-crater-elvis-costello-green-shirt/`
@@ -8109,7 +8260,7 @@ The post’s photo, titled “Amsterdam Cafe Cat” and captioned “looking for
 
 Filed under: [Intrigue](/category/intrigue/), [Lou Reed Band](/conspiracies/lou-reed-song-band/).
 
-Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
 Posted on sarth.net at this address on June 15, 2012, and reproduced here as written, from the Internet Archive’s copy of the Intrigue page of [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/), which shows the post’s text and a thumbnail of the photo. The Internet Archive has no copy of the post’s own page.
 
@@ -8249,6 +8400,22 @@ Posted on sarth.net at this address on January 24, 2013, and reproduced here as 
 
 ---
 
+# Book of Sarth Quicklist
+
+https://www.sarth.net/book-of-sarth-quicklist/
+
+Jun 12, 2013 · Dream
+
+# Book of Sarth Quicklist
+
+Every copy of the post shows its title and nothing else; the body was not captured.
+
+Filed under: [Alex Smith](/conspirators/alex-wyly/), [Archie P. Valdez](/conspirators/archie-p-valdez/), [Book of Sarth](/conspiracies/book-of-sarth/), [Leah Coloff](/conspirators/leah-coloff/).
+
+Posted on sarth.net at this address on June 12, 2013. The Internet Archive has no copy of the post’s own page. The title, date and categories come from the Internet Archive’s copy of the Book of Sarth page of [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/), and the Internet Archive’s copy of the Alex Smith page of [March 5, 2014](https://web.archive.org/web/20140305091900/http://www.sarth.net/category/conspirators/alex-smith/); no copy shows more of the post than is given here.
+
+---
+
 # Book of Sarth clips
 
 https://www.sarth.net/book-of-sarth-sneak-preview/
@@ -8266,6 +8433,22 @@ one of the hidden tracks of Book of Sarth.
 Filed under: [Book of Sarth](/conspiracies/book-of-sarth/), [clips](/category/music/clips/), [Music](/category/music/), [recordings](/category/music/recordings/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/).
 
 Posted on sarth.net at this address on November 10, 2011, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140305174205/http://www.sarth.net/book-of-sarth-sneak-preview/) of March 5, 2014. “For The Door Store (Loud!)” linked an MP3 on sarth.net, at /SarthTransmissions/For_The_Door_Store.mp3. The file was not recovered, and the Internet Archive has no copy.
+
+---
+
+# Brain melt – double firewire 800 scare
+
+https://www.sarth.net/brain-melt-double-firewire-800-scare/
+
+Oct 14, 2011 · Dream
+
+# Brain melt – double firewire 800 scare
+
+The one copy of the post’s listing shows its title and nothing else; the body was not captured.
+
+Filed under: [Contraptions](/category/contraptions/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/).
+
+Posted on sarth.net at this address on October 14, 2011. The Internet Archive has no copy of the post’s own page. The title, date and categories come from the Internet Archive’s copy of the Contraptions page of [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/); no copy shows more of the post than is given here.
 
 ---
 
@@ -8752,7 +8935,33 @@ Tags: [Book of Sarth](/tag/book-of-sarth/), [Chain D.L.K.](/tag/chain-d-l-k/), [
 - [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)
 - [Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)
 
+In September 2014 the list ran to two pages, five posts to a page: 1 · [2](/category/conspiracies/book-of-sarth/page/2/).
+
 Reproduced word for word from the Internet Archive’s copy of [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/). Its thumbnail images are not reproduced.
+
+---
+
+# Book of Sarth, page 2 of 2
+
+https://www.sarth.net/category/conspiracies/book-of-sarth/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Book of Sarth, page 2 of 2
+
+Page 2 of the posts filed under Book of Sarth on the WordPress sarth.net, newest first, five to a page, as the site showed them in September 2014.
+
+- **[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)** · November 30, 2012
+
+  Tags: [Book of Sarth](/tag/book-of-sarth/), [Ear Worm](/tag/ear-worm/), [kyma](/tag/kyma/), [Symbolic Sound](/tag/symbolic-sound/).
+
+- **[The Book of Sarth in the app store now!](/the-book-of-sarth-in-the-app-store-now/)** · October 18, 2012
+
+- **[Book of Sarth clips](/book-of-sarth-sneak-preview/)** · November 10, 2011
+
+Page 2 of 2 · [1](/category/conspiracies/book-of-sarth/) · 2
+
+The Internet Archive’s copy of page 1 of [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/) shows that the list ran to two pages and gives its first five posts; no copy of page 2 survives. This page is rebuilt from the categories each recovered post carries: the posts after those, newest first and five to a page, which comes to the same two pages.
 
 ---
 
@@ -8822,9 +9031,7 @@ The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest fir
 
 - **[Book of Sarth clips](/book-of-sarth-sneak-preview/)** · November 10, 2011
 
-- **Brain melt – double firewire 800 scare** · October 14, 2011
-
-  Not recovered.
+- **[Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)** · October 14, 2011
 
 - **[Power and Serenity](/power-and-serenity-for-sale/)** · July 21, 2010
 
@@ -8836,7 +9043,39 @@ The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest fir
 
   Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
 
+On the old site the list ran to two pages, five posts to a page; [page 2](/category/conspiracies/sarth-solo-projects/page/2/) keeps the posts that ran there in September 2014.
+
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/) and from the categories each recovered post carries.
+
+---
+
+# Sarth Solo Projects, page 2 of 2
+
+https://www.sarth.net/category/conspiracies/sarth-solo-projects/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Sarth Solo Projects, page 2 of 2
+
+Page 2 of the posts filed under Sarth Solo Projects on the WordPress sarth.net, newest first, five to a page, as the site showed them in September 2014.
+
+- **[Book of Sarth clips](/book-of-sarth-sneak-preview/)** · November 10, 2011
+
+- **[Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)** · October 14, 2011
+
+- **[Power and Serenity](/power-and-serenity-for-sale/)** · July 21, 2010
+
+- **[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)** · July 10, 2010
+
+  Tags: [Bardo Pond](/tag/bardo-pond/), [Lou Reed](/tag/lou-reed/), [Marc Ribot](/tag/marc-ribot/), [Melt Banana](/tag/melt-banana/), [MWMCG](/tag/mwmcg/), [Night Terrors](/tag/night-terrors/), [Noise](/tag/noise/), [Opera House](/tag/opera-house/), [Rice Corpse](/tag/rice-corpse/), [Sydney](/tag/sydney/), [Zond](/tag/zond/).
+
+- **[Sarth Clips](/lucibel-crater-clips/)** · February 27, 2010
+
+  Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
+
+Page 2 of 2 · [1](/category/conspiracies/sarth-solo-projects/) · 2
+
+The Internet Archive’s copy of page 1 of [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/) shows that the list ran to two pages and gives its first five posts; no copy of page 2 survives. This page is rebuilt from the categories each recovered post carries: the posts after those, newest first and five to a page, which comes to the same two pages.
 
 ---
 
@@ -9130,7 +9369,69 @@ Filed Under: [Leah Coloff](/category/conspirators/leah-coloff/), [Lucibel Crater
 - [Leah Coloff's website](http://leahcoloff.com/)
 - [Leah Coloff's Myspace Page](http://www.myspace.com/leahcoloff)
 
+By September 2014 the list ran to three pages, five posts to a page: 1 · [2](/category/conspirators/leah-coloff/page/2/) · [3](/category/conspirators/leah-coloff/page/3/).
+
 Reproduced word for word from the Internet Archive’s copy of [October 31, 2010](https://web.archive.org/web/20101031201238/http://www.sarth.net/category/conspirators/leah-coloff/) and the Internet Archive’s copy of [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/). Its thumbnail images are not reproduced.
+
+---
+
+# Leah Coloff, page 2 of 3
+
+https://www.sarth.net/category/conspirators/leah-coloff/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Leah Coloff, page 2 of 3
+
+Page 2 of the posts filed under Leah Coloff on the WordPress sarth.net, newest first, five to a page, as the site showed them in September 2014.
+
+- **[Video: Exactly Where You Are](/video-exactly-where-you-are/)** · March 22, 2010
+
+- **[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)** · March 22, 2010
+
+  Tags: [Video](/tag/video/).
+
+- **[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)** · March 22, 2010
+
+  Tags: [Video](/tag/video/).
+
+- **[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)** · March 22, 2010
+
+  Tags: [Video](/tag/video/).
+
+- **[Video: Lucibel Crater – Masticate](/masicate-video/)** · March 11, 2010
+
+  Tags: [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/), [Video](/tag/video/).
+
+Page 2 of 3 · [1](/category/conspirators/leah-coloff/) · 2 · [3](/category/conspirators/leah-coloff/page/3/)
+
+The Internet Archive’s copy of page 1 of [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/) shows that the list ran to three pages and gives its first five posts; no copy of page 2 survives. This page is rebuilt from the categories each recovered post carries: the posts after those, newest first and five to a page, which comes to the same three pages. Posts of the same day are in the order the site listed them elsewhere.
+
+---
+
+# Leah Coloff, page 3 of 3
+
+https://www.sarth.net/category/conspirators/leah-coloff/page/3/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Leah Coloff, page 3 of 3
+
+Page 3 of the posts filed under Leah Coloff on the WordPress sarth.net, newest first, five to a page, as the site showed them in September 2014.
+
+- **[Lucibel Crater : The Family Album](/transmissions/the-family-album/)** · March 11, 2010
+
+- **[Sarth Clips](/lucibel-crater-clips/)** · February 27, 2010
+
+  Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
+
+- **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
+
+  Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
+
+Page 3 of 3 · [1](/category/conspirators/leah-coloff/) · [2](/category/conspirators/leah-coloff/page/2/) · 3
+
+The Internet Archive’s copy of page 1 of [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/) shows that the list ran to three pages and gives its first five posts; no copy of page 3 survives. This page is rebuilt from the categories each recovered post carries: the posts after those, newest first and five to a page, which comes to the same three pages. Posts of the same day are in the order the site listed them elsewhere.
 
 ---
 
@@ -9212,7 +9513,35 @@ Tags: [Video](/tag/video/)
 
 - [Lucibel Crater](/category/conspiracies/lucibel-crater/)
 
+In 2010 and in September 2014 the list ran to two pages, five posts to a page: 1 · [2](/category/conspirators/paul-chuffo/page/2/).
+
 Reproduced word for word from the Internet Archive’s copy of [November 11, 2010](https://web.archive.org/web/20101111011708/http://www.sarth.net/category/conspirators/paul-chuffo/) and the Internet Archive’s copy of [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/).
+
+---
+
+# Paul Chuffo, page 2 of 2
+
+https://www.sarth.net/category/conspirators/paul-chuffo/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Paul Chuffo, page 2 of 2
+
+Page 2 of the posts filed under Paul Chuffo on the WordPress sarth.net, newest first, five to a page, as the site showed them from 2010 to 2014.
+
+- **[Video: Lucibel Crater – Masticate](/masicate-video/)** · March 11, 2010
+
+  Tags: [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/), [Video](/tag/video/).
+
+- **[Lucibel Crater : The Family Album](/transmissions/the-family-album/)** · March 11, 2010
+
+- **[Sarth Clips](/lucibel-crater-clips/)** · February 27, 2010
+
+  Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
+
+Page 2 of 2 · [1](/category/conspirators/paul-chuffo/) · 2
+
+The Internet Archive’s copy of page 1 of [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/) shows that the list ran to two pages and gives its first five posts; no copy of page 2 survives. This page is rebuilt from the categories each recovered post carries: the posts after those, newest first and five to a page, which comes to the same two pages. Posts of the same day are in the order the site listed them elsewhere.
 
 ---
 
@@ -9247,6 +9576,38 @@ Reproduced word for word from the Internet Archive’s copy of [March 5, 2014](h
 
 ---
 
+# Lou Reed, page 2 of 3
+
+https://www.sarth.net/category/conspirators/lou-reed/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Lou Reed, page 2 of 3
+
+Page 2 of the posts filed under Lou Reed on the WordPress sarth.net, newest first, five to a page, as the site showed them in May 2012.
+
+- **[Lulu](/lulucd/)** · November 6, 2011
+
+- **[Lulu now officially released](/lulureleased/)** · November 1, 2011
+
+  Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
+
+- **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
+
+  Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
+
+- **[Power and Serenity](/power-and-serenity-for-sale/)** · July 21, 2010
+
+- **[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)** · July 10, 2010
+
+  Tags: [Bardo Pond](/tag/bardo-pond/), [Lou Reed](/tag/lou-reed/), [Marc Ribot](/tag/marc-ribot/), [Melt Banana](/tag/melt-banana/), [MWMCG](/tag/mwmcg/), [Night Terrors](/tag/night-terrors/), [Noise](/tag/noise/), [Opera House](/tag/opera-house/), [Rice Corpse](/tag/rice-corpse/), [Sydney](/tag/sydney/), [Zond](/tag/zond/).
+
+Page 2 of 3 · [1](/category/conspirators/lou-reed/) · 2 · [3](/category/conspirators/lou-reed/page/3/)
+
+Common Crawl’s copy of [page 3](/category/conspirators/lou-reed/page/3/) of May 20, 2012 shows that the list then ran to three pages, and which four posts closed it; no copy of page 2 survives. This page is rebuilt from the categories each recovered post carries: the posts before those four that were up by May 2012, newest first, five to a page, which comes to the same three pages.
+
+---
+
 # Lou Reed, page 3 of 3
 
 https://www.sarth.net/category/conspirators/lou-reed/page/3/
@@ -9267,9 +9628,47 @@ Page 3 of the posts filed under Lou Reed on the WordPress sarth.net, newest firs
 
 - **[Metal Machine Trio “The Creation of the Universe”](/transmissions/the-creation-of-the-universe/)** · March 22, 2010
 
-Page 3 of 3 · [1](/category/conspirators/lou-reed/) · 2 · 3
+Page 3 of 3 · [1](/category/conspirators/lou-reed/) · [2](/category/conspirators/lou-reed/page/2/) · 3
 
-As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it. No copy of page 2 survives.
+By September 2014 the list ran to four pages; [page 4](/category/conspirators/lou-reed/page/4/) holds its last post.
+
+As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it.
+
+---
+
+# Lou Reed, page 4 of 4
+
+https://www.sarth.net/category/conspirators/lou-reed/page/4/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Lou Reed, page 4 of 4
+
+Page 4 of the posts filed under Lou Reed on the WordPress sarth.net, newest first, five to a page, as the site showed them in September 2014.
+
+- **[Metal Machine Trio “The Creation of the Universe”](/transmissions/the-creation-of-the-universe/)** · March 22, 2010
+
+Page 4 of 4 · [1](/category/conspirators/lou-reed/) · [2](/category/conspirators/lou-reed/page/2/) · [3](/category/conspirators/lou-reed/page/3/) · 4
+
+The Internet Archive’s copy of page 1 of [September 5, 2014](https://web.archive.org/web/20140905174209/http://www.sarth.net/category/conspirators/lou-reed/) shows that the list ran to four pages and gives its first five posts; no copy of page 4 survives. This page is rebuilt from the categories each recovered post carries: the posts after those, newest first and five to a page, which comes to the same four pages. The May 2012 pages are [page 2](/category/conspirators/lou-reed/page/2/) and [page 3](/category/conspirators/lou-reed/page/3/).
+
+---
+
+# Ulrich Krieger, page 2 of 2
+
+https://www.sarth.net/category/conspirators/ulrich-krieger/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Ulrich Krieger, page 2 of 2
+
+Page 2 of the posts filed under Ulrich Krieger on the WordPress sarth.net, newest first, five to a page, as the site showed them in September 2014.
+
+- **[Metal Machine Trio “The Creation of the Universe”](/transmissions/the-creation-of-the-universe/)** · March 22, 2010
+
+Page 2 of 2 · [1](/category/conspirators/ulrich-krieger/) · 2
+
+The Internet Archive’s copy of page 1 of [September 3, 2014](https://web.archive.org/web/20140903051508/http://www.sarth.net/category/conspirators/ulrich-krieger/) shows that the list ran to two pages and gives its first five posts; no copy of page 2 survives. This page is rebuilt from the categories each recovered post carries: the posts after those, newest first and five to a page, which comes to the same two pages.
 
 ---
 
@@ -9283,9 +9682,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts filed under Contraptions on the WordPress sarth.net, newest first. 5 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
-- **ConnecTable carpentry …** · July 1, 2013
-
-  Not recovered.
+- **[ConnecTable carpentry …](/connectable-carpentry/)** · July 1, 2013
 
 - **[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)** · January 3, 2013
 
@@ -9297,11 +9694,9 @@ The posts filed under Contraptions on the WordPress sarth.net, newest first. 5 o
 
 - **[JAMBOXES](/moldovers-jam-boxes/)** · July 9, 2012
 
-  Tags: Moldover.
+  Tags: [Moldover](/tag/moldover/).
 
-- **Brain melt – double firewire 800 scare** · October 14, 2011
-
-  Not recovered.
+- **[Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)** · October 14, 2011
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/) and from the categories each recovered post carries.
 
@@ -9394,11 +9789,11 @@ Page 2 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
 - **[JAMBOXES](/moldovers-jam-boxes/)** · July 9, 2012
 
-  Tags: Moldover.
+  Tags: [Moldover](/tag/moldover/).
 
 - **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
-  Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+  Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
@@ -9488,7 +9883,7 @@ Page 5 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
 
 - **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
-  Tags: [Noise](/tag/noise/), sydney opera house.
+  Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
 
 - **[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)** · April 21, 2010
 
@@ -9530,11 +9925,51 @@ The posts filed under Press Clips on the WordPress sarth.net, newest first. 7 of
 
 - **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
-  Tags: [Noise](/tag/noise/), sydney opera house.
+  Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
 
 - **[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)** · April 21, 2010
 
+On the old site the list ran to two pages, five posts to a page; [page 2](/category/intrigue/press-clips/page/2/) keeps the posts that ran there in September 2014.
+
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/) and from the categories each recovered post carries.
+
+---
+
+# Press Clips, page 2 of 2
+
+https://www.sarth.net/category/intrigue/press-clips/page/2/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Press Clips, page 2 of 2
+
+Page 2 of the posts filed under Press Clips on the WordPress sarth.net, newest first, five to a page, as the site showed them in September 2014.
+
+- **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
+
+  Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
+
+- **[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)** · April 21, 2010
+
+Page 2 of 2 · [1](/category/intrigue/press-clips/) · 2
+
+The Internet Archive’s copy of page 1 of [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/) shows that the list ran to two pages and gives its first five posts; no copy of page 2 survives. This page is rebuilt from the categories each recovered post carries: the posts after those, newest first and five to a page, which comes to the same two pages.
+
+---
+
+# Inventions
+
+https://www.sarth.net/category/inventions/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Inventions
+
+The one post filed under Inventions on the WordPress sarth.net.
+
+- **[The Book of Sarth in the app store now!](/the-book-of-sarth-in-the-app-store-now/)** · October 18, 2012
+
+Neither the Internet Archive nor Common Crawl has a copy of this category page. The list comes from the categories each recovered post carries.
 
 ---
 
@@ -9714,11 +10149,11 @@ The posts filed under Musings on the WordPress sarth.net, newest first. 4 of the
 
 - **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
 
-  Tags: drm, ip, piracy, pirate bay, [recursion](/tag/recursion/), surreal.
+  Tags: [drm](/tag/drm/), [ip](/tag/ip/), [piracy](/tag/piracy/), [pirate bay](/tag/pirate-bay/), [recursion](/tag/recursion/), [surreal](/tag/surreal/).
 
 - **[Recursive functions in teapots](/recursive-functions-in-teapots/)** · February 12, 2013
 
-  Tags: cs 6.00, opencourseware, [recursion](/tag/recursion/).
+  Tags: [cs 6.00](/tag/cs-6-00/), [opencourseware](/tag/opencourseware/), [recursion](/tag/recursion/).
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/) and from the categories each recovered post carries.
 
@@ -9782,7 +10217,7 @@ The posts filed under Reviews on the WordPress sarth.net, newest first. 5 of the
 
 - **[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)** · July 16, 2012
 
-  Tags: Germany, [Lou Reed](/tag/lou-reed/).
+  Tags: [Germany](/tag/germany/), [Lou Reed](/tag/lou-reed/).
 
 The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/) and from the categories each recovered post carries.
 
@@ -9859,9 +10294,7 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
 ## [Photo](/category/visuals/photo/)
 
-- **ConnecTable carpentry …** · July 1, 2013
-
-  Not recovered.
+- **[ConnecTable carpentry …](/connectable-carpentry/)** · July 1, 2013
 
 - **[Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)** · December 6, 2011
 
@@ -9911,9 +10344,7 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 
 - **[Video: Exactly Where You Are](/video-exactly-where-you-are/)** · March 22, 2010
 
-- **Video: Could I** · March 22, 2010
-
-  Not recovered.
+- **[Video: Could I](/video-could-i/)** · March 22, 2010
 
 - **[Video: Lucibel Crater – Masticate](/masicate-video/)** · March 11, 2010
 
@@ -9933,9 +10364,7 @@ The WordPress sarth.net, 2010 to 2014
 
 The posts filed under photo on the WordPress sarth.net, newest first. 6 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
-- **ConnecTable carpentry …** · July 1, 2013
-
-  Not recovered.
+- **[ConnecTable carpentry …](/connectable-carpentry/)** · July 1, 2013
 
 - **[Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)** · December 6, 2011
 
@@ -10061,9 +10490,7 @@ Start here: [Transmissions](/transmissions/)
 
 Page 3 of the posts filed under Video on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **Video: Could I** · March 22, 2010
-
-  Not recovered.
+- **[Video: Could I](/video-could-i/)** · March 22, 2010
 
 - **[Video: Lucibel Crater – Masticate](/masicate-video/)** · March 11, 2010
 
@@ -10096,6 +10523,22 @@ Filed under: [Alex Smith](/conspirators/alex-wyly/), [Book of Sarth](/conspiraci
 Tags: [Book of Sarth](/tag/book-of-sarth/), [Chain D.L.K.](/tag/chain-d-l-k/), [Marc Urselli](/tag/marc-urselli/).
 
 Posted on sarth.net at this address on December 20, 2012, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140307100620/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/) of March 7, 2014.
+
+---
+
+# ConnecTable carpentry …
+
+https://www.sarth.net/connectable-carpentry/
+
+Jul 1, 2013 · Dream
+
+# ConnecTable carpentry …
+
+The one copy of the post’s listing shows its title and nothing else. The post was filed under photo; no photo was captured.
+
+Filed under: [Contraptions](/category/contraptions/), [photo](/category/visuals/photo/).
+
+Posted on sarth.net at this address on July 1, 2013. The Internet Archive has no copy of the post’s own page. The title, date and categories come from the Internet Archive’s copy of the Contraptions page of [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/); no copy shows more of the post than is given here.
 
 ---
 
@@ -10189,7 +10632,7 @@ The post was an image, tpb.jpg, which was not recovered; the feed gave the image
 
 Filed under: [Musings](/category/musings/).
 
-Tags: drm, ip, piracy, pirate bay, [recursion](/tag/recursion/), surreal.
+Tags: [drm](/tag/drm/), [ip](/tag/ip/), [piracy](/tag/piracy/), [pirate bay](/tag/pirate-bay/), [recursion](/tag/recursion/), [surreal](/tag/surreal/).
 
 Posted on sarth.net at this address on February 16, 2013. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the recursion tag page of [March 6, 2014](https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/), and the site’s Atom feed as Common Crawl captured it on May 25, 2013; no copy shows more of the post than is given here.
 
@@ -10595,7 +11038,7 @@ Jul 9, 2012 · Dream
 
 Filed under: [Contraptions](/category/contraptions/), [Intrigue](/category/intrigue/).
 
-Tags: Moldover.
+Tags: [Moldover](/tag/moldover/).
 
 Posted on sarth.net at this address on July 9, 2012, from the Internet Archive’s copy of the Intrigue page of [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/), which shows the whole post: this one image, from Moldover’s blog. The Internet Archive has no copy of the post’s own page.
 
@@ -10826,7 +11269,7 @@ I think I love this because it is a useful version of
 
 Filed under: [Musings](/category/musings/).
 
-Tags: cs 6.00, opencourseware, [recursion](/tag/recursion/).
+Tags: [cs 6.00](/tag/cs-6-00/), [opencourseware](/tag/opencourseware/), [recursion](/tag/recursion/).
 
 Posted on sarth.net at this address on February 12, 2013, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140304024014/http://www.sarth.net/recursive-functions-in-teapots) of March 4, 2014. The post’s image, an animated GIF titled “Recursive Teapots” from the Book of Sarth tumblr, was not recovered.
 
@@ -10946,7 +11389,7 @@ Every copy of the post shows its title and nothing else; the press clip it share
 
 Filed under: [Lou Reed](/conspirators/lou-reed/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Press Clips](/category/intrigue/press-clips/), [Ulrich Krieger](/conspirators/ulrich-krieger/).
 
-Tags: [Noise](/tag/noise/), sydney opera house.
+Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
 
 Posted on sarth.net at this address on May 8, 2010. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the Intrigue page of [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/); no copy shows more of the post than is given here.
 
@@ -11028,6 +11471,30 @@ The posts tagged ambisonic on the WordPress sarth.net, newest first, with a link
   Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 From Common Crawl’s copy of this tag page of February 23, 2012, which lists this one post. The Internet Archive has no copy of the tag page.
+
+---
+
+# Tag: Amsterdam
+
+https://www.sarth.net/tag/amsterdam/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: Amsterdam
+
+## Everywhere on sarth.net
+
+- [Savas](/conspirators/savas/) · Conspirator
+
+## The old site’s posts
+
+The posts tagged Amsterdam on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
+
+  Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Intrigue page 2, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/).
 
 ---
 
@@ -11170,6 +11637,7 @@ Start here: [Book of Sarth](/conspiracies/book-of-sarth/)
 - [About Awakening (To Blacklist)](/transmissions/about-awakening-to-blacklist/) · November 21, 2020
 - [The Book of Sarth](/the-book-of-sarth/) · February 17, 2015
 - [Gralbum has launched](/gralbum-has-launched/) · April 9, 2014
+- [Book of Sarth Quicklist](/book-of-sarth-quicklist/) · June 12, 2013
 - [Recursive functions in teapots](/recursive-functions-in-teapots/) · February 12, 2013
 - [Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/) · January 24, 2013
 - [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/) · 2013
@@ -11237,6 +11705,42 @@ The posts tagged Bryon Bishop on the WordPress sarth.net, newest first, with a l
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Bryon Bishop](/tag/bryon-bishop/), [Reviews](/tag/reviews/), [Sketching Monkey](/tag/sketching-monkey/), [The Verge](/tag/the-verge/).
 
 From the Internet Archive’s copy of this tag page of [March 14, 2014](https://web.archive.org/web/20140314011907/http://www.sarth.net/tag/bryon-bishop/), and the tags each recovered post carries.
+
+---
+
+# Tag: Cafe
+
+https://www.sarth.net/tag/cafe/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: Cafe
+
+The posts tagged Cafe on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
+
+  Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Intrigue page 2, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/).
+
+---
+
+# Tag: Cat
+
+https://www.sarth.net/tag/cat/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: Cat
+
+The posts tagged Cat on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
+
+  Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Intrigue page 2, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/).
 
 ---
 
@@ -11366,6 +11870,30 @@ From the Internet Archive’s copy of this tag page of [November 2, 2010](https:
 
 ---
 
+# Tag: cs 6.00
+
+https://www.sarth.net/tag/cs-6-00/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: cs 6.00
+
+## Everywhere on sarth.net
+
+- [Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/) · September 22, 2026
+
+## The old site’s posts
+
+The posts tagged cs 6.00 on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Recursive functions in teapots](/recursive-functions-in-teapots/)** · February 12, 2013
+
+  Tags: [cs 6.00](/tag/cs-6-00/), [opencourseware](/tag/opencourseware/), [recursion](/tag/recursion/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Musings page, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/).
+
+---
+
 # Tag: csulb
 
 https://www.sarth.net/tag/csulb/
@@ -11391,6 +11919,24 @@ The posts tagged csulb on the WordPress sarth.net, newest first, with a link whe
   Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 From Common Crawl’s copy of this tag page of February 23, 2012, which lists this one post. The Internet Archive has no copy of the tag page.
+
+---
+
+# Tag: drm
+
+https://www.sarth.net/tag/drm/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: drm
+
+The posts tagged drm on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
+
+  Tags: [drm](/tag/drm/), [ip](/tag/ip/), [piracy](/tag/piracy/), [pirate bay](/tag/pirate-bay/), [recursion](/tag/recursion/), [surreal](/tag/surreal/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Musings page, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/).
 
 ---
 
@@ -11456,6 +12002,30 @@ The posts tagged featured_music on the WordPress sarth.net, newest first, with a
   Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
 
 From the Internet Archive’s copy of this tag page of [October 31, 2010](https://web.archive.org/web/20101031045339/http://www.sarth.net/tag/featured_music/), and the tags each recovered post carries.
+
+---
+
+# Tag: Germany
+
+https://www.sarth.net/tag/germany/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: Germany
+
+## Everywhere on sarth.net
+
+- [Sightings](/sightings/) · Live
+
+## The old site’s posts
+
+The posts tagged Germany on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)** · July 16, 2012
+
+  Tags: [Germany](/tag/germany/), [Lou Reed](/tag/lou-reed/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Reviews page, as the Internet Archive captured it on [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/).
 
 ---
 
@@ -11538,6 +12108,24 @@ The posts tagged Iced Honey on the WordPress sarth.net, newest first, with a lin
   Tags: [Iced Honey](/tag/iced-honey/), [Jools Holland](/tag/jools-holland/), [London](/tag/london/), [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/), [Paris](/tag/paris/), [Sarth](/tag/sarth/), [Taratata](/tag/taratata/), [The View](/tag/the-view/), [White Light White Heat](/tag/white-light-white-heat/).
 
 From the Internet Archive’s copy of this tag page of [March 5, 2014](https://web.archive.org/web/20140305084243/http://www.sarth.net/tag/iced-honey/), and the tags each recovered post carries.
+
+---
+
+# Tag: ip
+
+https://www.sarth.net/tag/ip/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: ip
+
+The posts tagged ip on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
+
+  Tags: [drm](/tag/drm/), [ip](/tag/ip/), [piracy](/tag/piracy/), [pirate bay](/tag/pirate-bay/), [recursion](/tag/recursion/), [surreal](/tag/surreal/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Musings page, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/).
 
 ---
 
@@ -11690,9 +12278,11 @@ Start here: [Leah Coloff](/conspirators/leah-coloff/)
 
 - [Work](/work/) · September 22, 2026
 - [Gralbum has launched](/gralbum-has-launched/) · April 9, 2014
+- [Book of Sarth Quicklist](/book-of-sarth-quicklist/) · June 12, 2013
 - [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/) · December 20, 2012
 - [(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/) · January 14, 2012
 - [Book of Sarth](/conspiracies/book-of-sarth/) · 2012
+- [Video: Could I](/video-could-i/) · March 22, 2010
 - [Video: Exactly Where You Are](/video-exactly-where-you-are/) · March 22, 2010
 - [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/) · March 22, 2010
 - [Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/) · March 22, 2010
@@ -11887,11 +12477,11 @@ The posts tagged Lou Reed on the WordPress sarth.net, newest first, with a link 
 
 - **[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)** · July 16, 2012
 
-  Tags: Germany, [Lou Reed](/tag/lou-reed/).
+  Tags: [Germany](/tag/germany/), [Lou Reed](/tag/lou-reed/).
 
 - **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
-  Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+  Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
@@ -12004,6 +12594,7 @@ Start here: [Lucibel Crater](/conspiracies/lucibel-crater/)
 - [About](/about/) · September 23, 2026
 - [Work](/work/) · September 22, 2026
 - [Lucibel Crater](/lucibel-crater/) · February 17, 2015
+- [Video: Could I](/video-could-i/) · March 22, 2010
 - [Video: Exactly Where You Are](/video-exactly-where-you-are/) · March 22, 2010
 - [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/) · March 22, 2010
 - [Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/) · March 22, 2010
@@ -12428,6 +13019,38 @@ From the Internet Archive’s copy of this tag page of [November 2, 2010](https:
 
 ---
 
+# Tag: Moldover
+
+https://www.sarth.net/tag/moldover/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: Moldover
+
+Start here: [Moldover](/conspirators/moldover/)
+
+## Everywhere on sarth.net
+
+- [Introspections](/transmissions/introspections/) · September 23, 2026
+- [Work](/work/) · September 22, 2026
+- [Contraptions](/contraptions/) · Small machines
+- [Sxip Shirey](/conspirators/sxip-shirey/) · Conspirator
+- [Scott Hampton](/conspirators/scott-hampton/) · Conspirator
+- [Marc Ribot](/conspirators/marc-ribot/) · Conspirator
+- [Gregory Cage](/conspirators/gregory-cage/) · Conspirator
+
+## The old site’s posts
+
+The posts tagged Moldover on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[JAMBOXES](/moldovers-jam-boxes/)** · July 9, 2012
+
+  Tags: [Moldover](/tag/moldover/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Intrigue page 2, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/).
+
+---
+
 # Tag: MWMCG
 
 https://www.sarth.net/tag/mwmcg/
@@ -12498,7 +13121,7 @@ The posts tagged Noise on the WordPress sarth.net, newest first, with a link whe
 
 - **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
-  Tags: [Noise](/tag/noise/), sydney opera house.
+  Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
 
 From the Internet Archive’s copy of this tag page of [October 31, 2010](https://web.archive.org/web/20101031052406/http://www.sarth.net/tag/noise/), and the tags each recovered post carries.
 
@@ -12539,6 +13162,24 @@ The posts tagged Number 19 on the WordPress sarth.net, newest first, with a link
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
 From the Internet Archive’s copy of this tag page of [March 5, 2014](https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/), and the tags each recovered post carries.
+
+---
+
+# Tag: opencourseware
+
+https://www.sarth.net/tag/opencourseware/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: opencourseware
+
+The posts tagged opencourseware on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Recursive functions in teapots](/recursive-functions-in-teapots/)** · February 12, 2013
+
+  Tags: [cs 6.00](/tag/cs-6-00/), [opencourseware](/tag/opencourseware/), [recursion](/tag/recursion/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Musings page, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/).
 
 ---
 
@@ -12607,6 +13248,42 @@ From the Internet Archive’s copy of this tag page of [March 5, 2014](https://w
 
 ---
 
+# Tag: piracy
+
+https://www.sarth.net/tag/piracy/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: piracy
+
+The posts tagged piracy on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
+
+  Tags: [drm](/tag/drm/), [ip](/tag/ip/), [piracy](/tag/piracy/), [pirate bay](/tag/pirate-bay/), [recursion](/tag/recursion/), [surreal](/tag/surreal/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Musings page, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/).
+
+---
+
+# Tag: pirate bay
+
+https://www.sarth.net/tag/pirate-bay/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: pirate bay
+
+The posts tagged pirate bay on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
+
+  Tags: [drm](/tag/drm/), [ip](/tag/ip/), [piracy](/tag/piracy/), [pirate bay](/tag/pirate-bay/), [recursion](/tag/recursion/), [surreal](/tag/surreal/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Musings page, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/).
+
+---
+
 # Tag: recursion
 
 https://www.sarth.net/tag/recursion/
@@ -12627,11 +13304,11 @@ The posts tagged recursion on the WordPress sarth.net, newest first, with a link
 
 - **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
 
-  Tags: drm, ip, piracy, pirate bay, [recursion](/tag/recursion/), surreal.
+  Tags: [drm](/tag/drm/), [ip](/tag/ip/), [piracy](/tag/piracy/), [pirate bay](/tag/pirate-bay/), [recursion](/tag/recursion/), [surreal](/tag/surreal/).
 
 - **[Recursive functions in teapots](/recursive-functions-in-teapots/)** · February 12, 2013
 
-  Tags: cs 6.00, opencourseware, [recursion](/tag/recursion/).
+  Tags: [cs 6.00](/tag/cs-6-00/), [opencourseware](/tag/opencourseware/), [recursion](/tag/recursion/).
 
 From the Internet Archive’s copy of this tag page of [March 6, 2014](https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/), and the tags each recovered post carries.
 
@@ -12798,7 +13475,7 @@ The posts tagged Sarth on the WordPress sarth.net, newest first, with a link whe
 
 - **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012
 
-  Tags: Amsterdam, Cafe, Cat, [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
+  Tags: [Amsterdam](/tag/amsterdam/), [Cafe](/tag/cafe/), [Cat](/tag/cat/), [Lou Reed](/tag/lou-reed/), [Sarth](/tag/sarth/).
 
 - **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
@@ -12856,6 +13533,30 @@ From the Internet Archive’s copy of this tag page of [March 5, 2014](https://w
 
 ---
 
+# Tag: surreal
+
+https://www.sarth.net/tag/surreal/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: surreal
+
+## Everywhere on sarth.net
+
+- [Bolted for the Briar Patch](/bolted-for-the-briar-patch/) · June 12, 2013
+
+## The old site’s posts
+
+The posts tagged surreal on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[I wish I had thought of this](/i-wish-i-had-thought-of-this/)** · February 16, 2013
+
+  Tags: [drm](/tag/drm/), [ip](/tag/ip/), [piracy](/tag/piracy/), [pirate bay](/tag/pirate-bay/), [recursion](/tag/recursion/), [surreal](/tag/surreal/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Musings page, as the Internet Archive captured it on [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/).
+
+---
+
 # Tag: Suspension
 
 https://www.sarth.net/tag/suspension/
@@ -12890,6 +13591,39 @@ The posts tagged Suspension on the WordPress sarth.net, newest first, with a lin
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
 
 From the Internet Archive’s copy of this tag page of [March 6, 2014](https://web.archive.org/web/20140306060320/http://www.sarth.net/tag/suspension/), and the tags each recovered post carries.
+
+---
+
+# Tag: sydney opera house
+
+https://www.sarth.net/tag/sydney-opera-house/
+
+The WordPress sarth.net, 2010 to 2014
+
+# Tag: sydney opera house
+
+Start here: [Vivid LIVE 2010](/conspiracies/vivid-live/)
+
+## Everywhere on sarth.net
+
+- [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/) · July 10, 2010
+- [Conspiracies](/conspiracies/) · Projects
+- [Conspirators](/conspirators/) · People
+- [Jacob McCoy](/conspirators/jacob-mccoy/) · Conspirator
+- [Sxip Shirey](/conspirators/sxip-shirey/) · Conspirator
+- [Laurie Anderson](/conspirators/laurie-anderson/) · Conspirator
+- [Marc Ribot](/conspirators/marc-ribot/) · Conspirator
+- [Sightings](/sightings/) · Live
+
+## The old site’s posts
+
+The posts tagged sydney opera house on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
+
+- **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
+
+  Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
+
+Neither the Internet Archive nor Common Crawl has a copy of this tag page. The list comes from the tags each recovered post carries; the old site showed the tag, linked to this address, on its Intrigue page 5, as the Internet Archive captured it on [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/).
 
 ---
 
@@ -13178,6 +13912,8 @@ The posts tagged Ulrich Krieger on the WordPress sarth.net, newest first, with a
 
   Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
+The old site’s Ulrich Krieger category ran to two pages in September 2014; [page 2](/category/conspirators/ulrich-krieger/page/2/) is rebuilt as it ran then.
+
 From the Internet Archive’s copy of this tag page of [October 31, 2010](https://web.archive.org/web/20101031050029/http://www.sarth.net/tag/ulrich-krieger/), and the tags each recovered post carries.
 
 ---
@@ -13203,6 +13939,7 @@ Start here: [Transmissions](/transmissions/)
 - [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · July 31, 2026
 - [Through the Brambles](/transmissions/through-the-brambles/) · May 11, 2026
 - [Lulu in Cologne](/lulu-in-cologne/) · November 12, 2011
+- [Video: Could I](/video-could-i/) · March 22, 2010
 - [Video: Exactly Where You Are](/video-exactly-where-you-are/) · March 22, 2010
 - [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · Conspiracy
 - [Savas](/conspirators/savas/) · Conspirator
@@ -13301,7 +14038,7 @@ Every copy of the post shows its title and nothing else; the body was not captur
 
 Filed under: [Lou Reed Band](/conspiracies/lou-reed-song-band/), [Reviews](/category/reviews/).
 
-Tags: Germany, [Lou Reed](/tag/lou-reed/).
+Tags: [Germany](/tag/germany/), [Lou Reed](/tag/lou-reed/).
 
 Posted on sarth.net at this address on July 16, 2012. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the Reviews page of [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/), and the site’s Atom feed as Common Crawl captured it on May 25, 2013; no copy shows more of the post than is given here.
 
@@ -13341,7 +14078,7 @@ Oct 18, 2012 · Dream
 
 Every copy of the post shows its title and nothing else; the body was not captured.
 
-Filed under: [Book of Sarth](/conspiracies/book-of-sarth/), [Intrigue](/category/intrigue/), Inventions.
+Filed under: [Book of Sarth](/conspiracies/book-of-sarth/), [Intrigue](/category/intrigue/), [Inventions](/category/inventions/).
 
 Posted on sarth.net at this address on October 18, 2012. The Internet Archive has no copy of the post’s own page. The title, date and categories come from the Internet Archive’s copy of the Intrigue page of [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/), and the site’s Atom feed as Common Crawl captured it on May 25, 2013; no copy shows more of the post than is given here.
 
@@ -13392,6 +14129,22 @@ The post carried an audio file, 01_To_Your_Rescue.mp3. Its address no longer wor
 Filed under: [clips](/category/music/clips/).
 
 Posted on sarth.net at this address on November 10, 2011. The Internet Archive has no copy of the post’s own page. The title, date, category and audio file come from the site’s RSS feed as Common Crawl captured it on February 23, 2012 and May 20, 2012; the feed shows no text for the post. The same day, [a post with the same title](/book-of-sarth-sneak-preview/) went up at /book-of-sarth-sneak-preview/, sharing a hidden track from the record.
+
+---
+
+# Video: Could I
+
+https://www.sarth.net/video-could-i/
+
+Mar 22, 2010 · Dream
+
+# Video: Could I
+
+[Embedded player](https://www.youtube.com/embed/3n2gQjBdF8Y)
+
+Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspiracies/lucibel-crater/), [Paul Chuffo](/conspirators/paul-chuffo/), [Video](/category/visuals/video/).
+
+Posted on sarth.net at this address on March 22, 2010, from the Internet Archive’s copy of the Lucibel Crater page of [October 31, 2010](https://web.archive.org/web/20101031023118/http://www.sarth.net/category/conspiracies/lucibel-crater/), which shows the whole post. The post was this video and nothing else; it is still on Sarth’s YouTube channel. The post had one comment, which was not captured. The Internet Archive has no copy of the post’s own page.
 
 ---
 

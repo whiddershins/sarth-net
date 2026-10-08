@@ -46,4 +46,6 @@ The posts tagged Ulrich Krieger on the WordPress sarth.net, newest first, with a
 
   Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
+The old site’s Ulrich Krieger category ran to two pages in September 2014; [page 2](/category/conspirators/ulrich-krieger/page/2/) is rebuilt as it ran then.
+
 From the Internet Archive’s copy of this tag page of [October 31, 2010](https://web.archive.org/web/20101031050029/http://www.sarth.net/tag/ulrich-krieger/), and the tags each recovered post carries.

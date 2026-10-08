@@ -14,6 +14,6 @@ Every copy of the post shows its title and nothing else; the press clip it share
 
 Filed under: [Lou Reed](/conspirators/lou-reed/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Press Clips](/category/intrigue/press-clips/), [Ulrich Krieger](/conspirators/ulrich-krieger/).
 
-Tags: [Noise](/tag/noise/), sydney opera house.
+Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
 
 Posted on sarth.net at this address on May 8, 2010. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the Intrigue page of [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/); no copy shows more of the post than is given here.

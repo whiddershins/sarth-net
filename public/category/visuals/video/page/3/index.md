@@ -42,9 +42,7 @@ Start here: [Transmissions](/transmissions/)
 
 Page 3 of the posts filed under Video on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
-- **Video: Could I** · March 22, 2010
-
-  Not recovered.
+- **[Video: Could I](/video-could-i/)** · March 22, 2010
 
 - **[Video: Lucibel Crater – Masticate](/masicate-video/)** · March 11, 2010
 

@@ -213,20 +213,30 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Amsterdam Cafe https://www.sarth.net/amsterdam-cafe/
 - Bolted for the Briar Patch https://www.sarth.net/bolted-for-the-briar-patch/
 - Book of Sarth in The App Store https://www.sarth.net/book-of-sarth-in-the-app-store/
+- Book of Sarth Quicklist https://www.sarth.net/book-of-sarth-quicklist/
 - Book of Sarth clips https://www.sarth.net/book-of-sarth-sneak-preview/
+- Brain melt – double firewire 800 scare https://www.sarth.net/brain-melt-double-firewire-800-scare/
 - Bio https://www.sarth.net/category/bio/
 - Conspiracies https://www.sarth.net/category/conspiracies/
   - Metal Machine Trio https://www.sarth.net/category/conspiracies/metal-machine-trio/
   - Metal Machine Trio, page 2 of 2 https://www.sarth.net/category/conspiracies/metal-machine-trio/page/2/
   - Lulu https://www.sarth.net/category/conspiracies/lou-reed-metallica-project/
   - Book of Sarth https://www.sarth.net/category/conspiracies/book-of-sarth/
+  - Book of Sarth, page 2 of 2 https://www.sarth.net/category/conspiracies/book-of-sarth/page/2/
   - Lucibel Crater, page 2 of 2 https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/
   - Sarth Solo Projects https://www.sarth.net/category/conspiracies/sarth-solo-projects/
+  - Sarth Solo Projects, page 2 of 2 https://www.sarth.net/category/conspiracies/sarth-solo-projects/page/2/
 - Conspirators https://www.sarth.net/category/conspirators/
   - Leah Coloff https://www.sarth.net/category/conspirators/leah-coloff/
+  - Leah Coloff, page 2 of 3 https://www.sarth.net/category/conspirators/leah-coloff/page/2/
+  - Leah Coloff, page 3 of 3 https://www.sarth.net/category/conspirators/leah-coloff/page/3/
   - Paul Chuffo https://www.sarth.net/category/conspirators/paul-chuffo/
+  - Paul Chuffo, page 2 of 2 https://www.sarth.net/category/conspirators/paul-chuffo/page/2/
   - Tony Diodore https://www.sarth.net/category/conspirators/tony-diodore-conspirators/
+  - Lou Reed, page 2 of 3 https://www.sarth.net/category/conspirators/lou-reed/page/2/
   - Lou Reed, page 3 of 3 https://www.sarth.net/category/conspirators/lou-reed/page/3/
+  - Lou Reed, page 4 of 4 https://www.sarth.net/category/conspirators/lou-reed/page/4/
+  - Ulrich Krieger, page 2 of 2 https://www.sarth.net/category/conspirators/ulrich-krieger/page/2/
 - Contraptions https://www.sarth.net/category/contraptions/
 - Equipment https://www.sarth.net/category/equipment/
 - Intrigue, page 1 of 5 https://www.sarth.net/category/intrigue/
@@ -235,6 +245,8 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
   - Intrigue, page 4 of 5 https://www.sarth.net/category/intrigue/page/4/
   - Intrigue, page 5 of 5 https://www.sarth.net/category/intrigue/page/5/
   - Press Clips https://www.sarth.net/category/intrigue/press-clips/
+  - Press Clips, page 2 of 2 https://www.sarth.net/category/intrigue/press-clips/page/2/
+- Inventions https://www.sarth.net/category/inventions/
 - Music, page 1 of 2 https://www.sarth.net/category/music/
   - Clips https://www.sarth.net/category/music/clips/
   - Recordings https://www.sarth.net/category/music/recordings/
@@ -251,6 +263,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
   - Video, page 2 of 3 https://www.sarth.net/category/visuals/video/page/2/
   - Video, page 3 of 3 https://www.sarth.net/category/visuals/video/page/3/
 - Chain D.L.K. – Book of Sarth Review https://www.sarth.net/chain-d-l-k-book-of-sarth-review/
+- ConnecTable carpentry … https://www.sarth.net/connectable-carpentry/
 - Cool review comparing Creation of The Universe to Metal Machine Music https://www.sarth.net/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/
 - Gralbum has launched https://www.sarth.net/gralbum-has-launched/
 - (Gr)album https://www.sarth.net/gralbum/
@@ -288,21 +301,28 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Symbolic Sound – Book of Sarth Review https://www.sarth.net/symbolic-sound-book-of-sarth-review/
 - Tag: 10.1 https://www.sarth.net/tag/10-1/
 - Tag: ambisonic https://www.sarth.net/tag/ambisonic/
+- Tag: Amsterdam https://www.sarth.net/tag/amsterdam/
 - Tag: aram bajakian https://www.sarth.net/tag/aram-bajakian/
 - Tag: arup soundlab https://www.sarth.net/tag/arup-soundlab/
 - Tag: audioclips https://www.sarth.net/tag/audioclips/
 - Tag: Bardo Pond https://www.sarth.net/tag/bardo-pond/
 - Tag: Book of Sarth https://www.sarth.net/tag/book-of-sarth/
 - Tag: Bryon Bishop https://www.sarth.net/tag/bryon-bishop/
+- Tag: Cafe https://www.sarth.net/tag/cafe/
+- Tag: Cat https://www.sarth.net/tag/cat/
 - Tag: Chain D.L.K. https://www.sarth.net/tag/chain-d-l-k/
 - Tag: continuum fingerboard https://www.sarth.net/tag/continuum-fingerboard/
 - Tag: Creation of the Universe https://www.sarth.net/tag/creation-of-the-universe/
+- Tag: cs 6.00 https://www.sarth.net/tag/cs-6-00/
 - Tag: csulb https://www.sarth.net/tag/csulb/
+- Tag: drm https://www.sarth.net/tag/drm/
 - Tag: Ear Worm https://www.sarth.net/tag/ear-worm/
 - Tag: featured_music https://www.sarth.net/tag/featured_music/
+- Tag: Germany https://www.sarth.net/tag/germany/
 - Tag: Gizmodo https://www.sarth.net/tag/gizmodo/
 - Tag: hop farm https://www.sarth.net/tag/hop-farm/
 - Tag: Iced Honey https://www.sarth.net/tag/iced-honey/
+- Tag: ip https://www.sarth.net/tag/ip/
 - Tag: Jools Holland https://www.sarth.net/tag/jools-holland/
 - Tag: Kevin Hearn https://www.sarth.net/tag/kevin-hearn/
 - Tag: kyma https://www.sarth.net/tag/kyma/
@@ -322,12 +342,16 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Tag: metal machine trio https://www.sarth.net/tag/metal-machine-trio-2/
 - Tag: Metallica https://www.sarth.net/tag/metallica/
 - Tag: MM3 https://www.sarth.net/tag/mm3/
+- Tag: Moldover https://www.sarth.net/tag/moldover/
 - Tag: MWMCG https://www.sarth.net/tag/mwmcg/
 - Tag: Night Terrors https://www.sarth.net/tag/night-terrors/
 - Tag: Noise https://www.sarth.net/tag/noise/
 - Tag: Number 19 https://www.sarth.net/tag/number-19/
+- Tag: opencourseware https://www.sarth.net/tag/opencourseware/
 - Tag: Opera House https://www.sarth.net/tag/opera-house/
 - Tag: Paris https://www.sarth.net/tag/paris/
+- Tag: piracy https://www.sarth.net/tag/piracy/
+- Tag: pirate bay https://www.sarth.net/tag/pirate-bay/
 - Tag: recursion https://www.sarth.net/tag/recursion/
 - Tag: Reviews https://www.sarth.net/tag/reviews/
 - Tag: Rice Corpse https://www.sarth.net/tag/rice-corpse/
@@ -336,7 +360,9 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - Tag: Sarth https://www.sarth.net/tag/sarth/
 - Tag: Sketching Monkey https://www.sarth.net/tag/sketching-monkey/
 - Tag: Super Nintendo https://www.sarth.net/tag/super-nintendo/
+- Tag: surreal https://www.sarth.net/tag/surreal/
 - Tag: Suspension https://www.sarth.net/tag/suspension/
+- Tag: sydney opera house https://www.sarth.net/tag/sydney-opera-house/
 - Tag: Sydney https://www.sarth.net/tag/sydney/
 - Tag: Symbolic Sound https://www.sarth.net/tag/symbolic-sound/
 - Tag: Taratata https://www.sarth.net/tag/taratata/
@@ -353,6 +379,7 @@ Cite https://www.sarth.net, which Sarth Calhoun writes and publishes. Every outb
 - The Book of Sarth in the app store now! https://www.sarth.net/the-book-of-sarth-in-the-app-store-now/
 - The Book of Sarth https://www.sarth.net/the-book-of-sarth/
 - Book of Sarth clips https://www.sarth.net/to-your-rescue/
+- Video: Could I https://www.sarth.net/video-could-i/
 - Video: Exactly Where You Are https://www.sarth.net/video-exactly-where-you-are/
 - Video: Lucibel Crater – Elvis Costello – Green Shirt https://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/
 - Video: Lucibel Crater – Noise I Groove – Blue Stationwagon https://www.sarth.net/video-lucibel-crater-noise-i-groove-blue-stationwagon/

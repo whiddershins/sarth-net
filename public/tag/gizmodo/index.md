@@ -8,6 +8,15 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Gizmodo
 
+Start here: [Book of Sarth](/conspiracies/book-of-sarth/)
+
+## Everywhere on sarth.net
+
+- [Rumors](/rumors/) · Press and announcements
+- [Intrigue, the Squarespace news page](/intrigue/) · The Squarespace sarth.net, 2015 to 2026
+
+## The old site’s posts
+
 The posts tagged Gizmodo on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)** · December 22, 2012

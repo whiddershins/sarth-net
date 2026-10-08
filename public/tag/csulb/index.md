@@ -8,6 +8,16 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: csulb
 
+Start here: [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/)
+
+## Everywhere on sarth.net
+
+- [About](/about/) · September 23, 2026
+- [Work](/work/) · September 22, 2026
+- [Sightings](/sightings/) · Live
+
+## The old site’s posts
+
 The posts tagged csulb on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
 
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012

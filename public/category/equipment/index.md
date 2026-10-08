@@ -8,6 +8,25 @@ The WordPress sarth.net, 2010 to 2014
 
 # Equipment
 
+Start here: [Devices](/devices/)
+
+## Everywhere on sarth.net
+
+- [Kyma](/devices/kyma/) · Device
+- [Continuum](/devices/continuum/) · Device
+- [Ableton Live](/devices/ableton-live/) · Device
+- [Runway](/devices/runway/) · Device
+- [Basses](/devices/basses/) · Device
+- [Yamaha EX5](/devices/yamaha-ex5/) · Device
+- [Moog](/devices/moog/) · Device
+- [Moog Guitar](/devices/moog-guitar/) · Device
+- [Electrix Filter Queen](/devices/electrix-filter-queen/) · Device
+- [Electrix Filter Factory](/devices/electrix-filter-factory/) · Device
+- [Electrix Mo-FX](/devices/electrix-mo-fx/) · Device
+- [DaVinci Resolve](/devices/davinci-resolve/) · Device
+
+## The old site’s posts
+
 The posts filed under Equipment on the WordPress sarth.net, newest first. 1 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
 - **[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)** · November 30, 2012

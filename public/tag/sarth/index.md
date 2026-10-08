@@ -8,6 +8,10 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Sarth
 
+Start here: [About](/about/)
+
+## The old site’s posts
+
 The posts tagged Sarth on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[Amsterdam Cafe](/amsterdam-cafe/)** · June 15, 2012

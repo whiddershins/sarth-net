@@ -8,6 +8,27 @@ The WordPress sarth.net, 2010 to 2014
 
 # Taiji
 
+Start here: [Power and Serenity](/conspiracies/power-and-serenity/)
+
+## Everywhere on sarth.net
+
+- [Introspections](/transmissions/introspections/) · September 23, 2026
+- [Work](/work/) · September 22, 2026
+- [(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/) · January 14, 2012
+- [Conspiracies](/conspiracies/) · Projects
+- [Metal Machine Trio](/conspiracies/metal-machine-trio/) · Conspiracy
+- [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · Conspiracy
+- [Lou Reed](/conspirators/lou-reed/) · Conspirator
+- [Laurie Anderson](/conspirators/laurie-anderson/) · Conspirator
+- [Ulrich Krieger](/conspirators/ulrich-krieger/) · Conspirator
+- [Stewart Hurwood](/conspirators/stewart-hurwood/) · Conspirator
+- [Robert Wilson](/conspirators/robert-wilson/) · Conspirator
+- [Transmissions](/transmissions/) · Aural, optical, lexical
+- [Sightings](/sightings/) · Live
+- [Rumors](/rumors/) · Press and announcements
+
+## The old site’s posts
+
 The posts filed under Taiji on the WordPress sarth.net, newest first. 2 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
 - **[Some clips of the 21 form](/some-clips-of-the-21-form/)** · June 12, 2013

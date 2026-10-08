@@ -8,6 +8,24 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Sydney
 
+Start here: [Vivid LIVE 2010](/conspiracies/vivid-live/)
+
+## Everywhere on sarth.net
+
+- [Introspections](/transmissions/introspections/) · September 23, 2026
+- [Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/) · May 8, 2010
+- [Conspiracies](/conspiracies/) · Projects
+- [Metal Machine Trio](/conspiracies/metal-machine-trio/) · Conspiracy
+- [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · Conspiracy
+- [Conspirators](/conspirators/) · People
+- [Jacob McCoy](/conspirators/jacob-mccoy/) · Conspirator
+- [Sxip Shirey](/conspirators/sxip-shirey/) · Conspirator
+- [Laurie Anderson](/conspirators/laurie-anderson/) · Conspirator
+- [Marc Ribot](/conspirators/marc-ribot/) · Conspirator
+- [Sightings](/sightings/) · Live
+
+## The old site’s posts
+
 The posts tagged Sydney on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)** · July 10, 2010

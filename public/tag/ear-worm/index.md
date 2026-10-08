@@ -8,6 +8,10 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Ear Worm
 
+Start here: [Book of Sarth](/conspiracies/book-of-sarth/)
+
+## The old site’s posts
+
 The posts tagged Ear Worm on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)** · November 30, 2012

@@ -8,6 +8,14 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Zond
 
+Start here: [Vivid LIVE 2010](/conspiracies/vivid-live/)
+
+## Everywhere on sarth.net
+
+- [Marc Ribot](/conspirators/marc-ribot/) · Conspirator
+
+## The old site’s posts
+
 The posts tagged Zond on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)** · July 10, 2010

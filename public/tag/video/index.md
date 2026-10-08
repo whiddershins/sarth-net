@@ -8,6 +8,35 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Video
 
+Start here: [Transmissions](/transmissions/)
+
+## Everywhere on sarth.net
+
+- [Solsbury Hill](/transmissions/solsbury-hill/) · September 23, 2026
+- [Peggy Sue](/transmissions/peggy-sue/) · September 23, 2026
+- [Introspections](/transmissions/introspections/) · September 23, 2026
+- [Yellow Pony](/conspiracies/yellow-pony/) · September 22, 2026
+- [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/) · September 22, 2026
+- [I Just Believe in Christmas](/conspiracies/i-just-believe-in-christmas/) · September 22, 2026
+- [Visual Reference Prompting](/transmissions/visual-reference-prompting/) · July 31, 2026
+- [Through the Brambles](/transmissions/through-the-brambles/) · May 11, 2026
+- [Lulu in Cologne](/lulu-in-cologne/) · November 12, 2011
+- [Video: Exactly Where You Are](/video-exactly-where-you-are/) · March 22, 2010
+- [Hidden Books, Hidden Stories](/conspiracies/hidden-books-hidden-stories/) · Conspiracy
+- [Savas](/conspirators/savas/) · Conspirator
+- [Jacob McCoy](/conspirators/jacob-mccoy/) · Conspirator
+- [Doron Lev](/conspirators/doron-lev/) · Conspirator
+- [Jonathan Arons](/conspirators/jonathan-arons/) · Conspirator
+- [Sxip Shirey](/conspirators/sxip-shirey/) · Conspirator
+- [Moldover](/conspirators/moldover/) · Conspirator
+- [Michael Patrick Flanagan Smith](/conspirators/michael-patrick-flanagan-smith/) · Conspirator
+- [Lou Reed](/conspirators/lou-reed/) · Conspirator
+- [Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/) · Sighting
+- [Moog Guitar](/devices/moog-guitar/) · Device
+- [DaVinci Resolve](/devices/davinci-resolve/) · Device
+
+## The old site’s posts
+
 The posts tagged Video on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)** · March 22, 2010

@@ -8,6 +8,10 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Super Nintendo
 
+Start here: [Number19](/conspiracies/number19/)
+
+## The old site’s posts
+
 The posts tagged Super Nintendo on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008

@@ -8,6 +8,15 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Taratata
 
+Start here: [Lulu](/conspiracies/lulu/)
+
+## Everywhere on sarth.net
+
+- [Metallica](/conspirators/metallica/) · Conspirator
+- [Sightings](/sightings/) · Live
+
+## The old site’s posts
+
 The posts tagged Taratata on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011

@@ -941,6 +941,139 @@ def facets_html(pages, order):
     return "\n".join(drawers) + "\n    "
 
 
+# ------------------------------------------------------------- tag pages
+# The old WordPress tag pages and the thin category pages each lead with a
+# Start here link to the current page for the subject, then "Everywhere on
+# sarth.net": every page that names the subject, worked out here from the
+# hand-kept map in content/tags.json, then the old page's own posts (Sarth
+# approved the plan, 8 Oct 2026). Titles, dates and links only, no new prose.
+TAGMAP_START, TAGMAP_END = "<!-- build:tagmap -->", "<!-- /build:tagmap -->"
+TAGMAP_NEVER = {"/", "/search/", "/citations/"}
+VIDEO_HOSTS = ("youtube.com", "youtube-nocookie.com", "player.vimeo.com", "dailymotion.com")
+AUDIO_HOSTS = ("soundcloud.com", "bandcamp.com", "open.spotify.com", "music.apple.com")
+MONTHS = ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
+
+
+def load_tagmap():
+    path = CONTENT / "tags.json"
+    return json.loads(path.read_text()) if path.exists() else {"pages": {}, "identical": []}
+
+
+def without_tagmap(text):
+    return re.sub(re.escape(TAGMAP_START) + r".*?" + re.escape(TAGMAP_END), "", text, flags=re.S)
+
+
+def long_date(iso):
+    parts = [int(x) for x in iso[:10].split("-")]
+    if len(parts) == 1:
+        return str(parts[0])
+    if len(parts) == 2:
+        return f"{MONTHS[parts[1] - 1]} {parts[0]}"
+    return f"{MONTHS[parts[1] - 1]} {parts[2]}, {parts[0]}"
+
+
+def page_label(page):
+    """A page's date, or failing that the first word group of its kicker (Conspirator, Device...)."""
+    if page["published"]:
+        return long_date(page["published"])
+    m = re.search(r'<p class="kicker">(.*?)</p>', page["main_html"], re.S)
+    return html.unescape(re.sub(r"<[^>]+>", "", m.group(1))).split(" · ")[0].strip() if m else ""
+
+
+def embeds(page, kind):
+    main = parse(without_tagmap(page["main_html"]))
+    hosts = VIDEO_HOSTS if kind == "video" else AUDIO_HOSTS
+    if main.find_all("video" if kind == "video" else "audio"):
+        return True
+    return any(any(h in f.attrs.get("src", "") for h in hosts) for f in main.find_all("iframe"))
+
+
+def term_re(term):
+    return re.compile(r"(?<!\w)" + re.escape(term) + r"(?!\w)")
+
+
+def tagmap_everywhere(route, entry, pages, order):
+    """Routes for the Everywhere list: newest first, then undated pages in site order."""
+    page = pages[route]
+    linked = {normalize_path(h) for h in hrefs(parse(without_tagmap(page["main_html"])), internal_only=True)}
+    skip = TAGMAP_NEVER | set(entry.get("start", [])) | linked | {route}
+    terms = [term_re(t) for t in entry.get("terms", [])]
+    all_terms = [term_re(t) for t in entry.get("all_terms", [])]
+    listed = set(entry.get("pages", []))
+    got = []
+    for r in order:
+        p = pages[r]
+        if r in skip or r.startswith(("/tag/", "/category/")):
+            continue
+        text = parse(without_tagmap(p["main_html"])).text() if (terms or all_terms) else ""
+        hit = r in listed
+        hit = hit or any(t.search(text) for t in terms)
+        hit = hit or (all_terms and all(t.search(text) for t in all_terms))
+        if entry.get("prefix") and r.startswith(entry["prefix"]) and r != entry["prefix"]:
+            hit = hit or (not entry.get("facet") or p["facet"] == entry["facet"])
+        if entry.get("embeds"):
+            hit = hit or embeds(p, entry["embeds"])
+        if hit:
+            got.append(r)
+    dated = sorted((r for r in got if pages[r]["published"]), key=lambda r: pages[r]["published"], reverse=True)
+    return dated + [r for r in got if not pages[r]["published"]]
+
+
+def tagmap_html(route, entry, pages, order):
+    def link(r):
+        return f'<a href="{r}">{html.escape(pages[r]["title"], quote=False)}</a>'
+    out = ['    <p class="meta start-here">Start here: ' + " · ".join(link(r) for r in entry["start"]) + "</p>"]
+    every = tagmap_everywhere(route, entry, pages, order)
+    if every:
+        out.append("    <h2>Everywhere on sarth.net</h2>")
+        out.append('    <ul class="dates everywhere">')
+        for r in every:
+            label = page_label(pages[r])
+            out.append(f"      <li>{link(r)}" + (f" · {html.escape(label, quote=False)}" if label else "") + "</li>")
+        out.append("    </ul>")
+    out.append("    <h2>The old site’s posts</h2>")
+    return "\n".join(out) + "\n    "
+
+
+def splice_tagmap(text, inner):
+    if TAGMAP_START in text:
+        return splice(text, inner, TAGMAP_START, TAGMAP_END)
+    a = re.search(r"<main.*?</h1>\n", text, re.S).end()
+    return text[:a] + "    " + TAGMAP_START + "\n" + inner + TAGMAP_END + "\n" + text[a:]
+
+
+def tagmap_problems(pages, tagmap):
+    problems = []
+    for route, entry in tagmap["pages"].items():
+        if route not in pages:
+            problems.append(f"content/tags.json: {route} is not a page")
+            continue
+        if not entry.get("start"):
+            problems.append(f"content/tags.json: {route} has no start page")
+        for r in entry.get("start", []) + entry.get("pages", []):
+            if r not in pages:
+                problems.append(f"content/tags.json: {route} points to {r}, which is not a page")
+        if TAGMAP_START not in pages[route]["html"]:
+            problems.append(f"{route} has no build:tagmap block")
+    for route in pages:
+        if route.startswith("/tag/") and "/page/" not in route and route not in tagmap["pages"]:
+            problems.append(f"{route} is a tag page missing from content/tags.json")
+    # Tag pages must differ, except the groups in content/tags.json "identical".
+    allowed = {frozenset((a, b)) for group in tagmap.get("identical", []) for a in group for b in group if a != b}
+    seen = {}
+    for route in sorted(tagmap["pages"]):
+        if route not in pages:
+            continue
+        main = pages[route]["main"]
+        links = sorted({h for h in hrefs(main, internal_only=True) if not h.startswith("/tag/")})
+        posts = [n.text() for n in main.find_all("strong")]
+        body = (tuple(links), tuple(posts))
+        if body in seen and frozenset((seen[body], route)) not in allowed:
+            problems.append(f"{route} has the same links and posts as {seen[body]}")
+        seen.setdefault(body, route)
+    return problems
+
+
 def prose_paragraphs(main):
     """<p> elements, and unclassed <span>s such as index blurbs, that are sentences: not quotes, captions, labels, credits or data."""
     out = []
@@ -1316,6 +1449,7 @@ def neutralize(html):
         (facts.MARK_START, facts.MARK_END),
         ("<!-- build:facets -->", "<!-- /build:facets -->"),
         ("<!-- build:citations -->", "<!-- /build:citations -->"),
+        (TAGMAP_START, TAGMAP_END),
     ):
         while True:
             a = html.find(start)
@@ -1499,6 +1633,15 @@ def build(mode):
         cit_page["html"] = new_cit_html
         refresh_main(cit_page)
 
+    tagmap = load_tagmap()
+    for route, entry in tagmap["pages"].items():
+        if route not in pages:
+            continue
+        new_html = splice_tagmap(pages[route]["html"], tagmap_html(route, entry, pages, order))
+        if new_html != pages[route]["html"]:
+            pages[route]["html"] = new_html
+            refresh_main(pages[route])
+
     disk_by_rel = {page["file"].relative_to(ROOT).as_posix(): disk[page["route"]] for page in pages.values()}
     trustworthy, hand_dates, dirty, cache = date_sources(disk_by_rel)
     today = local_today()
@@ -1592,7 +1735,7 @@ def build(mode):
         sys.exit(1)
 
     stale = [p for p, t in outputs if not p.exists() or p.read_text() != t]
-    problems = check_links(pages) + redirects_problems() + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems + headers_problems() + podcast_feed_problems(podcast)
+    problems = tagmap_problems(pages, tagmap) + check_links(pages) + redirects_problems() + band_problems + attr_problems + facet_problems + self_problems + disk_problems + lastmod_problems + headers_problems() + podcast_feed_problems(podcast)
     if mode == "check":
         for p in stale:
             print(f"stale: {p.relative_to(ROOT)}")

@@ -8,6 +8,22 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Creation of the Universe
 
+Start here: [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/)
+
+## Everywhere on sarth.net
+
+- [About](/about/) · September 23, 2026
+- [Work](/work/) · September 22, 2026
+- [Power and Serenity](/power-and-serenity-for-sale/) · July 21, 2010
+- [Power and Serenity](/conspiracies/power-and-serenity/) · July 2010
+- [Conspiracies](/conspiracies/) · Projects
+- [Metal Machine Trio](/conspiracies/metal-machine-trio/) · Conspiracy
+- [John Zorn](/conspirators/john-zorn/) · Conspirator
+- [Transmissions](/transmissions/) · Aural, optical, lexical
+- [Sightings](/sightings/) · Live
+
+## The old site’s posts
+
 The posts tagged Creation of the Universe on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010

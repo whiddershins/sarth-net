@@ -8,6 +8,10 @@ The WordPress sarth.net, 2010 to 2014
 
 # Uncategorized
 
+Start here: [Book of Sarth](/conspiracies/book-of-sarth/) · [Power and Serenity](/conspiracies/power-and-serenity/)
+
+## The old site’s posts
+
 The posts filed under uncategorized on the WordPress sarth.net, newest first. 2 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
 - **[Some clips of the 21 form](/some-clips-of-the-21-form/)** · June 12, 2013

@@ -8,6 +8,16 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: hop farm
 
+Start here: [Lou Reed’s 2011 European tour](/conspiracies/lou-reed-2011-european-tour/)
+
+## Everywhere on sarth.net
+
+- [Tony “Thunder” Smith](/conspirators/tony-thunder-smith/) · Conspirator
+- [Aram Bajakian](/conspirators/aram-bajakian/) · Conspirator
+- [Sightings](/sightings/) · Live
+
+## The old site’s posts
+
 The posts tagged hop farm on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[A couple of photos from hop farm](/hop-farm-201/)** · July 4, 2011

@@ -8,6 +8,21 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: ambisonic
 
+Start here: [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/)
+
+## Everywhere on sarth.net
+
+- [Third Wall Studio](/conspiracies/third-wall-studio/) · September 23, 2026
+- [Through the Brambles](/transmissions/through-the-brambles/) · May 11, 2026
+- [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · May 19, 2009
+- [Conspiracies](/conspiracies/) · Projects
+- [Ulrich Krieger](/conspirators/ulrich-krieger/) · Conspirator
+- [John Zorn](/conspirators/john-zorn/) · Conspirator
+- [Sightings](/sightings/) · Live
+- [DaVinci Resolve](/devices/davinci-resolve/) · Device
+
+## The old site’s posts
+
 The posts tagged ambisonic on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
 
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012

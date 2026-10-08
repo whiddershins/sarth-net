@@ -8,6 +8,17 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Metal Machine Music
 
+Start here: [Metal Machine Trio](/conspiracies/metal-machine-trio/)
+
+## Everywhere on sarth.net
+
+- [Lulu](/conspiracies/lulu/) · Conspiracy
+- [Conspirators](/conspirators/) · People
+- [Lou Reed](/conspirators/lou-reed/) · Conspirator
+- [Ulrich Krieger](/conspirators/ulrich-krieger/) · Conspirator
+
+## The old site’s posts
+
 The posts tagged Metal Machine Music on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010

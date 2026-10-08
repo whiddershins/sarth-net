@@ -8,6 +8,10 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: Sketching Monkey
 
+Start here: [Book of Sarth](/conspiracies/book-of-sarth/)
+
+## The old site’s posts
+
 The posts tagged Sketching Monkey on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
 
 - **[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)** · January 3, 2013

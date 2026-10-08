@@ -8,6 +8,14 @@ The WordPress sarth.net, 2010 to 2014
 
 # Tag: 10.1
 
+Start here: [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/)
+
+## Everywhere on sarth.net
+
+- [(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/) · January 14, 2012
+
+## The old site’s posts
+
 The posts tagged 10.1 on the WordPress sarth.net, newest first, with a link where the post itself is on this site.
 
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012

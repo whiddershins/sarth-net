@@ -55,6 +55,7 @@ from pathlib import Path
 from urllib.parse import unquote, urljoin, urlsplit
 
 import facts
+import press
 
 ROOT = Path(__file__).resolve().parent.parent
 PUBLIC = ROOT / "public"
@@ -1482,6 +1483,7 @@ def neutralize(html):
         (facts.MARK_START, facts.MARK_END),
         ("<!-- build:facets -->", "<!-- /build:facets -->"),
         ("<!-- build:citations -->", "<!-- /build:citations -->"),
+        (press.MARK_START, press.MARK_END),
         (TAGMAP_START, TAGMAP_END),
     ):
         while True:
@@ -1665,6 +1667,16 @@ def build(mode):
     if new_cit_html != cit_page["html"]:
         cit_page["html"] = new_cit_html
         refresh_main(cit_page)
+
+    press_page = pages.get(press.ROUTE)
+    if press_page is None or press.MARK_START not in press_page["html"]:
+        print(f"press: {press.ROUTE} is missing {press.MARK_START} markers")
+        sys.exit(1)
+    press_inner, press_items = press.render(pages, lambda r: pages[r]["title"])
+    new_press = splice(press_page["html"], press_inner, press.MARK_START, press.MARK_END)
+    if new_press != press_page["html"]:
+        press_page["html"] = new_press
+        refresh_main(press_page)
 
     tagmap = load_tagmap()
     for route, entry in tagmap["pages"].items():

@@ -14,4 +14,4 @@ The post had no text. It was the cover of The Book of Sarth, linking to the appâ
 
 Filed under: [Intrigue](/category/intrigue/), [uncategorized](/category/uncategorized/).
 
-Posted on sarth.net at this address on January 24, 2013, and reproduced here as written, from the [Internet Archiveâ€™s copy](https://web.archive.org/web/20140306015204/http://www.sarth.net/book-of-sarth-in-the-app-store/) of March 6, 2014. The cover image was not recovered.
+Originally published on sarth.net, January 24, 2013.

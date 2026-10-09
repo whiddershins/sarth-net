@@ -4,8 +4,6 @@ description: Lucibel Crater, a tag of the WordPress sarth.net (2010 to 2014): Or
 url: https://www.sarth.net/tag/lucibel-crater/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Tag: Lucibel Crater
 
 Start here: [Lucibel Crater](/conspiracies/lucibel-crater/)
@@ -15,8 +13,6 @@ Start here: [Lucibel Crater](/conspiracies/lucibel-crater/)
 - [About](/about/) · September 23, 2026
 - [Work](/work/) · September 22, 2026
 - [Lucibel Crater](/lucibel-crater/) · February 17, 2015
-- [Video: Could I](/video-could-i/) · March 22, 2010
-- [Video: Exactly Where You Are](/video-exactly-where-you-are/) · March 22, 2010
 - [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/) · March 22, 2010
 - [Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/) · March 22, 2010
 - [Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/) · March 22, 2010
@@ -42,12 +38,8 @@ Start here: [Lucibel Crater](/conspiracies/lucibel-crater/)
 - [Basses](/devices/basses/) · Device
 - [Intrigue, the Squarespace news page](/intrigue/) · The Squarespace sarth.net, 2015 to 2026
 
-## The old site’s posts
-
-The posts tagged Lucibel Crater on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
+## Posts
 
 - **[Original “carve the ham” photo](/original-carve-the-ham-photo/)** · December 6, 2011
 
   Tags: [Lucibel Crater](/tag/lucibel-crater/).
-
-From the Internet Archive’s copy of this tag page of [March 5, 2014](https://web.archive.org/web/20140305082329/http://www.sarth.net/tag/lucibel-crater/), and the tags each recovered post carries.

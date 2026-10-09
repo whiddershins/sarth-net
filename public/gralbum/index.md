@@ -19,4 +19,4 @@ Feb 9, 2015 · The Squarespace sarth.net
 
 ![A painted tree trunk among branches against a blue sky.](/images/cover-this-tree.jpg)
 
-A page of the Squarespace sarth.net, dated February 9, 2015 in the site’s own Squarespace export of September 22, 2026, which is where these images come from. The page was 5 images, in this order, with no text, captions or alt text; the alt text here is new. The Internet Archive has no copy of the page.
+Originally published on sarth.net, February 9, 2015.

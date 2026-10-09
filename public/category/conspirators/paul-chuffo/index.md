@@ -8,7 +8,7 @@ As originally published on sarth.net, 2010 and 2014
 
 # Paul Chuffo
 
-**This is the old page, kept as it was.** Today’s page: [Paul Chuffo](/conspirators/paul-chuffo/).
+Today’s page: [Paul Chuffo](/conspirators/paul-chuffo/).
 
 ## November 11, 2010 and September 5, 2014
 
@@ -78,6 +78,6 @@ Tags: [Video](/tag/video/)
 
 - [Lucibel Crater](/category/conspiracies/lucibel-crater/)
 
-In 2010 and in September 2014 the list ran to two pages, five posts to a page: 1 · [2](/category/conspirators/paul-chuffo/page/2/).
+See also: [2](/category/conspirators/paul-chuffo/page/2/)
 
-Reproduced word for word from the Internet Archive’s copy of [November 11, 2010](https://web.archive.org/web/20101111011708/http://www.sarth.net/category/conspirators/paul-chuffo/) and the Internet Archive’s copy of [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/).
+Originally published on sarth.net. Archived copies: [November 11, 2010](https://web.archive.org/web/20101111011708/http://www.sarth.net/category/conspirators/paul-chuffo/) · [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/).

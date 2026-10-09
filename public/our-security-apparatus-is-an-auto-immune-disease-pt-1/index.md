@@ -22,4 +22,4 @@ This, to me, is a microcosm of what we’ve become. Fearfully and callously empo
 
 Filed under: [Musings](/category/musings/).
 
-Posted on sarth.net at this address on February 19, 2013, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140305053511/http://www.sarth.net/our-security-apparatus-is-an-auto-immune-disease-pt-1) of March 5, 2014. The post opened with a photo linking to the same Huffington Post story. The photo was not recovered.
+Originally published on sarth.net, February 19, 2013.

@@ -4,8 +4,6 @@ description: Visuals, a category of the WordPress sarth.net (2010 to 2014): Sart
 url: https://www.sarth.net/category/visuals/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Visuals
 
 Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/category/visuals/video/). The page showed a strip of each.
@@ -67,5 +65,3 @@ Visuals held two subcategories, [photo](/category/visuals/photo/) and [Video](/c
 - **[Video: Lucibel Crater – Masticate](/masicate-video/)** · March 11, 2010
 
   Tags: [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/), [Video](/tag/video/).
-
-The two lists come from the categories each recovered post carries, checked against the Internet Archive’s copy of this page of [September 14, 2014](https://web.archive.org/web/20140914180155/http://www.sarth.net/category/visuals/), which shows the photo strip as thumbnails only.

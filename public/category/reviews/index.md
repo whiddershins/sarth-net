@@ -4,11 +4,7 @@ description: Reviews, a category of the WordPress sarth.net (2010 to 2014): Sart
 url: https://www.sarth.net/category/reviews/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Reviews
-
-The posts filed under Reviews on the WordPress sarth.net, newest first. 5 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
 - **[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)** · January 3, 2013
 
@@ -29,5 +25,3 @@ The posts filed under Reviews on the WordPress sarth.net, newest first. 5 of the
 - **[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)** · July 16, 2012
 
   Tags: [Germany](/tag/germany/), [Lou Reed](/tag/lou-reed/).
-
-The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/) and from the categories each recovered post carries.

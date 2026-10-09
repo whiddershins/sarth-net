@@ -60,4 +60,4 @@ The credit: Sarth Calhoun founded Lucibel Crater in 2005 and plays keys, bass, l
 > 
 > Simone Tempia, Vogue Italia, 2009
 
-My account of the band is from the Lucibel Crater page of my old WordPress site, recovered from the Wayback Machine.
+My account of the band is from the Lucibel Crater page of my old site.

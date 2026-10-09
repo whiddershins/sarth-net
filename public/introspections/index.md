@@ -9,7 +9,7 @@ As originally published on sarth.net, July 22, 2016
 
 # Introspections
 
-**This is the old page, kept as it was.** Today’s page: [Introspections](/transmissions/introspections/).
+Today’s page: [Introspections](/transmissions/introspections/).
 
 ### INTROSPECTIONS
 
@@ -33,4 +33,4 @@ Sets are being booked emphasizing meditation and transformational experience, as
 
 [Embedded player](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224983364%3Fsecret_token%3Ds-bFnyd&color=%23333333&auto_play=false&show_comments=false)
 
-A page of the Squarespace sarth.net, at this address and dated July 22, 2016, reproduced word for word with its players. From the site’s own Squarespace export of September 22, 2026.
+Originally published on sarth.net, July 22, 2016.

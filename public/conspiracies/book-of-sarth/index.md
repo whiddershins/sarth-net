@@ -63,4 +63,4 @@ Bryan Bishop reviewed it for [The Verge](https://www.theverge.com/2013/1/3/38283
 
 From *The Book of Sarth*.
 
-My account is from the Book of Sarth page and the biography of my old WordPress site, recovered from the Wayback Machine.
+My account is from the Book of Sarth page and the biography of my old site.

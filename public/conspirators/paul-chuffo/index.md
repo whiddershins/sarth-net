@@ -29,4 +29,4 @@ The dates that survive in the record run from the Knitting Factory in February 2
 
 The credit: Paul Chuffo has played drums in Lucibel Crater with Sarth Calhoun and Leah Coloff since 2005, on *Miracles*, 2007, and *The Family Album*, 2008.
 
-I wrote the introduction quoted above for the conspirators section of my old WordPress site, recovered from the Wayback Machine. The photograph is from the old site’s Lucibel Crater pictures.
+I wrote the introduction quoted above for the conspirators section of my old site. The photograph is from the old site’s Lucibel Crater pictures.

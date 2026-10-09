@@ -22,4 +22,4 @@ Filed under: [Alex Smith](/conspirators/alex-wyly/), [Book of Sarth](/conspiraci
 
 Tags: [Book of Sarth](/tag/book-of-sarth/), [Chain D.L.K.](/tag/chain-d-l-k/), [Marc Urselli](/tag/marc-urselli/).
 
-Posted on sarth.net at this address on December 20, 2012, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140307100620/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/) of March 7, 2014.
+Originally published on sarth.net, December 20, 2012.

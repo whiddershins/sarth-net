@@ -35,5 +35,3 @@ Intrigue was the news page of the Squarespace sarth.net, from 2015 until this si
 ## Conspiracies
 
 [The Book of Sarth](/conspiracies/book-of-sarth/) · [Metal Machine Trio](/conspiracies/metal-machine-trio/) · [Lulu](/conspiracies/lulu/) with Lou Reed and Metallica · [Yellow Pony](/conspiracies/yellow-pony/) · [Lucibel Crater](/conspiracies/lucibel-crater/)
-
-The posts and the conspiracies column are from the Internet Archive’s copies of this page of [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/intrigue) and [April 13, 2016](https://web.archive.org/web/20160413203255/http://www.sarth.net/intrigue). The 2015 and 2013 dates are the ones Intrigue showed; the Book of Sarth posts were reposts of the WordPress originals.

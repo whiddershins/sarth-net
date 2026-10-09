@@ -8,7 +8,7 @@ As originally published on sarth.net, 2010 and 2014
 
 # Bio
 
-**This is the old page, kept as it was.** Today’s page: [About](/about/).
+Today’s page: [About](/about/).
 
 ## October 30, 2010
 
@@ -42,4 +42,4 @@ He is the continuum fingerboarding champion of the world.
 
 ................. more coming soon ............
 
-Reproduced word for word from the Internet Archive’s copy of [October 30, 2010](https://web.archive.org/web/20101030053745/http://www.sarth.net/category/bio/) and the Internet Archive’s copy of [September 10, 2014](https://web.archive.org/web/20140910073331/http://www.sarth.net/category/bio/).
+Originally published on sarth.net. Archived copies: [October 30, 2010](https://web.archive.org/web/20101030053745/http://www.sarth.net/category/bio/) · [September 10, 2014](https://web.archive.org/web/20140910073331/http://www.sarth.net/category/bio/).

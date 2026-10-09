@@ -14,4 +14,4 @@ The post carried an audio file, 01_To_Your_Rescue.mp3. Its address no longer wor
 
 Filed under: [clips](/category/music/clips/).
 
-Posted on sarth.net at this address on November 10, 2011. The Internet Archive has no copy of the post’s own page. The title, date, category and audio file come from the site’s RSS feed as Common Crawl captured it on February 23, 2012 and May 20, 2012; the feed shows no text for the post. The same day, [a post with the same title](/book-of-sarth-sneak-preview/) went up at /book-of-sarth-sneak-preview/, sharing a hidden track from the record.
+Originally published on sarth.net, November 10, 2011.

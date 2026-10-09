@@ -9,7 +9,7 @@ As originally published on sarth.net, April 9, 2014
 
 # (Gr)album has launched!
 
-**This is the old page, kept as it was.** Today’s page: [The Gralbum Collective](/conspiracies/gralbum-collective/).
+Today’s page: [The Gralbum Collective](/conspiracies/gralbum-collective/).
 
 With free (gr)albums from Bora Yoon, Adam Matta, Leah Coloff, and Tom Hart/Moon Hooch! Download on the app store at [http://bit.ly/gralbum](https://web.archive.org/web/20141020195257/http://bit.ly/gralbum).
 
@@ -27,4 +27,4 @@ I conceptualized (gr)album and founded The (Gr)album Collective in 2012. Needles
 
 Launch photo by Andrzej Liguz / [MOREimages](https://www.facebook.com/moreimages.net) -- see the rest of the photos [here](https://www.facebook.com/media/set/?set=a.394893913981892.1073741834.150030408468245&type=3).
 
-A post of the Squarespace sarth.net, at this address and dated April 9, 2014, reproduced word for word. From the site’s own Squarespace export of September 22, 2026. Links that no longer work now go to the Internet Archive’s copies: http://bit.ly/gralbum; http://l.facebook.com/l.php?u=http%3A%2F%2Fbit.ly%2Fgralbum&h=CAQFTbdZb&s=1.
+Originally published on sarth.net, April 9, 2014.

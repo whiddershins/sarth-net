@@ -21,5 +21,3 @@ The blog of the Squarespace sarth.net, which ran at /words from 2015 until this 
 - **[Aural and Optical Transmissions can be found here](/transmissions/)** · November 29, 2015
 
 - **[bolted for the briar patch](/bolted-for-the-briar-patch/)** · June 12, 2013
-
-The title and the five posts are from the Internet Archive’s copies of this page of [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/words/) and [April 13, 2016](https://web.archive.org/web/20160413141315/http://www.sarth.net/words/). The briar patch essay, first posted on the WordPress site on June 12, 2013, sat at /words/2015/2/6/gralbum-has-launched.

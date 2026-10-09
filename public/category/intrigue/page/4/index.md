@@ -4,11 +4,7 @@ description: Intrigue, page 4 of 5, a category of the WordPress sarth.net (2010 
 url: https://www.sarth.net/category/intrigue/page/4/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Intrigue, page 4 of 5
-
-Page 4 of the posts filed under Intrigue on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
 - **[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)** · July 20, 2011
 
@@ -29,5 +25,3 @@ Page 4 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
   Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
 Page 4 of 5 · [1](/category/intrigue/) · [2](/category/intrigue/page/2/) · [3](/category/intrigue/page/3/) · 4 · [5](/category/intrigue/page/5/)
-
-As the Internet Archive captured this page on [September 18, 2014](https://web.archive.org/web/20140918025841/http://www.sarth.net/category/intrigue/page/4/). Intrigue took in Press Clips too.

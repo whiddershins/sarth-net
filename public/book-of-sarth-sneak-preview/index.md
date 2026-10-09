@@ -18,4 +18,4 @@ one of the hidden tracks of Book of Sarth.
 
 Filed under: [Book of Sarth](/conspiracies/book-of-sarth/), [clips](/category/music/clips/), [Music](/category/music/), [recordings](/category/music/recordings/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/).
 
-Posted on sarth.net at this address on November 10, 2011, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140305174205/http://www.sarth.net/book-of-sarth-sneak-preview/) of March 5, 2014. “For The Door Store (Loud!)” linked an MP3 on sarth.net, at /SarthTransmissions/For_The_Door_Store.mp3. The file was not recovered, and the Internet Archive has no copy.
+Originally published on sarth.net, November 10, 2011.

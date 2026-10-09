@@ -30,3 +30,7 @@ At [Vivid LIVE](/conspiracies/vivid-live/), the festival Lou Reed and Laurie And
 The credit: Marc Ribot and Sarth Calhoun played in the ten-piece collaboration at Noise Night, Vivid LIVE, Sydney Opera House, May 31, 2010.
 
 The profile is from public sources, linked where they appear. What we made is the record on this site and the sources cited above.
+
+## Posts
+
+- [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/) · July 10, 2010

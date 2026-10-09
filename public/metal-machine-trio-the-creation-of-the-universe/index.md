@@ -9,7 +9,7 @@ As originally published on sarth.net, March 22, 2010
 
 # Metal Machine Trio “The Creation of the Universe”
 
-**This is the old page, kept as it was.** Today’s page: [The Creation of the Universe](/transmissions/the-creation-of-the-universe/).
+Today’s page: [The Creation of the Universe](/transmissions/the-creation-of-the-universe/).
 
 ![Lou Reed's Metal Machine Trio - The Creation of the Universe](/images/art-creation-of-the-universe.jpg)
 
@@ -39,4 +39,4 @@ Filed Under: [Metal Machine Trio](/category/conspiracies/metal-machine-trio/), [
 
   > Sure! I am on twitter as noisegroove
 
-Reproduced word for word from the Internet Archive’s copy of [October 28, 2010](https://web.archive.org/web/20101028105838/http://www.sarth.net/metal-machine-trio-the-creation-of-the-universe). The post’s date, March 22, 2010, is from the site’s listings. The commenter’s link is left out.
+Originally published on sarth.net. Archived copies: [October 28, 2010](https://web.archive.org/web/20101028105838/http://www.sarth.net/metal-machine-trio-the-creation-of-the-universe).

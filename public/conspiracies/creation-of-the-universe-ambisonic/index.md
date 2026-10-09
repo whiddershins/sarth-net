@@ -29,4 +29,4 @@ That was January 2012, before it opened. I heard it in Long Beach. I never heard
 
 The credit: Sarth Calhoun is one of the three recorded performers, on Continuum and live processing, in the Metal Machine Trio recording of April 24, 2009 that the installation plays; visitors stand in his, Lou Reed’s or Ulrich Krieger’s position on stage.
 
-My post is from January 16, 2012, on my old WordPress site, recovered from Common Crawl. The installation ran at CSULB from January 27 to April 15, 2012 and was restaged at Cranbrook from November 21, 2015 to March 26, 2016.
+My post is from January 16, 2012, on my old site. The installation ran at CSULB from January 27 to April 15, 2012 and was restaged at Cranbrook from November 21, 2015 to March 26, 2016.

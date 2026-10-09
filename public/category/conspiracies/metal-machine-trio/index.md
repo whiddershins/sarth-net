@@ -8,7 +8,7 @@ As originally published on sarth.net, 2010 and 2014
 
 # Metal Machine Trio
 
-**This is the old page, kept as it was.** Today’s page: [Metal Machine Trio](/conspiracies/metal-machine-trio/).
+Today’s page: [Metal Machine Trio](/conspiracies/metal-machine-trio/).
 
 ## October 30, 2010
 
@@ -135,4 +135,4 @@ Filed Under: [Intrigue](/category/intrigue/), [Lou Reed](/category/conspirators/
 - [Metal Machine Trio](https://web.archive.org/web/20100510123208/http://www.loureed.com/metalmachinetrio/)
 - [Anticipation of our noise madness in Sydney](http://www.smh.com.au/entertainment/music/the-art-of-noise-20100507-uiwi.html) Anticipation of our noise madness in Sydney
 
-Reproduced word for word from the Internet Archive’s copy of [October 30, 2010](https://web.archive.org/web/20101030011406/http://www.sarth.net/category/conspiracies/metal-machine-trio/) and the Internet Archive’s copy of [September 9, 2014](https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/). Its thumbnail images are not reproduced. Links that no longer work now go to the Internet Archive’s copies: http://www.loureed.com/metalmachinetrio/.
+Originally published on sarth.net. Archived copies: [October 30, 2010](https://web.archive.org/web/20101030011406/http://www.sarth.net/category/conspiracies/metal-machine-trio/) · [September 9, 2014](https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/).

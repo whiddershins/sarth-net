@@ -996,6 +996,47 @@ def term_re(term):
     return re.compile(r"(?<!\w)" + re.escape(term) + r"(?!\w)")
 
 
+# What a page says in its own body, for tag matching: no notes, credits, captions,
+# breadcrumbs, filled-in holes, or lists of other pages.
+BODY_SKIP = re.compile(
+    r'<p class="(?:kicker|meta[^"]*|source-note|breadcrumbs|host|now|t-meta|when)"[^>]*>.*?</p>'
+    r'|<figcaption[^>]*>.*?</figcaption>|<cite[^>]*>.*?</cite>|<nav[^>]*>.*?</nav>'
+    r'|<ol class="cards[^"]*"[^>]*>.*?</ol>'
+    r'|<div class="hole"[^>]*>.*?</div>',
+    re.S,
+)
+
+
+def body_text(page):
+    return parse(BODY_SKIP.sub(" ", without_tagmap(page["main_html"]))).text()
+
+
+# Person tags of the WordPress site serve the conspirator page (public/_redirects);
+# the tag's posts are listed there, from content/person-tags.json.
+def load_person_tags():
+    path = CONTENT / "person-tags.json"
+    return json.loads(path.read_text()) if path.exists() else {"people": {}}
+
+
+def person_posts(pages):
+    out = {}
+    for route, entry in load_person_tags()["people"].items():
+        if route not in pages or "<!-- build:posts -->" not in pages[route]["html"]:
+            print(f"person-tags: {route} needs a page with <!-- build:posts --> markers")
+            sys.exit(1)
+        lis = []
+        for p in entry["posts"]:
+            title = html.escape(p["title"], quote=False)
+            if p["url"] and normalize_path(p["url"]) in pages:
+                title = f'<a href="{p["url"]}">{title}</a>'
+            lis.append(f"        <li><p>{title}" + (f" · {p['date']}" if p.get("date") else "") + "</p></li>")
+        more = ""
+        if entry.get("see_also"):
+            more = '      <p class="meta">See also: ' + " · ".join(f'<a href="{r}">{html.escape(pages[r]["title"], quote=False)}</a>' for r in entry["see_also"]) + "</p>\n"
+        out[route] = "    <section>\n      <h2>Posts</h2>\n      <ul class=\"dates\">\n" + "\n".join(lis) + "\n      </ul>\n" + more + "    </section>\n    "
+    return out
+
+
 def tagmap_everywhere(route, entry, pages, order):
     """Routes for the Everywhere list: newest first, then undated pages in site order."""
     page = pages[route]
@@ -1009,7 +1050,7 @@ def tagmap_everywhere(route, entry, pages, order):
         p = pages[r]
         if r in skip or r.startswith(("/tag/", "/category/")) or p["archive_of"]:
             continue
-        text = parse(without_tagmap(p["main_html"])).text() if (terms or all_terms) else ""
+        text = body_text(p) if (terms or all_terms) else ""
         hit = r in listed
         hit = hit or any(t.search(text) for t in terms)
         hit = hit or (all_terms and all(t.search(text) for t in all_terms))
@@ -1038,7 +1079,7 @@ def tagmap_html(route, entry, pages, order):
             out.append(f"      <li>{link(r)}" + (f" · {html.escape(label, quote=False)}" if label else "") + "</li>")
         out.append("    </ul>")
     if out:
-        out.append("    <h2>The old site’s posts</h2>")
+        out.append("    <h2>Posts</h2>")
     return "\n".join(out) + "\n    "
 
 
@@ -1484,6 +1525,7 @@ def neutralize(html):
         ("<!-- build:facets -->", "<!-- /build:facets -->"),
         ("<!-- build:citations -->", "<!-- /build:citations -->"),
         (press.MARK_START, press.MARK_END),
+        ("<!-- build:posts -->", "<!-- /build:posts -->"),
         (TAGMAP_START, TAGMAP_END),
     ):
         while True:
@@ -1677,6 +1719,13 @@ def build(mode):
     if new_press != press_page["html"]:
         press_page["html"] = new_press
         refresh_main(press_page)
+
+    for route, html_block in person_posts(pages).items():
+        page = pages[route]
+        new_html = splice(page["html"], html_block, "<!-- build:posts -->", "<!-- /build:posts -->")
+        if new_html != page["html"]:
+            page["html"] = new_html
+            refresh_main(page)
 
     tagmap = load_tagmap()
     for route, entry in tagmap["pages"].items():

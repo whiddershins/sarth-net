@@ -8,7 +8,7 @@ As originally published on sarth.net, 2014
 
 # Tony Diodore
 
-**This is the old page, kept as it was.** Today’s page: [Tony Diodore](/conspirators/tony-diodore/).
+Today’s page: [Tony Diodore](/conspirators/tony-diodore/).
 
 ## March 5, 2014 and September 9, 2014
 
@@ -27,4 +27,4 @@ Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Num
 
 - [Number19 – Suspension](/number19-suspension/)
 
-Reproduced word for word from the Internet Archive’s copy of [March 5, 2014](https://web.archive.org/web/20140305082304/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/) and the Internet Archive’s copy of [September 9, 2014](https://web.archive.org/web/20140909154824/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/).
+Originally published on sarth.net. Archived copies: [March 5, 2014](https://web.archive.org/web/20140305082304/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/) · [September 9, 2014](https://web.archive.org/web/20140909154824/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/).

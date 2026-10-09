@@ -9,7 +9,7 @@ As originally published on sarth.net, September 8, 2026
 
 # Sarth.net in Transition
 
-**This is the old page, kept as it was.** Today’s page: [Sarth Calhoun](/).
+Today’s page: [Sarth Calhoun](/).
 
 ## Sarth Calhoun • Machine • Dream • Message
 
@@ -29,4 +29,4 @@ You can follow what I’m up to on X: [@noisegroove](https://x.com/noisegroove),
 
 ![Two children in silhouette carrying a glowing screen down a road toward a low sun.](/images/sarthnet-in-transition.jpg)
 
-The last home page of the Squarespace sarth.net, at this address and dated September 8, 2026, reproduced word for word. From the site’s own Squarespace export of September 22, 2026. The alt text is new.
+Originally published on sarth.net, September 8, 2026.

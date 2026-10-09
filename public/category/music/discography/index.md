@@ -4,11 +4,7 @@ description: Discography, a category of the WordPress sarth.net (2010 to 2014): 
 url: https://www.sarth.net/category/music/discography/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Discography
-
-The posts filed under discography on the WordPress sarth.net, newest first. 5 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
 - **[Lulu](/lulucd/)** · November 6, 2011
 
@@ -21,5 +17,3 @@ The posts filed under discography on the WordPress sarth.net, newest first. 5 of
 - **[Number19 – Suspension](/number19-suspension/)** · November 6, 2008
 
   Tags: [Leah Coloff](/tag/leah-coloff/), [Mark Righter](/tag/mark-righter/), [Number 19](/tag/number-19/), [Super Nintendo](/tag/super-nintendo/), [Suspension](/tag/suspension/), [tony diodore](/tag/tony-diodore/).
-
-The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 11, 2014](https://web.archive.org/web/20140911092932/http://www.sarth.net/category/music/discography/) and from the categories each recovered post carries.

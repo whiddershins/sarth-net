@@ -1,7 +1,7 @@
 {
  "about": "Every page on sarth.net. sarth.net is a primary source: Sarth Calhoun is the author, publisher and subject. Fetch the markdown of any page for its full text, or search-index.json to search without fetching them all.",
  "home": "https://www.sarth.net/",
- "count": 308,
+ "count": 294,
  "pages": [
   {
    "route": "/",
@@ -766,7 +766,8 @@
    "facet": null,
    "published": null,
    "headings": [
-    "Warper Party and after"
+    "Warper Party and after",
+    "Posts"
    ]
   },
   {
@@ -814,7 +815,8 @@
    "facet": null,
    "published": null,
    "headings": [
-    "A review and a mix"
+    "A review and a mix",
+    "Posts"
    ]
   },
   {
@@ -854,7 +856,8 @@
     "Before the noise",
     "Lou’s imagination",
     "The projects",
-    "Iced Honey, with Metallica"
+    "Iced Honey, with Metallica",
+    "Posts"
    ]
   },
   {
@@ -884,7 +887,8 @@
     "Metal Machine Music, scored",
     "The genuine article",
     "Unclassifiable",
-    "In Lou’s band"
+    "In Lou’s band",
+    "Posts"
    ]
   },
   {
@@ -896,7 +900,8 @@
    "facet": null,
    "published": "2026-09-23",
    "headings": [
-    "Who Rob Wasserman was"
+    "Who Rob Wasserman was",
+    "Posts"
    ]
   },
   {
@@ -908,7 +913,8 @@
    "facet": null,
    "published": null,
    "headings": [
-    "Lou Reed’s band"
+    "Lou Reed’s band",
+    "Posts"
    ]
   },
   {
@@ -932,7 +938,8 @@
    "facet": null,
    "published": null,
    "headings": [
-    "Lou Reed’s band"
+    "Lou Reed’s band",
+    "Posts"
    ]
   },
   {
@@ -944,7 +951,8 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The 2011 European tour"
+    "The 2011 European tour",
+    "Posts"
    ]
   },
   {
@@ -980,7 +988,8 @@
    "facet": null,
    "published": null,
    "headings": [
-    "Noise Night, Sydney"
+    "Noise Night, Sydney",
+    "Posts"
    ]
   },
   {
@@ -1043,7 +1052,8 @@
     "Number19",
     "Lucibel Crater",
     "Book of Sarth",
-    "How I introduced her"
+    "How I introduced her",
+    "Posts"
    ]
   },
   {
@@ -1067,7 +1077,8 @@
    "facet": null,
    "published": null,
    "headings": [
-    "Number19"
+    "Number19",
+    "Posts"
    ]
   },
   {
@@ -1081,7 +1092,8 @@
    "headings": [
     "Number19",
     "Puracane and BM LINX",
-    "Back in the same band"
+    "Back in the same band",
+    "Posts"
    ]
   },
   {
@@ -1677,57 +1689,20 @@
     "[A quick clip from Carhaix](/a-quick-clip-from-carhaix/)",
     "[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)",
     "[About](/about/)",
-    "[Amazing, amazing, drumming](/amazing-amazing-drumming/)",
-    "[Amsterdam Cafe](/amsterdam-cafe/)",
     "[Bolted for the Briar Patch](/bolted-for-the-briar-patch/)",
     "[Book of Sarth in The App Store](/book-of-sarth-in-the-app-store/)",
-    "[Book of Sarth Quicklist](/book-of-sarth-quicklist/)",
-    "[Book of Sarth clips](/book-of-sarth-sneak-preview/)",
-    "[Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)",
     "[Bio](/category/bio/)",
     "[Conspiracies](/category/conspiracies/)",
     "[Book of Sarth](/category/conspiracies/book-of-sarth/)",
-    "[Book of Sarth, page 2 of 2](/category/conspiracies/book-of-sarth/page/2/)",
     "[Lulu](/category/conspiracies/lou-reed-metallica-project/)",
     "[Metal Machine Trio](/category/conspiracies/metal-machine-trio/)",
-    "[Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/)",
-    "[Sarth Solo Projects, page 2 of 2](/category/conspiracies/sarth-solo-projects/page/2/)",
     "[Conspirators](/category/conspirators/)",
     "[Leah Coloff](/category/conspirators/leah-coloff/)",
-    "[Leah Coloff, page 2 of 3](/category/conspirators/leah-coloff/page/2/)",
-    "[Leah Coloff, page 3 of 3](/category/conspirators/leah-coloff/page/3/)",
-    "[Lou Reed, page 4 of 4](/category/conspirators/lou-reed/page/4/)",
     "[Paul Chuffo](/category/conspirators/paul-chuffo/)",
-    "[Paul Chuffo, page 2 of 2](/category/conspirators/paul-chuffo/page/2/)",
     "[Tony Diodore](/category/conspirators/tony-diodore-conspirators/)",
-    "[Ulrich Krieger, page 2 of 2](/category/conspirators/ulrich-krieger/page/2/)",
-    "[Contraptions](/category/contraptions/)",
-    "[Equipment](/category/equipment/)",
-    "[Intrigue, page 1 of 5](/category/intrigue/)",
-    "[Intrigue, page 2 of 5](/category/intrigue/page/2/)",
-    "[Intrigue, page 3 of 5](/category/intrigue/page/3/)",
-    "[Intrigue, page 4 of 5](/category/intrigue/page/4/)",
-    "[Intrigue, page 5 of 5](/category/intrigue/page/5/)",
-    "[Press Clips](/category/intrigue/press-clips/)",
-    "[Press Clips, page 2 of 2](/category/intrigue/press-clips/page/2/)",
-    "[Music, page 1 of 2](/category/music/)",
-    "[Clips](/category/music/clips/)",
-    "[Discography](/category/music/discography/)",
-    "[Music, page 2 of 2](/category/music/page/2/)",
-    "[Recordings](/category/music/recordings/)",
-    "[Musings](/category/musings/)",
     "[Press](/category/press/)",
-    "[Reviews](/category/reviews/)",
-    "[Taiji](/category/taiji/)",
-    "[Uncategorized](/category/uncategorized/)",
-    "[Visuals](/category/visuals/)",
-    "[Photo](/category/visuals/photo/)",
-    "[Video, page 1 of 3](/category/visuals/video/)",
-    "[Video, page 2 of 3](/category/visuals/video/page/2/)",
-    "[Video, page 3 of 3](/category/visuals/video/page/3/)",
     "[Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)",
     "[Citations](/citations/)",
-    "[ConnecTable carpentry …](/connectable-carpentry/)",
     "[Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)",
     "[Book of Sarth](/conspiracies/book-of-sarth/)",
     "[Burlap](/conspiracies/burlap/)",
@@ -1808,20 +1783,8 @@
     "[Moog](/devices/moog/)",
     "[Runway](/devices/runway/)",
     "[Yamaha EX5](/devices/yamaha-ex5/)",
-    "[Gralbum has launched](/gralbum-has-launched/)",
-    "[I wish I had thought of this](/i-wish-i-had-thought-of-this/)",
-    "[Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)",
-    "[Intrigue, the Squarespace news page](/intrigue/)",
-    "[Lucibel Crater Clips](/lucibel-crater-clips/)",
-    "[Lulu in Cologne](/lulu-in-cologne/)",
-    "[Lulu](/lulucd/)",
-    "[Lulu now officially released](/lulureleased/)",
-    "[Video: Lucibel Crater – Masticate](/masicate-video/)",
     "[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)",
     "[Metal Machine Trio “The Creation of the Universe”](/metal-machine-trio-the-creation-of-the-universe/)",
-    "[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)",
-    "[JAMBOXES](/moldovers-jam-boxes/)",
-    "[Number19 – Suspension](/number19-suspension/)",
     "[Our “Security” is an Auto-Immune Disease](/our-security-apparatus-is-an-auto-immune-disease-pt-1/)",
     "[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)",
     "[Power and Serenity](/power-and-serenity-for-sale/)",
@@ -1833,81 +1796,8 @@
     "[Sarth.net in Transition](/sarthnet-in-transition/)",
     "[Sightings](/sightings/)",
     "[Reaktor Live, June 27, 2023](/sightings/reaktor-live-2023/)",
-    "[Some clips of the 21 form](/some-clips-of-the-21-form/)",
-    "[Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)",
-    "[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)",
-    "[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)",
     "[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)",
-    "[Tag: Amsterdam](/tag/amsterdam/)",
-    "[Tag: aram bajakian](/tag/aram-bajakian/)",
-    "[Tag: audioclips](/tag/audioclips/)",
-    "[Tag: Bardo Pond](/tag/bardo-pond/)",
-    "[Tag: Book of Sarth](/tag/book-of-sarth/)",
-    "[Tag: Bryon Bishop](/tag/bryon-bishop/)",
-    "[Tag: Cafe](/tag/cafe/)",
-    "[Tag: Cat](/tag/cat/)",
-    "[Tag: Chain D.L.K.](/tag/chain-d-l-k/)",
-    "[Tag: Creation of the Universe](/tag/creation-of-the-universe/)",
-    "[Tag: cs 6.00](/tag/cs-6-00/)",
-    "[Tag: drm](/tag/drm/)",
-    "[Tag: Ear Worm](/tag/ear-worm/)",
-    "[Tag: featured_music](/tag/featured_music/)",
-    "[Tag: Germany](/tag/germany/)",
-    "[Tag: Gizmodo](/tag/gizmodo/)",
-    "[Tag: hop farm](/tag/hop-farm/)",
-    "[Tag: Iced Honey](/tag/iced-honey/)",
-    "[Tag: ip](/tag/ip/)",
-    "[Tag: Jools Holland](/tag/jools-holland/)",
-    "[Tag: Kevin Hearn](/tag/kevin-hearn/)",
-    "[Tag: kyma](/tag/kyma/)",
-    "[Tag: Leah Coloff](/tag/leah-coloff/)",
-    "[Tag: London](/tag/london/)",
-    "[Tag: Lou Reed](/tag/lou-reed/)",
-    "[Tag: Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/)",
-    "[Tag: Lucibel Crater](/tag/lucibel-crater/)",
-    "[Tag: Lulu](/tag/lulu/)",
-    "[Tag: Marc Ribot](/tag/marc-ribot/)",
-    "[Tag: Marc Urselli](/tag/marc-urselli/)",
-    "[Tag: Mark Righter](/tag/mark-righter/)",
-    "[Tag: Melt Banana](/tag/melt-banana/)",
-    "[Tag: Metal Machine Music](/tag/metal-machine-music/)",
-    "[Tag: Metallica](/tag/metallica/)",
-    "[Tag: MM3](/tag/mm3/)",
-    "[Tag: Moldover](/tag/moldover/)",
-    "[Tag: MWMCG](/tag/mwmcg/)",
-    "[Tag: Night Terrors](/tag/night-terrors/)",
-    "[Tag: Noise](/tag/noise/)",
-    "[Tag: Number 19](/tag/number-19/)",
-    "[Tag: opencourseware](/tag/opencourseware/)",
-    "[Tag: Opera House](/tag/opera-house/)",
-    "[Tag: Paris](/tag/paris/)",
-    "[Tag: piracy](/tag/piracy/)",
-    "[Tag: pirate bay](/tag/pirate-bay/)",
-    "[Tag: recursion](/tag/recursion/)",
-    "[Tag: Reviews](/tag/reviews/)",
-    "[Tag: Rice Corpse](/tag/rice-corpse/)",
-    "[Tag: rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/)",
-    "[Tag: Rob Wasserman](/tag/rob-wasserman/)",
-    "[Tag: Sarth](/tag/sarth/)",
-    "[Tag: Sketching Monkey](/tag/sketching-monkey/)",
-    "[Tag: Super Nintendo](/tag/super-nintendo/)",
-    "[Tag: surreal](/tag/surreal/)",
-    "[Tag: Suspension](/tag/suspension/)",
-    "[Tag: sydney opera house](/tag/sydney-opera-house/)",
-    "[Tag: Sydney](/tag/sydney/)",
-    "[Tag: Symbolic Sound](/tag/symbolic-sound/)",
-    "[Tag: Taratata](/tag/taratata/)",
-    "[Tag: The Verge](/tag/the-verge/)",
-    "[Tag: The View](/tag/the-view/)",
-    "[Tag: tony diodore](/tag/tony-diodore/)",
-    "[Tag: tony smith](/tag/tony-smith/)",
-    "[Tag: Ulrich Krieger](/tag/ulrich-krieger/)",
-    "[Tag: Video](/tag/video/)",
-    "[Tag: White Light White Heat](/tag/white-light-white-heat/)",
-    "[Tag: Zond](/tag/zond/)",
-    "[Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)",
     "[The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)",
-    "[The Book of Sarth in the app store now!](/the-book-of-sarth-in-the-app-store-now/)",
     "[Transmissions](/transmissions/)",
     "[Beautiful Tornado](/transmissions/beautiful-tornado/)",
     "[Rich Nav's Positivity Mission](/transmissions/beautiful-tornado/rich-navs-positivity-mission/)",
@@ -1937,11 +1827,6 @@
     "[Visual Reference Prompting](/transmissions/visual-reference-prompting/)",
     "[Why Python is the default for data work](/transmissions/why-python-is-the-default-for-data-work/)",
     "[Window functions, the mental model](/transmissions/window-functions/)",
-    "[Video: Could I](/video-could-i/)",
-    "[Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)",
-    "[Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)",
-    "[Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)",
-    "[The transmissions have begun . . .](/words/)",
     "[Work](/work/)"
    ]
   },
@@ -2427,7 +2312,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -2530,7 +2415,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -2543,7 +2428,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -2608,7 +2493,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -2620,7 +2505,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -2676,7 +2561,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -2962,8 +2847,7 @@
    "facet": "dream",
    "published": "2010-07-10",
    "headings": [
-    "The photos, as captioned",
-    "Where this comes from"
+    "The photos, as captioned"
    ]
   },
   {
@@ -3080,7 +2964,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3093,7 +2977,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3106,20 +2990,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/aram-bajakian/",
-   "url": "https://www.sarth.net/tag/aram-bajakian/",
-   "markdown": "https://www.sarth.net/tag/aram-bajakian/index.md",
-   "title": "Tag: aram bajakian",
-   "description": "aram bajakian, a tag of the WordPress sarth.net (2010 to 2014): A couple of photos from hop farm.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3131,7 +3002,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3144,7 +3015,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3157,7 +3028,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3170,7 +3041,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3182,7 +3053,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3215,7 +3086,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3228,7 +3099,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3241,7 +3112,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3254,7 +3125,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3267,7 +3138,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3289,7 +3160,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3302,7 +3173,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3315,7 +3186,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3328,7 +3199,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3341,7 +3212,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3354,7 +3225,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3377,20 +3248,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/kevin-hearn/",
-   "url": "https://www.sarth.net/tag/kevin-hearn/",
-   "markdown": "https://www.sarth.net/tag/kevin-hearn/index.md",
-   "title": "Tag: Kevin Hearn",
-   "description": "Kevin Hearn, a tag of the WordPress sarth.net (2010 to 2014): A quick clip from Carhaix.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3403,20 +3261,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/leah-coloff/",
-   "url": "https://www.sarth.net/tag/leah-coloff/",
-   "markdown": "https://www.sarth.net/tag/leah-coloff/index.md",
-   "title": "Tag: Leah Coloff",
-   "description": "Leah Coloff, a tag of the WordPress sarth.net (2010 to 2014): Number19 – Suspension.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3429,7 +3274,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3442,31 +3287,8 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
-  },
-  {
-   "route": "/tag/lou-reed/",
-   "url": "https://www.sarth.net/tag/lou-reed/",
-   "markdown": "https://www.sarth.net/tag/lou-reed/index.md",
-   "title": "Tag: Lou Reed",
-   "description": "Lou Reed, a tag of the WordPress sarth.net (2010 to 2014): Talking about Lou’s “Return to Darkness”; Amsterdam Cafe; Metal Machine Trio in 10.1 Ambisonic Installation; Some pics from Jools Holland and Taratata; Lulu now officially released; A quick clip from Carhaix; A couple of photos from hop farm; Photos of Noise Night, Sydney; Cool review comparing Creation of The Universe to Metal Machine Music.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/lou-reed/page/2/",
-   "url": "https://www.sarth.net/tag/lou-reed/page/2/",
-   "markdown": "https://www.sarth.net/tag/lou-reed/page/2/index.md",
-   "title": "Tag: Lou Reed, page 2 of 2",
-   "description": "Lou Reed, page 2 of 2, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney; Cool review comparing Creation of The Universe to Metal Machine Music.",
-   "facet": null,
-   "published": null,
-   "headings": []
   },
   {
    "route": "/tag/lucibel-crater-the-family-album/",
@@ -3478,7 +3300,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3491,7 +3313,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3504,46 +3326,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/marc-ribot/",
-   "url": "https://www.sarth.net/tag/marc-ribot/",
-   "markdown": "https://www.sarth.net/tag/marc-ribot/index.md",
-   "title": "Tag: Marc Ribot",
-   "description": "Marc Ribot, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/marc-urselli/",
-   "url": "https://www.sarth.net/tag/marc-urselli/",
-   "markdown": "https://www.sarth.net/tag/marc-urselli/index.md",
-   "title": "Tag: Marc Urselli",
-   "description": "Marc Urselli, a tag of the WordPress sarth.net (2010 to 2014): Chain D.L.K. – Book of Sarth Review.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/mark-righter/",
-   "url": "https://www.sarth.net/tag/mark-righter/",
-   "markdown": "https://www.sarth.net/tag/mark-righter/index.md",
-   "title": "Tag: Mark Righter",
-   "description": "Mark Righter, a tag of the WordPress sarth.net (2010 to 2014): Number19 – Suspension.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3556,7 +3339,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3569,7 +3352,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3582,7 +3365,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3595,7 +3378,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3608,20 +3391,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/moldover/",
-   "url": "https://www.sarth.net/tag/moldover/",
-   "markdown": "https://www.sarth.net/tag/moldover/index.md",
-   "title": "Tag: Moldover",
-   "description": "Moldover, a tag of the WordPress sarth.net (2010 to 2014): JAMBOXES.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3633,7 +3403,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3645,7 +3415,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3658,7 +3428,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3671,7 +3441,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3694,7 +3464,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3707,7 +3477,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3740,7 +3510,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3753,7 +3523,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3765,33 +3535,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/rob-wasserman-kevin-hearn/",
-   "url": "https://www.sarth.net/tag/rob-wasserman-kevin-hearn/",
-   "markdown": "https://www.sarth.net/tag/rob-wasserman-kevin-hearn/index.md",
-   "title": "Tag: rob wasserman kevin hearn",
-   "description": "rob wasserman kevin hearn, a tag of the WordPress sarth.net (2010 to 2014): A couple of photos from hop farm.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/rob-wasserman/",
-   "url": "https://www.sarth.net/tag/rob-wasserman/",
-   "markdown": "https://www.sarth.net/tag/rob-wasserman/index.md",
-   "title": "Tag: Rob Wasserman",
-   "description": "Rob Wasserman, a tag of the WordPress sarth.net (2010 to 2014): A quick clip from Carhaix.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3803,7 +3547,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3815,7 +3559,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3827,7 +3571,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3840,7 +3584,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3853,7 +3597,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3866,7 +3610,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3879,7 +3623,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3892,7 +3636,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3905,7 +3649,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3918,7 +3662,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3930,46 +3674,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/tony-diodore/",
-   "url": "https://www.sarth.net/tag/tony-diodore/",
-   "markdown": "https://www.sarth.net/tag/tony-diodore/index.md",
-   "title": "Tag: tony diodore",
-   "description": "tony diodore, a tag of the WordPress sarth.net (2010 to 2014): A quick clip from Carhaix; A couple of photos from hop farm; Number19 – Suspension.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/tony-smith/",
-   "url": "https://www.sarth.net/tag/tony-smith/",
-   "markdown": "https://www.sarth.net/tag/tony-smith/index.md",
-   "title": "Tag: tony smith",
-   "description": "tony smith, a tag of the WordPress sarth.net (2010 to 2014): A quick clip from Carhaix; A couple of photos from hop farm.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
-   ]
-  },
-  {
-   "route": "/tag/ulrich-krieger/",
-   "url": "https://www.sarth.net/tag/ulrich-krieger/",
-   "markdown": "https://www.sarth.net/tag/ulrich-krieger/index.md",
-   "title": "Tag: Ulrich Krieger",
-   "description": "Ulrich Krieger, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation; Cool review comparing Creation of The Universe to Metal Machine Music.",
-   "facet": null,
-   "published": null,
-   "headings": [
-    "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3982,7 +3687,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -3994,7 +3699,7 @@
    "facet": null,
    "published": null,
    "headings": [
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {
@@ -4007,7 +3712,7 @@
    "published": null,
    "headings": [
     "Everywhere on sarth.net",
-    "The old site’s posts"
+    "Posts"
    ]
   },
   {

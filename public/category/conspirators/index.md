@@ -8,7 +8,7 @@ As originally published on sarth.net, 2010 and 2014
 
 # Conspirators
 
-**This is the old page, kept as it was.** Today’s page: [Conspirators](/conspirators/).
+Today’s page: [Conspirators](/conspirators/).
 
 ## October 30, 2010
 
@@ -133,4 +133,4 @@ Tony, Sarth, Leah Coloff, and Marcus Righter formed Number19 in 1999. After we r
 
 ### [Billy Martin](/category/conspirators/billy-martin/):
 
-Reproduced word for word from the Internet Archive’s copy of [October 30, 2010](https://web.archive.org/web/20101030053756/http://www.sarth.net/category/conspirators/) and the Internet Archive’s copy of [September 14, 2014](https://web.archive.org/web/20140914185321/http://www.sarth.net/category/conspirators/). Its thumbnail images are not reproduced.
+Originally published on sarth.net. Archived copies: [October 30, 2010](https://web.archive.org/web/20101030053756/http://www.sarth.net/category/conspirators/) · [September 14, 2014](https://web.archive.org/web/20140914185321/http://www.sarth.net/category/conspirators/).

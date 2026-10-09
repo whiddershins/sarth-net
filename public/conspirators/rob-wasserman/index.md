@@ -43,3 +43,8 @@ The letter is here as written. The backstage meeting was during *Berlin* at St. 
 [Embedded player](https://open.spotify.com/embed/track/2zg2zQsXs0o6hCH9MTkZzw)
 
 On record together: [*Lou Reed Live at Lollapalooza 2009*](/transmissions/lou-reed-live-at-lollapalooza-2009/), the official DVD, credits the band as Mike Rathke and Steve Hunter, guitars; Kevin Hearn, keyboards; Rob Wasserman, bass; Tony “Thunder” Smith, drums; Ulrich Krieger, saxophone; Sarth Calhoun, electronics and continuum. [loureed.com](https://loureed.com/news/lou-reed-live-at-lollapalooza-2009-dvd/)
+
+## Posts
+
+- [A quick clip from Carhaix](/a-quick-clip-from-carhaix/) · July 20, 2011
+- [A couple of photos from hop farm](/hop-farm-201/) · July 4, 2011

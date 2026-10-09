@@ -4,11 +4,7 @@ description: Lou Reed, page 2 of 3, a category of the WordPress sarth.net (2010 
 url: https://www.sarth.net/category/conspirators/lou-reed/page/2/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Lou Reed, page 2 of 3
-
-Page 2 of the posts filed under Lou Reed on the WordPress sarth.net, newest first, five to a page, as the site showed them in May 2012.
 
 - **[Lulu](/lulucd/)** · November 6, 2011
 
@@ -28,4 +24,4 @@ Page 2 of the posts filed under Lou Reed on the WordPress sarth.net, newest firs
 
 Page 2 of 3 · [1](/category/conspirators/lou-reed/) · 2 · [3](/category/conspirators/lou-reed/page/3/)
 
-Common Crawl’s copy of [page 3](/category/conspirators/lou-reed/page/3/) of May 20, 2012 shows that the list then ran to three pages, and which four posts closed it; no copy of page 2 survives. This page is rebuilt from the categories each recovered post carries: the posts before those four that were up by May 2012, newest first, five to a page, which comes to the same three pages.
+See also: [page 3](/category/conspirators/lou-reed/page/3/)

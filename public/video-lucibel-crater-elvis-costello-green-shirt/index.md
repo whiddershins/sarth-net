@@ -16,4 +16,4 @@ Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspi
 
 Tags: [Video](/tag/video/).
 
-Posted on sarth.net at this address on March 22, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20101102064145/http://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/) of November 2, 2010. The post was the video alone.
+Originally published on sarth.net, March 22, 2010.

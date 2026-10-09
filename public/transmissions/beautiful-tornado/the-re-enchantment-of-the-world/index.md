@@ -22,4 +22,4 @@ The Re-Enchantment of the World. Dom Bouffard, Sarth Calhoun, and Michale Patric
 
 Episode 6 of [Beautiful Tornado](/transmissions/beautiful-tornado/). Also on [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho).
 
-Posted on sarth.net at /beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith on February 15, 2021, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith) of August 25, 2026. That address serves this page. The text is from the Beautiful Tornado page, which ran each post in full; the player’s caption is as it was.
+Originally published on sarth.net, February 15, 2021.

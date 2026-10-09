@@ -14,4 +14,4 @@ Mar 22, 2010 · Dream
 
 Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspiracies/lucibel-crater/), [Paul Chuffo](/conspirators/paul-chuffo/), [Video](/category/visuals/video/).
 
-Posted on sarth.net at this address on March 22, 2010, from Common Crawl’s copy of the page of November 1, 2014. The post was this video and nothing else; it is still on Sarth’s YouTube channel. The Internet Archive has no copy of the post’s own page.
+Originally published on sarth.net, March 22, 2010.

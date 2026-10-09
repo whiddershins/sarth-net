@@ -4,11 +4,7 @@ description: Photo, a category of the WordPress sarth.net (2010 to 2014): Sarth 
 url: https://www.sarth.net/category/visuals/photo/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Photo
-
-The posts filed under photo on the WordPress sarth.net, newest first. 6 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
 - **[ConnecTable carpentry …](/connectable-carpentry/)** · July 1, 2013
 
@@ -29,5 +25,3 @@ The posts filed under photo on the WordPress sarth.net, newest first. 6 of them,
 - **[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)** · July 10, 2010
 
   Tags: [Bardo Pond](/tag/bardo-pond/), [Lou Reed](/tag/lou-reed/), [Marc Ribot](/tag/marc-ribot/), [Melt Banana](/tag/melt-banana/), [MWMCG](/tag/mwmcg/), [Night Terrors](/tag/night-terrors/), [Noise](/tag/noise/), [Opera House](/tag/opera-house/), [Rice Corpse](/tag/rice-corpse/), [Sydney](/tag/sydney/), [Zond](/tag/zond/).
-
-The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 9, 2014](https://web.archive.org/web/20140909171858/http://www.sarth.net/category/visuals/photo/) and from the categories each recovered post carries.

@@ -4,11 +4,7 @@ description: Lucibel Crater, page 2 of 2, a conspiracy of the WordPress sarth.ne
 url: https://www.sarth.net/category/conspiracies/lucibel-crater/page/2/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Lucibel Crater, page 2 of 2
-
-Page 2 of the posts filed under Lucibel Crater on the WordPress sarth.net, newest first, as the site showed them in May 2012. The page opened with the category’s description:
 
 > The rock/electronic group Sarth always dreamed he could have but never realized he would is called Lucibel Crater.
 > 
@@ -31,5 +27,3 @@ Page 2 of the posts filed under Lucibel Crater on the WordPress sarth.net, newes
   Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
 
 Page 2 of 2 · [1](/category/conspiracies/lucibel-crater/) · 2
-
-As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it.

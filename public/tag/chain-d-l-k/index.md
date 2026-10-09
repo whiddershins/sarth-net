@@ -4,8 +4,6 @@ description: Chain D.L.K., a tag of the WordPress sarth.net (2010 to 2014): Chai
 url: https://www.sarth.net/tag/chain-d-l-k/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Tag: Chain D.L.K.
 
 Start here: [Book of Sarth](/conspiracies/book-of-sarth/)
@@ -14,14 +12,9 @@ Start here: [Book of Sarth](/conspiracies/book-of-sarth/)
 
 - [Alex Wyly](/conspirators/alex-wyly/) · Conspirator
 - [Marc Urselli](/conspirators/marc-urselli/) · Conspirator
-- [Rumors](/rumors/) · Press and announcements
 
-## The old site’s posts
-
-The posts tagged Chain D.L.K. on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
+## Posts
 
 - **[Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)** · December 20, 2012
 
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Chain D.L.K.](/tag/chain-d-l-k/), [Marc Urselli](/tag/marc-urselli/).
-
-From the Internet Archive’s copy of this tag page of [March 14, 2014](https://web.archive.org/web/20140314002640/http://www.sarth.net/tag/chain-d-l-k/), and the tags each recovered post carries.

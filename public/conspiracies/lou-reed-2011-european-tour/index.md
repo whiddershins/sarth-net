@@ -43,4 +43,4 @@ Posted July 20, 2011, with a video clip from Les Vieilles Charrues in Brittany, 
 
 [Embedded player](https://www.youtube.com/embed/3HlamL5UfGE)
 
-Both posts are from my old WordPress site, recovered from Common Crawl. The shows were July 2 and July 17, per Lou Reed’s own listings. The Carhaix video is Sunday Morning and Venus in Furs from that night, filmed from the crowd.
+Both posts are from my old site. The shows were July 2 and July 17, per Lou Reed’s own listings. The Carhaix video is Sunday Morning and Venus in Furs from that night, filmed from the crowd.

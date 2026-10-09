@@ -48,3 +48,10 @@ Krieger and I were both in the eight-piece band Reed took through Europe in July
 The Gramercy recording the trio made in April 2009 was later spatialised as an [ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) that visitors walked into, standing where Reed, Krieger or I had stood.
 
 My account is from September 23, 2026. “Almost improvised classical music” is Laurie Anderson’s phrase as I remember it.
+
+## Posts
+
+- [Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/) · January 16, 2012
+- [Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/) · July 7, 2010
+
+See also: [Ulrich Krieger, page 2 of 2](/category/conspirators/ulrich-krieger/page/2/)

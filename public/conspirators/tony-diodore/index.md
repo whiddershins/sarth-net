@@ -37,4 +37,10 @@ Tony once said that I was Lou’s imagination, when Lou wanted to just have some
 
 The credit: Tony Diodore and Sarth Calhoun formed Number19 together in 1999 (*Suspension*, 2001) and played together in Lou Reed’s band on the 2011 and 2012 European tours, Diodore on guitar and violin, Calhoun on Continuum and Kyma.
 
-I wrote the introduction quoted above for the conspirators section of my old WordPress site, recovered from the Wayback Machine. The photograph is from the band’s own site, as captured in 2001.
+I wrote the introduction quoted above for the conspirators section of my old site. The photograph is from the band’s own site.
+
+## Posts
+
+- [A quick clip from Carhaix](/a-quick-clip-from-carhaix/) · July 20, 2011
+- [A couple of photos from hop farm](/hop-farm-201/) · July 4, 2011
+- [Number19 – Suspension](/number19-suspension/) · November 6, 2008

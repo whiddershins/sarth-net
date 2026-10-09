@@ -4,11 +4,7 @@ description: Press Clips, a category of the WordPress sarth.net (2010 to 2014): 
 url: https://www.sarth.net/category/intrigue/press-clips/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Press Clips
-
-The posts filed under Press Clips on the WordPress sarth.net, newest first. 7 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
 - **[A Wonderful writeup of The Book of Sarth on The Verge](/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)** · January 3, 2013
 
@@ -36,6 +32,4 @@ The posts filed under Press Clips on the WordPress sarth.net, newest first. 7 of
 
 - **[MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)** · April 21, 2010
 
-On the old site the list ran to two pages, five posts to a page; [page 2](/category/intrigue/press-clips/page/2/) keeps the posts that ran there in September 2014.
-
-The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/) and from the categories each recovered post carries.
+See also: [page 2](/category/intrigue/press-clips/page/2/)

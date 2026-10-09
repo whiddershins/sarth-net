@@ -16,4 +16,4 @@ Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspi
 
 Tags: [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/), [Video](/tag/video/).
 
-Posted on sarth.net at this address on March 11, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20101031050339/http://www.sarth.net/masicate-video/) of October 31, 2010. The post was the video alone.
+Originally published on sarth.net, March 11, 2010.

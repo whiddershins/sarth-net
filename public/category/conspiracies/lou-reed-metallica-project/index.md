@@ -8,7 +8,7 @@ As originally published on sarth.net, 2014
 
 # Lulu
 
-**This is the old page, kept as it was.** Today’s page: [Lulu](/conspiracies/lulu/).
+Today’s page: [Lulu](/conspiracies/lulu/).
 
 ## March 5, 2014 and September 5, 2014
 
@@ -67,4 +67,4 @@ Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica
 - [Lulu in Cologne](/lulu-in-cologne/)
 - [Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)
 
-Reproduced word for word from the Internet Archive’s copy of [March 5, 2014](https://web.archive.org/web/20140305091847/http://www.sarth.net/category/conspiracies/lou-reed-metallica-project/) and the Internet Archive’s copy of [September 5, 2014](https://web.archive.org/web/20140905191203/http://www.sarth.net/category/conspiracies/lou-reed-metallica-project/). Its thumbnail images are not reproduced.
+Originally published on sarth.net. Archived copies: [March 5, 2014](https://web.archive.org/web/20140305091847/http://www.sarth.net/category/conspiracies/lou-reed-metallica-project/) · [September 5, 2014](https://web.archive.org/web/20140905191203/http://www.sarth.net/category/conspiracies/lou-reed-metallica-project/).

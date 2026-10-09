@@ -4,11 +4,7 @@ description: Intrigue, page 1 of 5, a category of the WordPress sarth.net (2010 
 url: https://www.sarth.net/category/intrigue/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Intrigue, page 1 of 5
-
-Page 1 of the posts filed under Intrigue on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
 - **[Gralbum has launched](/gralbum-has-launched/)** · April 9, 2014
 
@@ -27,5 +23,3 @@ Page 1 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
   Tags: [Book of Sarth](/tag/book-of-sarth/), [Chain D.L.K.](/tag/chain-d-l-k/), [Marc Urselli](/tag/marc-urselli/).
 
 Page 1 of 5 · 1 · [2](/category/intrigue/page/2/) · [3](/category/intrigue/page/3/) · [4](/category/intrigue/page/4/) · [5](/category/intrigue/page/5/)
-
-As the Internet Archive captured this page on [September 5, 2014](https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/). Intrigue took in Press Clips too.

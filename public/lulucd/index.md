@@ -18,4 +18,4 @@ Conspirators: [Lou Reed](/conspirators/lou-reed/), [Metallica](/conspirators/met
 
 Filed under: [discography](/category/music/discography/), [Lou Reed](/conspirators/lou-reed/), [Lulu](/conspiracies/lulu/), [Metallica](/conspirators/metallica/).
 
-Posted on sarth.net at this address on November 6, 2011 (the date the site’s Music listing gives it), and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140305175009/http://www.sarth.net/lulucd/) of March 5, 2014. The post opened with the album cover, which was not recovered.
+Originally published on sarth.net, November 6, 2011.

@@ -41,4 +41,4 @@ The credit: Sarth Calhoun, bass and Yamaha EX5, on *Suspension* by Number19, wit
 
 Made by [Number19](/conspiracies/number19/). It was the first record I made with [Leah Coloff](/conspirators/leah-coloff/) and with [Tony Diodore](/conspirators/tony-diodore/); the three of us went on to [Lucibel Crater](/conspiracies/lucibel-crater/) and [Lou Reed’s band](/conspiracies/lou-reed-song-band/).
 
-My lines are from my old WordPress site, recovered from the Wayback Machine. Track list from Apple Music. The single and Rhythm & Strings are from the band’s own site, numbernineteen.net, as captured in 2001.
+My lines are from my old site. Track list from Apple Music. The single and Rhythm & Strings are from the band’s own site, numbernineteen.net.

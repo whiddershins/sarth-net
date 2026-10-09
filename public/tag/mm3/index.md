@@ -4,8 +4,6 @@ description: MM3, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine
 url: https://www.sarth.net/tag/mm3/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Tag: MM3
 
 Start here: [Metal Machine Trio](/conspiracies/metal-machine-trio/)
@@ -18,12 +16,9 @@ Start here: [Metal Machine Trio](/conspiracies/metal-machine-trio/)
 - [The Creation of the Universe, ambisonic installation](/conspiracies/creation-of-the-universe-ambisonic/) · September 22, 2026
 - [Vivid LIVE 2010](/conspiracies/vivid-live/) · September 22, 2026
 - [Reflections, Vol. 1](/conspiracies/reflections-vol-1/) · September 22, 2026
-- [Some photos from the Blender Theater](/some-photos-from-the-blender-theater/) · December 6, 2011
 - [Lou Reed Live at Lollapalooza 2009](/transmissions/lou-reed-live-at-lollapalooza-2009/) · July 19, 2011
 - [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/) · July 10, 2010
-- [mm3 in brussels, video from youtube](/mm3-in-brussels-video-from-youtube/) · July 1, 2010
 - [Power and Serenity](/conspiracies/power-and-serenity/) · July 2010
-- [Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/) · May 8, 2010
 - [MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/) · April 21, 2010
 - [Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/) · March 22, 2010
 - [The Creation of the Universe](/transmissions/the-creation-of-the-universe/) · May 19, 2009
@@ -51,9 +46,7 @@ Start here: [Metal Machine Trio](/conspiracies/metal-machine-trio/)
 - [Moog Guitar](/devices/moog-guitar/) · Device
 - [Intrigue, the Squarespace news page](/intrigue/) · The Squarespace sarth.net, 2015 to 2026
 
-## The old site’s posts
-
-The posts tagged MM3 on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
+## Posts
 
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
@@ -62,5 +55,3 @@ The posts tagged MM3 on the WordPress sarth.net, newest first, with a link where
 - **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010
 
   Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
-
-From the Internet Archive’s copy of this tag page of [November 2, 2010](https://web.archive.org/web/20101102064124/http://www.sarth.net/tag/mm3/), and the tags each recovered post carries.

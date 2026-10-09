@@ -16,4 +16,4 @@ The post was this one link, to a drumming video on YouTube. The video is no long
 
 Filed under: [Music](/category/music/), [Video](/category/visuals/video/).
 
-Posted on sarth.net at this address on July 1, 2013, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140304023347/http://www.sarth.net/amazing-amazing-drumming) of March 4, 2014.
+Originally published on sarth.net, July 1, 2013.

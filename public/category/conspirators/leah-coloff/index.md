@@ -8,7 +8,7 @@ As originally published on sarth.net, 2010 and 2014
 
 # Leah Coloff
 
-**This is the old page, kept as it was.** Today’s page: [Leah Coloff](/conspirators/leah-coloff/).
+Today’s page: [Leah Coloff](/conspirators/leah-coloff/).
 
 ## October 31, 2010
 
@@ -153,6 +153,6 @@ Filed Under: [Leah Coloff](/category/conspirators/leah-coloff/), [Lucibel Crater
 - [Leah Coloff's website](http://leahcoloff.com/)
 - [Leah Coloff's Myspace Page](http://www.myspace.com/leahcoloff)
 
-By September 2014 the list ran to three pages, five posts to a page: 1 · [2](/category/conspirators/leah-coloff/page/2/) · [3](/category/conspirators/leah-coloff/page/3/).
+See also: [2](/category/conspirators/leah-coloff/page/2/) · [3](/category/conspirators/leah-coloff/page/3/)
 
-Reproduced word for word from the Internet Archive’s copy of [October 31, 2010](https://web.archive.org/web/20101031201238/http://www.sarth.net/category/conspirators/leah-coloff/) and the Internet Archive’s copy of [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/). Its thumbnail images are not reproduced.
+Originally published on sarth.net. Archived copies: [October 31, 2010](https://web.archive.org/web/20101031201238/http://www.sarth.net/category/conspirators/leah-coloff/) · [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/).

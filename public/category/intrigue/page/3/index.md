@@ -4,11 +4,7 @@ description: Intrigue, page 3 of 5, a category of the WordPress sarth.net (2010 
 url: https://www.sarth.net/category/intrigue/page/3/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Intrigue, page 3 of 5
-
-Page 3 of the posts filed under Intrigue on the WordPress sarth.net, newest first, five to a page as the site showed them.
 
 - **[(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/)** · January 14, 2012
 
@@ -25,5 +21,3 @@ Page 3 of the posts filed under Intrigue on the WordPress sarth.net, newest firs
   Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
 
 Page 3 of 5 · [1](/category/intrigue/) · [2](/category/intrigue/page/2/) · 3 · [4](/category/intrigue/page/4/) · [5](/category/intrigue/page/5/)
-
-As the Internet Archive captured this page on [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/). Intrigue took in Press Clips too.

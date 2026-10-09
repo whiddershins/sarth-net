@@ -182,3 +182,33 @@
 
 # Browsers and old crawlers ask for /favicon.ico.
 /favicon.ico /favicon.png 200
+
+# Person tags of the WordPress site: each serves its conspirator page, which lists the tag's posts.
+/tag/aram-bajakian /conspirators/aram-bajakian/ 200
+/tag/aram-bajakian/ /conspirators/aram-bajakian/ 200
+/tag/kevin-hearn /conspirators/kevin-hearn/ 200
+/tag/kevin-hearn/ /conspirators/kevin-hearn/ 200
+/tag/leah-coloff /conspirators/leah-coloff/ 200
+/tag/leah-coloff/ /conspirators/leah-coloff/ 200
+/tag/lou-reed /conspirators/lou-reed/ 200
+/tag/lou-reed/ /conspirators/lou-reed/ 200
+/tag/lou-reed/page/2 /conspirators/lou-reed/ 200
+/tag/lou-reed/page/2/ /conspirators/lou-reed/ 200
+/tag/marc-ribot /conspirators/marc-ribot/ 200
+/tag/marc-ribot/ /conspirators/marc-ribot/ 200
+/tag/marc-urselli /conspirators/marc-urselli/ 200
+/tag/marc-urselli/ /conspirators/marc-urselli/ 200
+/tag/mark-righter /conspirators/mark-righter/ 200
+/tag/mark-righter/ /conspirators/mark-righter/ 200
+/tag/moldover /conspirators/moldover/ 200
+/tag/moldover/ /conspirators/moldover/ 200
+/tag/rob-wasserman /conspirators/rob-wasserman/ 200
+/tag/rob-wasserman/ /conspirators/rob-wasserman/ 200
+/tag/rob-wasserman-kevin-hearn /conspirators/rob-wasserman/ 200
+/tag/rob-wasserman-kevin-hearn/ /conspirators/rob-wasserman/ 200
+/tag/tony-diodore /conspirators/tony-diodore/ 200
+/tag/tony-diodore/ /conspirators/tony-diodore/ 200
+/tag/tony-smith /conspirators/tony-thunder-smith/ 200
+/tag/tony-smith/ /conspirators/tony-thunder-smith/ 200
+/tag/ulrich-krieger /conspirators/ulrich-krieger/ 200
+/tag/ulrich-krieger/ /conspirators/ulrich-krieger/ 200

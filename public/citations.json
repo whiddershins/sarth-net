@@ -3,7 +3,7 @@
   "site": "https://www.sarth.net/",
   "person": "https://www.sarth.net/#person",
   "generated": "2026-09-23",
-  "citation_count": 850,
+  "citation_count": 701,
   "pages": [
     {
       "path": "/",
@@ -80,14 +80,6 @@
         {
           "url": "https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album",
           "text": "The Verge"
-        },
-        {
-          "url": "https://web.archive.org/web/20140306173226/http://www.sarth.net/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/",
-          "text": "Internet Archive’s copy"
-        },
-        {
-          "url": "https://web.archive.org/web/20170927213250/http://www.sarth.net/rumors/2015/2/10/a-wonderful-write-up-of-the-book-of-sarth-on-the-verge",
-          "text": "copy of September 27, 2017"
         }
       ]
     },
@@ -156,22 +148,12 @@
     {
       "path": "/amazing-amazing-drumming/",
       "title": "Amazing, amazing, drumming",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140304023347/http://www.sarth.net/amazing-amazing-drumming",
-          "text": "Internet Archive’s copy"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/amsterdam-cafe/",
       "title": "Amsterdam Cafe",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/",
-          "text": "July 15, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/bolted-for-the-briar-patch/",
@@ -350,46 +332,23 @@
         {
           "url": "https://bookofsarth.com",
           "text": "bookofsarth.com"
-        },
-        {
-          "url": "https://web.archive.org/web/20140306015204/http://www.sarth.net/book-of-sarth-in-the-app-store/",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
     {
       "path": "/book-of-sarth-quicklist/",
       "title": "Book of Sarth Quicklist",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/",
-          "text": "September 5, 2014"
-        },
-        {
-          "url": "https://web.archive.org/web/20140305091900/http://www.sarth.net/category/conspirators/alex-smith/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/book-of-sarth-sneak-preview/",
       "title": "Book of Sarth clips",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305174205/http://www.sarth.net/book-of-sarth-sneak-preview/",
-          "text": "Internet Archive’s copy"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/brain-melt-double-firewire-800-scare/",
       "title": "Brain melt – double firewire 800 scare",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/",
-          "text": "September 10, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/bio/",
@@ -448,12 +407,7 @@
     {
       "path": "/category/conspiracies/book-of-sarth/page/2/",
       "title": "Book of Sarth, page 2 of 2",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/conspiracies/lou-reed-metallica-project/",
@@ -504,22 +458,12 @@
     {
       "path": "/category/conspiracies/sarth-solo-projects/",
       "title": "Sarth Solo Projects",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/conspiracies/sarth-solo-projects/page/2/",
       "title": "Sarth Solo Projects, page 2 of 2",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/conspirators/",
@@ -568,22 +512,12 @@
     {
       "path": "/category/conspirators/leah-coloff/page/2/",
       "title": "Leah Coloff, page 2 of 3",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/",
-          "text": "September 9, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/conspirators/leah-coloff/page/3/",
       "title": "Leah Coloff, page 3 of 3",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/",
-          "text": "September 9, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/conspirators/lou-reed/page/2/",
@@ -598,12 +532,7 @@
     {
       "path": "/category/conspirators/lou-reed/page/4/",
       "title": "Lou Reed, page 4 of 4",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905174209/http://www.sarth.net/category/conspirators/lou-reed/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/conspirators/paul-chuffo/",
@@ -622,12 +551,7 @@
     {
       "path": "/category/conspirators/paul-chuffo/page/2/",
       "title": "Paul Chuffo, page 2 of 2",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/conspirators/tony-diodore-conspirators/",
@@ -646,102 +570,52 @@
     {
       "path": "/category/conspirators/ulrich-krieger/page/2/",
       "title": "Ulrich Krieger, page 2 of 2",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140903051508/http://www.sarth.net/category/conspirators/ulrich-krieger/",
-          "text": "September 3, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/contraptions/",
       "title": "Contraptions",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/",
-          "text": "September 10, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/equipment/",
       "title": "Equipment",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140917054328/http://www.sarth.net/category/equipment/",
-          "text": "September 17, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/intrigue/",
       "title": "Intrigue, page 1 of 5",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/intrigue/page/2/",
       "title": "Intrigue, page 2 of 5",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/intrigue/page/3/",
       "title": "Intrigue, page 3 of 5",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/",
-          "text": "September 18, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/intrigue/page/4/",
       "title": "Intrigue, page 4 of 5",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140918025841/http://www.sarth.net/category/intrigue/page/4/",
-          "text": "September 18, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/intrigue/page/5/",
       "title": "Intrigue, page 5 of 5",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/",
-          "text": "July 31, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/intrigue/press-clips/",
       "title": "Press Clips",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/intrigue/press-clips/page/2/",
       "title": "Press Clips, page 2 of 2",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/inventions/",
@@ -751,71 +625,37 @@
     {
       "path": "/category/music/",
       "title": "Music, page 1 of 2",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140906154156/http://www.sarth.net/category/music/",
-          "text": "September 6, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/music/clips/",
       "title": "Clips",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140909192848/http://www.sarth.net/category/music/clips/",
-          "text": "September 9, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/music/discography/",
       "title": "Discography",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140911092932/http://www.sarth.net/category/music/discography/",
-          "text": "September 11, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/music/page/2/",
       "title": "Music, page 2 of 2",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905182144/http://www.sarth.net/category/music/page/2/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/music/recordings/",
       "title": "Recordings",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140910072009/http://www.sarth.net/category/music/recordings/",
-          "text": "September 10, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/musings/",
       "title": "Musings",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/press/",
       "title": "Press",
       "citations": [
-        {
-          "url": "https://web.archive.org/web/20140909143954/http://www.sarth.net/category/press/",
-          "text": "September 9, 2014"
-        },
         {
           "url": "https://stereogum.com/2165325/lulu-lou-reed-metallica/reviews/the-anniversary",
           "text": "Jason P. Woodbury, Stereogum, 2021"
@@ -945,82 +785,42 @@
     {
       "path": "/category/reviews/",
       "title": "Reviews",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/",
-          "text": "September 6, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/taiji/",
       "title": "Taiji",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/",
-          "text": "September 10, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/uncategorized/",
       "title": "Uncategorized",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140909160404/http://www.sarth.net/category/uncategorized/",
-          "text": "September 9, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/visuals/",
       "title": "Visuals",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914180155/http://www.sarth.net/category/visuals/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/visuals/photo/",
       "title": "Photo",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140909171858/http://www.sarth.net/category/visuals/photo/",
-          "text": "September 9, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/visuals/video/",
       "title": "Video, page 1 of 3",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140909154928/http://www.sarth.net/category/visuals/video/",
-          "text": "September 9, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/visuals/video/page/2/",
       "title": "Video, page 2 of 3",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905181534/http://www.sarth.net/category/visuals/video/page/2/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/category/visuals/video/page/3/",
       "title": "Video, page 3 of 3",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905180719/http://www.sarth.net/category/visuals/video/page/3/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/chain-d-l-k-book-of-sarth-review/",
@@ -1033,10 +833,6 @@
         {
           "url": "https://www.chaindlk.com/reviews/7353",
           "text": "Chain D.L.K."
-        },
-        {
-          "url": "https://web.archive.org/web/20140307100620/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -1069,12 +865,7 @@
     {
       "path": "/connectable-carpentry/",
       "title": "ConnecTable carpentry …",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/",
-          "text": "September 10, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/conspiracies/",
@@ -2691,10 +2482,6 @@
         {
           "url": "https://web.archive.org/web/2010/http://blogs.epicindia.com/leapinthedark/2010/04/music_review_lou_reed_thirtyfi.html",
           "text": "http://blogs.epicindia.com/leapinthedark/2010/04/musicreviewloureedthirtyfi.html"
-        },
-        {
-          "url": "https://web.archive.org/web/20101031045309/http://www.sarth.net/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -2878,12 +2665,7 @@
     {
       "path": "/gralbum-has-launched/",
       "title": "Gralbum has launched",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/",
-          "text": "September 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/gralbum/",
@@ -2898,36 +2680,17 @@
     {
       "path": "/i-wish-i-had-thought-of-this/",
       "title": "I wish I had thought of this",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/",
-          "text": "March 6, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/iced-honey-on-the-jools-holland-show/",
       "title": "Iced Honey on the Jools Holland show",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/",
-          "text": "September 18, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/intrigue/",
       "title": "Intrigue, the Squarespace news page",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20260825202037/http://www.sarth.net/intrigue",
-          "text": "August 25, 2026"
-        },
-        {
-          "url": "https://web.archive.org/web/20160413203255/http://www.sarth.net/intrigue",
-          "text": "April 13, 2016"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/introspections-about/",
@@ -2942,12 +2705,7 @@
     {
       "path": "/lucibel-crater-clips/",
       "title": "Lucibel Crater Clips",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031043933/http://www.sarth.net/lucibel-crater-clips/",
-          "text": "Internet Archive’s copy"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/lucibel-crater/",
@@ -2957,42 +2715,22 @@
     {
       "path": "/lulu-in-cologne/",
       "title": "Lulu in Cologne",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314002635/http://www.sarth.net/category/intrigue/page/3/",
-          "text": "March 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/lulucd/",
       "title": "Lulu",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305175009/http://www.sarth.net/lulucd/",
-          "text": "Internet Archive’s copy"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/lulureleased/",
       "title": "Lulu now officially released",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/masicate-video/",
       "title": "Video: Lucibel Crater – Masticate",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031050339/http://www.sarth.net/masicate-video/",
-          "text": "Internet Archive’s copy"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/me-time-score/",
@@ -3027,32 +2765,17 @@
     {
       "path": "/mm3-interviewed-in-art-rocker/",
       "title": "MM3 interviewed in Art Rocker",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031050447/http://www.sarth.net/mm3-interviewed-in-art-rocker/",
-          "text": "Internet Archive’s copy"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/moldovers-jam-boxes/",
       "title": "JAMBOXES",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/",
-          "text": "July 15, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/number19-suspension/",
       "title": "Number19 – Suspension",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/original-carve-the-ham-photo/",
@@ -3066,10 +2789,6 @@
         {
           "url": "http://www.huffingtonpost.com/2013/02/18/robert-saylors-death-homicide-mentally-ill_n_2711629.html",
           "text": "http://www.huffingtonpost.com/2013/02/18/robert-saylors-death-homicide-mentally-illn2711629.html"
-        },
-        {
-          "url": "https://web.archive.org/web/20140305053511/http://www.sarth.net/our-security-apparatus-is-an-auto-immune-disease-pt-1",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -3077,14 +2796,6 @@
       "path": "/photos-of-noise-night-sydney/",
       "title": "Photos of Noise Night, Sydney",
       "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031023122/http://www.sarth.net/category/conspirators/laurie-anderson/",
-          "text": "Laurie Anderson category page"
-        },
-        {
-          "url": "https://web.archive.org/web/20101030045241/http://www.sarth.net/category/conspirators/marc-ribot/",
-          "text": "Marc Ribot category page"
-        },
         {
           "url": "http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html",
           "text": "A concert recording"
@@ -3098,10 +2809,6 @@
         {
           "url": "https://web.archive.org/web/2010/http://loureed.com/power/",
           "text": "http://loureed.com/power/"
-        },
-        {
-          "url": "https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -3140,10 +2847,6 @@
         {
           "url": "http://mikeacerbo.bandcamp.com/album/the-search",
           "text": "The Search by Mike Acerbo"
-        },
-        {
-          "url": "https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/",
-          "text": "September 18, 2014"
         }
       ]
     },
@@ -3166,10 +2869,6 @@
         {
           "url": "http://thebookofsarth.tumblr.com/post/42906472855/emailing-ramses3000-fuckk-no-this-is-not",
           "text": "repost"
-        },
-        {
-          "url": "https://web.archive.org/web/20140304024014/http://www.sarth.net/recursive-functions-in-teapots",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -3506,42 +3205,22 @@
     {
       "path": "/some-clips-of-the-21-form/",
       "title": "Some clips of the 21 form",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/",
-          "text": "September 10, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/some-photos-from-the-blender-theater/",
       "title": "Some photos from the Blender Theater",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/",
-          "text": "September 9, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/some-pics-from-jools-holland-and-taratata/",
       "title": "Some pics from Jools Holland and Taratata",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/sydney-morning-herald-is-bracing-for-our-arrival/",
       "title": "Sydney Morning Herald is Bracing for our arrival",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/",
-          "text": "July 31, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/symbolic-sound-book-of-sarth-review/",
@@ -3550,10 +3229,6 @@
         {
           "url": "https://news.symbolicsound.com/2012/11/the-book-of-sarth/",
           "text": "Symbolic Sound"
-        },
-        {
-          "url": "https://web.archive.org/web/20140306214625/http://www.sarth.net/symbolic-sound-book-of-sarth-review/",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -3570,22 +3245,7 @@
     {
       "path": "/tag/amsterdam/",
       "title": "Tag: Amsterdam",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/",
-          "text": "September 14, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/aram-bajakian/",
-      "title": "Tag: aram bajakian",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140306060301/http://www.sarth.net/tag/aram-bajakian/",
-          "text": "March 6, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/arup-soundlab/",
@@ -3595,72 +3255,37 @@
     {
       "path": "/tag/audioclips/",
       "title": "Tag: audioclips",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031043521/http://www.sarth.net/tag/audioclips/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/bardo-pond/",
       "title": "Tag: Bardo Pond",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031050502/http://www.sarth.net/tag/bardo-pond/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/book-of-sarth/",
       "title": "Tag: Book of Sarth",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084750/http://www.sarth.net/tag/book-of-sarth/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/bryon-bishop/",
       "title": "Tag: Bryon Bishop",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314011907/http://www.sarth.net/tag/bryon-bishop/",
-          "text": "March 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/cafe/",
       "title": "Tag: Cafe",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/cat/",
       "title": "Tag: Cat",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/chain-d-l-k/",
       "title": "Tag: Chain D.L.K.",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314002640/http://www.sarth.net/tag/chain-d-l-k/",
-          "text": "March 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/continuum-fingerboard/",
@@ -3670,22 +3295,12 @@
     {
       "path": "/tag/creation-of-the-universe/",
       "title": "Tag: Creation of the Universe",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101102061240/http://www.sarth.net/tag/creation-of-the-universe/",
-          "text": "November 2, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/cs-6-00/",
       "title": "Tag: cs 6.00",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/csulb/",
@@ -3695,122 +3310,52 @@
     {
       "path": "/tag/drm/",
       "title": "Tag: drm",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/ear-worm/",
       "title": "Tag: Ear Worm",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314002712/http://www.sarth.net/tag/ear-worm/",
-          "text": "March 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/featured_music/",
       "title": "Tag: featured_music",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031045339/http://www.sarth.net/tag/featured_music/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/germany/",
       "title": "Tag: Germany",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/",
-          "text": "September 6, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/gizmodo/",
       "title": "Tag: Gizmodo",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314032521/http://www.sarth.net/tag/gizmodo/",
-          "text": "March 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/hop-farm/",
       "title": "Tag: hop farm",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305082313/http://www.sarth.net/tag/hop-farm/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/iced-honey/",
       "title": "Tag: Iced Honey",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084243/http://www.sarth.net/tag/iced-honey/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/ip/",
       "title": "Tag: ip",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/jools-holland/",
       "title": "Tag: Jools Holland",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140306060051/http://www.sarth.net/tag/jools-holland/",
-          "text": "March 6, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/kevin-hearn/",
-      "title": "Tag: Kevin Hearn",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305082315/http://www.sarth.net/tag/kevin-hearn/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/kyma/",
       "title": "Tag: kyma",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084248/http://www.sarth.net/tag/kyma/",
-          "text": "March 5, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/leah-coloff/",
-      "title": "Tag: Leah Coloff",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305082320/http://www.sarth.net/tag/leah-coloff/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/live-processing/",
@@ -3820,107 +3365,32 @@
     {
       "path": "/tag/london/",
       "title": "Tag: London",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084254/http://www.sarth.net/tag/london/",
-          "text": "March 5, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/lou-reed/",
-      "title": "Tag: Lou Reed",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031045344/http://www.sarth.net/tag/lou-reed/",
-          "text": "October 31, 2010"
-        }
-      ]
-    },
-    {
-      "path": "/tag/lou-reed/page/2/",
-      "title": "Tag: Lou Reed, page 2 of 2",
       "citations": []
     },
     {
       "path": "/tag/lucibel-crater-the-family-album/",
       "title": "Tag: Lucibel Crater The Family Album",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031045359/http://www.sarth.net/tag/lucibel-crater-the-family-album/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/lucibel-crater/",
       "title": "Tag: Lucibel Crater",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305082329/http://www.sarth.net/tag/lucibel-crater/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/lulu/",
       "title": "Tag: Lulu",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/",
-          "text": "March 5, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/marc-ribot/",
-      "title": "Tag: Marc Ribot",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101102061320/http://www.sarth.net/tag/marc-ribot/",
-          "text": "November 2, 2010"
-        }
-      ]
-    },
-    {
-      "path": "/tag/marc-urselli/",
-      "title": "Tag: Marc Urselli",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314011912/http://www.sarth.net/tag/marc-urselli/",
-          "text": "March 14, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/mark-righter/",
-      "title": "Tag: Mark Righter",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305082336/http://www.sarth.net/tag/mark-righter/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/melt-banana/",
       "title": "Tag: Melt Banana",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031050006/http://www.sarth.net/tag/melt-banana/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/metal-machine-music/",
       "title": "Tag: Metal Machine Music",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031050507/http://www.sarth.net/tag/metal-machine-music/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/metal-machine-trio-2/",
@@ -3930,352 +3400,147 @@
     {
       "path": "/tag/metallica/",
       "title": "Tag: Metallica",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140306060743/http://www.sarth.net/tag/metallica/",
-          "text": "March 6, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/mm3/",
       "title": "Tag: MM3",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101102064124/http://www.sarth.net/tag/mm3/",
-          "text": "November 2, 2010"
-        }
-      ]
-    },
-    {
-      "path": "/tag/moldover/",
-      "title": "Tag: Moldover",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/mwmcg/",
       "title": "Tag: MWMCG",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031044713/http://www.sarth.net/tag/mwmcg/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/night-terrors/",
       "title": "Tag: Night Terrors",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031043938/http://www.sarth.net/tag/night-terrors/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/noise/",
       "title": "Tag: Noise",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031052406/http://www.sarth.net/tag/noise/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/number-19/",
       "title": "Tag: Number 19",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/opencourseware/",
       "title": "Tag: opencourseware",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/opera-house/",
       "title": "Tag: Opera House",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101102061342/http://www.sarth.net/tag/opera-house/",
-          "text": "November 2, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/paris/",
       "title": "Tag: Paris",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/piracy/",
       "title": "Tag: piracy",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/pirate-bay/",
       "title": "Tag: pirate bay",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/recursion/",
       "title": "Tag: recursion",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/",
-          "text": "March 6, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/reviews/",
       "title": "Tag: Reviews",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314002412/http://www.sarth.net/tag/reviews/",
-          "text": "March 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/rice-corpse/",
       "title": "Tag: Rice Corpse",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031045404/http://www.sarth.net/tag/rice-corpse/",
-          "text": "October 31, 2010"
-        }
-      ]
-    },
-    {
-      "path": "/tag/rob-wasserman-kevin-hearn/",
-      "title": "Tag: rob wasserman kevin hearn",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084817/http://www.sarth.net/tag/rob-wasserman-kevin-hearn/",
-          "text": "March 5, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/rob-wasserman/",
-      "title": "Tag: Rob Wasserman",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084820/http://www.sarth.net/tag/rob-wasserman/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/sarth/",
       "title": "Tag: Sarth",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031045421/http://www.sarth.net/tag/sarth/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/sketching-monkey/",
       "title": "Tag: Sketching Monkey",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314002754/http://www.sarth.net/tag/sketching-monkey/",
-          "text": "March 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/super-nintendo/",
       "title": "Tag: Super Nintendo",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084826/http://www.sarth.net/tag/super-nintendo/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/surreal/",
       "title": "Tag: surreal",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/suspension/",
       "title": "Tag: Suspension",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140306060320/http://www.sarth.net/tag/suspension/",
-          "text": "March 6, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/sydney-opera-house/",
       "title": "Tag: sydney opera house",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/",
-          "text": "July 31, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/sydney/",
       "title": "Tag: Sydney",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031044003/http://www.sarth.net/tag/sydney/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/symbolic-sound/",
       "title": "Tag: Symbolic Sound",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314011051/http://www.sarth.net/tag/symbolic-sound/",
-          "text": "March 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/taratata/",
       "title": "Tag: Taratata",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084857/http://www.sarth.net/tag/taratata/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/the-verge/",
       "title": "Tag: The Verge",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140314011005/http://www.sarth.net/tag/the-verge/",
-          "text": "March 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/the-view/",
       "title": "Tag: The View",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305084901/http://www.sarth.net/tag/the-view/",
-          "text": "March 5, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/tony-diodore/",
-      "title": "Tag: tony diodore",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140306060337/http://www.sarth.net/tag/tony-diodore/",
-          "text": "March 6, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/tony-smith/",
-      "title": "Tag: tony smith",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305082435/http://www.sarth.net/tag/tony-smith/",
-          "text": "March 5, 2014"
-        }
-      ]
-    },
-    {
-      "path": "/tag/ulrich-krieger/",
-      "title": "Tag: Ulrich Krieger",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031050029/http://www.sarth.net/tag/ulrich-krieger/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/video/",
       "title": "Tag: Video",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/",
-          "text": "November 2, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/white-light-white-heat/",
       "title": "Tag: White Light White Heat",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140305082445/http://www.sarth.net/tag/white-light-white-heat/",
-          "text": "March 5, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/tag/zond/",
       "title": "Tag: Zond",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031050049/http://www.sarth.net/tag/zond/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/talking-about-lous-return-to-darkness/",
       "title": "Talking about Lou’s “Return to Darkness”",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/",
-          "text": "September 6, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/the-book-of-sarth-gizmodo-apps-of-the-week/",
@@ -4284,26 +3549,13 @@
         {
           "url": "https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597",
           "text": "Gizmodo"
-        },
-        {
-          "url": "https://web.archive.org/web/20140306125224/http://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/",
-          "text": "Internet Archive’s copy"
-        },
-        {
-          "url": "https://web.archive.org/web/20170927211510/http://www.sarth.net/rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week",
-          "text": "copy of September 27, 2017"
         }
       ]
     },
     {
       "path": "/the-book-of-sarth-in-the-app-store-now/",
       "title": "The Book of Sarth in the app store now!",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/",
-          "text": "September 14, 2014"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/the-book-of-sarth/",
@@ -4459,10 +3711,6 @@
         {
           "url": "https://www.youtube.com/watch?v=GxIDY9XvvaA",
           "text": "YouTube"
-        },
-        {
-          "url": "https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -4473,10 +3721,6 @@
         {
           "url": "https://www.youtube.com/watch?v=zDAzJr382Ho",
           "text": "YouTube"
-        },
-        {
-          "url": "https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -4501,10 +3745,6 @@
         {
           "url": "https://www.elementary.audio",
           "text": "Elementary Audio JS Library."
-        },
-        {
-          "url": "https://web.archive.org/web/20260825201458/http://www.sarth.net/rumors/2022/4/18/elementary-audio-day-1",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -4990,10 +4230,6 @@
         {
           "url": "https://www.facebook.com/events/372887502897490/",
           "text": "https://www.facebook.com/events/372887502897490/"
-        },
-        {
-          "url": "https://web.archive.org/web/20170927214728/http://www.sarth.net/rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum",
-          "text": "Internet Archive’s copy"
         }
       ]
     },
@@ -5069,12 +4305,7 @@
     {
       "path": "/video-could-i/",
       "title": "Video: Could I",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031023118/http://www.sarth.net/category/conspiracies/lucibel-crater/",
-          "text": "October 31, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/video-exactly-where-you-are/",
@@ -5084,46 +4315,22 @@
     {
       "path": "/video-lucibel-crater-elvis-costello-green-shirt/",
       "title": "Video: Lucibel Crater – Elvis Costello – Green Shirt",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101102064145/http://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/",
-          "text": "Internet Archive’s copy"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/video-lucibel-crater-noise-i-groove-blue-stationwagon/",
       "title": "Video: Lucibel Crater – Noise I Groove – Blue Stationwagon",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/",
-          "text": "November 2, 2010"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/video-metal-machine-trio-infiltrates-lucibel-crater/",
       "title": "Video: Metal Machine Trio infiltrates Lucibel Crater",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20101031043559/http://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/",
-          "text": "Internet Archive’s copy"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/words/",
       "title": "The transmissions have begun . . .",
-      "citations": [
-        {
-          "url": "https://web.archive.org/web/20260825202037/http://www.sarth.net/words/",
-          "text": "August 25, 2026"
-        },
-        {
-          "url": "https://web.archive.org/web/20160413141315/http://www.sarth.net/words/",
-          "text": "April 13, 2016"
-        }
-      ]
+      "citations": []
     },
     {
       "path": "/work/",

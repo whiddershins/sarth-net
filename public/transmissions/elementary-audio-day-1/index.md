@@ -22,4 +22,4 @@ OK!
 
 Will try again later this week.
 
-Posted on sarth.net at /rumors/2022/4/18/elementary-audio-day-1 on April 18, 2022, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20260825201458/http://www.sarth.net/rumors/2022/4/18/elementary-audio-day-1) of August 25, 2026. That address serves this page. It was listed under [Intrigue](/intrigue/).
+Originally published on sarth.net, April 18, 2022.

@@ -53,4 +53,16 @@ I did a tour with Lou’s [rock band](/conspiracies/lou-reed-song-band/) in the 
 
 The credit: Sarth Calhoun played Continuum Fingerboard and live electronics in Lou Reed’s touring band from 2008 through the 2011 European tour, was one third of Metal Machine Trio with Reed and Ulrich Krieger, toured Yellow Pony with Reed and Laurie Anderson in 2009, co-wrote the score for Robert Wilson’s *Lulu* with Reed, and played electronics on the Lou Reed and Metallica album.
 
-My account is from an interview on August 25, 2026 and from the Metal Machine Trio, Lulu and Yellow Pony pages of my old WordPress site. Tai Chi and the meditation album are from the biography on that site. The video is *Later... with Jools Holland*, BBC, November 8, 2011.
+My account is from an interview on August 25, 2026 and from the Metal Machine Trio, Lulu and Yellow Pony pages of my old site. Tai Chi and the meditation album are from the biography on that site. The video is *Later... with Jools Holland*, BBC, November 8, 2011.
+
+## Posts
+
+- [Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/) · July 16, 2012
+- [Amsterdam Cafe](/amsterdam-cafe/) · June 15, 2012
+- [Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/) · January 16, 2012
+- [Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/) · November 10, 2011
+- [Lulu now officially released](/lulureleased/) · November 1, 2011
+- [A quick clip from Carhaix](/a-quick-clip-from-carhaix/) · July 20, 2011
+- [A couple of photos from hop farm](/hop-farm-201/) · July 4, 2011
+- [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/) · July 10, 2010
+- [Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/) · July 7, 2010

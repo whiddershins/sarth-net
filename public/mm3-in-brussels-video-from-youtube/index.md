@@ -16,4 +16,4 @@ came across this randomly and always like to see myself jumping up and down. tom
 
 Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Metal Machine Trio](/conspiracies/metal-machine-trio/), [Ulrich Krieger](/conspirators/ulrich-krieger/), [Video](/category/visuals/video/).
 
-Posted on sarth.net at this address on July 1, 2010, and reproduced here as written, from Common Crawl’s copy of page 3 of the Lou Reed category of May 20, 2012, which shows the whole post. The Internet Archive has no copy of the post’s own page.
+Originally published on sarth.net, July 1, 2010.

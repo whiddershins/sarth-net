@@ -41,4 +41,8 @@ The credit: Leah Coloff and Sarth Calhoun have played together since Number19 in
 
 > Leah Coloff is a Brooklyn-based cellist/singer/songwriter whose first album “Dark Sweet Heart” was greeted with critical praise and college radio play in the US. She tours and records as a solo act, cello and voice unaccompanied by other musicians or fancy machinery. She recently co-starred as Emily Dickinson in Ridge Theater’s “Lighting at Our Feet,” playing and singing music composed by [Michael Gordon](https://en.wikipedia.org/wiki/Michael_Gordon_(composer)). She’s contributed her cello to a long list of recording artists including [Ziggy Marley](https://en.wikipedia.org/wiki/Ziggy_Marley), [Rufus Wainwright](https://en.wikipedia.org/wiki/Rufus_Wainwright), [Dr. John](https://en.wikipedia.org/wiki/Dr._John), [Nancy Sinatra](https://en.wikipedia.org/wiki/Nancy_Sinatra), [Joel Thome](https://en.wikipedia.org/wiki/Joel_Thome), and [David Bowie](https://en.wikipedia.org/wiki/David_Bowie). When performing with Lucibel Crater, Leah takes on many roles, one minute she’s a beat poet and her cello becomes an upright bass, the next she’s a cello playing hendrix, soul singing and feedback soloing.
 
-I wrote that introduction, and the biography quoted above, for my old WordPress site, recovered from the Wayback Machine. How we met is from the band’s own site, numbernineteen.net, as captured in 2001, and so is the photograph.
+I wrote that introduction, and the biography quoted above, for my old site. How we met is from the band’s own site, numbernineteen.net, and so is the photograph.
+
+## Posts
+
+- [Number19 – Suspension](/number19-suspension/) · November 6, 2008

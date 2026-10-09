@@ -22,4 +22,4 @@ Reposted under Rumors in 2015 at /rumors/2015/2/10/the-book-of-sarth-gizmodo-app
 
 Gizmodo gave a nice holiday shout out to The Book of Sarth . . . something about rolling a J and [losing yourself in it](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)?
 
-Posted on sarth.net at this address on December 22, 2012, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140306125224/http://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/) of March 6, 2014. The 2015 version is from the [copy of September 27, 2017](https://web.archive.org/web/20170927211510/http://www.sarth.net/rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week). Gizmodo’s piece is Leslie Horn’s Apps of the Week, December 21, 2012.
+Originally published on sarth.net, December 22, 2012.

@@ -92,4 +92,4 @@ More about happy accidents and automated effect controls to morph sources in fut
 
 — Sarth
 
-Posted on sarth.net on November 21, 2020, and reproduced here as written, with the audio examples and screenshots from that post. The track is [“Awakening (To Blacklist)”](/conspiracies/awakening-to-blacklist/), from [*The Book of Sarth*](/conspiracies/book-of-sarth/).
+Originally published on sarth.net, November 21, 2020.

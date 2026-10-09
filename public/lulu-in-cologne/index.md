@@ -18,4 +18,4 @@ Here’s a video of Mistress Dread
 
 Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Lulu](/conspiracies/lulu/), [Metallica](/conspirators/metallica/), [Video](/category/visuals/video/).
 
-Posted on sarth.net at this address on November 12, 2011, and reproduced here as written, from the Internet Archive’s copy of the Intrigue page of [March 14, 2014](https://web.archive.org/web/20140314002635/http://www.sarth.net/category/intrigue/page/3/), which shows the whole post. The Internet Archive has no copy of the post’s own page. The video is the one the post embedded, still on YouTube.
+Originally published on sarth.net, November 12, 2011.

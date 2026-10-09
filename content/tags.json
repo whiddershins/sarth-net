@@ -114,14 +114,6 @@
         "Ambisonic"
       ]
     },
-    "/tag/aram-bajakian/": {
-      "start": [
-        "/conspirators/aram-bajakian/"
-      ],
-      "terms": [
-        "Aram Bajakian"
-      ]
-    },
     "/tag/arup-soundlab/": {
       "start": [
         "/conspiracies/creation-of-the-universe-ambisonic/"
@@ -240,28 +232,12 @@
         "Jools Holland"
       ]
     },
-    "/tag/kevin-hearn/": {
-      "start": [
-        "/conspirators/kevin-hearn/"
-      ],
-      "terms": [
-        "Kevin Hearn"
-      ]
-    },
     "/tag/kyma/": {
       "start": [
         "/devices/kyma/"
       ],
       "terms": [
         "Kyma"
-      ]
-    },
-    "/tag/leah-coloff/": {
-      "start": [
-        "/conspirators/leah-coloff/"
-      ],
-      "terms": [
-        "Leah Coloff"
       ]
     },
     "/tag/live-processing/": {
@@ -278,14 +254,6 @@
       ],
       "terms": [
         "London"
-      ]
-    },
-    "/tag/lou-reed/": {
-      "start": [
-        "/conspirators/lou-reed/"
-      ],
-      "terms": [
-        "Lou Reed"
       ]
     },
     "/tag/lucibel-crater-the-family-album/": {
@@ -310,30 +278,6 @@
       ],
       "terms": [
         "Lulu"
-      ]
-    },
-    "/tag/marc-ribot/": {
-      "start": [
-        "/conspirators/marc-ribot/"
-      ],
-      "terms": [
-        "Marc Ribot"
-      ]
-    },
-    "/tag/marc-urselli/": {
-      "start": [
-        "/conspirators/marc-urselli/"
-      ],
-      "terms": [
-        "Marc Urselli"
-      ]
-    },
-    "/tag/mark-righter/": {
-      "start": [
-        "/conspirators/mark-righter/"
-      ],
-      "terms": [
-        "Mark Righter"
       ]
     },
     "/tag/melt-banana/": {
@@ -455,23 +399,6 @@
         "Rice Corpse"
       ]
     },
-    "/tag/rob-wasserman-kevin-hearn/": {
-      "start": [
-        "/conspiracies/lou-reed-2011-european-tour/"
-      ],
-      "all_terms": [
-        "Rob Wasserman",
-        "Kevin Hearn"
-      ]
-    },
-    "/tag/rob-wasserman/": {
-      "start": [
-        "/conspirators/rob-wasserman/"
-      ],
-      "terms": [
-        "Rob Wasserman"
-      ]
-    },
     "/tag/sarth/": {
       "start": [
         "/about/"
@@ -541,31 +468,6 @@
         "The View"
       ]
     },
-    "/tag/tony-diodore/": {
-      "start": [
-        "/conspirators/tony-diodore/"
-      ],
-      "terms": [
-        "Tony Diodore"
-      ]
-    },
-    "/tag/tony-smith/": {
-      "start": [
-        "/conspirators/tony-thunder-smith/"
-      ],
-      "terms": [
-        "Tony “Thunder” Smith",
-        "Tony Smith"
-      ]
-    },
-    "/tag/ulrich-krieger/": {
-      "start": [
-        "/conspirators/ulrich-krieger/"
-      ],
-      "terms": [
-        "Ulrich Krieger"
-      ]
-    },
     "/tag/video/": {
       "start": [
         "/transmissions/"
@@ -621,14 +523,6 @@
     },
     "/tag/ip/": {
       "start": []
-    },
-    "/tag/moldover/": {
-      "start": [
-        "/conspirators/moldover/"
-      ],
-      "terms": [
-        "Moldover"
-      ]
     },
     "/tag/opencourseware/": {
       "start": [],

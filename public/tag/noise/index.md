@@ -4,21 +4,17 @@ description: Noise, a tag of the WordPress sarth.net (2010 to 2014): Photos of N
 url: https://www.sarth.net/tag/noise/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Tag: Noise
 
 Start here: [Vivid LIVE 2010](/conspiracies/vivid-live/)
 
 ## Everywhere on sarth.net
 
-- [Conspirators](/conspirators/) · People
+- [Lou Reed](/conspirators/lou-reed/) · Conspirator
 - [Laurie Anderson](/conspirators/laurie-anderson/) · Conspirator
 - [Marc Ribot](/conspirators/marc-ribot/) · Conspirator
 
-## The old site’s posts
-
-The posts tagged Noise on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
+## Posts
 
 - **[Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)** · July 10, 2010
 
@@ -27,5 +23,3 @@ The posts tagged Noise on the WordPress sarth.net, newest first, with a link whe
 - **[Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)** · May 8, 2010
 
   Tags: [Noise](/tag/noise/), [sydney opera house](/tag/sydney-opera-house/).
-
-From the Internet Archive’s copy of this tag page of [October 31, 2010](https://web.archive.org/web/20101031052406/http://www.sarth.net/tag/noise/), and the tags each recovered post carries.

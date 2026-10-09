@@ -9,7 +9,7 @@ As originally published on sarth.net, July 25, 2016
 
 # Introspections-About
 
-**This is the old page, kept as it was.** Today’s page: [Introspections](/transmissions/introspections/).
+Today’s page: [Introspections](/transmissions/introspections/).
 
 ## Introspections
 
@@ -53,4 +53,4 @@ What is the dialogue between sound and consciousness?
 
 I have been working with Jeremiah Brimlau to bring this work to retreat centers and yoga studios. His guided meditation help the audience to move through the sound experience.
 
-A page of the Squarespace sarth.net, at this address and dated July 25, 2016, reproduced word for word with its photo, videos and player. From the site’s own Squarespace export of September 22, 2026. The alt text is new.
+Originally published on sarth.net, July 25, 2016.

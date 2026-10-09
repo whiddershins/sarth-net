@@ -80,4 +80,4 @@ Filed under: [Musings](/category/musings/).
 
 Tags: [cs 6.00](/tag/cs-6-00/), [opencourseware](/tag/opencourseware/), [recursion](/tag/recursion/).
 
-Posted on sarth.net at this address on February 12, 2013, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140304024014/http://www.sarth.net/recursive-functions-in-teapots) of March 4, 2014. The post’s image, an animated GIF titled “Recursive Teapots” from the Book of Sarth tumblr, was not recovered.
+Originally published on sarth.net, February 12, 2013.

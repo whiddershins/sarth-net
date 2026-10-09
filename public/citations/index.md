@@ -48,8 +48,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/`
 
 - [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
-- [Internet Archive’s copy](https://web.archive.org/web/20140306173226/http://www.sarth.net/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/)
-- [copy of September 27, 2017](https://web.archive.org/web/20170927213250/http://www.sarth.net/rumors/2015/2/10/a-wonderful-write-up-of-the-book-of-sarth-on-the-verge)
 
 ## [About](/about/)
 
@@ -69,18 +67,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Wikidata Q7424654](https://www.wikidata.org/wiki/Q7424654)
 - [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
 - [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calhoun)
-
-## [Amazing, amazing, drumming](/amazing-amazing-drumming/)
-
-`/amazing-amazing-drumming/`
-
-- [Internet Archive’s copy](https://web.archive.org/web/20140304023347/http://www.sarth.net/amazing-amazing-drumming)
-
-## [Amsterdam Cafe](/amsterdam-cafe/)
-
-`/amsterdam-cafe/`
-
-- [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/)
 
 ## [Bolted for the Briar Patch](/bolted-for-the-briar-patch/)
 
@@ -133,26 +119,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [App Store](https://web.archive.org/web/2013/http://itunes.apple.com/us/app/the-book-of-sarth/id563200772)
 - [bookofsarth.com](https://bookofsarth.com)
-- [Internet Archive’s copy](https://web.archive.org/web/20140306015204/http://www.sarth.net/book-of-sarth-in-the-app-store/)
-
-## [Book of Sarth Quicklist](/book-of-sarth-quicklist/)
-
-`/book-of-sarth-quicklist/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
-- [March 5, 2014](https://web.archive.org/web/20140305091900/http://www.sarth.net/category/conspirators/alex-smith/)
-
-## [Book of Sarth clips](/book-of-sarth-sneak-preview/)
-
-`/book-of-sarth-sneak-preview/`
-
-- [Internet Archive’s copy](https://web.archive.org/web/20140305174205/http://www.sarth.net/book-of-sarth-sneak-preview/)
-
-## [Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)
-
-`/brain-melt-double-firewire-800-scare/`
-
-- [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/)
 
 ## [Bio](/category/bio/)
 
@@ -178,12 +144,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
 
-## [Book of Sarth, page 2 of 2](/category/conspiracies/book-of-sarth/page/2/)
-
-`/category/conspiracies/book-of-sarth/page/2/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/)
-
 ## [Lulu](/category/conspiracies/lou-reed-metallica-project/)
 
 `/category/conspiracies/lou-reed-metallica-project/`
@@ -199,18 +159,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Anticipation of our noise madness in Sydney](http://www.smh.com.au/entertainment/music/the-art-of-noise-20100507-uiwi.html)
 - [October 30, 2010](https://web.archive.org/web/20101030011406/http://www.sarth.net/category/conspiracies/metal-machine-trio/)
 - [September 9, 2014](https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/)
-
-## [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/)
-
-`/category/conspiracies/sarth-solo-projects/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/)
-
-## [Sarth Solo Projects, page 2 of 2](/category/conspiracies/sarth-solo-projects/page/2/)
-
-`/category/conspiracies/sarth-solo-projects/page/2/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/)
 
 ## [Conspirators](/category/conspirators/)
 
@@ -230,35 +178,11 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [October 31, 2010](https://web.archive.org/web/20101031201238/http://www.sarth.net/category/conspirators/leah-coloff/)
 - [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
 
-## [Leah Coloff, page 2 of 3](/category/conspirators/leah-coloff/page/2/)
-
-`/category/conspirators/leah-coloff/page/2/`
-
-- [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
-
-## [Leah Coloff, page 3 of 3](/category/conspirators/leah-coloff/page/3/)
-
-`/category/conspirators/leah-coloff/page/3/`
-
-- [September 9, 2014](https://web.archive.org/web/20140909162644/http://www.sarth.net/category/conspirators/leah-coloff/)
-
-## [Lou Reed, page 4 of 4](/category/conspirators/lou-reed/page/4/)
-
-`/category/conspirators/lou-reed/page/4/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905174209/http://www.sarth.net/category/conspirators/lou-reed/)
-
 ## [Paul Chuffo](/category/conspirators/paul-chuffo/)
 
 `/category/conspirators/paul-chuffo/`
 
 - [November 11, 2010](https://web.archive.org/web/20101111011708/http://www.sarth.net/category/conspirators/paul-chuffo/)
-- [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/)
-
-## [Paul Chuffo, page 2 of 2](/category/conspirators/paul-chuffo/page/2/)
-
-`/category/conspirators/paul-chuffo/page/2/`
-
 - [September 5, 2014](https://web.archive.org/web/20140905175130/http://www.sarth.net/category/conspirators/paul-chuffo/)
 
 ## [Tony Diodore](/category/conspirators/tony-diodore-conspirators/)
@@ -268,107 +192,10 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [March 5, 2014](https://web.archive.org/web/20140305082304/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/)
 - [September 9, 2014](https://web.archive.org/web/20140909154824/http://www.sarth.net/category/conspirators/tony-diodore-conspirators/)
 
-## [Ulrich Krieger, page 2 of 2](/category/conspirators/ulrich-krieger/page/2/)
-
-`/category/conspirators/ulrich-krieger/page/2/`
-
-- [September 3, 2014](https://web.archive.org/web/20140903051508/http://www.sarth.net/category/conspirators/ulrich-krieger/)
-
-## [Contraptions](/category/contraptions/)
-
-`/category/contraptions/`
-
-- [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/)
-
-## [Equipment](/category/equipment/)
-
-`/category/equipment/`
-
-- [September 17, 2014](https://web.archive.org/web/20140917054328/http://www.sarth.net/category/equipment/)
-
-## [Intrigue, page 1 of 5](/category/intrigue/)
-
-`/category/intrigue/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/)
-
-## [Intrigue, page 2 of 5](/category/intrigue/page/2/)
-
-`/category/intrigue/page/2/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
-
-## [Intrigue, page 3 of 5](/category/intrigue/page/3/)
-
-`/category/intrigue/page/3/`
-
-- [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/)
-
-## [Intrigue, page 4 of 5](/category/intrigue/page/4/)
-
-`/category/intrigue/page/4/`
-
-- [September 18, 2014](https://web.archive.org/web/20140918025841/http://www.sarth.net/category/intrigue/page/4/)
-
-## [Intrigue, page 5 of 5](/category/intrigue/page/5/)
-
-`/category/intrigue/page/5/`
-
-- [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/)
-
-## [Press Clips](/category/intrigue/press-clips/)
-
-`/category/intrigue/press-clips/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/)
-
-## [Press Clips, page 2 of 2](/category/intrigue/press-clips/page/2/)
-
-`/category/intrigue/press-clips/page/2/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905175743/http://www.sarth.net/category/intrigue/press-clips/)
-
-## [Music, page 1 of 2](/category/music/)
-
-`/category/music/`
-
-- [September 6, 2014](https://web.archive.org/web/20140906154156/http://www.sarth.net/category/music/)
-
-## [Clips](/category/music/clips/)
-
-`/category/music/clips/`
-
-- [September 9, 2014](https://web.archive.org/web/20140909192848/http://www.sarth.net/category/music/clips/)
-
-## [Discography](/category/music/discography/)
-
-`/category/music/discography/`
-
-- [September 11, 2014](https://web.archive.org/web/20140911092932/http://www.sarth.net/category/music/discography/)
-
-## [Music, page 2 of 2](/category/music/page/2/)
-
-`/category/music/page/2/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905182144/http://www.sarth.net/category/music/page/2/)
-
-## [Recordings](/category/music/recordings/)
-
-`/category/music/recordings/`
-
-- [September 10, 2014](https://web.archive.org/web/20140910072009/http://www.sarth.net/category/music/recordings/)
-
-## [Musings](/category/musings/)
-
-`/category/musings/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
-
 ## [Press](/category/press/)
 
 `/category/press/`
 
-- [September 9, 2014](https://web.archive.org/web/20140909143954/http://www.sarth.net/category/press/)
 - [Jason P. Woodbury, Stereogum, 2021](https://stereogum.com/2165325/lulu-lou-reed-metallica/reviews/the-anniversary)
 - [Ariel Bitran, Stereophile, April 23, 2014](https://www.stereophile.com/content/gralbum-re-thinking-concept-album)
 - [Brian Heater, Laughing Squid, April 8, 2014](https://laughingsquid.com/gralbum-an-ipad-app-that-turns-records-into-a-multimedia-experience/)
@@ -401,61 +228,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Jesse Jarnow on the spring 2008 tour’s last night, The Village Voice, May 6, 2008](https://www.villagevoice.com/live-lou-reed-at-the-highline-ballrooms-first-birthday-party/)
 - [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
 
-## [Reviews](/category/reviews/)
-
-`/category/reviews/`
-
-- [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/)
-
-## [Taiji](/category/taiji/)
-
-`/category/taiji/`
-
-- [September 10, 2014](https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/)
-
-## [Uncategorized](/category/uncategorized/)
-
-`/category/uncategorized/`
-
-- [September 9, 2014](https://web.archive.org/web/20140909160404/http://www.sarth.net/category/uncategorized/)
-
-## [Visuals](/category/visuals/)
-
-`/category/visuals/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914180155/http://www.sarth.net/category/visuals/)
-
-## [Photo](/category/visuals/photo/)
-
-`/category/visuals/photo/`
-
-- [September 9, 2014](https://web.archive.org/web/20140909171858/http://www.sarth.net/category/visuals/photo/)
-
-## [Video, page 1 of 3](/category/visuals/video/)
-
-`/category/visuals/video/`
-
-- [September 9, 2014](https://web.archive.org/web/20140909154928/http://www.sarth.net/category/visuals/video/)
-
-## [Video, page 2 of 3](/category/visuals/video/page/2/)
-
-`/category/visuals/video/page/2/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905181534/http://www.sarth.net/category/visuals/video/page/2/)
-
-## [Video, page 3 of 3](/category/visuals/video/page/3/)
-
-`/category/visuals/video/page/3/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905180719/http://www.sarth.net/category/visuals/video/page/3/)
-
 ## [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)
 
 `/chain-d-l-k-book-of-sarth-review/`
 
 - [Marc Urselli](https://www.marcurselli.com/)
 - [Chain D.L.K.](https://www.chaindlk.com/reviews/7353)
-- [Internet Archive’s copy](https://web.archive.org/web/20140307100620/http://www.sarth.net/chain-d-l-k-book-of-sarth-review/)
 
 ## [Citations](/citations/)
 
@@ -466,12 +244,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [MusicBrainz](https://musicbrainz.org/artist/e6ac65c7-146f-44bc-9acd-002633185c4f)
 - [Discogs](https://www.discogs.com/artist/2310400-Sarth-Calhoun)
 - [Spotify](https://open.spotify.com/artist/6uUtOazhiVXfNU8KAglFv9)
-
-## [ConnecTable carpentry …](/connectable-carpentry/)
-
-`/connectable-carpentry/`
-
-- [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/)
 
 ## [Awakening (To Blacklist)](/conspiracies/awakening-to-blacklist/)
 
@@ -1107,7 +879,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/`
 
 - [http://blogs.epicindia.com/leapinthedark/2010/04/musicreviewloureedthirtyfi.html](https://web.archive.org/web/2010/http://blogs.epicindia.com/leapinthedark/2010/04/music_review_lou_reed_thirtyfi.html)
-- [Internet Archive’s copy](https://web.archive.org/web/20101031045309/http://www.sarth.net/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)
 
 ## [Ableton Live](/devices/ableton-live/)
 
@@ -1194,61 +965,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [Yamaha EX5](https://en.wikipedia.org/wiki/Yamaha_EX5)
 
-## [Gralbum has launched](/gralbum-has-launched/)
-
-`/gralbum-has-launched/`
-
-- [September 5, 2014](https://web.archive.org/web/20140905174726/http://www.sarth.net/category/intrigue/)
-
-## [I wish I had thought of this](/i-wish-i-had-thought-of-this/)
-
-`/i-wish-i-had-thought-of-this/`
-
-- [March 6, 2014](https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/)
-
-## [Iced Honey on the Jools Holland show](/iced-honey-on-the-jools-holland-show/)
-
-`/iced-honey-on-the-jools-holland-show/`
-
-- [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/)
-
-## [Intrigue, the Squarespace news page](/intrigue/)
-
-`/intrigue/`
-
-- [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/intrigue)
-- [April 13, 2016](https://web.archive.org/web/20160413203255/http://www.sarth.net/intrigue)
-
-## [Lucibel Crater Clips](/lucibel-crater-clips/)
-
-`/lucibel-crater-clips/`
-
-- [Internet Archive’s copy](https://web.archive.org/web/20101031043933/http://www.sarth.net/lucibel-crater-clips/)
-
-## [Lulu in Cologne](/lulu-in-cologne/)
-
-`/lulu-in-cologne/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314002635/http://www.sarth.net/category/intrigue/page/3/)
-
-## [Lulu](/lulucd/)
-
-`/lulucd/`
-
-- [Internet Archive’s copy](https://web.archive.org/web/20140305175009/http://www.sarth.net/lulucd/)
-
-## [Lulu now officially released](/lulureleased/)
-
-`/lulureleased/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/)
-
-## [Video: Lucibel Crater – Masticate](/masicate-video/)
-
-`/masicate-video/`
-
-- [Internet Archive’s copy](https://web.archive.org/web/20101031050339/http://www.sarth.net/masicate-video/)
-
 ## [Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)
 
 `/metal-machine-trio-in-10-1-ambisonic-installation/`
@@ -1261,37 +977,16 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [October 28, 2010](https://web.archive.org/web/20101028105838/http://www.sarth.net/metal-machine-trio-the-creation-of-the-universe)
 
-## [MM3 interviewed in Art Rocker](/mm3-interviewed-in-art-rocker/)
-
-`/mm3-interviewed-in-art-rocker/`
-
-- [Internet Archive’s copy](https://web.archive.org/web/20101031050447/http://www.sarth.net/mm3-interviewed-in-art-rocker/)
-
-## [JAMBOXES](/moldovers-jam-boxes/)
-
-`/moldovers-jam-boxes/`
-
-- [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/)
-
-## [Number19 – Suspension](/number19-suspension/)
-
-`/number19-suspension/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/)
-
 ## [Our “Security” is an Auto-Immune Disease](/our-security-apparatus-is-an-auto-immune-disease-pt-1/)
 
 `/our-security-apparatus-is-an-auto-immune-disease-pt-1/`
 
 - [http://www.huffingtonpost.com/2013/02/18/robert-saylors-death-homicide-mentally-illn2711629.html](http://www.huffingtonpost.com/2013/02/18/robert-saylors-death-homicide-mentally-ill_n_2711629.html)
-- [Internet Archive’s copy](https://web.archive.org/web/20140305053511/http://www.sarth.net/our-security-apparatus-is-an-auto-immune-disease-pt-1)
 
 ## [Photos of Noise Night, Sydney](/photos-of-noise-night-sydney/)
 
 `/photos-of-noise-night-sydney/`
 
-- [Laurie Anderson category page](https://web.archive.org/web/20101031023122/http://www.sarth.net/category/conspirators/laurie-anderson/)
-- [Marc Ribot category page](https://web.archive.org/web/20101030045241/http://www.sarth.net/category/conspirators/marc-ribot/)
 - [A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html)
 
 ## [Power and Serenity](/power-and-serenity-for-sale/)
@@ -1299,7 +994,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/power-and-serenity-for-sale/`
 
 - [http://loureed.com/power/](https://web.archive.org/web/2010/http://loureed.com/power/)
-- [Internet Archive’s copy](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/)
 
 ## [(re) Discovered some old bass playing](/re-discovered-some-old-bass-playing/)
 
@@ -1313,7 +1007,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Rich Kulsar](https://web.archive.org/web/20121012062316/http://www.richkulsar.com:80/)
 - [Leah Coloff](https://web.archive.org/web/20110815153100/http://www.leahcoloff.com/news.html)
 - [The Search by Mike Acerbo](http://mikeacerbo.bandcamp.com/album/the-search)
-- [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/)
 
 ## [Recursive functions in teapots](/recursive-functions-in-teapots/)
 
@@ -1323,7 +1016,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [palindrome](http://en.wikipedia.org/wiki/Palindrome)
 - [functional programming languages](http://www.haskell.org/haskellwiki/Haskell)
 - [repost](http://thebookofsarth.tumblr.com/post/42906472855/emailing-ramses3000-fuckk-no-this-is-not)
-- [Internet Archive’s copy](https://web.archive.org/web/20140304024014/http://www.sarth.net/recursive-functions-in-teapots)
 
 ## [Rumors](/rumors/)
 
@@ -1426,458 +1118,17 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 - [Stone’s](https://www.linkedin.com/posts/michele-stone-8150784_reaktorlive-engineering-data-activity-7074460781097955328-Qtbo)
 - [Fosbery’s](https://www.linkedin.com/posts/ian-fosbery_very-excited-to-be-moderating-this-chat-with-activity-7074777948012105728-AzwC)
 
-## [Some clips of the 21 form](/some-clips-of-the-21-form/)
-
-`/some-clips-of-the-21-form/`
-
-- [September 10, 2014](https://web.archive.org/web/20140910221453/http://www.sarth.net/category/taiji/)
-
-## [Some photos from the Blender Theater](/some-photos-from-the-blender-theater/)
-
-`/some-photos-from-the-blender-theater/`
-
-- [September 9, 2014](https://web.archive.org/web/20140909153459/http://www.sarth.net/category/conspiracies/metal-machine-trio/)
-
-## [Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)
-
-`/some-pics-from-jools-holland-and-taratata/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/)
-
-## [Sydney Morning Herald is Bracing for our arrival](/sydney-morning-herald-is-bracing-for-our-arrival/)
-
-`/sydney-morning-herald-is-bracing-for-our-arrival/`
-
-- [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/)
-
 ## [Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)
 
 `/symbolic-sound-book-of-sarth-review/`
 
 - [Symbolic Sound](https://news.symbolicsound.com/2012/11/the-book-of-sarth/)
-- [Internet Archive’s copy](https://web.archive.org/web/20140306214625/http://www.sarth.net/symbolic-sound-book-of-sarth-review/)
-
-## [Tag: Amsterdam](/tag/amsterdam/)
-
-`/tag/amsterdam/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
-
-## [Tag: aram bajakian](/tag/aram-bajakian/)
-
-`/tag/aram-bajakian/`
-
-- [March 6, 2014](https://web.archive.org/web/20140306060301/http://www.sarth.net/tag/aram-bajakian/)
-
-## [Tag: audioclips](/tag/audioclips/)
-
-`/tag/audioclips/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031043521/http://www.sarth.net/tag/audioclips/)
-
-## [Tag: Bardo Pond](/tag/bardo-pond/)
-
-`/tag/bardo-pond/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031050502/http://www.sarth.net/tag/bardo-pond/)
-
-## [Tag: Book of Sarth](/tag/book-of-sarth/)
-
-`/tag/book-of-sarth/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084750/http://www.sarth.net/tag/book-of-sarth/)
-
-## [Tag: Bryon Bishop](/tag/bryon-bishop/)
-
-`/tag/bryon-bishop/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314011907/http://www.sarth.net/tag/bryon-bishop/)
-
-## [Tag: Cafe](/tag/cafe/)
-
-`/tag/cafe/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
-
-## [Tag: Cat](/tag/cat/)
-
-`/tag/cat/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
-
-## [Tag: Chain D.L.K.](/tag/chain-d-l-k/)
-
-`/tag/chain-d-l-k/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314002640/http://www.sarth.net/tag/chain-d-l-k/)
-
-## [Tag: Creation of the Universe](/tag/creation-of-the-universe/)
-
-`/tag/creation-of-the-universe/`
-
-- [November 2, 2010](https://web.archive.org/web/20101102061240/http://www.sarth.net/tag/creation-of-the-universe/)
-
-## [Tag: cs 6.00](/tag/cs-6-00/)
-
-`/tag/cs-6-00/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
-
-## [Tag: drm](/tag/drm/)
-
-`/tag/drm/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
-
-## [Tag: Ear Worm](/tag/ear-worm/)
-
-`/tag/ear-worm/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314002712/http://www.sarth.net/tag/ear-worm/)
-
-## [Tag: featured_music](/tag/featured_music/)
-
-`/tag/featured_music/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031045339/http://www.sarth.net/tag/featured_music/)
-
-## [Tag: Germany](/tag/germany/)
-
-`/tag/germany/`
-
-- [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/)
-
-## [Tag: Gizmodo](/tag/gizmodo/)
-
-`/tag/gizmodo/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314032521/http://www.sarth.net/tag/gizmodo/)
-
-## [Tag: hop farm](/tag/hop-farm/)
-
-`/tag/hop-farm/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305082313/http://www.sarth.net/tag/hop-farm/)
-
-## [Tag: Iced Honey](/tag/iced-honey/)
-
-`/tag/iced-honey/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084243/http://www.sarth.net/tag/iced-honey/)
-
-## [Tag: ip](/tag/ip/)
-
-`/tag/ip/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
-
-## [Tag: Jools Holland](/tag/jools-holland/)
-
-`/tag/jools-holland/`
-
-- [March 6, 2014](https://web.archive.org/web/20140306060051/http://www.sarth.net/tag/jools-holland/)
-
-## [Tag: Kevin Hearn](/tag/kevin-hearn/)
-
-`/tag/kevin-hearn/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305082315/http://www.sarth.net/tag/kevin-hearn/)
-
-## [Tag: kyma](/tag/kyma/)
-
-`/tag/kyma/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084248/http://www.sarth.net/tag/kyma/)
-
-## [Tag: Leah Coloff](/tag/leah-coloff/)
-
-`/tag/leah-coloff/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305082320/http://www.sarth.net/tag/leah-coloff/)
-
-## [Tag: London](/tag/london/)
-
-`/tag/london/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084254/http://www.sarth.net/tag/london/)
-
-## [Tag: Lou Reed](/tag/lou-reed/)
-
-`/tag/lou-reed/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031045344/http://www.sarth.net/tag/lou-reed/)
-
-## [Tag: Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/)
-
-`/tag/lucibel-crater-the-family-album/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031045359/http://www.sarth.net/tag/lucibel-crater-the-family-album/)
-
-## [Tag: Lucibel Crater](/tag/lucibel-crater/)
-
-`/tag/lucibel-crater/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305082329/http://www.sarth.net/tag/lucibel-crater/)
-
-## [Tag: Lulu](/tag/lulu/)
-
-`/tag/lulu/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/)
-
-## [Tag: Marc Ribot](/tag/marc-ribot/)
-
-`/tag/marc-ribot/`
-
-- [November 2, 2010](https://web.archive.org/web/20101102061320/http://www.sarth.net/tag/marc-ribot/)
-
-## [Tag: Marc Urselli](/tag/marc-urselli/)
-
-`/tag/marc-urselli/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314011912/http://www.sarth.net/tag/marc-urselli/)
-
-## [Tag: Mark Righter](/tag/mark-righter/)
-
-`/tag/mark-righter/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305082336/http://www.sarth.net/tag/mark-righter/)
-
-## [Tag: Melt Banana](/tag/melt-banana/)
-
-`/tag/melt-banana/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031050006/http://www.sarth.net/tag/melt-banana/)
-
-## [Tag: Metal Machine Music](/tag/metal-machine-music/)
-
-`/tag/metal-machine-music/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031050507/http://www.sarth.net/tag/metal-machine-music/)
-
-## [Tag: Metallica](/tag/metallica/)
-
-`/tag/metallica/`
-
-- [March 6, 2014](https://web.archive.org/web/20140306060743/http://www.sarth.net/tag/metallica/)
-
-## [Tag: MM3](/tag/mm3/)
-
-`/tag/mm3/`
-
-- [November 2, 2010](https://web.archive.org/web/20101102064124/http://www.sarth.net/tag/mm3/)
-
-## [Tag: Moldover](/tag/moldover/)
-
-`/tag/moldover/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
-
-## [Tag: MWMCG](/tag/mwmcg/)
-
-`/tag/mwmcg/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031044713/http://www.sarth.net/tag/mwmcg/)
-
-## [Tag: Night Terrors](/tag/night-terrors/)
-
-`/tag/night-terrors/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031043938/http://www.sarth.net/tag/night-terrors/)
-
-## [Tag: Noise](/tag/noise/)
-
-`/tag/noise/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031052406/http://www.sarth.net/tag/noise/)
-
-## [Tag: Number 19](/tag/number-19/)
-
-`/tag/number-19/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305082351/http://www.sarth.net/tag/number-19/)
-
-## [Tag: opencourseware](/tag/opencourseware/)
-
-`/tag/opencourseware/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
-
-## [Tag: Opera House](/tag/opera-house/)
-
-`/tag/opera-house/`
-
-- [November 2, 2010](https://web.archive.org/web/20101102061342/http://www.sarth.net/tag/opera-house/)
-
-## [Tag: Paris](/tag/paris/)
-
-`/tag/paris/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084348/http://www.sarth.net/tag/paris/)
-
-## [Tag: piracy](/tag/piracy/)
-
-`/tag/piracy/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
-
-## [Tag: pirate bay](/tag/pirate-bay/)
-
-`/tag/pirate-bay/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
-
-## [Tag: recursion](/tag/recursion/)
-
-`/tag/recursion/`
-
-- [March 6, 2014](https://web.archive.org/web/20140306060100/http://www.sarth.net/tag/recursion/)
-
-## [Tag: Reviews](/tag/reviews/)
-
-`/tag/reviews/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314002412/http://www.sarth.net/tag/reviews/)
-
-## [Tag: Rice Corpse](/tag/rice-corpse/)
-
-`/tag/rice-corpse/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031045404/http://www.sarth.net/tag/rice-corpse/)
-
-## [Tag: rob wasserman kevin hearn](/tag/rob-wasserman-kevin-hearn/)
-
-`/tag/rob-wasserman-kevin-hearn/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084817/http://www.sarth.net/tag/rob-wasserman-kevin-hearn/)
-
-## [Tag: Rob Wasserman](/tag/rob-wasserman/)
-
-`/tag/rob-wasserman/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084820/http://www.sarth.net/tag/rob-wasserman/)
-
-## [Tag: Sarth](/tag/sarth/)
-
-`/tag/sarth/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031045421/http://www.sarth.net/tag/sarth/)
-
-## [Tag: Sketching Monkey](/tag/sketching-monkey/)
-
-`/tag/sketching-monkey/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314002754/http://www.sarth.net/tag/sketching-monkey/)
-
-## [Tag: Super Nintendo](/tag/super-nintendo/)
-
-`/tag/super-nintendo/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084826/http://www.sarth.net/tag/super-nintendo/)
-
-## [Tag: surreal](/tag/surreal/)
-
-`/tag/surreal/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914190946/http://www.sarth.net/category/musings/)
-
-## [Tag: Suspension](/tag/suspension/)
-
-`/tag/suspension/`
-
-- [March 6, 2014](https://web.archive.org/web/20140306060320/http://www.sarth.net/tag/suspension/)
-
-## [Tag: sydney opera house](/tag/sydney-opera-house/)
-
-`/tag/sydney-opera-house/`
-
-- [July 31, 2014](https://web.archive.org/web/20140731130845/http://www.sarth.net/category/intrigue/page/5/)
-
-## [Tag: Sydney](/tag/sydney/)
-
-`/tag/sydney/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031044003/http://www.sarth.net/tag/sydney/)
-
-## [Tag: Symbolic Sound](/tag/symbolic-sound/)
-
-`/tag/symbolic-sound/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314011051/http://www.sarth.net/tag/symbolic-sound/)
-
-## [Tag: Taratata](/tag/taratata/)
-
-`/tag/taratata/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084857/http://www.sarth.net/tag/taratata/)
-
-## [Tag: The Verge](/tag/the-verge/)
-
-`/tag/the-verge/`
-
-- [March 14, 2014](https://web.archive.org/web/20140314011005/http://www.sarth.net/tag/the-verge/)
-
-## [Tag: The View](/tag/the-view/)
-
-`/tag/the-view/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305084901/http://www.sarth.net/tag/the-view/)
-
-## [Tag: tony diodore](/tag/tony-diodore/)
-
-`/tag/tony-diodore/`
-
-- [March 6, 2014](https://web.archive.org/web/20140306060337/http://www.sarth.net/tag/tony-diodore/)
-
-## [Tag: tony smith](/tag/tony-smith/)
-
-`/tag/tony-smith/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305082435/http://www.sarth.net/tag/tony-smith/)
-
-## [Tag: Ulrich Krieger](/tag/ulrich-krieger/)
-
-`/tag/ulrich-krieger/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031050029/http://www.sarth.net/tag/ulrich-krieger/)
-
-## [Tag: Video](/tag/video/)
-
-`/tag/video/`
-
-- [November 2, 2010](https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/)
-
-## [Tag: White Light White Heat](/tag/white-light-white-heat/)
-
-`/tag/white-light-white-heat/`
-
-- [March 5, 2014](https://web.archive.org/web/20140305082445/http://www.sarth.net/tag/white-light-white-heat/)
-
-## [Tag: Zond](/tag/zond/)
-
-`/tag/zond/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031050049/http://www.sarth.net/tag/zond/)
-
-## [Talking about Lou’s “Return to Darkness”](/talking-about-lous-return-to-darkness/)
-
-`/talking-about-lous-return-to-darkness/`
-
-- [September 6, 2014](https://web.archive.org/web/20140906173654/http://www.sarth.net/category/reviews/)
 
 ## [The Book of Sarth – Gizmodo Apps of the Week!](/the-book-of-sarth-gizmodo-apps-of-the-week/)
 
 `/the-book-of-sarth-gizmodo-apps-of-the-week/`
 
 - [Gizmodo](https://gizmodo.com/tabletop-translator-book-of-sarth-and-more-5970597)
-- [Internet Archive’s copy](https://web.archive.org/web/20140306125224/http://www.sarth.net/the-book-of-sarth-gizmodo-apps-of-the-week/)
-- [copy of September 27, 2017](https://web.archive.org/web/20170927211510/http://www.sarth.net/rumors/2015/2/10/the-book-of-sarth-gizmodo-apps-of-the-week)
-
-## [The Book of Sarth in the app store now!](/the-book-of-sarth-in-the-app-store-now/)
-
-`/the-book-of-sarth-in-the-app-store-now/`
-
-- [September 14, 2014](https://web.archive.org/web/20140914184631/http://www.sarth.net/category/intrigue/page/2/)
 
 ## [Transmissions](/transmissions/)
 
@@ -1924,14 +1175,12 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/transmissions/beautiful-tornado/rich-navs-positivity-mission/`
 
 - [YouTube](https://www.youtube.com/watch?v=GxIDY9XvvaA)
-- [Internet Archive’s copy](https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2020/11/17/beautiful-tornado-episode-4-rich-navs-positivity-mission)
 
 ## [The Re-Enchantment of the World - Michael Patrick F. Smith](/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/)
 
 `/transmissions/beautiful-tornado/the-re-enchantment-of-the-world/`
 
 - [YouTube](https://www.youtube.com/watch?v=zDAzJr382Ho)
-- [Internet Archive’s copy](https://web.archive.org/web/20260825202037/http://www.sarth.net/beautiful-tornado/2021/2/15/the-re-enchantment-of-the-world-michael-patrick-f-smith)
 
 ## [DuckDB, where have you been all my life](/transmissions/duckdb-where-have-you-been-all-my-life/)
 
@@ -1945,7 +1194,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 `/transmissions/elementary-audio-day-1/`
 
 - [Elementary Audio JS Library.](https://www.elementary.audio)
-- [Internet Archive’s copy](https://web.archive.org/web/20260825201458/http://www.sarth.net/rumors/2022/4/18/elementary-audio-day-1)
 
 ## [External Tables, Partitions, CTEs, Window Functions, and Partitions](/transmissions/external-tables/)
 
@@ -2130,7 +1378,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [http://gralbumcollective.com/titles.html](https://web.archive.org/web/2015/http://gralbumcollective.com/titles.html)
 - [https://www.facebook.com/events/372887502897490/](https://www.facebook.com/events/372887502897490/)
-- [Internet Archive’s copy](https://web.archive.org/web/20170927214728/http://www.sarth.net/rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum)
 
 ## [Transmissions from the Book of Sarth](/transmissions/transmissions-from-the-book-of-sarth/)
 
@@ -2161,37 +1408,6 @@ Resolve the person through [Wikipedia](https://en.wikipedia.org/wiki/Sarth_Calho
 
 - [official Postgres docs for window functions](https://www.postgresql.org/docs/current/tutorial-window.html)
 - [Snowflake documentation](https://docs.snowflake.com/en/user-guide/functions-window-using)
-
-## [Video: Could I](/video-could-i/)
-
-`/video-could-i/`
-
-- [October 31, 2010](https://web.archive.org/web/20101031023118/http://www.sarth.net/category/conspiracies/lucibel-crater/)
-
-## [Video: Lucibel Crater – Elvis Costello – Green Shirt](/video-lucibel-crater-elvis-costello-green-shirt/)
-
-`/video-lucibel-crater-elvis-costello-green-shirt/`
-
-- [Internet Archive’s copy](https://web.archive.org/web/20101102064145/http://www.sarth.net/video-lucibel-crater-elvis-costello-green-shirt/)
-
-## [Video: Lucibel Crater – Noise I Groove – Blue Stationwagon](/video-lucibel-crater-noise-i-groove-blue-stationwagon/)
-
-`/video-lucibel-crater-noise-i-groove-blue-stationwagon/`
-
-- [November 2, 2010](https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/)
-
-## [Video: Metal Machine Trio infiltrates Lucibel Crater](/video-metal-machine-trio-infiltrates-lucibel-crater/)
-
-`/video-metal-machine-trio-infiltrates-lucibel-crater/`
-
-- [Internet Archive’s copy](https://web.archive.org/web/20101031043559/http://www.sarth.net/video-metal-machine-trio-infiltrates-lucibel-crater/)
-
-## [The transmissions have begun . . .](/words/)
-
-`/words/`
-
-- [August 25, 2026](https://web.archive.org/web/20260825202037/http://www.sarth.net/words/)
-- [April 13, 2016](https://web.archive.org/web/20160413141315/http://www.sarth.net/words/)
 
 ## [Work](/work/)
 

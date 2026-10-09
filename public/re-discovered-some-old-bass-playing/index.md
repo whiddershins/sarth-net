@@ -36,4 +36,4 @@ Stay tuned.
 
 Filed under: [Intrigue](/category/intrigue/), [Leah Coloff](/conspirators/leah-coloff/), [Mike Acerbo](/conspirators/mike-acerbo/), [Rich Kulsar](/conspirators/rich-kulsar/).
 
-Posted on sarth.net at this address on January 14, 2012, and reproduced here as written, from the Internet Archive’s copy of the Intrigue page of [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/), which shows the whole post, and the site’s RSS feed as Common Crawl captured it on May 20, 2012. The Internet Archive has no copy of the post’s own page. The SoundCloud and Bandcamp players are today’s versions of the ones the post embedded. Four links that no longer work now go to the Internet Archive’s copies: the CMJ article (March 3, 2012), CMJ Network’s SoundCloud page (April 19, 2012), Rich Kulsar’s site (October 12, 2012) and Leah Coloff’s news page (August 15, 2011). The post’s link to the Trilby page on SoundCloud no longer works and the Internet Archive has no copy of it; the player above still plays the track.
+Originally published on sarth.net, January 14, 2012.

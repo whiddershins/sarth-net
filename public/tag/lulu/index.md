@@ -4,8 +4,6 @@ description: Lulu, a tag of the WordPress sarth.net (2010 to 2014): Some pics fr
 url: https://www.sarth.net/tag/lulu/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Tag: Lulu
 
 Start here: [Lulu](/conspiracies/lulu/)
@@ -42,9 +40,7 @@ Start here: [Lulu](/conspiracies/lulu/)
 - [Moog](/devices/moog/) · Device
 - [Intrigue, the Squarespace news page](/intrigue/) · The Squarespace sarth.net, 2015 to 2026
 
-## The old site’s posts
-
-The posts tagged Lulu on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
+## Posts
 
 - **[Some pics from Jools Holland and Taratata](/some-pics-from-jools-holland-and-taratata/)** · November 10, 2011
 
@@ -53,5 +49,3 @@ The posts tagged Lulu on the WordPress sarth.net, newest first, with a link wher
 - **[Lulu now officially released](/lulureleased/)** · November 1, 2011
 
   Tags: [Lou Reed](/tag/lou-reed/), [Lulu](/tag/lulu/), [Metallica](/tag/metallica/).
-
-From the Internet Archive’s copy of this tag page of [March 5, 2014](https://web.archive.org/web/20140305084304/http://www.sarth.net/tag/lulu/), and the tags each recovered post carries.

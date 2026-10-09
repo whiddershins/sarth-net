@@ -18,4 +18,4 @@ Filed under: [Lou Reed](/conspirators/lou-reed/), [Metal Machine Trio](/conspira
 
 Tags: [Creation of the Universe](/tag/creation-of-the-universe/), [Lou Reed](/tag/lou-reed/), [Metal Machine Music](/tag/metal-machine-music/), [MM3](/tag/mm3/), [Sarth](/tag/sarth/), [Ulrich Krieger](/tag/ulrich-krieger/).
 
-Posted on sarth.net at this address on July 7, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20101031045309/http://www.sarth.net/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/) of October 31, 2010. The review’s link goes to the Internet Archive, since the blog is gone.
+Originally published on sarth.net, July 7, 2010.

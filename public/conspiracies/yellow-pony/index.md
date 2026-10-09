@@ -47,7 +47,7 @@ The credit: Sarth Calhoun, Continuum Fingerboard and live resampling of Lou Reed
 
 The first tour opened at the Festival de la Porta Ferrada in Sant Feliu de Guíxols on July 10, 2009. That morning the three of us sat a press conference at the Curhotel Hipócrates. El Punt Avui noted me beside them, saying nothing.
 
-My account is from the Yellow Pony page of my old WordPress site, recovered from the Wayback Machine, and from what I added on September 23, 2026. The dates are Lou Reed’s own announcement.
+My account is from the Yellow Pony page of my old site, and from what I added on September 23, 2026. The dates are Lou Reed’s own announcement.
 
 ## Santiago de Compostela
 

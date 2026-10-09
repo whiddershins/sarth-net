@@ -16,4 +16,4 @@ The post embedded a YouTube video (8pXFRgxThkY) that is no longer on YouTube.
 
 Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Lulu](/conspiracies/lulu/), [Metallica](/conspirators/metallica/), [Video](/category/visuals/video/).
 
-Posted on sarth.net at this address on November 9, 2011, and reproduced here as written, from the site’s RSS feed as Common Crawl captured it on May 20, 2012, checked against the Internet Archive’s copy of the Intrigue page of [September 18, 2014](https://web.archive.org/web/20140918025136/http://www.sarth.net/category/intrigue/page/3/). The Internet Archive has no copy of the post’s own page.
+Originally published on sarth.net, November 9, 2011.

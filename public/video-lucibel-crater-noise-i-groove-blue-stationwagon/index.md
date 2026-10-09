@@ -16,4 +16,4 @@ Filed under: [Leah Coloff](/conspirators/leah-coloff/), [Lucibel Crater](/conspi
 
 Tags: [Video](/tag/video/).
 
-Posted on sarth.net at this address on March 22, 2010. The Internet Archive has no copy of the post’s own page. The title, date, categories and tags come from the Internet Archive’s copy of the video tag page of [November 2, 2010](https://web.archive.org/web/20101102061244/http://www.sarth.net/tag/video/), and the video, which was the whole post and is still on YouTube, from Common Crawl’s copy of the Lucibel Crater category page of June 20, 2013; no copy shows more of the post than is given here.
+Originally published on sarth.net, March 22, 2010.

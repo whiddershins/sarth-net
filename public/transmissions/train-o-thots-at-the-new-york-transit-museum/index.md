@@ -16,4 +16,4 @@ and a link to the Facebook event here:
 
 [https://www.facebook.com/events/372887502897490/](https://www.facebook.com/events/372887502897490/)
 
-Posted on sarth.net at /rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum on March 28, 2015, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20170927214728/http://www.sarth.net/rumors/2015/3/28/train-o-thots-at-the-new-york-transit-museum) of September 27, 2017. That address serves this page. Between the two paragraphs the post showed an image linking to the Gralbum Collective’s titles page; it was not recovered. It was listed under [Intrigue](/intrigue/).
+Originally published on sarth.net, March 28, 2015.

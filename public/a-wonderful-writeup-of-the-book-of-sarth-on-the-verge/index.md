@@ -18,8 +18,6 @@ Bryan Bishop at [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-o
 
 [http://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album#add-comment](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 
-The post also carried The Verge’s lead image, captioned “Book of Sarth Review on The Verge”. The image was not recovered.
-
 Filed under: [Alex Smith](/conspirators/alex-wyly/), [Archie P. Valdez](/conspirators/archie-p-valdez/), [Book of Sarth](/conspiracies/book-of-sarth/), [Contraptions](/category/contraptions/), [Press](/category/press/), [Press Clips](/category/intrigue/press-clips/), [Reviews](/category/reviews/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/).
 
 Tags: [Book of Sarth](/tag/book-of-sarth/), [Bryon Bishop](/tag/bryon-bishop/), [Reviews](/tag/reviews/), [Sketching Monkey](/tag/sketching-monkey/), [The Verge](/tag/the-verge/).
@@ -36,4 +34,4 @@ Bryan Bishop at [The Verge](https://www.theverge.com/2013/1/3/3828314/the-book-o
 
 [Read the full review.](https://www.theverge.com/2013/1/3/3828314/the-book-of-sarth-ipad-app-graphic-novel-concept-album)
 
-Posted on sarth.net at this address on January 3, 2013, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140306173226/http://www.sarth.net/a-wonderful-writeup-of-the-book-of-sarth-on-the-verge/) of March 6, 2014. The 2015 version is from the [copy of September 27, 2017](https://web.archive.org/web/20170927213250/http://www.sarth.net/rumors/2015/2/10/a-wonderful-write-up-of-the-book-of-sarth-on-the-verge). The quotation is Bryan Bishop’s, from The Verge.
+Originally published on sarth.net, January 3, 2013.

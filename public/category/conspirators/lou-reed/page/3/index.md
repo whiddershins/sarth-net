@@ -4,11 +4,7 @@ description: Lou Reed, page 3 of 3, a category of the WordPress sarth.net (2010 
 url: https://www.sarth.net/category/conspirators/lou-reed/page/3/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Lou Reed, page 3 of 3
-
-Page 3 of the posts filed under Lou Reed on the WordPress sarth.net, newest first, as the site showed them in May 2012.
 
 - **[Cool review comparing Creation of The Universe to Metal Machine Music](/cool-review-comparing-creation-of-the-universe-to-metal-machine-music/)** · July 7, 2010
 
@@ -22,6 +18,4 @@ Page 3 of the posts filed under Lou Reed on the WordPress sarth.net, newest firs
 
 Page 3 of 3 · [1](/category/conspirators/lou-reed/) · [2](/category/conspirators/lou-reed/page/2/) · 3
 
-By September 2014 the list ran to four pages; [page 4](/category/conspirators/lou-reed/page/4/) holds its last post.
-
-As Common Crawl captured this page on May 20, 2012. The Internet Archive has no copy of it.
+See also: [page 4](/category/conspirators/lou-reed/page/4/)

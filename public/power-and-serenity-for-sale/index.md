@@ -22,4 +22,4 @@ Conspirators: [Lou Reed](/conspirators/lou-reed/)
 
 Filed under: [discography](/category/music/discography/), [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/), [Sarth Solo Projects](/category/conspiracies/sarth-solo-projects/), [Taiji](/category/taiji/).
 
-Posted on sarth.net at this address on July 21, 2010, and reproduced here as written, from the [Internet Archive’s copy](https://web.archive.org/web/20140905175751/http://www.sarth.net/power-and-serenity-for-sale/) of September 5, 2014. In 2010 the post was titled “Power and Serenity for sale”. It opened with the album cover, which was not recovered.
+Originally published on sarth.net, July 21, 2010.

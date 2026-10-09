@@ -4,11 +4,7 @@ description: Contraptions, a category of the WordPress sarth.net (2010 to 2014):
 url: https://www.sarth.net/category/contraptions/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Contraptions
-
-The posts filed under Contraptions on the WordPress sarth.net, newest first. 5 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
 - **[ConnecTable carpentry …](/connectable-carpentry/)** · July 1, 2013
 
@@ -25,5 +21,3 @@ The posts filed under Contraptions on the WordPress sarth.net, newest first. 5 o
   Tags: [Moldover](/tag/moldover/).
 
 - **[Brain melt – double firewire 800 scare](/brain-melt-double-firewire-800-scare/)** · October 14, 2011
-
-The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 10, 2014](https://web.archive.org/web/20140910072551/http://www.sarth.net/category/contraptions/) and from the categories each recovered post carries.

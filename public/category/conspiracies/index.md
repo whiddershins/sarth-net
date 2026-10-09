@@ -8,7 +8,7 @@ As originally published on sarth.net, 2010 and 2014
 
 # Conspiracies
 
-**This is the old page, kept as it was.** Today’s page: [Conspiracies](/conspiracies/).
+Today’s page: [Conspiracies](/conspiracies/).
 
 ## October 31, 2010
 
@@ -139,4 +139,4 @@ I got a call from Lou one day to go over to his house and make some "interstitia
 
 ### [The Gralbum Collective](/category/conspiracies/the-gralbum-collective/):
 
-Reproduced word for word from the Internet Archive’s copy of [October 31, 2010](https://web.archive.org/web/20101031201233/http://www.sarth.net/category/conspiracies/) and the Internet Archive’s copy of [September 9, 2014](https://web.archive.org/web/20140909155420/http://www.sarth.net/category/conspiracies/). Its thumbnail images are not reproduced. Links that no longer work now go to the Internet Archive’s copies: http://www.loureed.com/metalmachinetrio/; http://lucibelcrater.com/.
+Originally published on sarth.net. Archived copies: [October 31, 2010](https://web.archive.org/web/20101031201233/http://www.sarth.net/category/conspiracies/) · [September 9, 2014](https://web.archive.org/web/20140909155420/http://www.sarth.net/category/conspiracies/).

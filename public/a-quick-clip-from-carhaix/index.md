@@ -18,4 +18,4 @@ Filed under: [Intrigue](/category/intrigue/), [Lou Reed](/conspirators/lou-reed/
 
 Tags: [Kevin Hearn](/tag/kevin-hearn/), [Lou Reed](/tag/lou-reed/), [Rob Wasserman](/tag/rob-wasserman/), [tony diodore](/tag/tony-diodore/), [tony smith](/tag/tony-smith/).
 
-Posted on sarth.net at this address on July 20, 2011, and reproduced here as written, from Common Crawl’s copy of the page of October 31, 2014. The Internet Archive has no copy of the post’s own page. The clip is on Dailymotion.
+Originally published on sarth.net, July 20, 2011.

@@ -8,7 +8,7 @@ As originally published on sarth.net, 2014
 
 # Book of Sarth
 
-**This is the old page, kept as it was.** Today’s page: [Book of Sarth](/conspiracies/book-of-sarth/).
+Today’s page: [Book of Sarth](/conspiracies/book-of-sarth/).
 
 2.5 years in the making. my first full-length solo release. plus a platform for releasing music and interactive art in a new way. Andrew Beck was amazing. Elik Smith is a genius. Leah Coloff is a force of nature. Jacob McCoy is unstoppable. Together we made this.
 
@@ -56,6 +56,6 @@ Tags: [Book of Sarth](/tag/book-of-sarth/), [Chain D.L.K.](/tag/chain-d-l-k/), [
 - [Chain D.L.K. – Book of Sarth Review](/chain-d-l-k-book-of-sarth-review/)
 - [Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)
 
-In September 2014 the list ran to two pages, five posts to a page: 1 · [2](/category/conspiracies/book-of-sarth/page/2/).
+See also: [2](/category/conspiracies/book-of-sarth/page/2/)
 
-Reproduced word for word from the Internet Archive’s copy of [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/). Its thumbnail images are not reproduced.
+Originally published on sarth.net. Archived copies: [September 5, 2014](https://web.archive.org/web/20140905182157/http://www.sarth.net/category/conspiracies/book-of-sarth/).

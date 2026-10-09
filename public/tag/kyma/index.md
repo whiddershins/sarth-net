@@ -4,8 +4,6 @@ description: kyma, a tag of the WordPress sarth.net (2010 to 2014): Symbolic Sou
 url: https://www.sarth.net/tag/kyma/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Tag: kyma
 
 Start here: [Kyma](/devices/kyma/)
@@ -30,7 +28,6 @@ Start here: [Kyma](/devices/kyma/)
 - [Metal Machine Trio](/conspiracies/metal-machine-trio/) · Conspiracy
 - [Lou Reed’s song band](/conspiracies/lou-reed-song-band/) · Conspiracy
 - [Lucibel Crater](/conspiracies/lucibel-crater/) · Conspiracy
-- [Conspirators](/conspirators/) · People
 - [Sxip Shirey](/conspirators/sxip-shirey/) · Conspirator
 - [Lou Reed](/conspirators/lou-reed/) · Conspirator
 - [Ulrich Krieger](/conspirators/ulrich-krieger/) · Conspirator
@@ -51,9 +48,7 @@ Start here: [Kyma](/devices/kyma/)
 - [Electrix Filter Factory](/devices/electrix-filter-factory/) · Device
 - [Electrix Mo-FX](/devices/electrix-mo-fx/) · Device
 
-## The old site’s posts
-
-The posts tagged kyma on the WordPress sarth.net, newest first, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the site showed of it.
+## Posts
 
 - **[Symbolic Sound – Book of Sarth Review](/symbolic-sound-book-of-sarth-review/)** · November 30, 2012
 
@@ -62,5 +57,3 @@ The posts tagged kyma on the WordPress sarth.net, newest first, with a link wher
 - **[Metal Machine Trio in 10.1 Ambisonic Installation](/metal-machine-trio-in-10-1-ambisonic-installation/)** · January 16, 2012
 
   Tags: [10.1](/tag/10-1/), [ambisonic](/tag/ambisonic/), [arup soundlab](/tag/arup-soundlab/), [continuum fingerboard](/tag/continuum-fingerboard/), [csulb](/tag/csulb/), [kyma](/tag/kyma/), [live processing](/tag/live-processing/), [Lou Reed](/tag/lou-reed/), [metal machine trio](/tag/metal-machine-trio-2/), [MM3](/tag/mm3/), [Ulrich Krieger](/tag/ulrich-krieger/).
-
-From the Internet Archive’s copy of this tag page of [March 5, 2014](https://web.archive.org/web/20140305084248/http://www.sarth.net/tag/kyma/), and the tags each recovered post carries.

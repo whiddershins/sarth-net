@@ -4,11 +4,7 @@ description: Sarth Solo Projects, a conspiracy of the WordPress sarth.net (2010 
 url: https://www.sarth.net/category/conspiracies/sarth-solo-projects/
 author: Sarth Calhoun
 ---
-The WordPress sarth.net, 2010 to 2014
-
 # Sarth Solo Projects
-
-The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest first. 10 of them, with a link where the post itself is on this site; a post that was not recovered is listed by its title, date and whatever the listing showed of it.
 
 - **[Gralbum has launched](/gralbum-has-launched/)** · April 9, 2014
 
@@ -42,6 +38,4 @@ The posts filed under Sarth Solo Projects on the WordPress sarth.net, newest fir
 
   Tags: [audioclips](/tag/audioclips/), [featured_music](/tag/featured_music/), [Lucibel Crater The Family Album](/tag/lucibel-crater-the-family-album/).
 
-On the old site the list ran to two pages, five posts to a page; [page 2](/category/conspiracies/sarth-solo-projects/page/2/) keeps the posts that ran there in September 2014.
-
-The category held these posts on the WordPress sarth.net, from 2010 to 2014. The list comes from the Internet Archive’s copy of the category page of [September 5, 2014](https://web.archive.org/web/20140905194448/http://www.sarth.net/category/conspiracies/sarth-solo-projects/) and from the categories each recovered post carries.
+See also: [page 2](/category/conspiracies/sarth-solo-projects/page/2/)

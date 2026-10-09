@@ -116,4 +116,4 @@ No one is above the law, nowadays. A [Fortune 500 CEO](http://en.wikipedia.org/w
 
 This is America.
 
-Posted on sarth.net at this address on June 12, 2013, and reproduced here as written, with its original links.
+Originally published on sarth.net, June 12, 2013.

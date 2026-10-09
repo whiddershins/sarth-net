@@ -16,4 +16,4 @@ Filed under: [Contraptions](/category/contraptions/), [Intrigue](/category/intri
 
 Tags: [Moldover](/tag/moldover/).
 
-Posted on sarth.net at this address on July 9, 2012, from the Internet Archive’s copy of the Intrigue page of [July 15, 2014](https://web.archive.org/web/20140715130559/http://www.sarth.net/category/intrigue/page/2/), which shows the whole post: this one image, from Moldover’s blog. The Internet Archive has no copy of the post’s own page.
+Originally published on sarth.net, July 9, 2012.

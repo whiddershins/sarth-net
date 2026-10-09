@@ -29,4 +29,8 @@ He played drums in [Number19](/conspiracies/number19/), the band [Tony Diodore](
 
 The credit: Mark Righter, drums, in Number19 with Sarth Calhoun, Leah Coloff and Tony Diodore, 1999 to 2005; Suspension, 2001.
 
-The profile is from public sources, linked where they appear. Mother Heavy, Gebbeth and the photograph are from the band’s own site, numbernineteen.net, as captured in 2001. What we made is the record on this site and the sources cited above.
+The profile is from public sources, linked where they appear. Mother Heavy, Gebbeth and the photograph are from the band’s own site, numbernineteen.net. What we made is the record on this site and the sources cited above.
+
+## Posts
+
+- [Number19 – Suspension](/number19-suspension/) · November 6, 2008

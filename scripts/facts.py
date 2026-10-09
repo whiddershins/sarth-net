@@ -21,7 +21,7 @@ REQUIRED = (
     {"id": "burlap", "org": "Third Wall Studio", "product": "Burlap", "title": "Creator", "kind": "product", "current": True},
     {"id": "reaktor", "org": "Reaktor", "title": "Lead Data Architect", "kind": "employment", "current": False},
     {"id": "ingather", "org": "T.E.C. Systems", "product": "Ingather", "title": "Director of Product", "kind": "product", "current": False, "demo": "https://ingather-demo.marshy-runner.workers.dev"},
-    {"id": "tec", "org": "T.E.C. Systems", "title": "Director of Product", "kind": "employment", "current": False},
+    {"id": "tec", "org": "T.E.C. Systems", "title": "UI Designer to Director of Product", "kind": "employment", "current": False},
 )
 
 # Phrases the rendered career block has to carry, on every surface. The dates

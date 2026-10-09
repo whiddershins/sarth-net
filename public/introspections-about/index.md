@@ -1,6 +1,6 @@
 ---
 title: Introspections-About
-description: Introspections-About, as originally published on sarth.net, July 25, 2016: about the Introspections sets and about Sarth. Kept as it was, with a link to today’s page.
+description: Introspections-About, as originally published on sarth.net, July 25, 2016: about the Introspections sets and about Sarth.
 url: https://www.sarth.net/introspections-about/
 published: 2016-07-25
 author: Sarth Calhoun

@@ -1,6 +1,6 @@
 ---
 title: Video, page 3 of 3
-description: Video, page 3 of 3, a category of the WordPress sarth.net (2010 to 2014): Video: Could I; Video: Lucibel Crater – Masticate.
+description: Posts filed under Video on sarth.net, page 3 of 3, 2010: Video: Could I; Video: Lucibel Crater – Masticate.
 url: https://www.sarth.net/category/visuals/video/page/3/
 author: Sarth Calhoun
 ---

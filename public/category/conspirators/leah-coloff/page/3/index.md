@@ -1,6 +1,6 @@
 ---
 title: Leah Coloff, page 3 of 3
-description: Leah Coloff, page 3 of 3, a category of the WordPress sarth.net (2010 to 2014): Lucibel Crater : The Family Album; Sarth Clips; Number19 – Suspension.
+description: Posts filed under Leah Coloff on sarth.net, page 3 of 3, 2008 to 2010: Lucibel Crater : The Family Album; Sarth Clips; Number19 – Suspension.
 url: https://www.sarth.net/category/conspirators/leah-coloff/page/3/
 author: Sarth Calhoun
 ---

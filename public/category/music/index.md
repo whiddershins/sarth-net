@@ -1,6 +1,6 @@
 ---
 title: Music, page 1 of 2
-description: Music, page 1 of 2, a category of the WordPress sarth.net (2010 to 2014): Amazing, amazing, drumming; Book of Sarth clips; Lulu; Power and Serenity; Metal Machine Trio “The Creation of the Universe”.
+description: Posts filed under Music on sarth.net, page 1 of 2, 2010 to 2013: Amazing, amazing, drumming; Book of Sarth clips; Lulu; Power and Serenity; Metal Machine Trio “The Creation of the Universe”.
 url: https://www.sarth.net/category/music/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Conspirators
-description: Conspirators, as originally published on sarth.net, 2010 and 2014: the collaborators page of the WordPress site. Kept as it was, with a link to today’s page.
+description: Conspirators, as originally published on sarth.net, 2010 and 2014: the collaborators page of sarth.net.
 url: https://www.sarth.net/category/conspirators/
 author: Sarth Calhoun
 ---

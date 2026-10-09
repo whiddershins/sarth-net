@@ -1,6 +1,6 @@
 ---
 title: Tag: Rice Corpse
-description: Rice Corpse, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney.
+description: Posts tagged Rice Corpse on sarth.net, 2010: Photos of Noise Night, Sydney.
 url: https://www.sarth.net/tag/rice-corpse/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tag: Metal Machine Music
-description: Metal Machine Music, a tag of the WordPress sarth.net (2010 to 2014): Cool review comparing Creation of The Universe to Metal Machine Music.
+description: Posts tagged Metal Machine Music on sarth.net, 2010: Cool review comparing Creation of The Universe to Metal Machine Music.
 url: https://www.sarth.net/tag/metal-machine-music/
 author: Sarth Calhoun
 ---

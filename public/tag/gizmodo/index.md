@@ -1,6 +1,6 @@
 ---
 title: Tag: Gizmodo
-description: Gizmodo, a tag of the WordPress sarth.net (2010 to 2014): The Book of Sarth – Gizmodo Apps of the Week!.
+description: Posts tagged Gizmodo on sarth.net, 2012: The Book of Sarth – Gizmodo Apps of the Week!.
 url: https://www.sarth.net/tag/gizmodo/
 author: Sarth Calhoun
 ---

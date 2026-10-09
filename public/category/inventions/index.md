@@ -1,6 +1,6 @@
 ---
 title: Inventions
-description: Inventions, a category of the WordPress sarth.net (2010 to 2014): The Book of Sarth in the app store now!.
+description: Posts filed under Inventions on sarth.net, 2012: The Book of Sarth in the app store now!.
 url: https://www.sarth.net/category/inventions/
 author: Sarth Calhoun
 ---

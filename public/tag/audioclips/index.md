@@ -1,6 +1,6 @@
 ---
 title: Tag: audioclips
-description: audioclips, a tag of the WordPress sarth.net (2010 to 2014): Sarth Clips.
+description: Posts tagged audioclips on sarth.net, 2010: Sarth Clips.
 url: https://www.sarth.net/tag/audioclips/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tag: cs 6.00
-description: cs 6.00, a tag of the WordPress sarth.net (2010 to 2014): Recursive functions in teapots.
+description: Posts tagged cs 6.00 on sarth.net, 2013: Recursive functions in teapots.
 url: https://www.sarth.net/tag/cs-6-00/
 author: Sarth Calhoun
 ---

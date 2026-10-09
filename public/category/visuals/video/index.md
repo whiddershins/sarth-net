@@ -1,6 +1,6 @@
 ---
 title: Video, page 1 of 3
-description: Video, page 1 of 3, a category of the WordPress sarth.net (2010 to 2014): Amazing, amazing, drumming; Some clips of the 21 form; Lulu in Cologne; Iced Honey on the Jools Holland show; A quick clip from Carhaix.
+description: Posts filed under Video on sarth.net, page 1 of 3, 2011 to 2013: Amazing, amazing, drumming; Some clips of the 21 form; Lulu in Cologne; Iced Honey on the Jools Holland show; A quick clip from Carhaix.
 url: https://www.sarth.net/category/visuals/video/
 author: Sarth Calhoun
 ---

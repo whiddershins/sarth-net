@@ -1,6 +1,6 @@
 ---
 title: Intrigue, page 2 of 5
-description: Intrigue, page 2 of 5, a category of the WordPress sarth.net (2010 to 2014): Symbolic Sound – Book of Sarth Review; The Book of Sarth in the app store now!; JAMBOXES; Amsterdam Cafe; Metal Machine Trio in 10.1 Ambisonic Installation.
+description: Posts filed under Intrigue on sarth.net, page 2 of 5, 2012: Symbolic Sound – Book of Sarth Review; The Book of Sarth in the app store now!; JAMBOXES; Amsterdam Cafe; Metal Machine Trio in 10.1 Ambisonic Installation.
 url: https://www.sarth.net/category/intrigue/page/2/
 author: Sarth Calhoun
 ---

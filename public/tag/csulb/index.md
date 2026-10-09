@@ -1,6 +1,6 @@
 ---
 title: Tag: csulb
-description: csulb, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.
+description: Posts tagged csulb on sarth.net, 2012: Metal Machine Trio in 10.1 Ambisonic Installation.
 url: https://www.sarth.net/tag/csulb/
 author: Sarth Calhoun
 ---

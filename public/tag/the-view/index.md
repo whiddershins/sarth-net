@@ -1,6 +1,6 @@
 ---
 title: Tag: The View
-description: The View, a tag of the WordPress sarth.net (2010 to 2014): Some pics from Jools Holland and Taratata.
+description: Posts tagged The View on sarth.net, 2011: Some pics from Jools Holland and Taratata.
 url: https://www.sarth.net/tag/the-view/
 author: Sarth Calhoun
 ---

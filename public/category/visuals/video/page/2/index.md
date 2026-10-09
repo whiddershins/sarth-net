@@ -1,6 +1,6 @@
 ---
 title: Video, page 2 of 3
-description: Video, page 2 of 3, a category of the WordPress sarth.net (2010 to 2014): mm3 in brussels, video from youtube; Video: Metal Machine Trio infiltrates Lucibel Crater; Video: Lucibel Crater – Noise I Groove – Blue Stationwagon; Video: Lucibel Crater – Elvis Costello – Green Shirt; Video: Exactly Where You Are.
+description: Posts filed under Video on sarth.net, page 2 of 3, 2010: mm3 in brussels, video from youtube; Video: Metal Machine Trio infiltrates Lucibel Crater; Video: Lucibel Crater – Noise I Groove – Blue Stationwagon; Video: Lucibel Crater – Elvis Costello – Green Shirt; Video: Exactly Where You Are.
 url: https://www.sarth.net/category/visuals/video/page/2/
 author: Sarth Calhoun
 ---

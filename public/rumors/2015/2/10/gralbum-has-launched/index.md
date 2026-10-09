@@ -1,6 +1,6 @@
 ---
 title: (Gr)album has launched!
-description: (Gr)album has launched!, as originally published on sarth.net, April 9, 2014: the launch of the (Gr)album app. Kept as it was, with a link to today’s page.
+description: (Gr)album has launched!, as originally published on sarth.net, April 9, 2014: the launch of the (Gr)album app.
 url: https://www.sarth.net/rumors/2015/2/10/gralbum-has-launched/
 published: 2014-04-09
 author: Sarth Calhoun

@@ -1,6 +1,6 @@
 ---
 title: Tag: White Light White Heat
-description: White Light White Heat, a tag of the WordPress sarth.net (2010 to 2014): Some pics from Jools Holland and Taratata.
+description: Posts tagged White Light White Heat on sarth.net, 2011: Some pics from Jools Holland and Taratata.
 url: https://www.sarth.net/tag/white-light-white-heat/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Metal Machine Trio, page 2 of 2
-description: Metal Machine Trio, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): MM3 interviewed in Art Rocker; Video: Metal Machine Trio infiltrates Lucibel Crater; Metal Machine Trio “The Creation of the Universe”.
+description: Metal Machine Trio, page 2 of 2, a conspiracy of sarth.net (2010 to 2014): MM3 interviewed in Art Rocker; Video: Metal Machine Trio infiltrates Lucibel Crater; Metal Machine Trio “The Creation of the Universe”.
 url: https://www.sarth.net/category/conspiracies/metal-machine-trio/page/2/
 author: Sarth Calhoun
 ---

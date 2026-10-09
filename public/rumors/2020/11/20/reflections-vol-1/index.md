@@ -1,6 +1,6 @@
 ---
 title: Reflections, Vol. 1
-description: Reflections, Vol. 1, as originally published on sarth.net, November 20, 2020: about the Reflections EP and its name. Kept as it was, with a link to today’s page.
+description: Reflections, Vol. 1, as originally published on sarth.net, November 20, 2020: about the Reflections EP and its name.
 url: https://www.sarth.net/rumors/2020/11/20/reflections-vol-1/
 published: 2020-11-20
 author: Sarth Calhoun

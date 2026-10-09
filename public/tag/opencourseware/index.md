@@ -1,6 +1,6 @@
 ---
 title: Tag: opencourseware
-description: opencourseware, a tag of the WordPress sarth.net (2010 to 2014): Recursive functions in teapots.
+description: Posts tagged opencourseware on sarth.net, 2013: Recursive functions in teapots.
 url: https://www.sarth.net/tag/opencourseware/
 author: Sarth Calhoun
 ---

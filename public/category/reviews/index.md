@@ -1,6 +1,6 @@
 ---
 title: Reviews
-description: Reviews, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts about reviews of The Book of Sarth, and about Lou Reed’s “Return to Darkness”.
+description: Posts filed under Reviews on sarth.net, 2012 to 2013: Sarth Calhoun’s posts about reviews of The Book of Sarth, and about Lou Reed’s “Return to Darkness”.
 url: https://www.sarth.net/category/reviews/
 author: Sarth Calhoun
 ---

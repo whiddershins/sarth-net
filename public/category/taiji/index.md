@@ -1,6 +1,6 @@
 ---
 title: Taiji
-description: Taiji, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s tai chi posts, the Power and Serenity meditation music with Lou Reed and clips of the 21 form.
+description: Posts filed under Taiji on sarth.net, 2010 to 2013: Sarth Calhoun’s tai chi posts, the Power and Serenity meditation music with Lou Reed and clips of the 21 form.
 url: https://www.sarth.net/category/taiji/
 author: Sarth Calhoun
 ---

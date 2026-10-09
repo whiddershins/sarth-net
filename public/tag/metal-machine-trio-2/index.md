@@ -1,6 +1,6 @@
 ---
 title: Tag: metal machine trio
-description: metal machine trio, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.
+description: Posts tagged metal machine trio on sarth.net, 2012: Metal Machine Trio in 10.1 Ambisonic Installation.
 url: https://www.sarth.net/tag/metal-machine-trio-2/
 author: Sarth Calhoun
 ---

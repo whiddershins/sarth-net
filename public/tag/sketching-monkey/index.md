@@ -1,6 +1,6 @@
 ---
 title: Tag: Sketching Monkey
-description: Sketching Monkey, a tag of the WordPress sarth.net (2010 to 2014): A Wonderful writeup of The Book of Sarth on The Verge.
+description: Posts tagged Sketching Monkey on sarth.net, 2013: A Wonderful writeup of The Book of Sarth on The Verge.
 url: https://www.sarth.net/tag/sketching-monkey/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tag: Melt Banana
-description: Melt Banana, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney.
+description: Posts tagged Melt Banana on sarth.net, 2010: Photos of Noise Night, Sydney.
 url: https://www.sarth.net/tag/melt-banana/
 author: Sarth Calhoun
 ---

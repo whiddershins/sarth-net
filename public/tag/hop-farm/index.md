@@ -1,6 +1,6 @@
 ---
 title: Tag: hop farm
-description: hop farm, a tag of the WordPress sarth.net (2010 to 2014): A couple of photos from hop farm.
+description: Posts tagged hop farm on sarth.net, 2011: A couple of photos from hop farm.
 url: https://www.sarth.net/tag/hop-farm/
 author: Sarth Calhoun
 ---

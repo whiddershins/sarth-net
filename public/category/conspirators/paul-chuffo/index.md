@@ -1,6 +1,6 @@
 ---
 title: Paul Chuffo
-description: Paul Chuffo, as originally published on sarth.net, 2010 and 2014: the Paul Chuffo page of the WordPress site, with its posts. Kept as it was, with a link to today’s page.
+description: Paul Chuffo, as originally published on sarth.net, 2010 and 2014: the Paul Chuffo page of sarth.net, with its posts.
 url: https://www.sarth.net/category/conspirators/paul-chuffo/
 author: Sarth Calhoun
 ---

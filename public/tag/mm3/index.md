@@ -1,6 +1,6 @@
 ---
 title: Tag: MM3
-description: MM3, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation; Cool review comparing Creation of The Universe to Metal Machine Music.
+description: Posts tagged MM3 on sarth.net, 2010 to 2012: Metal Machine Trio in 10.1 Ambisonic Installation; Cool review comparing Creation of The Universe to Metal Machine Music.
 url: https://www.sarth.net/tag/mm3/
 author: Sarth Calhoun
 ---

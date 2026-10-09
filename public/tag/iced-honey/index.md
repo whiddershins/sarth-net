@@ -1,6 +1,6 @@
 ---
 title: Tag: Iced Honey
-description: Iced Honey, a tag of the WordPress sarth.net (2010 to 2014): Some pics from Jools Holland and Taratata.
+description: Posts tagged Iced Honey on sarth.net, 2011: Some pics from Jools Holland and Taratata.
 url: https://www.sarth.net/tag/iced-honey/
 author: Sarth Calhoun
 ---

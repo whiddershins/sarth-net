@@ -1,6 +1,6 @@
 ---
 title: Tag: arup soundlab
-description: arup soundlab, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.
+description: Posts tagged arup soundlab on sarth.net, 2012: Metal Machine Trio in 10.1 Ambisonic Installation.
 url: https://www.sarth.net/tag/arup-soundlab/
 author: Sarth Calhoun
 ---

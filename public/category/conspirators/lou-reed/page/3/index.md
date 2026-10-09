@@ -1,6 +1,6 @@
 ---
 title: Lou Reed, page 3 of 3
-description: Lou Reed, page 3 of 3, a category of the WordPress sarth.net (2010 to 2014): Cool review comparing Creation of The Universe to Metal Machine Music; mm3 in brussels, video from youtube; Yellow Pony, Madrid, July 2009; Metal Machine Trio “The Creation of the Universe”.
+description: Posts filed under Lou Reed on sarth.net, page 3 of 3, 2010: Cool review comparing Creation of The Universe to Metal Machine Music; mm3 in brussels, video from youtube; Yellow Pony, Madrid, July 2009; Metal Machine Trio “The Creation of the Universe”.
 url: https://www.sarth.net/category/conspirators/lou-reed/page/3/
 author: Sarth Calhoun
 ---

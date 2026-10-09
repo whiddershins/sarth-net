@@ -1,6 +1,6 @@
 ---
 title: Tag: ambisonic
-description: ambisonic, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.
+description: Posts tagged ambisonic on sarth.net, 2012: Metal Machine Trio in 10.1 Ambisonic Installation.
 url: https://www.sarth.net/tag/ambisonic/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Musings
-description: Musings, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s essays and notes from 2013, including Bolted for the Briar Patch.
+description: Posts filed under Musings on sarth.net, 2013: Sarth Calhoun’s essays and notes from 2013, including Bolted for the Briar Patch.
 url: https://www.sarth.net/category/musings/
 author: Sarth Calhoun
 ---

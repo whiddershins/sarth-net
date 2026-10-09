@@ -1,6 +1,6 @@
 ---
 title: Equipment
-description: Equipment, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s post on Kyma and the sound of The Book of Sarth.
+description: Posts filed under Equipment on sarth.net, 2012: Sarth Calhoun’s post on Kyma and the sound of The Book of Sarth.
 url: https://www.sarth.net/category/equipment/
 author: Sarth Calhoun
 ---

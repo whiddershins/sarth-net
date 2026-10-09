@@ -1,6 +1,6 @@
 ---
 title: Conspiracies
-description: Conspiracies, as originally published on sarth.net, 2010 and 2014: the projects page of the WordPress site, from the Metal Machine Trio and Lucibel Crater to Lulu and The Book of Sarth. Kept as it was, with a link to today’s page.
+description: Conspiracies, as originally published on sarth.net, 2010 and 2014: the projects page of sarth.net, from the Metal Machine Trio and Lucibel Crater to Lulu and The Book of Sarth.
 url: https://www.sarth.net/category/conspiracies/
 author: Sarth Calhoun
 ---

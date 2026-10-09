@@ -1,6 +1,6 @@
 ---
 title: Tag: Germany
-description: Germany, a tag of the WordPress sarth.net (2010 to 2014): Talking about Lou’s “Return to Darkness”.
+description: Posts tagged Germany on sarth.net, 2012: Talking about Lou’s “Return to Darkness”.
 url: https://www.sarth.net/tag/germany/
 author: Sarth Calhoun
 ---

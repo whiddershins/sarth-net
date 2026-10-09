@@ -1,6 +1,6 @@
 ---
 title: Sarth.net in Transition
-description: Sarth.net in Transition, as originally published on sarth.net, September 8, 2026: the holding page of the Squarespace site. Kept as it was, with a link to today’s page.
+description: Sarth.net in Transition, as originally published on sarth.net, September 8, 2026: the holding page of the Squarespace site.
 url: https://www.sarth.net/sarthnet-in-transition/
 published: 2026-09-08
 author: Sarth Calhoun

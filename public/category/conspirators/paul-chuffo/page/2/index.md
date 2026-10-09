@@ -1,6 +1,6 @@
 ---
 title: Paul Chuffo, page 2 of 2
-description: Paul Chuffo, page 2 of 2, a category of the WordPress sarth.net (2010 to 2014): Video: Lucibel Crater – Masticate; Lucibel Crater : The Family Album; Sarth Clips.
+description: Posts filed under Paul Chuffo on sarth.net, page 2 of 2, 2010: Video: Lucibel Crater – Masticate; Lucibel Crater : The Family Album; Sarth Clips.
 url: https://www.sarth.net/category/conspirators/paul-chuffo/page/2/
 author: Sarth Calhoun
 ---

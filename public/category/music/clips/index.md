@@ -1,6 +1,6 @@
 ---
 title: Clips
-description: Clips, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts sharing audio clips from The Book of Sarth and Lucibel Crater.
+description: Posts filed under Clips on sarth.net, 2010 to 2011: Sarth Calhoun’s posts sharing audio clips from The Book of Sarth and Lucibel Crater.
 url: https://www.sarth.net/category/music/clips/
 author: Sarth Calhoun
 ---

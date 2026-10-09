@@ -1,6 +1,6 @@
 ---
 title: Contraptions
-description: Contraptions, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts on carpentry, Moldover’s Jamboxes, a FireWire scare and The Book of Sarth.
+description: Posts filed under Contraptions on sarth.net, 2011 to 2013: Sarth Calhoun’s posts on carpentry, Moldover’s Jamboxes, a FireWire scare and The Book of Sarth.
 url: https://www.sarth.net/category/contraptions/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Metal Machine Trio “The Creation of the Universe”
-description: Metal Machine Trio “The Creation of the Universe”, as originally published on sarth.net, March 22, 2010: the post announcing the first Metal Machine Trio release, with its comments. Kept as it was, with a link to today’s page.
+description: Metal Machine Trio “The Creation of the Universe”, as originally published on sarth.net, March 22, 2010: the post announcing the first Metal Machine Trio release, with its comments.
 url: https://www.sarth.net/metal-machine-trio-the-creation-of-the-universe/
 published: 2010-03-22
 author: Sarth Calhoun

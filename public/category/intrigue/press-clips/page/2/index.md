@@ -1,6 +1,6 @@
 ---
 title: Press Clips, page 2 of 2
-description: Press Clips, page 2 of 2, a category of the WordPress sarth.net (2010 to 2014): Sydney Morning Herald is Bracing for our arrival; MM3 interviewed in Art Rocker.
+description: Posts filed under Press Clips on sarth.net, page 2 of 2, 2010: Sydney Morning Herald is Bracing for our arrival; MM3 interviewed in Art Rocker.
 url: https://www.sarth.net/category/intrigue/press-clips/page/2/
 author: Sarth Calhoun
 ---

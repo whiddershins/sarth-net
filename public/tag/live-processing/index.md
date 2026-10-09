@@ -1,6 +1,6 @@
 ---
 title: Tag: live processing
-description: live processing, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.
+description: Posts tagged live processing on sarth.net, 2012: Metal Machine Trio in 10.1 Ambisonic Installation.
 url: https://www.sarth.net/tag/live-processing/
 author: Sarth Calhoun
 ---

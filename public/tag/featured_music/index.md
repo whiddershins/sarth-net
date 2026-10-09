@@ -1,6 +1,6 @@
 ---
 title: Tag: featured_music
-description: featured_music, a tag of the WordPress sarth.net (2010 to 2014): Sarth Clips.
+description: Posts tagged featured_music on sarth.net, 2010: Sarth Clips.
 url: https://www.sarth.net/tag/featured_music/
 author: Sarth Calhoun
 ---

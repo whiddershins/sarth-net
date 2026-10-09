@@ -1,6 +1,6 @@
 ---
 title: Press Clips
-description: Press Clips, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts about press for The Book of Sarth and the Metal Machine Trio.
+description: Posts filed under Press Clips on sarth.net, 2010 to 2013: Sarth Calhoun’s posts about press for The Book of Sarth and the Metal Machine Trio.
 url: https://www.sarth.net/category/intrigue/press-clips/
 author: Sarth Calhoun
 ---

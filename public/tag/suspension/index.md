@@ -1,6 +1,6 @@
 ---
 title: Tag: Suspension
-description: Suspension, a tag of the WordPress sarth.net (2010 to 2014): Number19 – Suspension.
+description: Posts tagged Suspension on sarth.net, 2008: Number19 – Suspension.
 url: https://www.sarth.net/tag/suspension/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Recordings
-description: Recordings, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s post sharing a hidden track from The Book of Sarth.
+description: Posts filed under Recordings on sarth.net, 2011: Sarth Calhoun’s post sharing a hidden track from The Book of Sarth.
 url: https://www.sarth.net/category/music/recordings/
 author: Sarth Calhoun
 ---

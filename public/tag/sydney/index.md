@@ -1,6 +1,6 @@
 ---
 title: Tag: Sydney
-description: Sydney, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney.
+description: Posts tagged Sydney on sarth.net, 2010: Photos of Noise Night, Sydney.
 url: https://www.sarth.net/tag/sydney/
 author: Sarth Calhoun
 ---

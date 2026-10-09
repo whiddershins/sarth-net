@@ -1,6 +1,6 @@
 ---
 title: Tag: Noise
-description: Noise, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney; Sydney Morning Herald is Bracing for our arrival.
+description: Posts tagged Noise on sarth.net, 2010: Photos of Noise Night, Sydney; Sydney Morning Herald is Bracing for our arrival.
 url: https://www.sarth.net/tag/noise/
 author: Sarth Calhoun
 ---

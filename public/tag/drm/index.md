@@ -1,6 +1,6 @@
 ---
 title: Tag: drm
-description: drm, a tag of the WordPress sarth.net (2010 to 2014): I wish I had thought of this.
+description: Posts tagged drm on sarth.net, 2013: I wish I had thought of this.
 url: https://www.sarth.net/tag/drm/
 author: Sarth Calhoun
 ---

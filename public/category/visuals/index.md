@@ -1,6 +1,6 @@
 ---
 title: Visuals
-description: Visuals, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s photo and video posts, with Lucibel Crater, the Metal Machine Trio, Lulu and Lou Reed.
+description: Posts filed under Visuals on sarth.net, 2010 to 2013: Sarth Calhoun’s photo and video posts, with Lucibel Crater, the Metal Machine Trio, Lulu and Lou Reed.
 url: https://www.sarth.net/category/visuals/
 author: Sarth Calhoun
 ---

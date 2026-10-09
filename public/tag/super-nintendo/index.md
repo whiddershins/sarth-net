@@ -1,6 +1,6 @@
 ---
 title: Tag: Super Nintendo
-description: Super Nintendo, a tag of the WordPress sarth.net (2010 to 2014): Number19 – Suspension.
+description: Posts tagged Super Nintendo on sarth.net, 2008: Number19 – Suspension.
 url: https://www.sarth.net/tag/super-nintendo/
 author: Sarth Calhoun
 ---

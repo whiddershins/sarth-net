@@ -1,6 +1,6 @@
 ---
 title: Photos of Noise Night, Sydney
-description: Photos of Noise Night, Sydney, a photo post by Sarth Calhoun first published at this address on sarth.net on July 10, 2010, from Noise Night at the Sydney Opera House during Vivid LIVE 2010. The captions, categories and tags survive; the two photos were not recovered.
+description: Photos of Noise Night, Sydney, a photo post by Sarth Calhoun first published at this address on sarth.net on July 10, 2010, from Noise Night at the Sydney Opera House during Vivid LIVE 2010.
 url: https://www.sarth.net/photos-of-noise-night-sydney/
 published: 2010-07-10
 facet: dream

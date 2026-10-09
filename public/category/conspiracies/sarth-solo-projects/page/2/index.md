@@ -1,6 +1,6 @@
 ---
 title: Sarth Solo Projects, page 2 of 2
-description: Sarth Solo Projects, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): Book of Sarth clips; Brain melt – double firewire 800 scare; Power and Serenity; Photos of Noise Night, Sydney; Sarth Clips.
+description: Sarth Solo Projects, page 2 of 2, a conspiracy of sarth.net (2010 to 2014): Book of Sarth clips; Brain melt – double firewire 800 scare; Power and Serenity; Photos of Noise Night, Sydney; Sarth Clips.
 url: https://www.sarth.net/category/conspiracies/sarth-solo-projects/page/2/
 author: Sarth Calhoun
 ---

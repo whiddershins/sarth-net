@@ -1,6 +1,6 @@
 ---
 title: Intrigue, page 5 of 5
-description: Intrigue, page 5 of 5, a category of the WordPress sarth.net (2010 to 2014): mm3 in brussels, video from youtube; Sydney Morning Herald is Bracing for our arrival; MM3 interviewed in Art Rocker.
+description: Posts filed under Intrigue on sarth.net, page 5 of 5, 2010: mm3 in brussels, video from youtube; Sydney Morning Herald is Bracing for our arrival; MM3 interviewed in Art Rocker.
 url: https://www.sarth.net/category/intrigue/page/5/
 author: Sarth Calhoun
 ---

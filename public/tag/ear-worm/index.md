@@ -1,6 +1,6 @@
 ---
 title: Tag: Ear Worm
-description: Ear Worm, a tag of the WordPress sarth.net (2010 to 2014): Symbolic Sound – Book of Sarth Review.
+description: Posts tagged Ear Worm on sarth.net, 2012: Symbolic Sound – Book of Sarth Review.
 url: https://www.sarth.net/tag/ear-worm/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tag: Reviews
-description: Reviews, a tag of the WordPress sarth.net (2010 to 2014): A Wonderful writeup of The Book of Sarth on The Verge.
+description: Posts tagged Reviews on sarth.net, 2013: A Wonderful writeup of The Book of Sarth on The Verge.
 url: https://www.sarth.net/tag/reviews/
 author: Sarth Calhoun
 ---

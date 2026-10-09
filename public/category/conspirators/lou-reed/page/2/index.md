@@ -1,6 +1,6 @@
 ---
 title: Lou Reed, page 2 of 3
-description: Lou Reed, page 2 of 3, a category of the WordPress sarth.net (2010 to 2014): Lulu; Lulu now officially released; A quick clip from Carhaix; Power and Serenity; Photos of Noise Night, Sydney.
+description: Posts filed under Lou Reed on sarth.net, page 2 of 3, 2010 to 2011: Lulu; Lulu now officially released; A quick clip from Carhaix; Power and Serenity; Photos of Noise Night, Sydney.
 url: https://www.sarth.net/category/conspirators/lou-reed/page/2/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Introspections
-description: Introspections, as originally published on sarth.net, July 22, 2016: the page for the Introspections sets, with its videos and tracks. Kept as it was, with a link to today’s page.
+description: Introspections, as originally published on sarth.net, July 22, 2016: the page for the Introspections sets, with its videos and tracks.
 url: https://www.sarth.net/introspections/
 published: 2016-07-22
 author: Sarth Calhoun

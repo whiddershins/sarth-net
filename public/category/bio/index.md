@@ -1,6 +1,6 @@
 ---
 title: Bio
-description: Bio, as originally published on sarth.net, 2010 and 2014: the two bios of the WordPress site. Kept as it was, with a link to today’s page.
+description: Bio, as originally published on sarth.net, 2010 and 2014: the two bios of sarth.net.
 url: https://www.sarth.net/category/bio/
 author: Sarth Calhoun
 ---

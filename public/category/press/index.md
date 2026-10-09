@@ -1,6 +1,6 @@
 ---
 title: Press
-description: Press, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s posts about reviews of The Book of Sarth in The Verge, Gizmodo, Chain D.L.K. and Symbolic Sound.
+description: Posts filed under Press on sarth.net, 2008 to 2014: Sarth Calhoun’s posts about reviews of The Book of Sarth in The Verge, Gizmodo, Chain D.L.K. and Symbolic Sound.
 url: https://www.sarth.net/category/press/
 author: Sarth Calhoun
 ---

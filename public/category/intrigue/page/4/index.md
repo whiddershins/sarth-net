@@ -1,6 +1,6 @@
 ---
 title: Intrigue, page 4 of 5
-description: Intrigue, page 4 of 5, a category of the WordPress sarth.net (2010 to 2014): A quick clip from Carhaix; A couple of photos from hop farm; Power and Serenity; Photos of Noise Night, Sydney; Cool review comparing Creation of The Universe to Metal Machine Music.
+description: Posts filed under Intrigue on sarth.net, page 4 of 5, 2010 to 2011: A quick clip from Carhaix; A couple of photos from hop farm; Power and Serenity; Photos of Noise Night, Sydney; Cool review comparing Creation of The Universe to Metal Machine Music.
 url: https://www.sarth.net/category/intrigue/page/4/
 author: Sarth Calhoun
 ---

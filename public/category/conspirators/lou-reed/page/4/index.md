@@ -1,6 +1,6 @@
 ---
 title: Lou Reed, page 4 of 4
-description: Lou Reed, page 4 of 4, a category of the WordPress sarth.net (2010 to 2014): Metal Machine Trio “The Creation of the Universe”.
+description: Posts filed under Lou Reed on sarth.net, page 4 of 4, 2010: Metal Machine Trio “The Creation of the Universe”.
 url: https://www.sarth.net/category/conspirators/lou-reed/page/4/
 author: Sarth Calhoun
 ---

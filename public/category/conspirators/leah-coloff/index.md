@@ -1,6 +1,6 @@
 ---
 title: Leah Coloff
-description: Leah Coloff, as originally published on sarth.net, 2010 and 2014: the Leah Coloff page of the WordPress site, with its posts. Kept as it was, with a link to today’s page.
+description: Leah Coloff, as originally published on sarth.net, 2010 and 2014: the Leah Coloff page of sarth.net, with its posts.
 url: https://www.sarth.net/category/conspirators/leah-coloff/
 author: Sarth Calhoun
 ---

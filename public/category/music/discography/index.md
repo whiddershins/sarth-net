@@ -1,6 +1,6 @@
 ---
 title: Discography
-description: Discography, a category of the WordPress sarth.net (2010 to 2014): Lulu, Power and Serenity, The Creation of the Universe, The Family Album and Suspension.
+description: Posts filed under Discography on sarth.net, 2008 to 2011: Lulu, Power and Serenity, The Creation of the Universe, The Family Album and Suspension.
 url: https://www.sarth.net/category/music/discography/
 author: Sarth Calhoun
 ---

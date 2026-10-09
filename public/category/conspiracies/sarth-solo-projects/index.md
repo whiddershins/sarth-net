@@ -1,6 +1,6 @@
 ---
 title: Sarth Solo Projects
-description: Sarth Solo Projects, a conspiracy of the WordPress sarth.net (2010 to 2014): The Book of Sarth and the Gralbum, Power and Serenity, Noise Night and Lucibel Crater clips.
+description: Sarth Solo Projects, a conspiracy of sarth.net (2010 to 2014): The Book of Sarth and the Gralbum, Power and Serenity, Noise Night and Lucibel Crater clips.
 url: https://www.sarth.net/category/conspiracies/sarth-solo-projects/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tag: Lulu
-description: Lulu, a tag of the WordPress sarth.net (2010 to 2014): Some pics from Jools Holland and Taratata; Lulu now officially released.
+description: Posts tagged Lulu on sarth.net, 2011: Some pics from Jools Holland and Taratata; Lulu now officially released.
 url: https://www.sarth.net/tag/lulu/
 author: Sarth Calhoun
 ---

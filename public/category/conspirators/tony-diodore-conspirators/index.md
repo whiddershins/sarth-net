@@ -1,6 +1,6 @@
 ---
 title: Tony Diodore
-description: Tony Diodore, as originally published on sarth.net, 2014: the Tony Diodore page of the WordPress site, with its posts. Kept as it was, with a link to today’s page.
+description: Tony Diodore, as originally published on sarth.net, 2014: the Tony Diodore page of sarth.net, with its posts.
 url: https://www.sarth.net/category/conspirators/tony-diodore-conspirators/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tag: Amsterdam
-description: Amsterdam, a tag of the WordPress sarth.net (2010 to 2014): Amsterdam Cafe.
+description: Posts tagged Amsterdam on sarth.net, 2012: Amsterdam Cafe.
 url: https://www.sarth.net/tag/amsterdam/
 author: Sarth Calhoun
 ---

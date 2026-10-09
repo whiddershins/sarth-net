@@ -1,6 +1,6 @@
 ---
 title: Music, page 2 of 2
-description: Music, page 2 of 2, a category of the WordPress sarth.net (2010 to 2014): Lucibel Crater : The Family Album; Sarth Clips; Number19 – Suspension.
+description: Posts filed under Music on sarth.net, page 2 of 2, 2008 to 2010: Lucibel Crater : The Family Album; Sarth Clips; Number19 – Suspension.
 url: https://www.sarth.net/category/music/page/2/
 author: Sarth Calhoun
 ---

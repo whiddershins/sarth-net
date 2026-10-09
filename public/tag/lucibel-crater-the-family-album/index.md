@@ -1,6 +1,6 @@
 ---
 title: Tag: Lucibel Crater The Family Album
-description: Lucibel Crater The Family Album, a tag of the WordPress sarth.net (2010 to 2014): Video: Lucibel Crater – Masticate; Sarth Clips.
+description: Posts tagged Lucibel Crater The Family Album on sarth.net, 2010: Video: Lucibel Crater – Masticate; Sarth Clips.
 url: https://www.sarth.net/tag/lucibel-crater-the-family-album/
 author: Sarth Calhoun
 ---

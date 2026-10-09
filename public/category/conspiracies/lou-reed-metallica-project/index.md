@@ -1,6 +1,6 @@
 ---
 title: Lulu
-description: Lulu, as originally published on sarth.net, 2014: the Lulu page of the WordPress site, the record with Lou Reed and Metallica. Kept as it was, with a link to today’s page.
+description: Lulu, as originally published on sarth.net, 2014: the Lulu page of sarth.net, the record with Lou Reed and Metallica.
 url: https://www.sarth.net/category/conspiracies/lou-reed-metallica-project/
 author: Sarth Calhoun
 ---

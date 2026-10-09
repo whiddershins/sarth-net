@@ -1,6 +1,6 @@
 ---
 title: Tag: recursion
-description: recursion, a tag of the WordPress sarth.net (2010 to 2014): I wish I had thought of this; Recursive functions in teapots.
+description: Posts tagged recursion on sarth.net, 2013: I wish I had thought of this; Recursive functions in teapots.
 url: https://www.sarth.net/tag/recursion/
 author: Sarth Calhoun
 ---

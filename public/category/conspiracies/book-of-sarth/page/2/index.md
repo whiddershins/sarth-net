@@ -1,6 +1,6 @@
 ---
 title: Book of Sarth, page 2 of 2
-description: Book of Sarth, page 2 of 2, a conspiracy of the WordPress sarth.net (2010 to 2014): Symbolic Sound – Book of Sarth Review; The Book of Sarth in the app store now!; Book of Sarth clips.
+description: Book of Sarth, page 2 of 2, a conspiracy of sarth.net (2010 to 2014): Symbolic Sound – Book of Sarth Review; The Book of Sarth in the app store now!; Book of Sarth clips.
 url: https://www.sarth.net/category/conspiracies/book-of-sarth/page/2/
 author: Sarth Calhoun
 ---

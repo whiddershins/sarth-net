@@ -1,6 +1,6 @@
 ---
 title: Tag: Creation of the Universe
-description: Creation of the Universe, a tag of the WordPress sarth.net (2010 to 2014): Cool review comparing Creation of The Universe to Metal Machine Music.
+description: Posts tagged Creation of the Universe on sarth.net, 2010: Cool review comparing Creation of The Universe to Metal Machine Music.
 url: https://www.sarth.net/tag/creation-of-the-universe/
 author: Sarth Calhoun
 ---

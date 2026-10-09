@@ -1,6 +1,6 @@
 ---
 title: Tag: Bardo Pond
-description: Bardo Pond, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney.
+description: Posts tagged Bardo Pond on sarth.net, 2010: Photos of Noise Night, Sydney.
 url: https://www.sarth.net/tag/bardo-pond/
 author: Sarth Calhoun
 ---

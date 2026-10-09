@@ -1,6 +1,6 @@
 ---
 title: Tag: sydney opera house
-description: sydney opera house, a tag of the WordPress sarth.net (2010 to 2014): Sydney Morning Herald is Bracing for our arrival.
+description: Posts tagged sydney opera house on sarth.net, 2010: Sydney Morning Herald is Bracing for our arrival.
 url: https://www.sarth.net/tag/sydney-opera-house/
 author: Sarth Calhoun
 ---

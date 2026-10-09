@@ -1,6 +1,6 @@
 ---
 title: Tag: Opera House
-description: Opera House, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney.
+description: Posts tagged Opera House on sarth.net, 2010: Photos of Noise Night, Sydney.
 url: https://www.sarth.net/tag/opera-house/
 author: Sarth Calhoun
 ---

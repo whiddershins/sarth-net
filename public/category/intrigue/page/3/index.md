@@ -1,6 +1,6 @@
 ---
 title: Intrigue, page 3 of 5
-description: Intrigue, page 3 of 5, a category of the WordPress sarth.net (2010 to 2014): (re) Discovered some old bass playing; Lulu in Cologne; Some pics from Jools Holland and Taratata; Iced Honey on the Jools Holland show; Lulu now officially released.
+description: Posts filed under Intrigue on sarth.net, page 3 of 5, 2011 to 2012: (re) Discovered some old bass playing; Lulu in Cologne; Some pics from Jools Holland and Taratata; Iced Honey on the Jools Holland show; Lulu now officially released.
 url: https://www.sarth.net/category/intrigue/page/3/
 author: Sarth Calhoun
 ---

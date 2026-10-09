@@ -1,6 +1,6 @@
 ---
 title: Reflections, Vol 1, available on iTunes now
-description: Reflections, Vol 1, available on iTunes now, as originally published on sarth.net, November 29, 2015: the release of the Reflections EP. Kept as it was, with a link to today’s page.
+description: Reflections, Vol 1, available on iTunes now, as originally published on sarth.net, November 29, 2015: the release of the Reflections EP.
 url: https://www.sarth.net/rumors/2015/11/29/reflections-vol-1-available-on-itunes-now/
 published: 2015-11-29
 author: Sarth Calhoun

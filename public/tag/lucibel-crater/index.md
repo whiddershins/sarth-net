@@ -1,6 +1,6 @@
 ---
 title: Tag: Lucibel Crater
-description: Lucibel Crater, a tag of the WordPress sarth.net (2010 to 2014): Original “carve the ham” photo.
+description: Posts tagged Lucibel Crater on sarth.net, 2011: Original “carve the ham” photo.
 url: https://www.sarth.net/tag/lucibel-crater/
 author: Sarth Calhoun
 ---

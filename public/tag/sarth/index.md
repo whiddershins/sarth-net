@@ -1,6 +1,6 @@
 ---
 title: Tag: Sarth
-description: Sarth, a tag of the WordPress sarth.net (2010 to 2014): Amsterdam Cafe; Some pics from Jools Holland and Taratata; Cool review comparing Creation of The Universe to Metal Machine Music.
+description: Posts tagged Sarth on sarth.net, 2010 to 2012: Amsterdam Cafe; Some pics from Jools Holland and Taratata; Cool review comparing Creation of The Universe to Metal Machine Music.
 url: https://www.sarth.net/tag/sarth/
 author: Sarth Calhoun
 ---

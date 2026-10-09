@@ -1,6 +1,6 @@
 ---
 title: Tag: surreal
-description: surreal, a tag of the WordPress sarth.net (2010 to 2014): I wish I had thought of this.
+description: Posts tagged surreal on sarth.net, 2013: I wish I had thought of this.
 url: https://www.sarth.net/tag/surreal/
 author: Sarth Calhoun
 ---

@@ -1,6 +1,6 @@
 ---
 title: Uncategorized
-description: Uncategorized, a category of the WordPress sarth.net (2010 to 2014): Book of Sarth in The App Store, and clips of the tai chi 21 form.
+description: Posts filed under Uncategorized on sarth.net, 2013: Book of Sarth in The App Store, and clips of the tai chi 21 form.
 url: https://www.sarth.net/category/uncategorized/
 author: Sarth Calhoun
 ---

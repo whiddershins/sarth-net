@@ -1,6 +1,6 @@
 ---
 title: Tag: Number 19
-description: Number 19, a tag of the WordPress sarth.net (2010 to 2014): Number19 – Suspension.
+description: Posts tagged Number 19 on sarth.net, 2008: Number19 – Suspension.
 url: https://www.sarth.net/tag/number-19/
 author: Sarth Calhoun
 ---

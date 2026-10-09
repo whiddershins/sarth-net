@@ -1,6 +1,6 @@
 ---
 title: Metal Machine Trio
-description: Metal Machine Trio, as originally published on sarth.net, 2010 and 2014: the Metal Machine Trio page of the WordPress site, with its posts. Kept as it was, with a link to today’s page.
+description: Metal Machine Trio, as originally published on sarth.net, 2010 and 2014: the Metal Machine Trio page of sarth.net, with its posts.
 url: https://www.sarth.net/category/conspiracies/metal-machine-trio/
 author: Sarth Calhoun
 ---

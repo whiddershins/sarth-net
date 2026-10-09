@@ -1,6 +1,6 @@
 ---
 title: Tag: Book of Sarth
-description: Book of Sarth, a tag of the WordPress sarth.net (2010 to 2014): A Wonderful writeup of The Book of Sarth on The Verge; The Book of Sarth – Gizmodo Apps of the Week!; Chain D.L.K. – Book of Sarth Review; Symbolic Sound – Book of Sarth Review.
+description: Posts tagged Book of Sarth on sarth.net, 2012 to 2013: A Wonderful writeup of The Book of Sarth on The Verge; The Book of Sarth – Gizmodo Apps of the Week!; Chain D.L.K. – Book of Sarth Review; Symbolic Sound – Book of Sarth Review.
 url: https://www.sarth.net/tag/book-of-sarth/
 author: Sarth Calhoun
 ---

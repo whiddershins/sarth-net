@@ -1,6 +1,6 @@
 ---
 title: Book of Sarth
-description: Book of Sarth, as originally published on sarth.net, 2014: the Book of Sarth page of the WordPress site, with its latest posts and reviews. Kept as it was, with a link to today’s page.
+description: Book of Sarth, as originally published on sarth.net, 2014: the Book of Sarth page of sarth.net, with its latest posts and reviews.
 url: https://www.sarth.net/category/conspiracies/book-of-sarth/
 author: Sarth Calhoun
 ---

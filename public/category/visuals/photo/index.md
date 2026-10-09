@@ -1,6 +1,6 @@
 ---
 title: Photo
-description: Photo, a category of the WordPress sarth.net (2010 to 2014): Sarth Calhoun’s photo posts, from Noise Night in Sydney to Lulu on Later… with Jools Holland.
+description: Posts filed under Photo on sarth.net, 2010 to 2013: Sarth Calhoun’s photo posts, from Noise Night in Sydney to Lulu on Later… with Jools Holland.
 url: https://www.sarth.net/category/visuals/photo/
 author: Sarth Calhoun
 ---

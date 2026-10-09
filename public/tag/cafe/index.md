@@ -1,6 +1,6 @@
 ---
 title: Tag: Cafe
-description: Cafe, a tag of the WordPress sarth.net (2010 to 2014): Amsterdam Cafe.
+description: Posts tagged Cafe on sarth.net, 2012: Amsterdam Cafe.
 url: https://www.sarth.net/tag/cafe/
 author: Sarth Calhoun
 ---

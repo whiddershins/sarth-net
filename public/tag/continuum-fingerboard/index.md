@@ -1,6 +1,6 @@
 ---
 title: Tag: continuum fingerboard
-description: continuum fingerboard, a tag of the WordPress sarth.net (2010 to 2014): Metal Machine Trio in 10.1 Ambisonic Installation.
+description: Posts tagged continuum fingerboard on sarth.net, 2012: Metal Machine Trio in 10.1 Ambisonic Installation.
 url: https://www.sarth.net/tag/continuum-fingerboard/
 author: Sarth Calhoun
 ---

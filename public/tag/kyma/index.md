@@ -1,6 +1,6 @@
 ---
 title: Tag: kyma
-description: kyma, a tag of the WordPress sarth.net (2010 to 2014): Symbolic Sound – Book of Sarth Review; Metal Machine Trio in 10.1 Ambisonic Installation.
+description: Posts tagged kyma on sarth.net, 2012: Symbolic Sound – Book of Sarth Review; Metal Machine Trio in 10.1 Ambisonic Installation.
 url: https://www.sarth.net/tag/kyma/
 author: Sarth Calhoun
 ---

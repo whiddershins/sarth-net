@@ -1,6 +1,6 @@
 ---
 title: Tag: Night Terrors
-description: Night Terrors, a tag of the WordPress sarth.net (2010 to 2014): Photos of Noise Night, Sydney.
+description: Posts tagged Night Terrors on sarth.net, 2010: Photos of Noise Night, Sydney.
 url: https://www.sarth.net/tag/night-terrors/
 author: Sarth Calhoun
 ---

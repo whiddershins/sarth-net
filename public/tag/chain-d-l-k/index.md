@@ -1,6 +1,6 @@
 ---
 title: Tag: Chain D.L.K.
-description: Chain D.L.K., a tag of the WordPress sarth.net (2010 to 2014): Chain D.L.K. – Book of Sarth Review.
+description: Posts tagged Chain D.L.K. on sarth.net, 2012: Chain D.L.K. – Book of Sarth Review.
 url: https://www.sarth.net/tag/chain-d-l-k/
 author: Sarth Calhoun
 ---

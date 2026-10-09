@@ -1,6 +1,6 @@
 ---
 title: Intrigue, page 1 of 5
-description: Intrigue, page 1 of 5, a category of the WordPress sarth.net (2010 to 2014): Gralbum has launched; Book of Sarth in The App Store; A Wonderful writeup of The Book of Sarth on The Verge; The Book of Sarth – Gizmodo Apps of the Week!; Chain D.L.K. – Book of Sarth Review.
+description: Posts filed under Intrigue on sarth.net, page 1 of 5, 2012 to 2014: Gralbum has launched; Book of Sarth in The App Store; A Wonderful writeup of The Book of Sarth on The Verge; The Book of Sarth – Gizmodo Apps of the Week!; Chain D.L.K. – Book of Sarth Review.
 url: https://www.sarth.net/category/intrigue/
 author: Sarth Calhoun
 ---

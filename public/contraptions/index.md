@@ -80,6 +80,6 @@ Two things on the shelf are not mine. [Paint with JavaScript](https://contraptio
 
 ## Earlier machines
 
-The Contraptions category of my old WordPress site listed Jamboxes, with Moldover, in July 2012; ConnecTable carpentry in July 2013; and Brain melt, a double FireWire 800 scare, in October 2011. Only the titles survive there. SeqOSC, a relative of AM synthesis, was built in Kyma and is on [Devices](/devices/).
+Under Contraptions I posted [Jamboxes](/moldovers-jam-boxes/), with Moldover, in July 2012; [ConnecTable carpentry](/connectable-carpentry/) in July 2013; and [Brain melt, a double FireWire 800 scare](/brain-melt-double-firewire-800-scare/), in October 2011. SeqOSC, a relative of AM synthesis, was built in Kyma and is on [Devices](/devices/).
 
 The copy for each machine is mine, from its page on contraptions.bookofsarth.com; the screenshots are the shelf’s own.

@@ -25,7 +25,7 @@ Moldover performing “Step From Darkness,” SHA2017, the Netherlands, August 2
 
 ## Warper Party and after
 
-We were on the same bill at the Warper Party at The Delancey in New York on March 4, 2009, and Clocktower’s Warper Party Radio Extravaganza lists us both among its performers. On July 9, 2012 I posted about his Jamboxes on my old site, under [Contraptions](/contraptions/); only the title survives. I have named him among the improvisers I explored the [Introspections](/transmissions/introspections/) ideas with, and my [CV](/work/) lists a video with him.
+We were on the same bill at the Warper Party at The Delancey in New York on March 4, 2009, and Clocktower’s Warper Party Radio Extravaganza lists us both among its performers. On July 9, 2012 I posted about his [Jamboxes](/moldovers-jam-boxes/), under [Contraptions](/contraptions/). I have named him among the improvisers I explored the [Introspections](/transmissions/introspections/) ideas with, and my [CV](/work/) lists a video with him.
 
 On December 30, 2025 his channel posted “Sarth plays Moldover’s Voice Crusher,” two and a half minutes of me on the Voice Crusher, the playable packaging of his album *Four Track*: a musical instrument that comes with the physical copy of the record.
 

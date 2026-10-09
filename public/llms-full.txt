@@ -598,7 +598,7 @@ Two things on the shelf are not mine. [Paint with JavaScript](https://contraptio
 
 ## Earlier machines
 
-The Contraptions category of my old WordPress site listed Jamboxes, with Moldover, in July 2012; ConnecTable carpentry in July 2013; and Brain melt, a double FireWire 800 scare, in October 2011. Only the titles survive there. SeqOSC, a relative of AM synthesis, was built in Kyma and is on [Devices](/devices/).
+Under Contraptions I posted [Jamboxes](/moldovers-jam-boxes/), with Moldover, in July 2012; [ConnecTable carpentry](/connectable-carpentry/) in July 2013; and [Brain melt, a double FireWire 800 scare](/brain-melt-double-firewire-800-scare/), in October 2011. SeqOSC, a relative of AM synthesis, was built in Kyma and is on [Devices](/devices/).
 
 The copy for each machine is mine, from its page on contraptions.bookofsarth.com; the screenshots are the shelf’s own.
 
@@ -2028,7 +2028,7 @@ Seven more from the same set, in the order of the files. Photos by Mark McGauley
 
 Noise Night was May 31, 2010, in the Opera Theatre, with Zond, Melt-Banana, Oren Ambarchi, Boris with Oren Ambarchi, Rice Corpse, Marc Ribot with Bardo Pond, Night Terrors, and Yasuko and Ichirou from Melt-Banana, and I played in the closing sets and the encore with [Lou Reed](/conspirators/lou-reed/), [Laurie Anderson](/conspirators/laurie-anderson/) and [Marc Ribot](/conspirators/marc-ribot/).
 
-[A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html) has the notes. My photo post from the night, [“Photos of Noise Night, Sydney”](/photos-of-noise-night-sydney/) (July 10, 2010), survives as its captions and tags, but the two photos themselves were not recovered.
+[A concert recording](http://crankingamps.blogspot.com/2010/05/2010-05-31-zond-melt-banana-oren.html) has the notes. I posted [“Photos of Noise Night, Sydney”](/photos-of-noise-night-sydney/) on July 10, 2010.
 
 The curation and the dates are from contemporary coverage. The noise band and the jams are my own recollection, September 22, 2026, and the Noise Night lineup is from the recording’s notes and my 2010 post.
 
@@ -2983,7 +2983,7 @@ Moldover performing “Step From Darkness,” SHA2017, the Netherlands, August 2
 
 ## Warper Party and after
 
-We were on the same bill at the Warper Party at The Delancey in New York on March 4, 2009, and Clocktower’s Warper Party Radio Extravaganza lists us both among its performers. On July 9, 2012 I posted about his Jamboxes on my old site, under [Contraptions](/contraptions/); only the title survives. I have named him among the improvisers I explored the [Introspections](/transmissions/introspections/) ideas with, and my [CV](/work/) lists a video with him.
+We were on the same bill at the Warper Party at The Delancey in New York on March 4, 2009, and Clocktower’s Warper Party Radio Extravaganza lists us both among its performers. On July 9, 2012 I posted about his [Jamboxes](/moldovers-jam-boxes/), under [Contraptions](/contraptions/). I have named him among the improvisers I explored the [Introspections](/transmissions/introspections/) ideas with, and my [CV](/work/) lists a video with him.
 
 On December 30, 2025 his channel posted “Sarth plays Moldover’s Voice Crusher,” two and a half minutes of me on the Voice Crusher, the playable packaging of his album *Four Track*: a musical instrument that comes with the physical copy of the record.
 

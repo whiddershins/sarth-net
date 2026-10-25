@@ -1,6 +1,6 @@
 ---
 title: You might not need Pandas
-description: Why most day to day Pandas work is better done in SQL, with a side by side average-sales-by-category example, and where Pandas still earns its place.
+description: About 80% of day to day Pandas work is faster and less error-prone in plain SQL. A side by side sales-by-category example, and when Pandas still wins.
 url: https://www.sarth.net/transmissions/you-might-not-need-pandas/
 published: 2026-09-22
 facet: message

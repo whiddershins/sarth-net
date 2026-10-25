@@ -312,7 +312,9 @@ def load_pages():
         rel = f.parent.relative_to(PUBLIC).as_posix()
         route = "/" if rel == "." else f"/{rel}/"
         s = f.read_text()
-        title = html.unescape(re.search(r"<title>(.*?)</title>", s, re.S).group(1)).replace(" — Sarth Calhoun", "").strip()
+        # A search title may run on after the name ("Burlap — Sarth Calhoun's ...");
+        # the page's own name is the part before it.
+        title = html.unescape(re.search(r"<title>(.*?)</title>", s, re.S).group(1)).split(" — Sarth Calhoun")[0].strip()
         m = re.search(r'<meta name="description" content="([^"]*)"', s)
         desc = html.unescape(m.group(1)) if m else ""
         m = re.search(r'<link rel="canonical" href="([^"]+)"', s)

@@ -1,6 +1,6 @@
 ---
 title: Third Wall Studio
-description: Third Wall Studio, the animation studio Sarth Calhoun founded in May 2025. Animation with filmmakers and artists, mixing live action, animation and generative AI, made in Burlap.
+description: Third Wall Studio makes adult animation as drama, mixing live action, animation and generative AI. 2026 films include Watching Shadows and Pigeon Problems.
 url: https://www.sarth.net/conspiracies/third-wall-studio/
 published: 2026-09-23
 facet: dream

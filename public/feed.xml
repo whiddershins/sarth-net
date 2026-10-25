@@ -82,7 +82,7 @@
     <id>https://www.sarth.net/conspiracies/third-wall-studio/</id>
     <updated>2026-09-23T00:00:00Z</updated>
     <published>2026-09-23T00:00:00Z</published>
-    <summary>Third Wall Studio, the animation studio Sarth Calhoun founded in May 2025. Animation with filmmakers and artists, mixing live action, animation and generative AI, made in Burlap.</summary>
+    <summary>Third Wall Studio makes adult animation as drama, mixing live action, animation and generative AI. 2026 films include Watching Shadows and Pigeon Problems.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>
@@ -104,7 +104,7 @@
     <id>https://www.sarth.net/conspiracies/burlap/</id>
     <updated>2026-09-23T00:00:00Z</updated>
     <published>2026-09-23T00:00:00Z</published>
-    <summary>Burlap, the native Mac app Sarth Calhoun made at Third Wall Studio: an infinite canvas for visual creation and context management, connected to models from OpenAI, Google, Runway and ByteDance.</summary>
+    <summary>Burlap is a native Mac app: an infinite canvas for visual work, connected to models from OpenAI, Google, Runway and ByteDance. Made at Third Wall Studio.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>
@@ -115,7 +115,7 @@
     <id>https://www.sarth.net/about/</id>
     <updated>2026-09-23T00:00:00Z</updated>
     <published>2026-09-23T00:00:00Z</published>
-    <summary>Sarth Calhoun: founder of Third Wall Studio, creator of the Burlap app. Brooklyn. Data engineer, artist and musician working in AI. Key facts and frequently asked questions.</summary>
+    <summary>Sarth Calhoun founded Third Wall Studio, making adult animated films with filmmakers and artists. Background in data engineering and music with Lou Reed.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>
@@ -137,7 +137,7 @@
     <id>https://www.sarth.net/transmissions/you-might-not-need-pandas/</id>
     <updated>2026-09-22T00:00:00Z</updated>
     <published>2026-09-22T00:00:00Z</published>
-    <summary>Why most day to day Pandas work is better done in SQL, with a side by side average-sales-by-category example, and where Pandas still earns its place.</summary>
+    <summary>About 80% of day to day Pandas work is faster and less error-prone in plain SQL. A side by side sales-by-category example, and when Pandas still wins.</summary>
     <author>
       <name>Sarth Calhoun</name>
     </author>

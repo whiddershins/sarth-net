@@ -1,6 +1,6 @@
 ---
 title: Burlap
-description: Burlap, the native Mac app Sarth Calhoun made at Third Wall Studio: an infinite canvas for visual creation and context management, connected to models from OpenAI, Google, Runway and ByteDance.
+description: Burlap is a native Mac app: an infinite canvas for visual work, connected to models from OpenAI, Google, Runway and ByteDance. Made at Third Wall Studio.
 url: https://www.sarth.net/conspiracies/burlap/
 published: 2026-09-23
 facet: machine

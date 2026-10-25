@@ -1,6 +1,6 @@
 ---
 title: About
-description: Sarth Calhoun: founder of Third Wall Studio, creator of the Burlap app. Brooklyn. Data engineer, artist and musician working in AI. Key facts and frequently asked questions.
+description: Sarth Calhoun founded Third Wall Studio, making adult animated films with filmmakers and artists. Background in data engineering and music with Lou Reed.
 url: https://www.sarth.net/about/
 published: 2026-09-23
 author: Sarth Calhoun

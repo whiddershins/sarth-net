@@ -11,3 +11,6 @@
 
 /*.md
   Content-Type: text/markdown; charset=utf-8
+
+/search/
+  X-Robots-Tag: noindex, follow

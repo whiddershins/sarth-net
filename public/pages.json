@@ -21,7 +21,7 @@
    "url": "https://www.sarth.net/about/",
    "markdown": "https://www.sarth.net/about/index.md",
    "title": "About",
-   "description": "Sarth Calhoun: founder of Third Wall Studio, creator of the Burlap app. Brooklyn. Data engineer, artist and musician working in AI. Key facts and frequently asked questions.",
+   "description": "Sarth Calhoun founded Third Wall Studio, making adult animated films with filmmakers and artists. Background in data engineering and music with Lou Reed.",
    "facet": null,
    "published": "2026-09-23",
    "headings": [
@@ -53,7 +53,7 @@
    "url": "https://www.sarth.net/conspiracies/third-wall-studio/",
    "markdown": "https://www.sarth.net/conspiracies/third-wall-studio/index.md",
    "title": "Third Wall Studio",
-   "description": "Third Wall Studio, the animation studio Sarth Calhoun founded in May 2025. Animation with filmmakers and artists, mixing live action, animation and generative AI, made in Burlap.",
+   "description": "Third Wall Studio makes adult animation as drama, mixing live action, animation and generative AI. 2026 films include Watching Shadows and Pigeon Problems.",
    "facet": "dream",
    "published": "2026-09-23",
    "headings": [
@@ -68,7 +68,7 @@
    "url": "https://www.sarth.net/conspiracies/burlap/",
    "markdown": "https://www.sarth.net/conspiracies/burlap/index.md",
    "title": "Burlap",
-   "description": "Burlap, the native Mac app Sarth Calhoun made at Third Wall Studio: an infinite canvas for visual creation and context management, connected to models from OpenAI, Google, Runway and ByteDance.",
+   "description": "Burlap is a native Mac app: an infinite canvas for visual work, connected to models from OpenAI, Google, Runway and ByteDance. Made at Third Wall Studio.",
    "facet": "machine",
    "published": "2026-09-23",
    "headings": [
@@ -221,7 +221,7 @@
    "url": "https://www.sarth.net/transmissions/you-might-not-need-pandas/",
    "markdown": "https://www.sarth.net/transmissions/you-might-not-need-pandas/index.md",
    "title": "You might not need Pandas",
-   "description": "Why most day to day Pandas work is better done in SQL, with a side by side average-sales-by-category example, and where Pandas still earns its place.",
+   "description": "About 80% of day to day Pandas work is faster and less error-prone in plain SQL. A side by side sales-by-category example, and when Pandas still wins.",
    "facet": "message",
    "published": "2026-09-22",
    "headings": [
